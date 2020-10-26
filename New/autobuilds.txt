@@ -4,6 +4,25 @@ zip="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/New/plugin.prog
 
 
 
+
+name="What is a build?"               
+version="1.0"             
+url="https://www.dropbox.com/s/6jhm1ox8e7fj9t4/ofcskin.zip?dl=0"     
+minor="http://"          
+gui="http://"
+kodi="18.8"
+theme="http://"
+icon="https://github.com/bitsbb01/IPTV-M3US/raw/master/New/icon.png"
+fanart="https://github.com/bitsbb01/IPTV-M3US/raw/master/New/ofctvscreen1.JPG"
+preview="http://"
+adult="No"
+info="http://"
+description="A Build is a version of Kodi with the Skin, and all addons already built in. Sometimes its easy to make, and other times really hard. Theres just so many addons that the public can use, but most of the time, they are so hard to find. Or like The Crew, the repo dies and they dont update for sometime.. last time round it was close to a yr, this time its been broken for about 3 months.. So Far.. Anyway builds are ready for use, and able to be installed faily easily, esp with our installer, you just pick which one you want, then it will download it for you and put it into the correct folders and do all the work for you.. [COLOR red][B]Created by Bitsbb01[/B][/COLOR]"
+
+
+
+
+
 name="OFC Skin"               
 version="1.0"             
 url="https://www.dropbox.com/s/6jhm1ox8e7fj9t4/ofcskin.zip?dl=0"     
