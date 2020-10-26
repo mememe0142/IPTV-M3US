@@ -24,7 +24,7 @@ description="A Build is a version of Kodi with the Skin, and all addons already 
 
 
 name="OFC Skin"               
-version="1.0"             
+version="1.2"             
 url="https://www.dropbox.com/s/6jhm1ox8e7fj9t4/ofcskin.zip?dl=0"     
 minor="http://"          
 gui="http://"
