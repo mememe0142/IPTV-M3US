@@ -12,19 +12,6 @@
       "icon": "",
       "adult": false,
       "description": "The official Spotify add-on."
-    },
-    {
-      "name": "OFC Wizard w/o Repository",
-      "type": "addon",
-      "section": false,
-      "plugin": "plugin.program.ofcwiz",
-      "url": "https://github.com/bitsbb01/IPTV-M3US/raw/master/New/plugin.program.ofcwiz.zip",
-      "repository": "",
-      "repositoryxml": "",
-      "repositoryurl": "",
-      "icon": "",
-      "adult": false,
-      "description": "The official Spotify add-on."
     }
   ]
 }
