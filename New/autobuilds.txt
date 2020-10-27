@@ -1,5 +1,5 @@
-id="plugin.program.sdwiz"
-version="73"
+id="plugin.program.ofcwiz"
+version="1.03"
 zip="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/New/plugin.program.ofcwiz.zip"
 
 
