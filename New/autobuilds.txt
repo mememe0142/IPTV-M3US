@@ -7,9 +7,7 @@ zip="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/New/plugin.prog
 
 name="What is a build"               
 version="1.0"             
-url="https://www.dropbox.com/s/6jhm1ox8e7fj9t4/ofcskin.zip?dl=1" 
-url="https://www.dropbox.com/s/6jhm1ox8e7fj9t4/ofcskin.zip?dl=1" 
-url="https://www.dropbox.com/s/6jhm1ox8e7fj9t4/ofcskin.zip?dl=1" 
+url="https://github.com/bitsbb01/IPTV-M3US/raw/master/New/whatisabuild.txt" 
 minor="http://"          
 gui="http://"
 kodi="18.8"
