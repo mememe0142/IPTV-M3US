@@ -1,0 +1,28 @@
+{
+    "presets": [
+        {
+            "name": "Enable All Artwork",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/presets/artwork_preset.xml",
+            "icon": "",
+            "fanart": "",
+            "description": "This preset adds all of the available art types, to be used with library scrapers which collect their own artwork. Only has any effect on Kodi 18+."
+        },
+        {
+            "name": "Cache & Network Presets",
+            "section": true,
+            "url": "https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/presets/cache_presets.json",
+            "icon": "",
+            "fanart": "",
+            "description": "All presets related to caching, network, and buffering."
+        },
+        {
+            "name": "test",
+            "section": true,
+            "url": "https://github.com/bitsbb01/IPTV-M3US/raw/master/New/plugin.program.openwizard-master.zip",
+            "icon": "",
+            "fanart": "",
+            "description": "test"
+        }
+    ]
+}
