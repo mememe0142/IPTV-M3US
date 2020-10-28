@@ -10,7 +10,7 @@
 		<platform>all</platform>
 		<summary lang="en">addon for OFC Kodi Build</summary>
 		<description lang="en">addon for OFC Kodi Build</description>
-        <source>https://github.com/bitsbb01/IPTV-M3US/raw/master/New/addons/</source>
+        <source>https://github.com/bitsbb01/IPTV-M3US/tree/master/New/addons/zips/</source>
 	</extension>
 </addon>
 
