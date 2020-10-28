@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="Bitsbb01 Repo" name="Bitsbb01 Repo" version="1.0.0" provider-name="Bitsbb01">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Bitsbb01 Repo">
+            <info compressed="false">https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/New/addons/zips/_repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/New/addons/zips/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/New/addons/zips/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Required for OFC Build</summary>
+            <description>Required for OFC Build</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+</addons>
