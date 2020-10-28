@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="context.venom" name="context.venom" version="1.0.00" provider-name="bitsbb01">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">addon for OFC Kodi Build</summary>
+		<description lang="en">addon for OFC Kodi Build</description>
+        <source>https://github.com/bitsbb01/IPTV-M3US/tree/master/New/addons/zips/</source>
+	</extension>
+</addon>
+
+</addons>
