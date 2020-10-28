@@ -1,0 +1,21 @@
+id="plugin.program.ofcwiz"
+version="1.03"
+zip="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/New/plugin.program.ofcwiz.zip"
+
+
+
+
+name="Duffman Reloaded"               
+version="5.0"             
+url="http://sdwteam.com/mb/duff/reloaded18.zip"     
+minor="http://"          
+gui="http://"
+kodi="18.8"
+theme="http://"
+icon="http://sdwteam.com/mb/duffimgs/d18icon.png"
+fanart="http://sdwteam.com/mb/duffimgs/d18fan.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Duffman Reloaded for Kodi 18, by [COLOR red][B]Duffman[/B][/COLOR]"
+
