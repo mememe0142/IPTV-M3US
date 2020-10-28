@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="context.venom" name="context.venom" version="1.0.00" provider-name="[COLOR limegreen]Bitsbb01[/COLOR]">
+<addon id="context.venom" name="context.venom" version="1.0.00" provider-name="bitsbb01">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
