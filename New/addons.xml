@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="context.venom"
-	name="for OFC Build"
-	version="1.0.1"
-	provider-name="bitsbb01">
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">addons needed for OFC build.</summary>
-    <description lang="en">addons needed for OFC build.</description>
-    <platform>all</platform>
-	<repository>Bitsbb01 Repository</repository>
-  </extension>
+<addon id="plugin.program.ofcwiz" name="OFC Wizard" version="1.3" provider-name="Bitsbb01">
+<requires>
+<import addon="xbmc.python" version="2.19.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>executable</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary lang="en">The OFC Wizard</summary>
+<description lang="en">Get access to our Builds, add-ons and more, using the OFC Wizard</description>
+<platform>all</platform>
+<news/>
+<genre>All</genre>
+<video_guide/>
+<video_preview/>
+</extension>
 </addon>
+
+
 
 </addons>
