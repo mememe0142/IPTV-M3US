@@ -1,6 +1,6 @@
 id="plugin.program.ofcwiz"
 version="1.03"
-zip="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/New/plugin.program.ofcwiz.zip"
+zip="https://github.com/bitsbb01/Bitsbb01-Repo/raw/main/New/plugin.program.ofcwiz.zip"
 
 
 
