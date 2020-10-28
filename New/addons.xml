@@ -8,8 +8,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">A Selection of FPL Tips and Reviews channels, Follow us on twitter @BooLigaFPL</summary>
-    <description lang="en">A Collection of Fantasy Premier League (FPL) Youtube channels and playlists selected by FPL community BooLiga</description>
+    <summary lang="en">addons needed for OFC build.</summary>
+    <description lang="en">addons needed for OFC build.</description>
     <platform>all</platform>
 	<repository>Bitsbb01 Repository</repository>
   </extension>
