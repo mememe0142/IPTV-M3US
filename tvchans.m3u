@@ -10913,12 +10913,18 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8
 #EXTINF:-1 radio="false" group-title="USA 2",ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="USA 3",24x7 Action Movies
+http://snocmoi.livenettv.sx:29465/red/englishactionmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDEwOjU2OjU1IFBNJmhhc2hfdmFsdWU9UEdzbE1UenlzdDk5K3EyME9tUHBXQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 radio="false" group-title="USA 3",24x7 Action Movies
+http://snocmoi.livenettv.sx:29465/red/englishactionmovies/chunks.m3u8?nimblesessionid=2113105&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDEwOjU2OjU1IFBNJmhhc2hfdmFsdWU9UEdzbE1UenlzdDk5K3EyME9tUHBXQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 radio="false" group-title="USA 3",24x7 Action Movies
+http://snocmoi.livenettv.sx:29465/red/englishactionmovies/chunks.m3u8?nimblesessionid=2113105&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDEwOjU2OjU1IFBNJmhhc2hfdmFsdWU9UEdzbE1UenlzdDk5K3EyME9tUHBXQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 radio="false" tvg-id="PLANETE+ A&E" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="USA 3",A&E
+http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDk6Mzc6MTcgUE0maGFzaF92YWx1ZT13SHdHUmQvREZILzYzbkdJdDREaVlRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 radio="false" group-title="USA 3",ABC
+http://stream.tvtap.live:8081/live/us-abc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDk6NDE6MTkgUE0maGFzaF92YWx1ZT11RnJZdnBoR0dTWVlHWGtudEJYTFBBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 radio="false" group-title="USA 3",betty boop
 http://edge-1282-ch-gv.filmon.com/live/4622.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe911e61ce3cdb407efcb3c1c1ad48f9c3929bf4eed5df98e4ac6a68ae997df954f659db614f69923bec8130a58e3c71acf348c69957ad04dcab6f7d4c023c9445d17c21b0455213486201d29e515ee11bd2a3587e2aa70252db87c3ed1b7cd1a919668092381410bf3bd1ac4376e9d7373aaa1e6144ad8221b58ea6e4c6e1cc690cb32d4dae39708d6749a04136cb59bd
-#EXTINF:-1 radio="false" group-title="USA 3",filmon kidz zone
-http://edge-1282-ch-gv.filmon.com/live/3794.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe26383e88ecb4d37718795bd27de55d24cecfeffb1c2c0776227b72feb085540491a3c47020e94b5222022cb492cb171c48dbb7d17b55a3af3f55d23ef0e2e4f63c6b3aa147692e59669e10f07e18e2724104e6fbb411df952ffa423b576a986fb7dca134c9c362fc5ec8ee5c2fa2213feaf48cc05756ba5be1848197b1f0d95f1edc16d0e14179f054e43fa6afb77b6e
-#EXTINF:-1 radio="false" group-title="USA 3",filmon kix
-http://edge-1192-ch-gv.filmon.com/live/316.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe63b779e57e0f628e903382cb0a4c613648e616c968a8b24b59970bd37201392e0ccec66e546c4411a8f1c4a9c884078eda7f6c0d56857155007d1910014bd631ff3be1e5e255e41ce12866e8193a3cb0ab829189f005ee18b52297b0d96a157c0b2bea368592f6a7a28bd7573b24087d241e8e6bf53671a44399fb16a442dc0925cd513a29c24a2902fafb2b2c473e0c
 #EXTINF:-1 radio="false" group-title="USA 3",filmon award cinema
 http://edge-1282-ch-gv.filmon.com/live/3086.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee5f4d2ef16e889dafab2fd2091895dd3e7475cd60fdf15cce50a5e5d43ebb496b4794e44964101784db603b5b506e9a59a4fd720bf44d7382869d638aad21f5c014c7516712e57464f6a5e5b0b4f9a198fa86aca6e149f007439c29e64e2647fa9da59315c70dcd97853d974fffaf1c4a782ac8761e9f43546d49a59a87913a2663c1902f2285c1fd7d37f4e0484be99
 #EXTINF:-1 radio="false" group-title="USA 3",filmon b-movie horror
@@ -10931,16 +10937,14 @@ http://edge-1282-ch-gv.filmon.com/live/2699.low.stream/playlist.m3u8?id=0ad5aac3
 http://edge-1282-ch-gv.filmon.com/live/4661.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe6ce97d9743d2c38dbe6b2432b9850ae5555c636a8e44317b95254a6b02fa77b2f6be55540ce4dd07e17d5714a86461e2c24dcf83f3ae2050ef7f342fae0d7d9a0f166ab929a58556cac5133d2d9ff792d33e59a142351ddad17ac72623742214e6d10689c6dae503ce4c44ce14c74999bf230d3ffd55ef21883f8e51279d6307162390fa83460c431a2f5a94f743c1e1
 #EXTINF:-1 radio="false" group-title="USA 3",filmon creepy crawly
 http://edge-1282-ch-gv.filmon.com/live/3190.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef8a52b35bd810652145f12522b05494158829d349f03169d2dd6f100dcd41c68edb0956d4823007634913b617a1e59a8def52040afee3150e2c4b401fa90c1d0b4aade463a1d4634b2c16131b81563ceec003a95136c639af710a103310262a45a7d46cebf56b9dd7c5a11488622ecba8717777d925feb8360ce66b3aa2b9dab4f5ff2f8029fa1f53d62f8cd4f61d3f3
+#EXTINF:-1 radio="false" group-title="USA 3",filmon kidz zone
+http://edge-1282-ch-gv.filmon.com/live/3794.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe26383e88ecb4d37718795bd27de55d24cecfeffb1c2c0776227b72feb085540491a3c47020e94b5222022cb492cb171c48dbb7d17b55a3af3f55d23ef0e2e4f63c6b3aa147692e59669e10f07e18e2724104e6fbb411df952ffa423b576a986fb7dca134c9c362fc5ec8ee5c2fa2213feaf48cc05756ba5be1848197b1f0d95f1edc16d0e14179f054e43fa6afb77b6e
+#EXTINF:-1 radio="false" group-title="USA 3",filmon kix
+http://edge-1192-ch-gv.filmon.com/live/316.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe63b779e57e0f628e903382cb0a4c613648e616c968a8b24b59970bd37201392e0ccec66e546c4411a8f1c4a9c884078eda7f6c0d56857155007d1910014bd631ff3be1e5e255e41ce12866e8193a3cb0ab829189f005ee18b52297b0d96a157c0b2bea368592f6a7a28bd7573b24087d241e8e6bf53671a44399fb16a442dc0925cd513a29c24a2902fafb2b2c473e0c
 #EXTINF:-1 radio="false" group-title="USA 3",filmon zombieunderworld
 http://edge-1282-ch-gv.filmon.com/live/3071.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed4aeae00439c5582be2a8f27f6293492e301035bb7967ed8bd6968187d49ac292343590bcfe68385f3249474eff9d5630fe0249b917f2bf37da5b8df54ab773285a47401b1d4de3b73c97a808ee35c46e98b70144dad48afbc3c31847915f0ae7b5ec9427ba34a5ef82f252a2c312dfc5d639c7b38ea3ebf093cef18da88f18eb63f1c0845582e8fee7231b636ffc20b
-#EXTINF:-1 radio="false" tvg-id="PLANETE+ A&E" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="USA 3",A&E
-http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDk6Mzc6MTcgUE0maGFzaF92YWx1ZT13SHdHUmQvREZILzYzbkdJdDREaVlRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 radio="false" group-title="USA 3",ABC
-http://stream.tvtap.live:8081/live/us-abc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDk6NDE6MTkgUE0maGFzaF92YWx1ZT11RnJZdnBoR0dTWVlHWGtudEJYTFBBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 radio="false" group-title="USA 3",Travel
 http://stream.tvtap.live:8081/live/usa-travel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDk6NDM6MjEgUE0maGFzaF92YWx1ZT05YS9hWVVBVHJCM0ZwUi9UNEhHQzB3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 radio="false" group-title="USA 3",24x7 Action Movies
-http://snocmoi.livenettv.sx:29465/red/englishactionmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDEwOjU2OjU1IFBNJmhhc2hfdmFsdWU9UEdzbE1UenlzdDk5K3EyME9tUHBXQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cjqfbpl6lyyn.png" group-title="USA Radio",#1980 HiFi Radio
 https://samcloud.spacial.com/api/listen?sid=111415&rid=194939&f=heaacv2,any&br=64000,any&m=pls
 #EXTINF:-1 radio="true" tvg-logo="https://i3.radionomy.com/radios/300/a08b31ff-a6d8-498f-bbee-0b64a7096fcb.png" group-title="USA Radio",#80s HITS
