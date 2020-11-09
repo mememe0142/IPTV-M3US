@@ -1,9 +1,4 @@
-﻿#EXTM3U url-tvg="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
-#EXTM3U url-tvg="https://i.mjh.nz/Stirr/epg.xml.gz"
-
-
-
+﻿#EXTM3U
 #EXTINF:-1 radio="false" tvg-id="dummy000" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="All Spark",Channel 0 - Falling Skys
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="dummy001" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="All Spark",Channel 1 - Movies
@@ -12588,7 +12583,7 @@ http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AmericanHorrors.png" group-title="Movies Plus",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-id="stirr-black-cinema-09-30-2019" tvg-logo="https://img.iptvmate.net/7f71b38c41ca46bf41232a2c74611e92.jpg" tvg-country="US" group-title="Movies Plus",Black Cinema
+#EXTINF:-1 radio="false" tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="https://img.iptvmate.net/7f71b38c41ca46bf41232a2c74611e92.jpg" tvg-country="US" group-title="Movies Plus",Black Cinema
 https://ch.iptvmate.net/21bf3c3a9cab76f6af2796d543263433.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCM.png" group-title="Movies Plus",CCM
 https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
@@ -12700,19 +12695,19 @@ https://ch.iptvmate.net/d92bd1314a4b38f3dea450da9df395d5.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/12/07/Untitled-1_17.jpg?itok=FNreB2PE" group-title="Movies Plus",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="Paramount Network USA - Eastern Feed" group-title="Movies Plus",Paramount
+#EXTINF:-1 radio="false" tvg-id="5cb0cae7a461406ffe3f5213" group-title="Movies Plus",Paramount
 http://92.246.85.106:8000/play/a054/index.m3u8
-#EXTINF:-1 radio="false" tvg-id="Paramount Network USA - Eastern Feed" tvg-logo="https://vignette.wikia.nocookie.net/fictionaltvstations/images/a/a7/Paramount_Network_Logo.png/revision/latest?cb=20140603201132" group-title="Movies Plus",PARAMOUNT
+#EXTINF:-1 radio="false" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://vignette.wikia.nocookie.net/fictionaltvstations/images/a/a7/Paramount_Network_Logo.png/revision/latest?cb=20140603201132" group-title="Movies Plus",PARAMOUNT
 http://paramount.live.flumotion.com/live/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0fe6c835d4422c321f8532b74137e617.jpg" tvg-country="US" group-title="Movies Plus",Pluto TV Drama
+#EXTINF:-1 radio="false" tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://img.iptvmate.net/0fe6c835d4422c321f8532b74137e617.jpg" tvg-country="US" group-title="Movies Plus",Pluto TV Drama
 https://ch.iptvmate.net/09aa8a4ecb79ed1e233941e3503262cf.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1ba7869a1f0de8751056950adf2f002e.jpg" tvg-country="US" group-title="Movies Plus",Pluto TV Movies 1
 https://ch.iptvmate.net/4a0156f9955da1b8b4c38ad2a33e3538.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1ba7869a1f0de8751056950adf2f002e.jpg" tvg-country="US" group-title="Movies Plus",Pluto TV Movies 2
 https://ch.iptvmate.net/33048726eb68635a483b2f88b9dbb9af.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1fcdc967e701821be144a16762c05341.jpg" tvg-country="US" group-title="Movies Plus",Pluto TV Romance
+#EXTINF:-1 radio="false" tvg-id="5a66795ef91fef2c7031c599" tvg-logo="https://img.iptvmate.net/1fcdc967e701821be144a16762c05341.jpg" tvg-country="US" group-title="Movies Plus",Pluto TV Romance
 https://ch.iptvmate.net/4ca8a2c1f70c7e88cdf011cca7e33603.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-02-13-2020-02-13-2020" group-title="Movies Plus",POP
+#EXTINF:-1 radio="false" tvg-id="5d14fd1a252d35decbc4080c" group-title="Movies Plus",POP
 http://92.246.85.106:8000/play/a04o/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="POP Max - UK" group-title="Movies Plus",POP Max
 http://92.246.85.106:8000/play/a04p/index.m3u8
@@ -12758,7 +12753,7 @@ https://ch.iptvmate.net/b48e8f0c55f98ccdd8edd043273c4c2f.m3u8
 https://tfd-distro.amagi.tv/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" group-title="Movies Plus",The Preview Channel
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="ThrillerMAX [East]" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png" group-title="Movies Plus",Thrill
+#EXTINF:-1 radio="false" tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png" group-title="Movies Plus",Thrill
 https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" group-title="Movies Plus",TV Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -12988,17 +12983,17 @@ https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master4.m3u8
 https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/b2bc9f3a-4e07-4879-8cbd-069986706a88/0.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-02-04-2020-181017332-02-04-2020" tvg-logo="https://image.roku.com/developer_channels/prod/44e5aee167dc4b57d7c8a83b97c240a4b46ef1358781e42508f366f6aa122689.png" group-title="PLEX USA",Chopper Town
 https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/67d41d7e-f2c4-4005-abab-22174f1f8b43/0.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://freepngimg.com/thumb/chanel/61161-no.-designer-fashion-chanel-perfume-download-hq-png.png" group-title="PLEX USA",Design
+#EXTINF:-1 radio="false" tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://freepngimg.com/thumb/chanel/61161-no.-designer-fashion-chanel-perfume-download-hq-png.png" group-title="PLEX USA",Design
 https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-03-20-2019-03-20-2019" tvg-logo="https://pbs.twimg.com/profile_images/1147185993298194433/u7VOwPdB_400x400.png" group-title="PLEX USA",ESRevolution
 https://69603b0bf51d4c7fa9335a84ee752b10.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ESRevolution/d98e1a54-0b10-4779-85dc-d910b00f5f43/0.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://dcassetcdn.com/design_img/3363554/618641/618641_18468851_3363554_8645aef3_image.jpg" group-title="PLEX USA",Exhibition Awesome
 https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
-#EXTINF:-1 radio="false" tvg-id="fail-army-wurl-external-07-28-2018" tvg-logo="https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png" group-title="PLEX USA",Fail Army
+#EXTINF:-1 radio="false" tvg-id="554158e864526b29254ff105" tvg-logo="https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png" group-title="PLEX USA",Fail Army
 https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.pinimg.com/736x/42/e5/91/42e5914cbac92727463f50d8a2093279.jpg" group-title="PLEX USA",Film Stream
 https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Filmstream/29d2a5e9-0e59-4a8b-b906-0f82d8fa81b8/5.m3u8
-#EXTINF:-1 radio="false" tvg-id="Game Show Network - East" tvg-logo="https://www.gsntv.com/themes/gsntv-react/assets/images/shared/Game_Show_Network_Logo_2018_RGB.png" group-title="PLEX USA",Game Show
+#EXTINF:-1 radio="false" tvg-id="5e54187aae660e00093561d6" tvg-logo="https://www.gsntv.com/themes/gsntv-react/assets/images/shared/Game_Show_Network_Logo_2018_RGB.png" group-title="PLEX USA",Game Show
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-09-12-2019-09-12-2019" tvg-logo="https://www.glewed.tv/wp-content/uploads/2019/11/GlewedTVBlogHero-480x270.jpg" group-title="PLEX USA",Glewed TV
 https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/d1a011d0-5758-439c-9939-ef96c8e13323/3.m3u8
@@ -13022,7 +13017,7 @@ https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/
 https://810196ba95e649839da0b32235393623.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MadeInHollywood/72b302d2-2303-4e58-bf44-c9e7ae33495e/3.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="PLEX USA",Monster Kids
 https://d8f9c7ca60f84037aad1ff1030ecfa2f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MonsterKids/c3ab9586-35f3-4813-8021-e9262efd4616/5.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/b712935c55532b0248adc571e0b284180e7c7738e1604abadd74dd22733d0aec.png" group-title="PLEX USA",Nosey
+#EXTINF:-1 radio="false" tvg-id="5aec96ec5126c2157123c657" tvg-logo="https://image.roku.com/developer_channels/prod/b712935c55532b0248adc571e0b284180e7c7738e1604abadd74dd22733d0aec.png" group-title="PLEX USA",Nosey
 https://9c27771bc8af464c8588ae326fe26edd.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Nosey/3e715e05-ef51-4db7-8499-59628359c65b/5.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.pinimg.com/originals/e2/e4/87/e2e4875ef561b4db120176bd438b1cca.png" group-title="PLEX USA",Pet Collection
 https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
@@ -13110,7 +13105,7 @@ https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 #EXTINF:-1 radio="false" tvg-id="Starz HD - Pacific" tvg-name="STARZ (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" group-title="ROKU USA",STARZ (West)
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-06-2019-184209249-11-06-2019" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="ROKU USA",The Asylum
+#EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="ROKU USA",The Asylum
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="Sports & Recreation",Adjarasport 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
@@ -13500,20 +13495,20 @@ https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ABC.png" group-title="US TV Go",ABC
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ABC.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
-https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8
 #EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://img.iptvmate.net/fe884cef93df161c473e7bc4654e06a5.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
 https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8?fluxustv.m3u8
+#EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ABC.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
+https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8
 #EXTINF:-1 radio="false" tvg-id="AMC - Eastern Feed" tvg-logo="https://img.iptvmate.net/a1b49c715695f1e573efed27d4c773fb.png" tvg-country="US" group-title="US TV Go",American Classic Network
 https://ch.iptvmate.net/8eb6d591d310b58b313761f94b5d5119.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
-https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
-https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
 https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
 https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
+https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
+https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.pinimg.com/236x/d9/9b/c8/d99bc86209754fed4d8f196683044338.jpg" tvg-country="US" group-title="US TV Go",Beto TV
 https://ch.iptvmate.net/1c23ae7a6dd56c29b350f8ca9677d80d.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://logo-load.com/uploads/posts/2016-04/1459524907_boomerang-logo.png" group-title="US TV Go",Boomerang
@@ -13532,9 +13527,9 @@ https://dust.sinclair.wurl.com/manifest/3000.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokudust/CDN/1920x1080_5055600/chunklist.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/electricnow.png" group-title="US TV Go",Electric Now
 https://bozztv.com/veset1/1080p/playlist_1080p.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-07-01-2020-07-01-2020" group-title="US TV Go",ET
+#EXTINF:-1 radio="false" tvg-id="5331d5fb753499095a00045a" group-title="US TV Go",ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
-#EXTINF:-1 radio="false" tvg-id="fail-army-wurl-external-07-28-2018" tvg-logo="https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png" group-title="US TV Go",FailArmy
+#EXTINF:-1 radio="false" tvg-id="554158e864526b29254ff105" tvg-logo="https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png" group-title="US TV Go",FailArmy
 https://failarmy-international.ono.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/cfa6efc260c33997a7a44e4d5c9fec43eb8ea113502544a68bcee35a20e4ec3d.png" group-title="US TV Go",Filmrise Action
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/768x432_1200000/index.m3u8
@@ -13560,9 +13555,9 @@ https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-To
 https://ch.iptvmate.net/701984f5ad4d6d69d1a0d9b0b6a1f028.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-logo="https://blog.shoutfactory.com/blog/wp-content/uploads/2020/06/Shout_crop.jpg" group-title="US TV Go",Shout Factory
 https://shoutfactorytv-stirr.amagi.tv/playlist1080ps.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-06-2019-184209249-11-06-2019" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="US TV Go",The Asylum
+#EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="US TV Go",The Asylum
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-06-2019-184209249-11-06-2019" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="US TV Go",The Asylum
+#EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="US TV Go",The Asylum
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-id="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/W/weatherchannel.png" group-title="US TV Go",The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -13654,6 +13649,8 @@ http://www.deadlyblogger.com/NewRelease/corn3.mp4
 http://www.deadlyblogger.com/NewRelease/corn5.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://i.ytimg.com/vi/Q8gRMg1y_p0/movieposter.jpg" group-title="VOD",Children of the Corn: The Gathering (1996)
 http://www.deadlyblogger.com/NewRelease/corn4.mp4
+#EXTINF:-1 radio="false" tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWY4YmQxZjctZTVhYi00NTllLThmNmMtMTdmNDVhYTEwMWFmXkEyXkFqcGdeQXVyNjYzMTc3MDg@._V1_UY1200_CR111,0,630,1200_AL_.jpg" group-title="VOD",Christmas Coupon
+https://storage.googleapis.com/sapient-visitor-291704/O7_I72ALOX/22m_1604794848331717.mp4
 #EXTINF:-1 radio="false" tvg-logo="http://www.shanemarais.net/wp-content/uploads/2013/07/008cinderella.jpg" group-title="VOD",Cinderella (1950)
 http://www.deadlyblogger.com/NewRelease/cinder1.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/ClassAct1992MoviePoster.jpg/220px-ClassAct1992MoviePoster.jpg" group-title="VOD",Class Act (1992)
@@ -13726,6 +13723,8 @@ http://www.deadlyblogger.com/NewRelease/friday1980.mp4
 http://www.deadlyblogger.com/NewRelease/snowman1969.mp4
 #EXTINF:-1 radio="false" tvg-logo="http://i.imgur.com/C0jUUYo.jpg" group-title="VOD",Fury of the Wolfman (1972)
 https://archive.org/download/1972FuryOfTheWolfmanWPaulNaschy/[1972]Fury%20Of%20The%20Wolfman%20w%20Paul%20Naschy.mp4
+#EXTINF:-1 radio="false" tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY5MWUzNDUtNDgxZi00OTkzLWIyMzctOTYxNGNiYTFmMDlmXkEyXkFqcGdeQXVyMTAxNDQ2MTAw._V1_.jpg" group-title="VOD",Gamemaster
+https://storage.googleapis.com/sapient-visitor-291704/6ENOK4OQN66X/22m_1604934089331801.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Godzilla_vs_Gigan_1972.jpg/220px-Godzilla_vs_Gigan_1972.jpg" group-title="VOD",Godzilla vs. Gigan (1972)
 https://archive.org/download/GodzillaVsGigan/Godzilla%20Vs%20Gigan.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://professormortis.files.wordpress.com/2013/02/gvm.jpg" group-title="VOD",Godzilla vs. Megalon (1973)
@@ -13778,6 +13777,8 @@ https://archive.org/download/KeepMyGraveOpen_1976/Keep%20My%20Grave%20Open.mp4
 https://archive.org/download/Lady_Frankenstein/Lady_Frankenstein_512kb.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://i.jeded.com/i/let-it-be-the-beatles.30292.jpg" group-title="VOD",Let It Be (1970)
 https://archive.org/download/Let_It_Be_1970_film/The%20Beatles%20-%20Let%20It%20Be%20(Deluxe%2035mm%20Widescreen%20Stereo%20Edition)2.mp4
+#EXTINF:-1 radio="false" tvg-id="VOD" tvg-logo="https://cdn.denachtvlinders.nl/wp-content/uploads/2020/07/let-it-snow.jpg" group-title="VOD",Let it snow 2020
+https://storage.googleapis.com/crucial-garden-291704/9SAV8LHYP6U7/23m_1604514371329209.mp4
 #EXTINF:-1 radio="false" tvg-logo="http://iv1.lisimg.com/image/3372352/580full-life-of-brian-poster.jpg" group-title="VOD",Life of Brian (1979)
 http://www.deadlyblogger.com/NewRelease/lifebrian.mp4
 #EXTINF:-1 radio="false" tvg-logo="http://fr.web.img5.acsta.net/pictures/14/05/26/16/57/120603.jpg" group-title="VOD",Men in Black (1997)
@@ -14056,16 +14057,3 @@ http://live.redtraffic.xyz/bigtits.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/f18d6d9266dfcd4d7a57dc7613d7e61e.jpg" tvg-country="US" group-title="xxx",Vivid TV Europe
 https://ch.iptvmate.net/aacb66f7adeffe7908f1b1141a9015ba.m3u8
-
-
-#EXTINF:-1 radio="false" tvg-id="VOD" tvg-logo="https://cdn.denachtvlinders.nl/wp-content/uploads/2020/07/let-it-snow.jpg" group-title="VOD",Let it snow 2020
-https://storage.googleapis.com/crucial-garden-291704/9SAV8LHYP6U7/23m_1604514371329209.mp4
-
-
-#EXTINF:-1 radio="false" tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY5MWUzNDUtNDgxZi00OTkzLWIyMzctOTYxNGNiYTFmMDlmXkEyXkFqcGdeQXVyMTAxNDQ2MTAw._V1_.jpg" group-title="VOD",Gamemaster
-https://storage.googleapis.com/sapient-visitor-291704/6ENOK4OQN66X/22m_1604934089331801.mp4
-
-
-
-#EXTINF:-1 radio="false" tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWY4YmQxZjctZTVhYi00NTllLThmNmMtMTdmNDVhYTEwMWFmXkEyXkFqcGdeQXVyNjYzMTc3MDg@._V1_UY1200_CR111,0,630,1200_AL_.jpg" group-title="VOD",Christmas Coupon
-https://storage.googleapis.com/sapient-visitor-291704/O7_I72ALOX/22m_1604794848331717.mp4
