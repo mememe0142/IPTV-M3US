@@ -13561,6 +13561,8 @@ https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-id="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/W/weatherchannel.png" group-title="US TV Go",The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 radio="false" group-title="US TV Go",test
+https://stream-cdn.vaughnsoft.net/play/live_craptastic_movies.flv?s=hRwyeA0-bBqhUK8omNXizg&e=1604940293
 #EXTINF:-1 radio="false" tvg-logo="https://i.jeded.com/i/101-dalmatians-one-hundred-and-one-dalmatians.25714.jpg" group-title="VOD",101 Dalmatians (1961)
 http://www.deadlyblogger.com/NewRelease/dal1.mp4
 #EXTINF:-1 radio="false" tvg-logo="http://www.dvdplanetstore.pk/wp-content/uploads/2014/01/3-Ninjas.jpg" group-title="VOD",3 Ninjas (1992)
