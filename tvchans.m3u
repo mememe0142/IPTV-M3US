@@ -733,7 +733,7 @@ https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Pacific Feed" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-#EXTINF:-1 radio="false" group-title="ROKU USA",New Movie Releases 24/7
+#EXTINF:-1 radio="false" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU USA",New Movie Releases 24/7
 https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="ROKU USA",Showtime (East)
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
