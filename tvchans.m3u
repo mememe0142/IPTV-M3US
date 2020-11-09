@@ -1127,65 +1127,61 @@ https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 https://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-04-23-2020-04-23-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-04-23-2020-04-23-2020.png" tvg-chno="355" group-title="Stirr",World Poker Tour
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",&Prive
+#EXTINF:-1 radio="false" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/250eba4fa772bc74.jpg" group-title="US TV Go",&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ABC.png" group-title="US TV Go",ABC
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ABC.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
-https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8
 #EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://img.iptvmate.net/fe884cef93df161c473e7bc4654e06a5.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
 https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8?fluxustv.m3u8
+#EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ABC.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
+https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8
 #EXTINF:-1 radio="false" tvg-id="AMC - Eastern Feed" tvg-logo="https://img.iptvmate.net/a1b49c715695f1e573efed27d4c773fb.png" tvg-country="US" group-title="US TV Go",American Classic Network
 https://ch.iptvmate.net/8eb6d591d310b58b313761f94b5d5119.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
-https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
-https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
 https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
 https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
-#EXTINF:-1 radio="false" tvg-id="BET - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BET.png" group-title="US TV Go",Bet
-http://hls.123tv.live/ch/oSe5IB4WgV0LXvsKAECZbA/1604894868/bet.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="US TV Go",Beto TV
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
+https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
+https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.pinimg.com/236x/d9/9b/c8/d99bc86209754fed4d8f196683044338.jpg" tvg-country="US" group-title="US TV Go",Beto TV
 https://ch.iptvmate.net/1c23ae7a6dd56c29b350f8ca9677d80d.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/781ced363e0081d9e0c22d0d590e7433.png" tvg-country="US" group-title="US TV Go",Bible Explorations
-https://ch.iptvmate.net/3cfbe263e4ad489d2b14eb9f4b14501f.m3u8
-#EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" group-title="US TV Go",Chive TV
+#EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-logo="https://channels.roku.com/images/4a8ec37c110c4c7b93f3cdc3bac84dec-hd.jpg" group-title="US TV Go",Chive TV
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",Cine Life
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="US TV Go",Cine Life
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/84e709c5f458816459d53d890b48ea7d.png" tvg-country="US" group-title="US TV Go",Dove Channel
 https://ch.iptvmate.net/cb75fddf92d95dd1948fd0f980daecee.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",Dubia 1
+#EXTINF:-1 radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="US TV Go",Dubia 1
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?DVR
-#EXTINF:-1 radio="false" group-title="US TV Go",Dust 1
+#EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/5f0fae7b521a179e78244a3eebf8822a6bebf9147007ac8cf42e385c4cc45d3e.png" group-title="US TV Go",Dust 1
 https://dust.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",Dust 2
+#EXTINF:-1 radio="false" tvg-logo="https://w7.pngwing.com/pngs/456/495/png-transparent-counter-strike-global-offensive-dust-ii-dust2-counter-strike-source-dust-ii-video-game-gabe-newell-valve-corporation-thumbnail.png" group-title="US TV Go",Dust 2
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokudust/CDN/1920x1080_5055600/chunklist.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",ET
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/electricnow.png" group-title="US TV Go",Electric Now
+https://bozztv.com/veset1/1080p/playlist_1080p.m3u8
+#EXTINF:-1 radio="false" tvg-id="KETV" group-title="US TV Go",ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png" group-title="US TV Go",FailArmy
 https://failarmy-international.ono.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="US TV Go",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",HBO Signature
+#EXTINF:-1 radio="false" tvg-id="HBO Signature [East]" tvg-logo="https://img1.pnghut.com/13/15/20/ngmv6rSaXY/television-hbo-signature-channel-logo.jpg" group-title="US TV Go",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/1.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://images.squarespace-cdn.com/content/v1/569ff0561115e0973545a242/1597242574856-PLYKC6TMQMIUQ6WD6JCM/ke17ZwdGBToddI8pDm48kCiILf2UqxCus1flMZrWdCxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PId2sHjXEKReeqLvSaYhga_dlV6Sh1EQHX_2B0cJ5tYCo/Kidoodle-Logo.png" group-title="US TV Go",kiddoodle
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d2daf738fecdaa4f3a1c516547160a0c.jpg" tvg-country="US" group-title="US TV Go",Movee 4U
 https://ch.iptvmate.net/a6a46385530465a3f992c2610bf5cf6a.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",Movie Mix
+#EXTINF:-1 radio="false" tvg-logo="https://p1.hiclipart.com/preview/576/404/60/tv-channel-icons-movies-movie-mix-png-icon.jpg" group-title="US TV Go",Movie Mix
 https://sonar.sinclair.wurl.com/manifest/512.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",New Stream
-
 #EXTINF:-1 radio="false" tvg-id="POP - East" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/P/Pop.png" group-title="US TV Go",POP 2
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="POP - East" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/P/Pop.png" group-title="US TV Go",Pop TV
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master_1.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9ef955ff5ebe0afd2b3e31f39c4d5d36.png" tvg-country="US" group-title="US TV Go",Screamfest
 https://ch.iptvmate.net/701984f5ad4d6d69d1a0d9b0b6a1f028.m3u8
-#EXTINF:-1 radio="false" group-title="US TV Go",Shout Factory
+#EXTINF:-1 radio="false" tvg-logo="https://blog.shoutfactory.com/blog/wp-content/uploads/2020/06/Shout_crop.jpg" group-title="US TV Go",Shout Factory
 https://shoutfactorytv-stirr.amagi.tv/playlist1080ps.m3u8
 #EXTINF:-1 radio="false" tvg-id="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/W/weatherchannel.png" group-title="US TV Go",The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
