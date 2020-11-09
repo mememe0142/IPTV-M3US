@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
 #EXTINF:-1 radio="false" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="All Spark",Channel 0 - Falling Skys
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="All Spark",Channel 1 - Movies
@@ -117,8 +117,6 @@ http://ice-sov.musicradio.com/Heartextra
 http://streaming.radionomy.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.9
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD",RADIO radio m2o
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 radio="false" tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="Movies Plus", Electric Now
-https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="Movies Plus",& Flix HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies Plus",& Prive HD
@@ -167,6 +165,8 @@ https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="E4+1 - UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="Movies Plus",E4
 http://178.132.3.162:88/E4/video.m3u8?token=test
+#EXTINF:-1 radio="false" tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="Movies Plus",Electric Now
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now | HD
 https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8?&ads.device_manufacturer=&ads.device_model=&ads.device_type=desktop&ads.partner=internal&ads.device_id=06b83095fc1867c979e49ea7318a5abb&ads.device_width=1280&ads.device_height=720
 #EXTINF:-1 radio="false" tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="Movies Plus",Film 4
@@ -719,22 +719,56 @@ https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/pro
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="Radio",TuneIn | MeTV FM WXZO
 http://crystalout.surfernetwork.com:8001/WXZO_MP3
+#EXTINF:-1 radio="false" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/250eba4fa772bc74.jpg" group-title="ROKU USA",&Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="ROKU USA",American Horrors
+https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="ROKU USA",Cine Life
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-id="Cinemax - Eastern HD" tvg-name="Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="ROKU USA",Cinemax (East)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="ROKU USA",Cinemax (West)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/84e709c5f458816459d53d890b48ea7d.png" tvg-country="US" group-title="ROKU USA",Dove Channel
+https://ch.iptvmate.net/cb75fddf92d95dd1948fd0f980daecee.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="ROKU USA",Dubia 1
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?DVR
+#EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/5f0fae7b521a179e78244a3eebf8822a6bebf9147007ac8cf42e385c4cc45d3e.png" group-title="ROKU USA",Dust 1
+https://dust.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://w7.pngwing.com/pngs/456/495/png-transparent-counter-strike-global-offensive-dust-ii-dust2-counter-strike-source-dust-ii-video-game-gabe-newell-valve-corporation-thumbnail.png" group-title="ROKU USA",Dust 2
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokudust/CDN/1920x1080_5055600/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/electricnow.png" group-title="ROKU USA",Electric Now
+https://bozztv.com/veset1/1080p/playlist_1080p.m3u8
 #EXTINF:-1 radio="false" tvg-id="EPIX - East" tvg-name="Epix (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix (East)
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="EPIX HD - East" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/cfa6efc260c33997a7a44e4d5c9fec43eb8ea113502544a68bcee35a20e4ec3d.png" group-title="ROKU USA",Filmrise Action
+https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_gravitas.png" group-title="ROKU USA",Gravitas Movies
+https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
+#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Pacific Feed" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1 radio="false" tvg-id="HBO Signature [East]" tvg-logo="https://img1.pnghut.com/13/15/20/ngmv6rSaXY/television-hbo-signature-channel-logo.jpg" group-title="ROKU USA",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/1.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d2daf738fecdaa4f3a1c516547160a0c.jpg" tvg-country="US" group-title="ROKU USA",Movee 4U
+https://ch.iptvmate.net/a6a46385530465a3f992c2610bf5cf6a.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://p1.hiclipart.com/preview/576/404/60/tv-channel-icons-movies-movie-mix-png-icon.jpg" group-title="ROKU USA",Movie Mix
+https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU USA",New Movie Releases 24/7
 https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" group-title="ROKU USA",RunTime Movies
+https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9ef955ff5ebe0afd2b3e31f39c4d5d36.png" tvg-country="US" group-title="ROKU USA",Screamfest
+https://ch.iptvmate.net/701984f5ad4d6d69d1a0d9b0b6a1f028.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://blog.shoutfactory.com/blog/wp-content/uploads/2020/06/Shout_crop.jpg" group-title="ROKU USA",Shout Factory
+https://shoutfactorytv-stirr.amagi.tv/playlist1080ps.m3u8
 #EXTINF:-1 radio="false" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="ROKU USA",Showtime (East)
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="Showtime 2 - Pacific" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="ROKU USA",Showtime (West)
@@ -743,6 +777,8 @@ https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 #EXTINF:-1 radio="false" tvg-id="Starz HD - Pacific" tvg-name="STARZ (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" group-title="ROKU USA",STARZ (West)
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="ROKU USA",The Asylum
+https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="Sports & Recreation",Adjarasport 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="Sports & Recreation",Adjarasport 2
@@ -1131,22 +1167,24 @@ https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ABC.png" group-title="US TV Go",ABC
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://img.iptvmate.net/fe884cef93df161c473e7bc4654e06a5.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
-https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ABC.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
 https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8
+#EXTINF:-1 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-logo="https://img.iptvmate.net/fe884cef93df161c473e7bc4654e06a5.png" tvg-country="US" group-title="US TV Go",ABC 2 Baton Rouge LA (WBRZ-HD)
+https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-id="AMC - Eastern Feed" tvg-logo="https://img.iptvmate.net/a1b49c715695f1e573efed27d4c773fb.png" tvg-country="US" group-title="US TV Go",American Classic Network
 https://ch.iptvmate.net/8eb6d591d310b58b313761f94b5d5119.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
-https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
-https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
 https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
 https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
+https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="US TV Go",American Horrors
+https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.pinimg.com/236x/d9/9b/c8/d99bc86209754fed4d8f196683044338.jpg" tvg-country="US" group-title="US TV Go",Beto TV
 https://ch.iptvmate.net/1c23ae7a6dd56c29b350f8ca9677d80d.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://logo-load.com/uploads/posts/2016-04/1459524907_boomerang-logo.png" group-title="US TV Go",Boomerang
+https://cdn6.goprimetime.info/feed/chboomberang/tracks-v1a1/mono.m3u8
 #EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-logo="https://channels.roku.com/images/4a8ec37c110c4c7b93f3cdc3bac84dec-hd.jpg" group-title="US TV Go",Chive TV
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="US TV Go",Cine Life
@@ -1165,6 +1203,10 @@ https://bozztv.com/veset1/1080p/playlist_1080p.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png" group-title="US TV Go",FailArmy
 https://failarmy-international.ono.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/cfa6efc260c33997a7a44e4d5c9fec43eb8ea113502544a68bcee35a20e4ec3d.png" group-title="US TV Go",Filmrise Action
+https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_gravitas.png" group-title="US TV Go",Gravitas Movies
+https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="US TV Go",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO Signature [East]" tvg-logo="https://img1.pnghut.com/13/15/20/ngmv6rSaXY/television-hbo-signature-channel-logo.jpg" group-title="US TV Go",HBO Signature
@@ -1179,10 +1221,16 @@ https://sonar.sinclair.wurl.com/manifest/512.m3u8
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="POP - East" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/P/Pop.png" group-title="US TV Go",Pop TV
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master_1.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" group-title="US TV Go",RunTime Movies
+https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9ef955ff5ebe0afd2b3e31f39c4d5d36.png" tvg-country="US" group-title="US TV Go",Screamfest
 https://ch.iptvmate.net/701984f5ad4d6d69d1a0d9b0b6a1f028.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://blog.shoutfactory.com/blog/wp-content/uploads/2020/06/Shout_crop.jpg" group-title="US TV Go",Shout Factory
 https://shoutfactorytv-stirr.amagi.tv/playlist1080ps.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="US TV Go",The Asylum
+https://asylum-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="US TV Go",The Asylum
+https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-id="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/W/weatherchannel.png" group-title="US TV Go",The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/V/vodicon.png" group-title="VOD", ***** Be Warned, These Are Full Blu-Ray Size Movies *****
