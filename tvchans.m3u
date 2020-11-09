@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
 #EXTINF:-1 radio="false" tvg-id="dummy000" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="All Spark",Channel 0 - Falling Skys
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="dummy001" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="All Spark",Channel 1 - Movies
