@@ -4,7 +4,6 @@
 ﻿#EXTM3U url-tvg="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/Stirr/epg.xml.gz"
-
 #EXTINF:-1 radio="false" tvg-id="dummy000" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="All Spark",Channel 0 - Falling Skys
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="dummy001" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="All Spark",Channel 1 - Movies
@@ -13417,6 +13416,8 @@ https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/84e709c5f458816459d53d890b48ea7d.png" tvg-country="US" group-title="ROKU USA",Dove Channel
 https://ch.iptvmate.net/cb75fddf92d95dd1948fd0f980daecee.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Dreamworks_animation_telelvision_logo_2017.png" group-title="ROKU USA",Dreamworks Channel
+https://cdnjt25.useetv.com/joss/15/dreamworks/chunklist_b1344100_sleng_.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="ROKU USA",Dubia 1
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?DVR
 #EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/5f0fae7b521a179e78244a3eebf8822a6bebf9147007ac8cf42e385c4cc45d3e.png" group-title="ROKU USA",Dust 1
