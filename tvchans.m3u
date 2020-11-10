@@ -13414,6 +13414,10 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="ROKU USA",Cinemax (West)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="ROKU USA",CMC
+https://ch.iptvmate.net/5e936a4636123957627ff49a.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://iptvinsider.com/wp-content/uploads/2017/03/contv_logo.jpg" group-title="ROKU USA",CONtv
+https://ch.iptvmate.net/5e936aa736123957627ff4a4.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/84e709c5f458816459d53d890b48ea7d.png" tvg-country="US" group-title="ROKU USA",Dove Channel
 https://ch.iptvmate.net/cb75fddf92d95dd1948fd0f980daecee.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Dreamworks_animation_telelvision_logo_2017.png" group-title="ROKU USA",Dreamworks Channel
@@ -13426,6 +13430,8 @@ https://dust.sinclair.wurl.com/manifest/3000.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokudust/CDN/1920x1080_5055600/chunklist.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/electricnow.png" group-title="ROKU USA",Electric Now
 https://bozztv.com/veset1/1080p/playlist_1080p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" group-title="ROKU USA",Energy TV
+https://ch.iptvmate.net/5e9350194200e4360203b5b0.m3u8
 #EXTINF:-1 radio="false" tvg-id="EPIX - East" tvg-name="Epix (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix (East)
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="EPIX HD - East" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix 2 (East)
@@ -13434,20 +13440,34 @@ https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_gravitas.png" group-title="ROKU USA",Gravitas Movies
 https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" group-title="ROKU USA",HARVEST TV
+https://ch.iptvmate.net/5e93587f46695161f31a89e1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
+#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Pacific Feed" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO Signature [East]" tvg-logo="https://img1.pnghut.com/13/15/20/ngmv6rSaXY/television-hbo-signature-channel-logo.jpg" group-title="ROKU USA",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/1.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-city-logo.png" group-title="ROKU USA",LNKTV City
+https://ch.iptvmate.net/5e936a0c09e7561d266372c8.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-edu-logo.png" group-title="ROKU USA",LNKTV Education
+https://ch.iptvmate.net/5e936a0d09e7561d266372c9.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://christembassy.org/wp-content/uploads/2019/09/LWSAT.jpg" group-title="ROKU USA",Love World
+	https://ch.iptvmate.net/5e93592bca80de49cb67aaee.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Magic_TV_Logo.png" group-title="ROKU USA",Majic
+https://ch.iptvmate.net/5e935a22a655d41c45676ce2.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="ROKU USA",Mirror Now
+https://ch.iptvmate.net/5e9358458f689e2c1721f549.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d2daf738fecdaa4f3a1c516547160a0c.jpg" tvg-country="US" group-title="ROKU USA",Movee 4U
 https://ch.iptvmate.net/a6a46385530465a3f992c2610bf5cf6a.m3u8
 #EXTINF:-1 radio="false" tvg-id="movie-mix-wurl-external-12-03-2018" tvg-logo="https://p1.hiclipart.com/preview/576/404/60/tv-channel-icons-movies-movie-mix-png-icon.jpg" group-title="ROKU USA",Movie Mix
 https://sonar.sinclair.wurl.com/manifest/512.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://shoppersvila.com/wp-content/uploads/2020/01/Movies-Now-tv-Hollywood-Films-list-today-schedule-all-popular-Movies-Now-tv-shows-timing-live-tv-app-details.jpg" group-title="ROKU USA",Movies Now
+https://ch.iptvmate.net/5e9358478f689e2c1721f54a.m3u8
 #EXTINF:-1 radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU USA",New Movie Releases 24/7
 https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" group-title="ROKU USA",RunTime Movies
@@ -13464,8 +13484,12 @@ https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 #EXTINF:-1 radio="false" tvg-id="Starz HD - Pacific" tvg-name="STARZ (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" group-title="ROKU USA",STARZ (West)
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://pbs.twimg.com/profile_images/706748153786032128/FVHuEdV6_400x400.jpg" group-title="ROKU USA",Steelbird Music
+https://ch.iptvmate.net/5e9358c68f689e2c1721f56d.m3u8
 #EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="ROKU USA",The Asylum
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://readfest.org/wp-content/uploads/2019/01/WINK-TV-gradient-wplate.jpg" group-title="ROKU USA",Wink TV
+https://ch.iptvmate.net/5e9358817105fc39963850fd.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="Shop",Cruise 1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gems TV
@@ -13934,14 +13958,14 @@ https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="USTV",Akaal TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="USTV",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="USTV",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="USTV",AKC TV
 https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="USTV",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="USTV",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="USTV",AKC TV - Meet the Breeds
 https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="USTV",AKC TV - Puppies
@@ -13960,16 +13984,16 @@ https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="USTV",American Horrors
 https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="USTV",American Horrors
+https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="USTV",American Horrors
+https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="USTV",American Horrors
+https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="USTV",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="USTV",American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="USTV",American Horrors
-https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="USTV",American Horrors
-https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="USTV",American Horrors
-https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
 #EXTINF:-1 radio="false" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="USTV",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="Animal Planet US - East" group-title="USTV",ANIMAL PLANET
@@ -13980,10 +14004,10 @@ https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="USTV",BBC 1 Scotland
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/3pRD6Fx.png" group-title="USTV",BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",BBC NEWS
 http://176.10.117.3:5000/play/a035
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/3pRD6Fx.png" group-title="USTV",BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" group-title="USTV",Beach TV (30A)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="http://www.cla.csulb.edu/departments/polisci/wp-content/uploads/2016/01/Beach-TV-Logo-300x169.jpg" group-title="USTV",Beach TV (CSULB)
@@ -13994,10 +14018,10 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.ytimg.com/vi/JueWq1SOiwY/maxresdefault.jpg" group-title="USTV",Beauty IQ
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-#EXTINF:-1 radio="false" group-title="USTV",Beto TV
-https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.pinimg.com/236x/d9/9b/c8/d99bc86209754fed4d8f196683044338.jpg" tvg-country="US" group-title="USTV",Beto TV
 https://ch.iptvmate.net/1c23ae7a6dd56c29b350f8ca9677d80d.m3u8
+#EXTINF:-1 radio="false" group-title="USTV",Beto TV
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/wwUtlBi.png" group-title="USTV",Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/bjTeasa.png" group-title="USTV",Big Life TV
@@ -14009,37 +14033,37 @@ https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/KjDQSPu.jpg" group-title="USTV",Black Widow TV
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="54ff7ba69222cb1c2624c584" group-title="USTV",Bloomberg TV
-https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
-#EXTINF:-1 radio="false" tvg-id="54ff7ba69222cb1c2624c584" group-title="USTV",Bloomberg TV
 https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
+#EXTINF:-1 radio="false" tvg-id="54ff7ba69222cb1c2624c584" group-title="USTV",Bloomberg TV
+https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",Bloomberg TV Live Event
 https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",Bloomberg TV Politics Live Event
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/uGL7M09.jpg" group-title="USTV",Blush Romance TV
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-id="Boomerang" tvg-logo="https://logo-load.com/uploads/posts/2016-04/1459524907_boomerang-logo.png" group-title="USTV",Boomerang
-https://cdn6.goprimetime.info/feed/chboomberang/tracks-v1a1/mono.m3u8
 #EXTINF:-1 radio="false" tvg-id="Boomerang" group-title="USTV",BOOMERANG
 http://193.33.39.108:8107/30710
+#EXTINF:-1 radio="false" tvg-id="Boomerang" tvg-logo="https://logo-load.com/uploads/posts/2016-04/1459524907_boomerang-logo.png" group-title="USTV",Boomerang
+https://cdn6.goprimetime.info/feed/chboomberang/tracks-v1a1/mono.m3u8
 #EXTINF:-1 radio="false" tvg-id="Box Hits - UK" tvg-logo="https://i.imgur.com/jKUX0C5.png" group-title="USTV",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/cip3E0N.jpg" group-title="USTV",British Muslim TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/D08YE04.jpg" group-title="USTV",British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="USTV",Brut.
-https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/cip3E0N.jpg" group-title="USTV",British Muslim TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Ek6GuXh.jpg" group-title="USTV",Brut.
 https://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="USTV",Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",Buffalo TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://i.imgur.com/CP05YX0.jpg" group-title="USTV",Buzzr
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCVb6ID85LxiWckJQk8K1fklnO6-jhl3jup2AYP9NWRBGT8CPJ7p-GMo" group-title="USTV",Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 #EXTINF:-1 radio="false" tvg-id="5812bfbe4ced4f7b601b12e6" group-title="USTV",BUZZR
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
+#EXTINF:-1 radio="false" tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCVb6ID85LxiWckJQk8K1fklnO6-jhl3jup2AYP9NWRBGT8CPJ7p-GMo" group-title="USTV",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+#EXTINF:-1 radio="false" tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://i.imgur.com/CP05YX0.jpg" group-title="USTV",Buzzr
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/TDRDF4q.png" group-title="USTV",byu TV
 https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" tvg-id="C-SPAN" tvg-name="CSPAN-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10161_h3_aa.png" group-title="USTV",C-Span
@@ -14054,16 +14078,16 @@ https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
 http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
 #EXTINF:-1 radio="false" group-title="USTV",CBN Español
 https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS HD New York-US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="USTV",CBS
-http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="USTV",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="USTV",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 radio="false" tvg-id="5a6b92f6e22a617379789618" group-title="USTV",CBSN
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+#EXTINF:-1 radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="USTV",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS HD New York-US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="USTV",CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://i.imgur.com/kuZyiqg.jpg" group-title="USTV",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 radio="false" tvg-id="5a6b92f6e22a617379789618" group-title="USTV",CBSN
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="5eb1afb21486df0007abc57c" tvg-logo="https://i.imgur.com/PNrkhuf.jpg" group-title="USTV",CBSN Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
 #EXTINF:-1 radio="false" tvg-id="5eb1b0bf2240d8000732a09c" tvg-logo="https://i.imgur.com/BxwGweD.jpg" group-title="USTV",CBSN Minnesota
@@ -14084,9 +14108,9 @@ https://live.chdrstatic.com/cbn/primary/5.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/tn9bRD1.jpg" group-title="USTV",Chef Roc Show
 https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/tTmLQwo.png" group-title="USTV",Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-logo="https://channels.roku.com/images/4a8ec37c110c4c7b93f3cdc3bac84dec-hd.jpg" group-title="USTV",Chive TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/tTmLQwo.png" group-title="USTV",Chive TV
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="USTV",Cine Life
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
@@ -14115,11 +14139,11 @@ http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="USTV",CT-N Live Stream 2
 http://video.ct-n.com/live/web2stream/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="USTV",CTN
-http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="USTV",CTN
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="USTV",CTN
-https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/RZE3Pwf.png" group-title="USTV",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",DEEJAY TV
@@ -14129,21 +14153,21 @@ https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/JExsI09.png" group-title="USTV",Denver | ABC 7 KMGH
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" group-title="USTV",DISCOVERY
-http://178.132.3.162:88/Discovery/video.m3u8?token=test
-#EXTINF:-1 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" group-title="USTV",DISCOVERY
 http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" group-title="USTV",DISCOVERY
+http://178.132.3.162:88/Discovery/video.m3u8?token=test
 #EXTINF:-1 radio="false" group-title="USTV",DISCOVERY HISTORY
 http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg" group-title="USTV",Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="USTV",Dove Channel
-https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
-#EXTINF:-1 radio="false" group-title="USTV",Dove Channel
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="USTV",Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/84e709c5f458816459d53d890b48ea7d.png" tvg-country="US" group-title="USTV",Dove Channel
 https://ch.iptvmate.net/cb75fddf92d95dd1948fd0f980daecee.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="USTV",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 radio="false" group-title="USTV",Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="USTV",Dove Channel
+https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/0NVfgrt.jpg" group-title="USTV",Dream TV
 https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="USTV",Dubia 1
@@ -14170,10 +14194,10 @@ https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="554158e864526b29254ff105" tvg-logo="https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png" group-title="USTV",FailArmy
 https://failarmy-international.ono.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/9NsnVCJ.png" group-title="USTV",Field & Stream
-https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",Field & Stream
 https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/9NsnVCJ.png" group-title="USTV",Field & Stream
+https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/cfa6efc260c33997a7a44e4d5c9fec43eb8ea113502544a68bcee35a20e4ec3d.png" group-title="USTV",Filmrise Action
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USTV",Filmrise Crime
@@ -14200,10 +14224,10 @@ https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/7vQrPvk.png" group-title="USTV",Gospel Truth TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_gravitas.png" group-title="USTV",Gravitas Movies
-https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="USTV",Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_gravitas.png" group-title="USTV",Gravitas Movies
+https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",GünAz TV
 rtsp://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed02?nc=1
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="USTV",Hala London
@@ -14232,10 +14256,10 @@ https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8?b=728,1128
 #EXTINF:-1 radio="false" group-title="USTV",HUMRAAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="USTV",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2017/10/HC-Logo-transparent.png" group-title="USTV",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="USTV",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",HUSTLER TV
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="USTV",IDG
@@ -14290,20 +14314,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlis
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/d8Ber25.jpg" group-title="USTV",Mo Laughter
 https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USTV",Mobcrush
-https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/KwN9Ujp.png" group-title="USTV",Mobcrush
 https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USTV",Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/iSpOD29.jpg" group-title="USTV",Monarch
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/QIEhpPp.png" group-title="USTV",Motorcyclist
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",Motorcyclist
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d2daf738fecdaa4f3a1c516547160a0c.jpg" tvg-country="US" group-title="USTV",Movee 4U
-https://ch.iptvmate.net/a6a46385530465a3f992c2610bf5cf6a.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/QIEhpPp.png" group-title="USTV",Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/K6XKJTr.jpg" group-title="USTV",Movee 4U
 https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d2daf738fecdaa4f3a1c516547160a0c.jpg" tvg-country="US" group-title="USTV",Movee 4U
+https://ch.iptvmate.net/a6a46385530465a3f992c2610bf5cf6a.m3u8
 #EXTINF:-1 radio="false" tvg-id="movie-mix-wurl-external-12-03-2018" tvg-logo="https://p1.hiclipart.com/preview/576/404/60/tv-channel-icons-movies-movie-mix-png-icon.jpg" group-title="USTV",Movie Mix
 https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="USTV",MTA 1 (Backup)
@@ -14328,16 +14352,16 @@ https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
 https://nimble.dashstreams.net/onestudio/holyfield/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/JBEqPZP.png" group-title="USTV",Mythos
 https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
-#EXTINF:-1 radio="false" tvg-id="54ee5ea872c1cbb844546d3f" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="USTV",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-id="54ee5ea872c1cbb844546d3f" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="USTV",NASA TV
-https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 radio="false" tvg-id="54ee5ea872c1cbb844546d3f" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="USTV",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 radio="false" tvg-id="5df97894467dfa00091c873c" tvg-name="US-NBC HD New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="USTV",NBC
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="54ee5ea872c1cbb844546d3f" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="USTV",NASA TV
+https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 radio="false" tvg-id="54ee5ea872c1cbb844546d3f" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="USTV",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="5df97894467dfa00091c873c" group-title="USTV",NBC
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="5df97894467dfa00091c873c" tvg-name="US-NBC HD New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="USTV",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="USTV",NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/JSCsJc5.png" group-title="USTV",NBCLX
@@ -14348,12 +14372,12 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-id="55b179af994403942f3061d6" tvg-logo="https://i.imgur.com/4aA5JEO.jpg" group-title="USTV",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 radio="false" tvg-id="5459795fc9f133a519bc0bef" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="USTV",Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 radio="false" tvg-id="5459795fc9f133a519bc0bef" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="USTV",Newsy
-https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="5459795fc9f133a519bc0bef" group-title="USTV",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 radio="false" tvg-id="5459795fc9f133a519bc0bef" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="USTV",Newsy
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+#EXTINF:-1 radio="false" tvg-id="5459795fc9f133a519bc0bef" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="USTV",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 radio="false" group-title="USTV",NRBTV
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="5e7cf6c7b156d500078c5f44" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="USTV",OAN Encore
@@ -14419,9 +14443,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/sOVdYJZ.png" group-title="USTV",Revelation TV
 https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="56171fafada51f8004c4b40f" group-title="USTV",RT
-http://uiptv.do.am/1ufc/702424953/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-id="56171fafada51f8004c4b40f" group-title="USTV",RT
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF:-1 radio="false" tvg-id="56171fafada51f8004c4b40f" group-title="USTV",RT
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" group-title="USTV",RunTime Movies
 https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/sDGZCpL.png" group-title="USTV",SafeTV
@@ -14430,12 +14454,12 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/XOqJ7nO.png" group-title="USTV",Savannah | FOX 28 WTGS
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/kmHryT4.png" group-title="USTV",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="USTV",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9ef955ff5ebe0afd2b3e31f39c4d5d36.png" tvg-country="US" group-title="USTV",Screamfest
 https://ch.iptvmate.net/701984f5ad4d6d69d1a0d9b0b6a1f028.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="USTV",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/kmHryT4.png" group-title="USTV",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/ogvLLji.png" group-title="USTV",Sent TV Global Network
 https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-logo="https://blog.shoutfactory.com/blog/wp-content/uploads/2020/06/Shout_crop.jpg" group-title="USTV",Shout Factory
@@ -14489,9 +14513,9 @@ https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no" group-title="USTV",Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="TBD TV (KXVO-DT2) Omaha, NE" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USTV",TBD
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1 radio="false" tvg-id="TBD TV (KXVO-DT2) Omaha, NE" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USTV",TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 radio="false" tvg-id="TBD TV (KXVO-DT2) Omaha, NE" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USTV",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Ii5W0Lx.png" group-title="USTV",TBD.
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",Telemundo 44
@@ -14500,28 +14524,28 @@ https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/48iMZ7c.png" group-title="USTV",The 360 Channel
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="USTV",The Asylum
+https://asylum-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="USTV",The Asylum
+https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="USTV",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="USTV",The Asylum
-https://asylum-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="USTV",The Asylum
-https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/iYDR5VS.jpg" group-title="USTV",The Boat Show
 https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8
-#EXTINF:-1 radio="false" group-title="USTV",The Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/ukKFllt.jpg" group-title="USTV",The Film Detective
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
+#EXTINF:-1 radio="false" group-title="USTV",The Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://thefloridachannel.org/wp-content/uploads/logo-primary-1.png" group-title="USTV",The Florida Channel
 https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://channels.roku.com/images/be4667a16b1e483b8c7746156192b5ba-hd.jpg" group-title="USTV",The Now Network
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
-#EXTINF:-1 radio="false" group-title="USTV",The Outdoor Cooking Channel
-https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
-#EXTINF:-1 radio="false" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USTV",The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/PnBXXw4.png" group-title="USTV",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 radio="false" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USTV",The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="USTV",The Outdoor Cooking Channel
+https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",The Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 radio="false" tvg-id="The Tennis Channel" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="USTV",The Tennis Channel
@@ -14583,11 +14607,11 @@ http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",Vivid TV Europe
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="USTV",VoA TV
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="USTV",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="USTV",VoA TV
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/nbVom3F.jpg" group-title="USTV",Waypoint
 https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://worcester.vod.castus.tv/wccalive.png" group-title="USTV",WCCA-TV (Worcester)
@@ -14601,9 +14625,9 @@ https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/APGJc8I.jpg" group-title="USTV",Wink TV
 https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 radio="false" group-title="USTV",WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 radio="false" group-title="USTV",WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" group-title="USTV",WSJ
 https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="BTSBoxOffWWE - UK" group-title="USTV",WWE
@@ -14617,13 +14641,13 @@ https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/nOWeBGz.png" group-title="USTV",Youtoo America HD
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="USTV",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="USTV",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 radio="false" tvg-id="Zee Cinema - UK" group-title="USTV",ZEE CINEMA
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="USTV",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1 radio="false" tvg-id="Zee Cinema - UK" group-title="USTV",ZEE CINEMA
 https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8
+#EXTINF:-1 radio="false" tvg-id="Zee Cinema - UK" group-title="USTV",ZEE CINEMA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 radio="false" group-title="USTV",ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.jeded.com/i/101-dalmatians-one-hundred-and-one-dalmatians.25714.jpg" group-title="VOD",101 Dalmatians (1961)
