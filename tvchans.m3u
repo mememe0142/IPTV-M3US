@@ -13564,11 +13564,11 @@ https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" group-title="ROKU",HARVEST TV
 https://ch.iptvmate.net/5e93587f46695161f31a89e1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
-#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
-#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
+#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Pacific Feed" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO Signature [East]" tvg-logo="https://img1.pnghut.com/13/15/20/ngmv6rSaXY/television-hbo-signature-channel-logo.jpg" group-title="ROKU",HBO Signature
@@ -13585,12 +13585,16 @@ https://ch.iptvmate.net/5e935a22a655d41c45676ce2.m3u8
 https://ch.iptvmate.net/5e9358458f689e2c1721f549.m3u8
 #EXTINF:-1 radio="false" tvg-id="Movee4U" tvg-logo="https://img.iptvmate.net/d2daf738fecdaa4f3a1c516547160a0c.jpg" tvg-country="US" group-title="ROKU",Movee 4U
 https://ch.iptvmate.net/a6a46385530465a3f992c2610bf5cf6a.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://guruwali.com/wp-content/uploads/2020/01/movies4u-2020-1.png" group-title="ROKU",Movee 4you
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="movie-mix-wurl-external-12-03-2018" tvg-logo="https://p1.hiclipart.com/preview/576/404/60/tv-channel-icons-movies-movie-mix-png-icon.jpg" group-title="ROKU",Movie Mix
 https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://shoppersvila.com/wp-content/uploads/2020/01/Movies-Now-tv-Hollywood-Films-list-today-schedule-all-popular-Movies-Now-tv-shows-timing-live-tv-app-details.jpg" group-title="ROKU",Movies Now
 https://ch.iptvmate.net/5e9358478f689e2c1721f54a.m3u8
 #EXTINF:-1 radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU",New Movie Releases 24/7
 https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/45aeef76-4b71-4475-973f-83f2e8f6c721-profile_image-300x300.png" group-title="ROKU",OnlyMXC
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/Cv4EQbyvGTGb6Hygifb71LSeputif8jB_THp4hCe3Wa_KC7jHmNDc500kYXShH9D78XqnzAq7Xf8smm5oNKF-Xi2y3XsM1V19U4foF0ZGZM1USszhn1TIFFqqLPsik3UmGUTSXG62hA_dVkAOOeXcgUmkbqKG9UJBLnbmm9fRzjS0HmW71siH4taOQpT39NfKp-hZpDlr3cgkYuyODv9M64FT4ilgQWE7jNqJou27OditWyQdPZ6wDuecAM6Nu_8P1mVRCCOGXCxlc0jmbqXLDuHYejuofnW-7WtFM9PmLao9hISdxp4SIHSoxOK-tBSLaBMJs8FYgEOIFmJ3djtfe7LQKecVf3YvNnmdTY7tO8lJmWJG88z87Msl72jtNZhoTfVvSYSYf475BJkY1o8_WC73TasEhOGa8SMmRf4xLSRIgoVzu3b_AC0cM_fD-IC9b6mU-nwnjgkTz_cRbRgEwmgor2BV10muIIBk3Fa8Giiuqf700c_lkHV0jBoKlf4kcwb5yBoutqGYnJ3rMCXifmQQ_f3Am22ZadrECq3JtwiQzRiERFEy6TgGFhgY8P88JVcAiogb91aDTL5lEDyfA4--8GWnJaphab7YnpYzb1Rzs3BY3hbOv3Llg6qRSOt17vZRkEDn3UvzfcWKwa2E9Pb_jjf3w_0l3Vn4yfKjjYGWdNt2lUsT7HiQNv4w0QuYti5iQhcdK42QtdOdE8q3tDW7C_2KLtSBkB_XDyffoVYKJiGxiCosacfkSvn0qEqZTWP8v6l5gpILnE-RgnxiWMVrMexFYkgnMo7NZn7oIw-AEVi5ttAPDlc0L9_RwKeA2vfJ1k3UOY3ieKsz8rfKUQSEDUGQts_YpTL1W6rjxmVzI4aDEUZp1A-2SW07p3Ldw.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" group-title="ROKU",RunTime Movies
 https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9ef955ff5ebe0afd2b3e31f39c4d5d36.png" tvg-country="US" group-title="ROKU",Screamfest
@@ -13609,8 +13613,16 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://pbs.twimg.com/profile_images/706748153786032128/FVHuEdV6_400x400.jpg" group-title="ROKU",Steelbird Music
 https://ch.iptvmate.net/5e9358c68f689e2c1721f56d.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2605/26053835_so.jpg" group-title="ROKU",SUPER SENTAI 24/7 Live
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CvMEE_KRcUWshx1OE0qWXgYtOAEudamKFjUyevstBO3ibD_P5IVdvCsP3HRlj73Vg3BJEnuacX6Hu7FbT0XQ_X09M-1gvs64W6DFaFvCviR9ZlV2c9ou_vel3B3IzjdDBlhbx4761Ful-WRXgZajI1hLk4zCr_0sGimw-sd0YlKRdsozgEUgVY_aQ0fzxTyK1pb5TiOOT6xZ0NQ0iZdy6qEztPU2GPn4Web32ik8dwrJ_9KEYz3cb_RsSDkBMckManlqKzpPpiirg2unrH13YYqOxZAWKJGOzMkR223hA1SOTQ74CDjL5rCiFHWf2cxjOVVxe4R3vWVlOEH0LJ6FnZ4DNlg-N_o71XIveC0ccCBrp0mjCW_0RSOxddOxW4zb4RoMe8-xv-CuQBXq4u3tKnW51gKUSk5KTMFVPTdrJYDEPA8UbV8lEg2myP1rqZsKbQNwd1ZhoZwuhpaSbv08KntS77Yc0VEs0qjFkJL0nJWpila1dbbVPgnwgKnVkfbTMZoAmH-fYBBe5rzCprdGmThQsfIzeShCRd3nxzdLawAHJgs9euC3GI04cUPUaRVE_npWn66pYtIJMktcHrS1BIWSLGd-o7W7iX7CmF9Q8MkfUMRxfj12SFEGYeS9jnNfJCw1ei5JHjhBlEclmYndZY9R_Mie58H-_rjegoERbbhfLvtcSTLj6pKpwBJYyMfNpSkRK-MCuv0pyErnDZqdC9wtkb6uEdca4BEuomp47Ghm_VJeMaXwIx9PO3HAv75DNaw65DkyIOzmCyWPuMRmSW4V7qMuIDR0xr-8IfgpBS9F_8g-hhGoB6flt9kDy4915wph6wHtEhAwLrWEEEZr6l1yrBRYDxlhGgzePHf74JMa29CjCh8.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.zype.com/53c0457a69702d4d66040000/zobject_image/59923b895fa61415c5001fb9/1502755721/original.png" group-title="ROKU",SUPER SENTAI MARATHON
+https://dqrpb9wgowsf5.cloudfront.net/1f73655f9cde91408199_pkyomega_40449230654_1605166996/chunked/index-dvr.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://www.jellypages.com/images/haberler/2019/05/Tv-the-moose-may-wander-through-at-the-weekend.jpg" group-title="ROKU",SVT
+https://svt-vod-2p.akamaized.net/d0/world/20200428/cf14cd31-2d74-41c9-b093-4b862b5cca1d/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="ROKU",The Asylum
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/0zKEbnv.png" group-title="ROKU",Toonami Aftermath
+https://sp6.toonamiaftermath.com/livehttporigin/est/mj1B9C-F2hFVc-playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://readfest.org/wp-content/uploads/2019/01/WINK-TV-gradient-wplate.jpg" group-title="ROKU",Wink TV
 https://ch.iptvmate.net/5e9358817105fc39963850fd.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="Shop",Cruise 1st TV
