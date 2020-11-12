@@ -13527,6 +13527,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393c
 http://stream.tvtap.live:8081/live/uk-4seven.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMCA2OjIxOjE2IFBNJmhhc2hfdmFsdWU9Q0FSWWRjc2V2WEFrdis0WHhCRHRmdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="ROKU",Cine Life
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 radio="false" tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://cinelife.com/wp-content/uploads/2020/03/cinelife-entertaintmen-logo.png" group-title="ROKU",CineLife
+https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="Cinemax - Eastern HD" tvg-name="Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="ROKU",Cinemax (East)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="ROKU",Cinemax (West)
@@ -13562,11 +13564,11 @@ https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" group-title="ROKU",HARVEST TV
 https://ch.iptvmate.net/5e93587f46695161f31a89e1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
+#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
+#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
-#EXTINF:-1 radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO HD - Pacific Feed" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 #EXTINF:-1 radio="false" tvg-id="HBO Signature [East]" tvg-logo="https://img1.pnghut.com/13/15/20/ngmv6rSaXY/television-hbo-signature-channel-logo.jpg" group-title="ROKU",HBO Signature
@@ -13595,6 +13597,8 @@ https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-To
 https://ch.iptvmate.net/701984f5ad4d6d69d1a0d9b0b6a1f028.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-logo="https://blog.shoutfactory.com/blog/wp-content/uploads/2020/06/Shout_crop.jpg" group-title="ROKU",Shout Factory
 https://shoutfactorytv-stirr.amagi.tv/playlist1080ps.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://www.shoutfactory.com/corp/userFiles/uploads/logos/logo-sftv.png" group-title="ROKU",Shout! Factory TV
+https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="ROKU",Showtime (East)
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
 #EXTINF:-1 radio="false" tvg-id="Showtime 2 - Pacific" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="ROKU",Showtime (West)
