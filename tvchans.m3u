@@ -13494,9 +13494,9 @@ http://rtmp1.abnsat.com/hls/trinity.m3u8
 #EXTINF:-1 channel-id="6747" radio="false" group-title="Religious",Victory Television Network
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
 #EXTINF:-1 channel-id="6748" radio="false" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/250eba4fa772bc74.jpg" group-title="ROKU",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?bitsbb01
 #EXTINF:-1 channel-id="6749" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="ROKU",3News Now (KMTV-TV), CBS 3 KMTV, US
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?bitsbb01
 #EXTINF:-1 channel-id="6750" radio="false" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1515.1405603197.png" group-title="ROKU",4Seven
 http://stream.tvtap.live:8081/live/uk-4seven.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMCA2OjI0OjEwIFBNJmhhc2hfdmFsdWU9VXcrczNmK0hvSS9JM0VUZUw1Vzhtdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 channel-id="6751" radio="false" tvg-id="5USA - UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/1200px-Channel_5_USA.svg.png" group-title="ROKU",5USA
@@ -13548,7 +13548,7 @@ https://ch.iptvmate.net/cb75fddf92d95dd1948fd0f980daecee.m3u8
 #EXTINF:-1 channel-id="6774" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Dreamworks_animation_telelvision_logo_2017.png" group-title="ROKU",Dreamworks Channel
 https://cdnjt25.useetv.com/joss/15/dreamworks/chunklist_b1344100_sleng_.m3u8
 #EXTINF:-1 channel-id="6775" radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="ROKU",Dubia 1
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?DVR
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?bitsbb01
 #EXTINF:-1 channel-id="6776" radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/5f0fae7b521a179e78244a3eebf8822a6bebf9147007ac8cf42e385c4cc45d3e.png" group-title="ROKU",Dust 1
 https://dust.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 channel-id="6777" radio="false" tvg-logo="https://w7.pngwing.com/pngs/456/495/png-transparent-counter-strike-global-offensive-dust-ii-dust2-counter-strike-source-dust-ii-video-game-gabe-newell-valve-corporation-thumbnail.png" group-title="ROKU",Dust 2
@@ -13571,11 +13571,11 @@ https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CoUFV-hqDzPugj-3DFPWFPUE3J_
 https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 channel-id="6786" radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" group-title="ROKU",HARVEST TV
 https://ch.iptvmate.net/5e93587f46695161f31a89e1.m3u8
-#EXTINF:-1 channel-id="6787" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
+#EXTINF:-1 channel-id="6789" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 channel-id="6788" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1 channel-id="6789" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
+#EXTINF:-1 channel-id="6787" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 channel-id="6790" radio="false" tvg-id="HBO HD - Pacific Feed" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
@@ -13593,6 +13593,12 @@ https://ch.iptvmate.net/5e936a0d09e7561d266372c9.m3u8
 	https://ch.iptvmate.net/5e93592bca80de49cb67aaee.m3u8
 #EXTINF:-1 channel-id="6797" radio="false" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Magic_TV_Logo.png" group-title="ROKU",Majic
 https://ch.iptvmate.net/5e935a22a655d41c45676ce2.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MBC_2_former_logo.jpg" group-title="ROKU",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="ROKU",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="ROKU",MBC Max HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 #EXTINF:-1 channel-id="6798" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="ROKU",Mirror Now
 https://ch.iptvmate.net/5e9358458f689e2c1721f549.m3u8
 #EXTINF:-1 channel-id="6799" radio="false" tvg-id="Movee4U" tvg-logo="https://img.iptvmate.net/d2daf738fecdaa4f3a1c516547160a0c.jpg" tvg-country="US" group-title="ROKU",Movee 4U
@@ -13604,7 +13610,7 @@ https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 channel-id="6802" radio="false" tvg-logo="https://shoppersvila.com/wp-content/uploads/2020/01/Movies-Now-tv-Hollywood-Films-list-today-schedule-all-popular-Movies-Now-tv-shows-timing-live-tv-app-details.jpg" group-title="ROKU",Movies Now
 https://ch.iptvmate.net/5e9358478f689e2c1721f54a.m3u8
 #EXTINF:-1 channel-id="6803" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU",New Movie Releases 24/7
-https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
+https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8?bitsbb01
 #EXTINF:-1 channel-id="6804" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU",New Movie Releases 24/7 Alt
 https://usher.ttvnw.net/api/channel/hls/newmoviestv5.m3u8?allow_source=true&fast_bread=true&p=4839863&play_session_id=897b788f05ee4e53a7b37b74699f4fbc&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=f5075de101931be2ee195574bbb86b7523decf47&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22newmoviestv5%22%2C%22channel_id%22%3A602435044%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22M1PBPqGccdTrjzeO898FRJ3rNmERER5o%22%2C%22expires%22%3A1605221253%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3Anull%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2224.252.12.222%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.2.0
 #EXTINF:-1 channel-id="6805" radio="false" tvg-id="OnlyMXC" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/45aeef76-4b71-4475-973f-83f2e8f6c721-profile_image-300x300.png" group-title="ROKU",Only MXC
