@@ -4,8 +4,20 @@
 
 =======================================================================================================================================================================================================
 
+
+[COLOR red][B]WHAT IS A BUILD?[/B][/COLOR
+A Build, is a complete packaged Kodi tweaked and set up. so includes addons, extras, custom menus, custom wallpaper, one of a kind apps. etc
+
+Basicly each Build is a new Kodi. 
+Sometimes they can be good, sometimes they can be bad. 
+But once you find the right type, then you'll want to create a backup and keep it..
+
+
+=======================================================================================================================================================================================================
+
 [COLOR yellow][B]WHAT'S NEW!![/B][/COLOR]
 
+OFC Skin V1.3.1
 DUFFMAX BUILD ADDED, V1.0
 ECHELON BUILD UPDATED, V1.1
 DUFFMAN RELOADED UPDATED TO V5.0
@@ -20,10 +32,12 @@ BK NOX BUILD UPDATED TO V2.7
 
 No Limits Magic Leia Build
 
+We've Also Added A Lot More Other Buillds For You.
 =====================================================================================================================================================================================================
 
 [COLOR yellow][B]LATEST BUILD VERSIONS:[/B][/COLOR]
 
+[COLOR red][B]OFC Skin V1.3.1[/B][/COLOR]
 [COLOR red][B]DUFFMAX--V1.0[/B][/COLOR]
 [COLOR red][B]ECHELON--V1.1[/B][/COLOR]
 [COLOR red][B]DUFFMAN RELOADED--V5.0[/B][/COLOR]
@@ -44,6 +58,6 @@ Website help and info, visit [COLOR yellow][B]https://bit.ly/ofctvbox[/B][/COLOR
 
 =======================================================================================================================================================================================================
 
-THANKS FOR ROCKING WITH US!!!
+Thanks for supporting us and enjoy.
 
 
