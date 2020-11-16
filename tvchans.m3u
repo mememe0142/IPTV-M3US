@@ -62,9 +62,9 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 #EXTINF:-1 channel-id="31" radio="false" tvg-id="New EPG" tvg-name="Black Widow TV" tvg-logo="New Logo" group-title="DAVE",Black Widow TV
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
 #EXTINF:-1 channel-id="32" radio="false" tvg-id="Blush Romance TV" tvg-name="Blush Romance TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" group-title="DAVE",Blush Romance TV
-https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8?checkedby:iptvcat.com
+https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
 #EXTINF:-1 channel-id="33" radio="false" tvg-id="Blush TV" tvg-name="Blush TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" group-title="DAVE",Blush TV
-https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?checkedby:iptvcat.com
+https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
 #EXTINF:-1 channel-id="34" radio="false" tvg-id="New EPG" tvg-name="Horrified TV" tvg-logo="New Logo" group-title="DAVE",Horrified TV
 https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
 #EXTINF:-1 channel-id="35" radio="false" tvg-id="iRead2Know" tvg-name="iRead2Know" tvg-logo="https://i.imgur.com/fSFY5oy.png" group-title="DAVE",iRead2Know
@@ -13530,9 +13530,9 @@ http://rtmp1.abnsat.com/hls/trinity.m3u8
 #EXTINF:-1 channel-id="6747" radio="false" group-title="Religious",Victory Television Network
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
 #EXTINF:-1 channel-id="6748" radio="false" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/250eba4fa772bc74.jpg" group-title="ROKU",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?bitsbb01
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="6749" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="ROKU",3News Now (KMTV-TV), CBS 3 KMTV, US
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?bitsbb01
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 channel-id="6750" radio="false" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1515.1405603197.png" group-title="ROKU",4Seven
 http://stream.tvtap.live:8081/live/uk-4seven.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMCA2OjI0OjEwIFBNJmhhc2hfdmFsdWU9VXcrczNmK0hvSS9JM0VUZUw1Vzhtdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 channel-id="6751" radio="false" tvg-id="5USA - UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/1200px-Channel_5_USA.svg.png" group-title="ROKU",5USA
@@ -13582,7 +13582,7 @@ https://ch.iptvmate.net/cb75fddf92d95dd1948fd0f980daecee.m3u8
 #EXTINF:-1 channel-id="6774" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Dreamworks_animation_telelvision_logo_2017.png" group-title="ROKU",Dreamworks Channel
 https://cdnjt25.useetv.com/joss/15/dreamworks/chunklist_b1344100_sleng_.m3u8
 #EXTINF:-1 channel-id="6775" radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="ROKU",Dubia 1
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?bitsbb01
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 channel-id="6776" radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/5f0fae7b521a179e78244a3eebf8822a6bebf9147007ac8cf42e385c4cc45d3e.png" group-title="ROKU",Dust 1
 https://dust.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 channel-id="6777" radio="false" tvg-logo="https://w7.pngwing.com/pngs/456/495/png-transparent-counter-strike-global-offensive-dust-ii-dust2-counter-strike-source-dust-ii-video-game-gabe-newell-valve-corporation-thumbnail.png" group-title="ROKU",Dust 2
@@ -13696,9 +13696,9 @@ https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
 #EXTINF:-1 channel-id="6834" radio="false" tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" group-title="Shop",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 channel-id="6835" radio="false" tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="Sports & Recreation",Adjarasport 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1 channel-id="6836" radio="false" tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="Sports & Recreation",Adjarasport 2
-https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:-1 channel-id="6837" radio="false" tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="Sports & Recreation",Arena Sport 1
 http://43.255.241.173/arena1/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="6838" radio="false" tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="Sports & Recreation",Arena Sport 2
@@ -14316,7 +14316,7 @@ https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 channel-id="7144" radio="false" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png" group-title="USTV",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 channel-id="7145" radio="false" tvg-id="CNBC USA" group-title="USTV",CNBC
-https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8?checkedby:iptvcat.com
+https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 channel-id="7146" radio="false" tvg-logo="https://i.imgur.com/47wqLpY.png" group-title="USTV",CNBC Europe
 https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 channel-id="7147" radio="false" tvg-logo="https://image.xumo.com/v1/providers/provider/230/300x300.png?type=color_onBlack" group-title="USTV",ConTV
@@ -15306,7 +15306,7 @@ https://ch.iptvmate.net/91bd68ba74a4a4ea9a7df8c8b283fa01.m3u8
 #EXTINF:-1 channel-id="7639" radio="false" tvg-id="Adult" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 #EXTINF:0 channel-id="7640" radio="false" tvg-id="Adult" tvg-logo="https://b1.pngbarn.com/png/491/992/tv-channel-icons-adult-adult-channel-png-clip-art.png" tvg-country="UN" group-title="XXX",PENTHOUSE
-http://66.northerniptv.ca:8000/live/george/george123/71118.m3u8?checkedby:iptvcat.com
+http://66.northerniptv.ca:8000/live/george/george123/71118.m3u8
 #EXTINF:-1 channel-id="7641" radio="false" tvg-id="Red Traffic big ass" tvg-name="Red Traffic big ass" tvg-logo="https://b1.pngbarn.com/png/491/992/tv-channel-icons-adult-adult-channel-png-clip-art.png" group-title="XXX",Red Traffic big ass
 http://live.redtraffic.xyz/bigass.m3u8?streamType=live
 #EXTINF:-1 channel-id="7642" radio="false" tvg-id="Red Traffic big dick" tvg-name="Red Traffic big dick" tvg-logo="https://b1.pngbarn.com/png/491/992/tv-channel-icons-adult-adult-channel-png-clip-art.png" group-title="XXX",Red Traffic big dick
