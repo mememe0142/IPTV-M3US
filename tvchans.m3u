@@ -13640,11 +13640,11 @@ https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 channel-id="6802" radio="false" tvg-logo="https://shoppersvila.com/wp-content/uploads/2020/01/Movies-Now-tv-Hollywood-Films-list-today-schedule-all-popular-Movies-Now-tv-shows-timing-live-tv-app-details.jpg" group-title="ROKU",Movies Now
 https://ch.iptvmate.net/5e9358478f689e2c1721f54a.m3u8
 #EXTINF:-1 channel-id="6803" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU",New Movie Releases 24/7
-https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
+https://cdn.stream.bitrave.tv/hls/newmoviestv1/index.m3u8
 #EXTINF:-1 channel-id="6804" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU",New Movie Releases 24/7 Alt
-https://usher.ttvnw.net/api/channel/hls/newmoviestv5.m3u8?allow_source=true&fast_bread=true&p=4839863&play_session_id=897b788f05ee4e53a7b37b74699f4fbc&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=f5075de101931be2ee195574bbb86b7523decf47&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22newmoviestv5%22%2C%22channel_id%22%3A602435044%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22M1PBPqGccdTrjzeO898FRJ3rNmERER5o%22%2C%22expires%22%3A1605221253%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3Anull%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2224.252.12.222%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.2.0
+https://cdn.stream.bitrave.tv/hls/newmoviestv1/index.m3u8
 #EXTINF:-1 channel-id="6806" radio="false" tvg-logo="https://www.listchallenges.com/f/lists/63879069-2c06-4430-9345-4325152efd73.jpg" group-title="ROKU",Random Movies
-https://cdn.stream.bitwave.tv/hls/Sboobydoob/index.m3u8
+https://cdn.stream.bitrave.tv/hls/roo/index.m3u8
 #EXTINF:-1 channel-id="6807" radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" group-title="ROKU",RunTime Movies
 https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1 channel-id="6808" radio="false" tvg-logo="https://img.iptvmate.net/9ef955ff5ebe0afd2b3e31f39c4d5d36.png" tvg-country="US" group-title="ROKU",Screamfest
@@ -13663,16 +13663,12 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 #EXTINF:-1 channel-id="6817" radio="false" tvg-id="SteelbirdMusic" tvg-logo="https://pbs.twimg.com/profile_images/706748153786032128/FVHuEdV6_400x400.jpg" group-title="ROKU",Steelbird Music
 https://ch.iptvmate.net/5e9358c68f689e2c1721f56d.m3u8
-#EXTINF:-1 channel-id="6819" radio="false" tvg-id="SUPERSENTAI247" tvg-logo="https://upload.zype.com/53c0457a69702d4d66040000/zobject_image/59923b895fa61415c5001fb9/1502755721/original.png" group-title="ROKU",SUPER SENTAI MARATHON
-https://dqrpb9wgowsf5.cloudfront.net/1f73655f9cde91408199_pkyomega_40449230654_1605166996/chunked/index-dvr.m3u8
 #EXTINF:-1 channel-id="6820" radio="false" tvg-id="SVT" tvg-logo="https://www.jellypages.com/images/haberler/2019/05/Tv-the-moose-may-wander-through-at-the-weekend.jpg" group-title="ROKU",SVT
 https://svt-vod-2p.akamaized.net/d0/world/20200428/cf14cd31-2d74-41c9-b093-4b862b5cca1d/master.m3u8
-#EXTINF:-1 channel-id="6821" radio="false" tvg-id="THX1138" tvg-logo="https://ih1.redbubble.net/image.616831384.3472/fposter,small,wall_texture,product,750x1000.u4.jpg" group-title="ROKU",T H X 1 1 3 8
-https://cdn.stream.bitwave.tv/hls/AwakeAmongTheLost/index.m3u8
 #EXTINF:-1 channel-id="6822" radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" group-title="ROKU",The Asylum
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 channel-id="6823" radio="false" tvg-id="TheSimpsons247" tvg-logo="https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart_s32simp.jpg" group-title="ROKU",The Simpsons
-https://cdn.stream.bitwave.tv/hls/Daly/index.m3u8
+https://cdn.stream.bitrave.tv/hls/thesimpsonstv1/index.m3u8
 #EXTINF:-1 channel-id="6824" radio="false" tvg-id="ToonamiAftermath247" tvg-logo="https://i.imgur.com/0zKEbnv.png" group-title="ROKU",Toonami Aftermath
 https://sp6.toonamiaftermath.com/livehttporigin/est/mj1B9C-F2hFVc-playlist.m3u8
 #EXTINF:-1 channel-id="6825" radio="false" tvg-logo="https://readfest.org/wp-content/uploads/2019/01/WINK-TV-gradient-wplate.jpg" group-title="ROKU",Wink TV
@@ -15345,9 +15341,3 @@ http://live.redtraffic.xyz/bigtits.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 channel-id="7659" radio="false" tvg-logo="https://img.iptvmate.net/f18d6d9266dfcd4d7a57dc7613d7e61e.jpg" tvg-country="US" group-title="XXX",Vivid TV Europe
 https://ch.iptvmate.net/aacb66f7adeffe7908f1b1141a9015ba.m3u8
-#EXTINF:-1 radio="false" group-title="test",test1
-https://stream-cdn.vaughnsoft.net/play/live__horror_.flv?s=0W45Wy3fmj9TWZmE1p-J-Q&e=1605556048
-#EXTINF:-1 radio="false" group-title="test",test2
-https://usher.ttvnw.net/api/channel/hls/animationtv21.m3u8?allow_source=true&fast_bread=true&p=9414488&play_session_id=3b8b90ab2c8f8dd17b2533ecaf94d9f1&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=d7cfc95843fa0400ea7ead2b7f4ae95afe9a3cc8&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22animationtv21%22%2C%22channel_id%22%3A552439104%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22nVHbBA6iYFX9OrM4lSL2PcjQj9OGFfDP%22%2C%22expires%22%3A1605560911%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2224.252.12.222%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.2.0
-#EXTINF:-1 radio="false" group-title="test",test3
-https://usher.ttvnw.net/api/channel/hls/newmoviestv5.m3u8?allow_source=true&fast_bread=true&p=8553566&play_session_id=bef92e650fa4bea9741fab998465a883&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=8004ad1a85bf68b3ab0efac9f74b4f4e467a209a&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22newmoviestv5%22%2C%22channel_id%22%3A602435044%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22nVHbBA6iYFX9OrM4lSL2PcjQj9OGFfDP%22%2C%22expires%22%3A1605561196%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2224.252.12.222%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.2.0
