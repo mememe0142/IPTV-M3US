@@ -13597,8 +13597,6 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 #EXTINF:-1 channel-id="6782" radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/cfa6efc260c33997a7a44e4d5c9fec43eb8ea113502544a68bcee35a20e4ec3d.png" group-title="ROKU",Filmrise Action
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 channel-id="6783" radio="false" tvg-id="Friends247" tvg-logo="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/03/SEC_57544369.jpg" group-title="ROKU",Friends 24x7
-http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/63597
 #EXTINF:-1 channel-id="6785" radio="false" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_gravitas.png" group-title="ROKU",Gravitas Movies
 https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 channel-id="6786" radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" group-title="ROKU",HARVEST TV
