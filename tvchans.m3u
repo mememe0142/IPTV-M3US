@@ -13640,9 +13640,9 @@ https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 channel-id="6802" radio="false" tvg-logo="https://shoppersvila.com/wp-content/uploads/2020/01/Movies-Now-tv-Hollywood-Films-list-today-schedule-all-popular-Movies-Now-tv-shows-timing-live-tv-app-details.jpg" group-title="ROKU",Movies Now
 https://ch.iptvmate.net/5e9358478f689e2c1721f54a.m3u8
 #EXTINF:-1 channel-id="6803" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU",New Movie Releases 24/7
-https://cdn.stream.bitrave.tv/hls/newmoviestv1/index.m3u8
+https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
 #EXTINF:-1 channel-id="6804" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU",New Movie Releases 24/7 Alt
-https://cdn.stream.bitrave.tv/hls/newmoviestv1/index.m3u8
+https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
 #EXTINF:-1 channel-id="6806" radio="false" tvg-logo="https://www.listchallenges.com/f/lists/63879069-2c06-4430-9345-4325152efd73.jpg" group-title="ROKU",Random Movies
 https://cdn.stream.bitrave.tv/hls/roo/index.m3u8
 #EXTINF:-1 channel-id="6807" radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" group-title="ROKU",RunTime Movies
