@@ -13621,11 +13621,11 @@ https://ch.iptvmate.net/5e936a0d09e7561d266372c9.m3u8
 	https://ch.iptvmate.net/5e93592bca80de49cb67aaee.m3u8
 #EXTINF:-1 channel-id="6797" radio="false" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Magic_TV_Logo.png" group-title="ROKU",Majic
 https://ch.iptvmate.net/5e935a22a655d41c45676ce2.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MBC_2_former_logo.jpg" group-title="ROKU",MBC 2 HD
+#EXTINF:-1 radio="false" tvg-id="Mbc Masr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MBC_2_former_logo.jpg" group-title="ROKU",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="ROKU",MBC Action HD
+#EXTINF:-1 radio="false" tvg-id="MBC Action" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="ROKU",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="ROKU",MBC Max HD
+#EXTINF:-1 radio="false" tvg-id="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="ROKU",MBC Max HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 #EXTINF:-1 channel-id="6798" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="ROKU",Mirror Now
 https://ch.iptvmate.net/5e9358458f689e2c1721f549.m3u8
@@ -13641,8 +13641,10 @@ https://ch.iptvmate.net/5e9358478f689e2c1721f54a.m3u8
 https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
 #EXTINF:-1 channel-id="6804" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" group-title="ROKU",New Movie Releases 24/7 Alt
 https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
-#EXTINF:-1 channel-id="6806" radio="false" tvg-logo="https://www.listchallenges.com/f/lists/63879069-2c06-4430-9345-4325152efd73.jpg" group-title="ROKU",Random Movies
+#EXTINF:-1 channel-id="6806" radio="false" tvg-id="RandomMovies" tvg-logo="https://www.listchallenges.com/f/lists/63879069-2c06-4430-9345-4325152efd73.jpg" group-title="ROKU",Random Movies
 https://cdn.stream.bitrave.tv/hls/roo/index.m3u8
+#EXTINF:-1 channel-id="6806" radio="false" tvg-id="RandomMovies" tvg-logo="https://www.listchallenges.com/f/lists/63879069-2c06-4430-9345-4325152efd73.jpg" group-title="ROKU",Random Movies 2
+https://cdn.stream.bitrave.tv/hls/JewishFunkenstein/index.m3u8
 #EXTINF:-1 channel-id="6807" radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" group-title="ROKU",RunTime Movies
 https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1 channel-id="6808" radio="false" tvg-logo="https://img.iptvmate.net/9ef955ff5ebe0afd2b3e31f39c4d5d36.png" tvg-country="US" group-title="ROKU",Screamfest
@@ -13671,6 +13673,8 @@ https://cdn.stream.bitrave.tv/hls/thesimpsonstv1/index.m3u8
 https://sp6.toonamiaftermath.com/livehttporigin/est/mj1B9C-F2hFVc-playlist.m3u8
 #EXTINF:-1 channel-id="6825" radio="false" tvg-logo="https://readfest.org/wp-content/uploads/2019/01/WINK-TV-gradient-wplate.jpg" group-title="ROKU",Wink TV
 https://ch.iptvmate.net/5e9358817105fc39963850fd.m3u8
+#EXTINF:-1 radio="false" group-title="ROKU",New Stream
+
 #EXTINF:-1 channel-id="6826" radio="false" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="Shop",Cruise 1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 #EXTINF:-1 channel-id="6827" radio="false" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gems TV
