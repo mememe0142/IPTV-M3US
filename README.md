@@ -1,3 +1,4 @@
+<div class="text-white bg-blue mb-2">
 # IPTV-M3US
 
 Welcome to Bitsbb01's Github, i do a lot in IPTV and in process of setting up the best kodi package...
@@ -7,5 +8,9 @@ Looking for way and may need to write a script to pull all the streams from hlsc
 
 
 
-If anyone can provide the webgrab files for Cine Film and the MBC channels, then i'll include those in my epg. I havent found a working english version at all yet..
+** If anyone can provide the webgrab files for Cine Film and the MBC channels, then i'll include those in my epg. I havent found a working english version at all yet.. **
 
+
+
+  .text-white on .bg-blue
+</div>
