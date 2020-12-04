@@ -11,5 +11,6 @@ Looking for way and may need to write a script to pull all the streams from hlsc
 ** If anyone can provide the webgrab files for Cine Film and the MBC channels, then i'll include those in my epg. I havent found a working english version at all yet.. **
 
 
+If you want to help contribute, please open an issue with the information on how you can contribute. I'll then contact you..
 
 </div>
