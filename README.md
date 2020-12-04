@@ -12,5 +12,4 @@ Looking for way and may need to write a script to pull all the streams from hlsc
 
 
 
-  .text-white on .bg-blue
 </div>
