@@ -13,4 +13,7 @@ Looking for way and may need to write a script to pull all the streams from hlsc
 
 If you want to help contribute, please goto Discussions and open a reply. with the information on how you can contribute. I'll then contact you..
 
+
+
+So i have an old version of Webgrab that still allows 1000+ epg's to be done, however the newest version of the webgrab only allows 250 at any time, so i'm looking to see how to convert the new site.ini's to work with the old version therefore allowing them to be included into it. Any ideas?
 </div>
