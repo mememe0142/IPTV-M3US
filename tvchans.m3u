@@ -14692,10 +14692,10 @@ http://103.135.208.14:8082/21/index.m3u8?token=2f23e26bbd3acf6666cf9d879e9444056
 #EXTINF:-1 channel-id="75" radio="false" tvg-chno="6749" group-title="MJJRB Network - India", Channel 75
 http://103.135.208.14:8082/46/index.m3u8?token=1eda361bed0ef9d79c3b4b1e0afe7e50d157537b-f1574a2330979a399d1c29f8f9d0f7eb-1607075729-1607064929
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/gHBvHes.jpg" tvg-chno="6750" group-title="Movies Plus",& Flix HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" tvg-chno="6751" group-title="Movies Plus",& Prive HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
-#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://i.imgur.com/UkcgDgO.jpg" tvg-chno="6752" group-title="Movies Plus",&Flix
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/UkcgDgO.jpg" tvg-chno="6752" group-title="Movies Plus",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://i.imgur.com/bPQkvtO.jpg" tvg-chno="6753" group-title="Movies Plus",24 Box TV
 https://hls.247box.live/hls/stream.m3u8
@@ -14725,6 +14725,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ec
 https://ch.iptvmate.net/21bf3c3a9cab76f6af2796d543263433.m3u8
 #EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://i.imgur.com/KjDQSPu.jpg" tvg-chno="6765" group-title="Movies Plus",Black Widow TV
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://bloody-disgusting.com/wp-content/uploads/2020/09/bdtv.jpg" group-title="Movies Plus",Bloody Disgusting TV
+https://bloodydisgusting-roku-us.cinedigm.com/midroll/rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=false&is_lat=1&content=48aff911c82d50ceba23e81cdaf0866c&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=cinedigm&bmodel=bm1&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/amagi_hls_data_xumo-host-roku-bloodydisgusting/CDN/playlist.m3u8
 #EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCM.png" tvg-chno="6766" group-title="Movies Plus",CCM
 https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 channel-id="18" radio="false" tvg-id="dummy004" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" tvg-chno="6767" group-title="Movies Plus",Channel 4
@@ -14735,9 +14737,9 @@ http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="21" radio="false" tvg-id="dummy010" tvg-logo="https://i.imgur.com/E932mKv.jpg" tvg-chno="6770" group-title="Movies Plus",Cine Film Alt
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 channel-id="23" radio="false" tvg-id="Cinemax [East]" tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-chno="6772" group-title="Movies Plus",Cinemax
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 channel-id="22" radio="false" tvg-id="Cinemax [East]" tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-chno="6771" group-title="Movies Plus",Cinemax
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-id="Cinemax [East]" tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-chno="6772" group-title="Movies Plus",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 channel-id="24" radio="false" tvg-id="561c5b0dada51f8004c4d855" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" tvg-chno="6773" group-title="Movies Plus",Classic Movies Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -14745,30 +14747,34 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c
 https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
 #EXTINF:-1 channel-id="26" radio="false" tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" tvg-chno="6775" group-title="Movies Plus",CMT Westerns
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/1f226546373d2c3e4df00e9bc6725e82e413f26e455afe9baa8e2f8d8f3dbc3e.png" group-title="Movies Plus",Cocoro TV
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/71601aa7-b60a-408a-94f8-b7099bd81035/1.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Movies Plus",Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="27" radio="false" tvg-id="DreamTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Dream_TV_logosu.png" tvg-chno="6776" group-title="Movies Plus",DREAM TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 channel-id="28" radio="false" tvg-logo="http://www.arabe-media.com/tv/img315.png" tvg-chno="6777" tvg-link="http://guide.nextgen-iptv.com/guide.xml" group-title="Movies Plus",Dubai One
+#EXTINF:-1 channel-id="28" radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" tvg-chno="6777" tvg-link="http://guide.nextgen-iptv.com/guide.xml" group-title="Movies Plus",Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 channel-id="29" radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" tvg-chno="6778" tvg-link="http://guide.nextgen-iptv.com/guide.xml" group-title="Movies Plus",Dubai One
+#EXTINF:-1 channel-id="29" radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" tvg-chno="6778" tvg-link="http://guide.nextgen-iptv.com/guide.xml" group-title="Movies Plus",Dubai One Alt 1
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 channel-id="30" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" tvg-chno="6779" group-title="Movies Plus",Dust | Channel 1
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="29" radio="false" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" tvg-chno="6778" tvg-link="http://guide.nextgen-iptv.com/guide.xml" group-title="Movies Plus",Dubai One Alt 2
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 1
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="31" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" tvg-chno="6780" group-title="Movies Plus",Dust | Channel 2
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
+#EXTINF:-1 channel-id="30" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" tvg-chno="6779" group-title="Movies Plus",Dust | Channel 1
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudust/CDN/master.m3u8?p=roku
+#EXTINF:-1 channel-id="31" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" tvg-chno="6780" group-title="Movies Plus",Dust | Channel 2
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
 #EXTINF:-1 channel-id="32" radio="false" tvg-id="E4+1 - UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" tvg-chno="6781" group-title="Movies Plus",E4
 http://178.132.3.162:88/E4/video.m3u8?token=test
 #EXTINF:-1 channel-id="33" radio="false" tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" tvg-chno="6782" group-title="Movies Plus",Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
-#EXTINF:-1 channel-id="34" radio="false" tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" tvg-chno="6783" group-title="Movies Plus",Electric Now | HD
-https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8?&ads.device_manufacturer=&ads.device_model=&ads.device_type=desktop&ads.partner=internal&ads.device_id=06b83095fc1867c979e49ea7318a5abb&ads.device_width=1280&ads.device_height=720
 #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now | HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+#EXTINF:-1 channel-id="34" radio="false" tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" tvg-chno="6783" group-title="Movies Plus",Electric Now | HD
+https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8?&ads.device_manufacturer=&ads.device_model=&ads.device_type=desktop&ads.partner=internal&ads.device_id=06b83095fc1867c979e49ea7318a5abb&ads.device_width=1280&ads.device_height=720
 #EXTINF:-1 channel-id="35" radio="false" tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" tvg-chno="6784" group-title="Movies Plus",Film 4
 http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 channel-id="36" radio="false" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple7/v4/0b/2f/29/0b2f29b3-f806-e5e0-708a-a2c719471121/mzl.sewzkvmm.jpg/246x0w.jpg" tvg-chno="6785" group-title="Movies Plus",Film Box
@@ -14779,6 +14785,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_500
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 #EXTINF:-1 channel-id="39" radio="false" tvg-logo="https://i.imgur.com/ypQRBrH.png" tvg-chno="6788" group-title="Movies Plus",Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L.png" group-title="Movies Plus",filmrise family
+https://dai2.xumo.com/xumocdn/p=roku&rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=72ce2ae6fdbb5cdd8d156fe6111799a2&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=filmrise&channelStore=us&tags=ROKU_CONTENT_TAGS/amagi_hls_data_xumo1212A-filmrisefamily/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 channel-id="40" radio="false" tvg-logo="https://i.imgur.com/cQZdGc0.png" tvg-chno="6789" group-title="Movies Plus",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 #EXTINF:-1 channel-id="41" radio="false" tvg-id="58e55b14ad8e9c364d55f717" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" tvg-chno="6790" group-title="Movies Plus",Flicks of Fury
@@ -14811,19 +14819,23 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 #EXTINF:-1 channel-id="55" radio="false" tvg-id="HBO Signature [East]" tvg-logo="https://i.imgur.com/2VYyqS9.png" tvg-chno="6804" group-title="Movies Plus",HBO Signature
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://media2.fdncms.com/stranger/imager/u/large/42159704/1575334406-screenshot_2019-12-02_16.52.51.png" group-title="Movies Plus",Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:-1 channel-id="56" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HollywoodClassics_v2_290x290.png?raw=true" tvg-chno="6805" group-title="Movies Plus",Hollywood Classics
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:-1 channel-id="57" radio="false" tvg-id="HorrifiedTV" tvg-logo="https://img.iptvmate.net/d0d09fef732b08302c146e930a5ee6b7.jpg" tvg-chno="6806" tvg-country="US" group-title="Movies Plus",Horrified TV
-https://ch.iptvmate.net/5a3b1ade6d04d75f6bff658796a061dd.m3u8
 #EXTINF:-1 channel-id="58" radio="false" tvg-id="HorrifiedTV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HorifiedTV_898x898.png?raw=true" tvg-chno="6807" group-title="Movies Plus",Horrified TV
 https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
+#EXTINF:-1 channel-id="57" radio="false" tvg-id="HorrifiedTV" tvg-logo="https://img.iptvmate.net/d0d09fef732b08302c146e930a5ee6b7.jpg" tvg-chno="6806" tvg-country="US" group-title="Movies Plus",Horrified TV
+https://ch.iptvmate.net/5a3b1ade6d04d75f6bff658796a061dd.m3u8
 #EXTINF:-1 channel-id="59" radio="false" tvg-id="Horror247" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/2c4af0a3-b851-f212-1806-52cfe91abd28-Horror247_featured.jpg" tvg-chno="6808" group-title="Movies Plus",Horror 24/7
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 channel-id="60" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true" tvg-chno="6809" group-title="Movies Plus",It's At The Movies
 https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
-#EXTINF:-1 channel-id="61" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" tvg-chno="6810" group-title="Movies Plus",Lone Star
-https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
+#EXTINF:-1 radio="false" tvg-logo="https://thumbs.dreamstime.com/b/illustration-gamer-girl-mascot-esport-logo-design-gamer-girl-mascot-esport-logo-design-191859916.jpg" group-title="Movies Plus",Kids Gamers TV
+https://studio71-roku-us.amagi.tv/amRdirect/rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=true&is_lat=1&content=a5a3508169d151d5b60689f40f994623&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&bmodel=bm1&studio_id=studio71&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/hls/amagi_hls_data_studio71A-studio71roku/CDN/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="Movies Plus",Lone Star
+https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
+#EXTINF:-1 channel-id="61" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" tvg-chno="6810" group-title="Movies Plus",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 #EXTINF:-1 channel-id="62" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MagellanTVNow_503x503.png?raw=true" tvg-chno="6811" group-title="Movies Plus",Magellan TV Now | HD
 https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5f5132e262fe160040f26bf2&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.178&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
@@ -14841,13 +14853,17 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 channel-id="68" radio="false" tvg-logo="https://i.imgur.com/smmZBzH.png" tvg-chno="6817" group-title="Movies Plus",MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MidnightPulp_200x200.png?raw=true" group-title="Movies Plus",Midnight Pulp TV
-https://midnightpulp-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://www.midnightpulp.com/channels/mp/channel-banner.png" group-title="Movies Plus",Midnight Pulp
+https://6f671bf9afc44c3d80496c424336b3b1.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_MidnightPulp/4bb2666a-fc0c-4f58-abfd-8053495a8f4f/1.m3u8
 #EXTINF:-1 channel-id="69" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MidnightPulp_200x200.png?raw=true" tvg-chno="6818" group-title="Movies Plus",Midnight Pulp TV
 https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MidnightPulp_200x200.png?raw=true" group-title="Movies Plus",Midnight Pulp TV
+https://midnightpulp-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="70" radio="false" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" tvg-chno="6819" group-title="Movies Plus",MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 channel-id="71" radio="false" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" tvg-chno="6820" group-title="Movies Plus",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 channel-id="70" radio="false" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" tvg-chno="6819" group-title="Movies Plus",MNX
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Movies Plus",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 channel-id="72" radio="false" tvg-id="Movee4U" tvg-logo="https://i.imgur.com/cb3fbiu.png" tvg-chno="6821" group-title="Movies Plus",Movee 4U
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
@@ -14863,10 +14879,14 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 channel-id="76" radio="false" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/12/07/Untitled-1_17.jpg?itok=FNreB2PE" tvg-chno="6825" group-title="Movies Plus",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 channel-id="79" radio="false" tvg-id="Paramount Network USA - Eastern Feed" tvg-logo="https://thecomeback.com/wp-content/uploads/2017/02/Paramount-Studios-Mountain-Logo-Wallpaper.jpg" tvg-chno="6828" group-title="Movies Plus",Paramount
-http://92.246.85.106:8000/play/a054/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/tribecashortlist/heroes/mobileweb_3p-collection-banner_640x300._CB408667146_UR1280,600_.jpg" group-title="Movies Plus",Moviesphere
+https://moviesphere-roku.amagi.tv/amRdirect/rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=false&is_lat=1&content=4f41754c25e159dfb8bae8d9e6101bad&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=lionsgate&bmodel=bm1&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.ytimg.com/vi/JCMlVSaGfn4/hqdefault.jpg" group-title="Movies Plus",MyTime Movie Network
+https://mytime-roku.cinedigm.com/midroll/rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=false&is_lat=1&content=2afc4ea335ce53f59fbed4e52ee4f55d&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&bmodel=bm1&studio_id=cinedigm&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/amagi_hls_data_xumo-host-mytime-roku/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1 channel-id="78" radio="false" tvg-id="Paramount Network USA - Eastern Feed" tvg-logo="https://thecomeback.com/wp-content/uploads/2017/02/Paramount-Studios-Mountain-Logo-Wallpaper.jpg" tvg-chno="6827" group-title="Movies Plus",PARAMOUNT
 http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 channel-id="79" radio="false" tvg-id="Paramount Network USA - Eastern Feed" tvg-logo="https://thecomeback.com/wp-content/uploads/2017/02/Paramount-Studios-Mountain-Logo-Wallpaper.jpg" tvg-chno="6828" group-title="Movies Plus",Paramount
+http://92.246.85.106:8000/play/a054/index.m3u8
 #EXTINF:-1 channel-id="80" radio="false" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" tvg-chno="6829" group-title="Movies Plus",Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 channel-id="81" radio="false" tvg-id="5d4db961034718b2f52f9e52" tvg-logo="https://images.pluto.tv/channels/5d4db961034718b2f52f9e52/colorLogoPNG.png" tvg-chno="6830" group-title="Movies Plus",Pluto TV 007
@@ -14907,28 +14927,30 @@ http://92.246.85.106:8000/play/a04x/index.m3u8
 http://92.246.85.106:8000/play/a04y/index.m3u8
 #EXTINF:-1 channel-id="99" radio="false" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg" tvg-chno="6848" group-title="Movies Plus",RED HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 channel-id="100" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RetroCrush_576x576.png?raw=true" tvg-chno="6849" group-title="Movies Plus",RetroCrush TV
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RetroCrush_576x576.png?raw=true" group-title="Movies Plus",RetroCrush TV
 https://digitalmediarights-retrocrush-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="100" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RetroCrush_576x576.png?raw=true" tvg-chno="6849" group-title="Movies Plus",RetroCrush TV
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 #EXTINF:-1 channel-id="101" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" tvg-chno="6850" group-title="Movies Plus",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Movies Plus",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://pbs.twimg.com/profile_images/801168007770689536/SZts3hOA_400x400.jpg" group-title="Movies Plus",Samuel Goldwyn Movie Channel
+https://samuelgoldwyn-films-roku.amagi.tv/amRdirect/rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=false&is_lat=1&content=52421ea130d15724b9a44a11f33d4e27&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&bmodel=bm1&studio_id=samuel_goldwyn&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/hls/amagi_hls_data_samuelgol-sgfilms-roku/CDN/playlist.m3u8
 #EXTINF:-1 channel-id="102" radio="false" tvg-id="SciFi4U" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SciFi4U_576x576.png?raw=true" tvg-chno="6851" group-title="Movies Plus",Sci-Fi 4U
 https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
 #EXTINF:-1 channel-id="103" radio="false" tvg-logo="https://i.imgur.com/yfEizcN.png" tvg-chno="6852" group-title="Movies Plus",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/kmHryT4.png" group-title="Movies Plus",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="Movies Plus",Shout! Factory TV | HD
-https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
 #EXTINF:-1 channel-id="104" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" tvg-chno="6853" group-title="Movies Plus",Shout! Factory TV | HD
 https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
-#EXTINF:-1 channel-id="106" radio="false" tvg-id="Showtime HDTV [East]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" tvg-chno="6855" group-title="Movies Plus",Showtime HD
-http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="Movies Plus",Shout! Factory TV | HD
+https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
 #EXTINF:-1 channel-id="105" radio="false" tvg-id="Showtime HDTV [East]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" tvg-chno="6854" group-title="Movies Plus",Showtime HD
 http://80.80.160.168/live/7/2500000/live.m3u8
+#EXTINF:-1 channel-id="106" radio="false" tvg-id="Showtime HDTV [East]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" tvg-chno="6855" group-title="Movies Plus",Showtime HD
+http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 channel-id="107" radio="false" tvg-id="Sony Action - UK" tvg-chno="6856" group-title="Movies Plus",Sony Action
 http://92.246.85.106:8000/play/a04k/index.m3u8
 #EXTINF:-1 channel-id="108" radio="false" tvg-id="Sony Channel - UK" tvg-chno="6857" group-title="Movies Plus",Sony Channel
@@ -14949,16 +14971,16 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74&live=1&app_b
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 #EXTINF:-1 channel-id="115" radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" tvg-chno="6864" group-title="Movies Plus",The Asylum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 channel-id="116" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" tvg-chno="6865" group-title="Movies Plus",The Asylum Movie Channel
-https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="116" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" tvg-chno="6865" group-title="Movies Plus",The Asylum Movie Channel
+https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movies Plus",The Film Detective
+https://distro.akamaized.net/index.m3u8
 #EXTINF:-1 channel-id="118" radio="false" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" tvg-chno="6867" group-title="Movies Plus",The Film Detective
 https://distro.akamaized.net/index.m3u8
 #EXTINF:-1 channel-id="117" radio="false" tvg-logo="https://img.iptvmate.net/839be87126f2e5f196f7c493b99ca0b4.jpg" tvg-chno="6866" tvg-country="US" group-title="Movies Plus",The Film Detective
 https://ch.iptvmate.net/b48e8f0c55f98ccdd8edd043273c4c2f.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movies Plus",The Film Detective
-https://distro.akamaized.net/index.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective | HD
 https://tfd-distro.amagi.tv/index.m3u8
 #EXTINF:-1 channel-id="119" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" tvg-chno="6868" group-title="Movies Plus",The Film Detective | HD
@@ -14967,6 +14989,8 @@ https://tfd-distro.amagi.tv/index.m3u8
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 #EXTINF:-1 channel-id="120" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" tvg-chno="6869" group-title="Movies Plus",The Preview Channel
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://image.pbs.org/contentchannels/g27vGqn-show-poster2x3-BJWfzGf.jpg" group-title="Movies Plus",This Old House
+https://3c5730ca3bb44fa5839cb6432158751c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_ThisOldHouse/0b7abe1e-b342-492f-ae87-0285bbb1bd1a/4.m3u8
 #EXTINF:-1 channel-id="121" radio="false" tvg-id="ThrillerMAX [East]" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png" tvg-chno="6870" group-title="Movies Plus",Thrill
 https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 #EXTINF:-1 channel-id="122" radio="false" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-chno="6871" group-title="Movies Plus",TV Black Cinema
@@ -14977,6 +15001,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u
 http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 channel-id="125" radio="false" tvg-id="Westerns4U" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_Westerns4U.png" tvg-chno="6874" group-title="Movies Plus",Westerns 4U
 https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/HxKisWb.png" group-title="Movies Plus",Wixlar
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="Movies Plus",Xumo Free Westerns
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 channel-id="126" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" tvg-chno="6875" group-title="Movies Plus",Xumo Free Westerns
@@ -18339,6 +18365,64 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Travel & Tourism",Bahamas | Island Luck
 https://iltv.cachefly.net/live/live/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E1
+https://cdn03.vidmark.seermedia.io/distro/renditions/437c060b-aae2-43fb-b194-f25c80fe48a5/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E2
+https://cdn03.vidmark.seermedia.io/distro/renditions/437c060b-aae2-43fb-b194-f25c80fe48a5/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E3
+https://cdn03.vidmark.seermedia.io/distro/renditions/b864e882-69c8-46bc-b43e-541fd9f19c3d/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E4
+https://cdn03.vidmark.seermedia.io/distro/renditions/061f3428-3cfb-4fa1-ae11-cdf533ebbcb0/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E5
+https://cdn03.vidmark.seermedia.io/distro/renditions/5f4fff6a-86b4-4049-bdb7-0a1abacb3194/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E6
+https://cdn03.vidmark.seermedia.io/distro/renditions/1019486a-05ff-4772-a3ba-baaca7acb700/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E7
+https://cdn03.vidmark.seermedia.io/distro/renditions/377d7243-d33a-48ab-ab7d-60a4aea03907/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E8
+https://cdn03.vidmark.seermedia.io/distro/renditions/42a7f349-bd99-43af-af3c-9c96ddb125e4/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E9
+https://cdn03.vidmark.seermedia.io/distro/renditions/7079593e-c25b-4bc1-87d1-7dcd029b727c/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E10
+https://cdn03.vidmark.seermedia.io/distro/renditions/e115f8e0-c396-4618-a355-0f3dfe6f4224/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E11
+https://cdn03.vidmark.seermedia.io/distro/renditions/173fa118-7a90-4011-9769-88a1e3179b82/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E12
+https://cdn03.vidmark.seermedia.io/distro/renditions/4bfea331-8683-4a08-a896-4dc5a45ab9f3/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E13
+https://cdn03.vidmark.seermedia.io/distro/renditions/0fc60072-4424-4bcc-98fe-291b3c8cfd1d/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E14
+https://cdn03.vidmark.seermedia.io/distro/renditions/8208d5a5-6851-4da0-b2c0-2ccfd69acb33/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E15
+https://cdn03.vidmark.seermedia.io/distro/renditions/25d66bdd-f3ed-44b4-9996-54bddb190b39/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E16
+https://cdn03.vidmark.seermedia.io/distro/renditions/2703aa7b-7fbb-42aa-92c5-eccc6c63d729/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E17
+https://cdn03.vidmark.seermedia.io/distro/renditions/19464a3d-fecf-4110-8cbb-f3cdb8fb4365/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E18
+https://cdn03.vidmark.seermedia.io/distro/renditions/51796b7c-cba2-49bd-bbd9-df586361f7d5/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E19
+https://cdn03.vidmark.seermedia.io/distro/renditions/a6f24ed5-169e-423a-a25c-993449eb3d17/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E20
+https://cdn03.vidmark.seermedia.io/distro/renditions/0ce42ba7-a244-4ff4-804a-63cdeabd1f1e/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E21
+https://cdn03.vidmark.seermedia.io/distro/renditions/48734d16-9d86-4021-8c4d-1c0da194534f/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E22
+https://cdn03.vidmark.seermedia.io/distro/renditions/dbc70257-ca4b-47e5-af7f-190a3c9129e0/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E23
+https://cdn03.vidmark.seermedia.io/distro/renditions/3fcd0a76-e856-46d4-9c97-e2e287029cda/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E24
+https://cdn03.vidmark.seermedia.io/distro/renditions/353a3874-a3d7-4a61-88e3-9f7cbdf04896/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E25
+https://cdn03.vidmark.seermedia.io/distro/renditions/4756078b-5d71-4d19-abbe-b78d305cf6fd/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" group-title="TV Shows - Alf",S1E26
+https://cdn03.vidmark.seermedia.io/distro/renditions/058696ba-916b-4526-9e83-9c31850b83eb/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/s2.jpg" group-title="TV Shows - Alf",S2E1
+https://cdn03.vidmark.seermedia.io/distro/renditions/0ce42ba7-a244-4ff4-804a-63cdeabd1f1e/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/s3.jpg" group-title="TV Shows - Alf",S3E1
+https://cdn03.vidmark.seermedia.io/distro/renditions/0ce42ba7-a244-4ff4-804a-63cdeabd1f1e/480p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/s4.jpg" group-title="TV Shows - Alf",S4E1
+https://cdn03.vidmark.seermedia.io/distro/renditions/0ce42ba7-a244-4ff4-804a-63cdeabd1f1e/480p.m3u8
 #EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-chno="7815" group-title="TVS USA",TVS Boxing
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://i.imgur.com/pXOyNEy.png" tvg-chno="7816" group-title="TVS USA",TVS Classic Movies
