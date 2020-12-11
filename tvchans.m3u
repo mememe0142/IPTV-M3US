@@ -171,7 +171,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9529aa932c837b493972cb/
 https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="PBS Create (NET-DT3) Nebraska Educational TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Education
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5f10f6c04a9f7c7c27570dd3/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-id="SUPERSENTAI247" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",EN
+#EXTINF:-1 radio="false" tvg-id="5595e43c66ace1652e63c6a2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",EN
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Epic Misses & Mayhem
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
@@ -185,7 +185,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95334c932c837b493972fb/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Fun Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2253cd5eeee0f5a4094b9/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Gameplay
+#EXTINF:-1 radio="false" tvg-id="5d51dd5d369acdb278dfb05d" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Gameplay
 https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Giggle Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
@@ -265,19 +265,19 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2267fd5eeee0f5a4094c0/
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",We Are the Davises
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2253cd5eeee0f5a4094b9/playlist.m3u8
-#EXTINF:-1 channel-id="1" radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="34" group-title="Business",Bloomberg TV
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="34" group-title="Business",Bloomberg TV
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 channel-id="2" radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="35" group-title="Business",Bloomberg TV
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="35" group-title="Business",Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 channel-id="3" radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" tvg-chno="36" group-title="Business",Bloomberg TV
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-name="Bloomberg TV USA-US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" tvg-chno="36" group-title="Business",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 channel-id="4" radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="37" group-title="Business",Bloomberg TV
+#EXTINF:-1 channel-id="4" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="37" group-title="Business",Bloomberg TV
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1 channel-id="5" radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" tvg-chno="38" group-title="Business",Bloomberg TV
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-name="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" tvg-chno="38" group-title="Business",Bloomberg TV
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index.m3u8
-#EXTINF:-1 channel-id="6" radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="39" group-title="Business",Bloomberg TV
+#EXTINF:-1 channel-id="6" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="39" group-title="Business",Bloomberg TV
 https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 channel-id="7" radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="40" group-title="Business",Bloomberg TV
+#EXTINF:-1 channel-id="7" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="40" group-title="Business",Bloomberg TV
 https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 #EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-chno="41" group-title="Business",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
@@ -965,7 +965,7 @@ https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 channel-id="20" radio="false" tvg-id="Movies Now" tvg-name="Movies Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" tvg-chno="320" group-title="DAVE",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 channel-id="21" radio="false" tvg-id="POP - East" tvg-name="Pop" tvg-logo="New Logo" tvg-chno="321" group-title="DAVE",Pop
+#EXTINF:-1 channel-id="21" radio="false" tvg-id="5d14fd1a252d35decbc4080c" tvg-name="Pop" tvg-logo="New Logo" tvg-chno="321" group-title="DAVE",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",ACCDN
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
@@ -1215,9 +1215,9 @@ https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22729/eleven-sports/logo_20200129_230834.png" group-title="DISTRO USA",FTF
 https://a.jsrdn.com/broadcast/432fS3OX/c.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22718/gusto-tv/logo_20191213_004422.png" group-title="DISTRO USA",gusto
+#EXTINF:-1 radio="false" tvg-id="5c5c47f3662f6b3c476fc03e" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22718/gusto-tv/logo_20191213_004422.png" group-title="DISTRO USA",gusto
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
-#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://i.imgur.com/L0aXwHX.png" tvg-chno="329" group-title="DISTRO USA",Gusto TV
+#EXTINF:-1 channel-id="8" radio="false" tvg-id="5c5c47f3662f6b3c476fc03e" tvg-logo="https://i.imgur.com/L0aXwHX.png" tvg-chno="329" group-title="DISTRO USA",Gusto TV
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 #EXTINF:-1 channel-id="9" radio="false" tvg-name="Honor TV" tvg-logo="https://i.imgur.com/FwXJj0L.png" tvg-chno="330" group-title="DISTRO USA",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
@@ -1261,7 +1261,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22765/outside-tv/logo_20200205_182211.png" group-title="DISTRO USA",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-#EXTINF:-1 channel-id="17" radio="false" tvg-name="People TV" tvg-logo="https://i.imgur.com/fY0d5DK.png" tvg-chno="338" group-title="DISTRO USA",People TV
+#EXTINF:-1 channel-id="17" radio="false" tvg-id="59c2c3ae40e64939daad8b76" tvg-name="People TV" tvg-logo="https://i.imgur.com/fY0d5DK.png" tvg-chno="338" group-title="DISTRO USA",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22783/popstar-tv/logo_20191212_185543.png" group-title="DISTRO USA",Pop Star
 https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
@@ -1361,7 +1361,7 @@ https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
 https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_TBN_485x485.png?raw=true" group-title="Faith & Spirituality",TBN US
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
-#EXTINF:-1 radio="false" tvg-id="Hillsong - UK" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Hillsong_360x360.png?raw=true" group-title="Faith & Spirituality",Hillsong
+#EXTINF:-1 radio="false" tvg-id="5d486b87428fe37d8cadba44" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Hillsong_360x360.png?raw=true" group-title="Faith & Spirituality",Hillsong
 https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8?Faith
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Smile_512x512.png?raw=true" group-title="Faith & Spirituality",Smile
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
@@ -14717,9 +14717,9 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 https://moviesphere-roku.amagi.tv/amRdirect/rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=false&is_lat=1&content=4f41754c25e159dfb8bae8d9e6101bad&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=lionsgate&bmodel=bm1&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.ytimg.com/vi/JCMlVSaGfn4/hqdefault.jpg" group-title="Movies Plus",MyTime Movie Network
 https://mytime-roku.cinedigm.com/midroll/rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=false&is_lat=1&content=2afc4ea335ce53f59fbed4e52ee4f55d&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&bmodel=bm1&studio_id=cinedigm&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/amagi_hls_data_xumo-host-mytime-roku/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:-1 channel-id="78" radio="false" tvg-id="Paramount Network USA - Eastern Feed" tvg-logo="https://thecomeback.com/wp-content/uploads/2017/02/Paramount-Studios-Mountain-Logo-Wallpaper.jpg" tvg-chno="6827" group-title="Movies Plus",PARAMOUNT
+#EXTINF:-1 channel-id="78" radio="false" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://thecomeback.com/wp-content/uploads/2017/02/Paramount-Studios-Mountain-Logo-Wallpaper.jpg" tvg-chno="6827" group-title="Movies Plus",PARAMOUNT
 http://paramount.live.flumotion.com/live/playlist.m3u8
-#EXTINF:-1 channel-id="79" radio="false" tvg-id="Paramount Network USA - Eastern Feed" tvg-logo="https://thecomeback.com/wp-content/uploads/2017/02/Paramount-Studios-Mountain-Logo-Wallpaper.jpg" tvg-chno="6828" group-title="Movies Plus",Paramount
+#EXTINF:-1 channel-id="79" radio="false" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://thecomeback.com/wp-content/uploads/2017/02/Paramount-Studios-Mountain-Logo-Wallpaper.jpg" tvg-chno="6828" group-title="Movies Plus",Paramount
 http://92.246.85.106:8000/play/a054/index.m3u8
 #EXTINF:-1 channel-id="80" radio="false" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" tvg-chno="6829" group-title="Movies Plus",Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -14751,7 +14751,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 channel-id="94" radio="false" tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" tvg-chno="6843" group-title="Movies Plus",Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 channel-id="95" radio="false" tvg-id="POP - East" tvg-chno="6844" group-title="Movies Plus",POP
+#EXTINF:-1 channel-id="95" radio="false" tvg-id="5d14fd1a252d35decbc4080c" tvg-chno="6844" group-title="Movies Plus",POP
 http://92.246.85.106:8000/play/a04o/index.m3u8
 #EXTINF:-1 channel-id="96" radio="false" tvg-id="POP Max - UK" tvg-chno="6845" group-title="Movies Plus",POP Max
 http://92.246.85.106:8000/play/a04p/index.m3u8
@@ -14823,13 +14823,13 @@ https://tfd-distro.amagi.tv/index.m3u8
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" group-title="Movies Plus",The Preview Channel
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.pbs.org/contentchannels/g27vGqn-show-poster2x3-BJWfzGf.jpg" group-title="Movies Plus",This Old House
+#EXTINF:-1 radio="false" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://image.pbs.org/contentchannels/g27vGqn-show-poster2x3-BJWfzGf.jpg" group-title="Movies Plus",This Old House
 https://3c5730ca3bb44fa5839cb6432158751c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_ThisOldHouse/0b7abe1e-b342-492f-ae87-0285bbb1bd1a/4.m3u8
-#EXTINF:-1 channel-id="121" radio="false" tvg-id="ThrillerMAX [East]" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png" tvg-chno="6870" group-title="Movies Plus",Thrill
+#EXTINF:-1 channel-id="121" radio="false" tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png" tvg-chno="6870" group-title="Movies Plus",Thrill
 https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 #EXTINF:-1 channel-id="122" radio="false" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-chno="6871" group-title="Movies Plus",TV Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 channel-id="123" radio="false" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-chno="6872" group-title="Movies Plus",TV Movies
+#EXTINF:-1 channel-id="123" radio="false" tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-chno="6872" group-title="Movies Plus",TV Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 channel-id="124" radio="false" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-chno="6873" group-title="Movies Plus",TV Movies 2
 http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -16485,9 +16485,9 @@ https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
 http://stream.tvtap.live:8081/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMCA2OjQzOjE2IFBNJmhhc2hfdmFsdWU9cTU4NndGMXc5NnltSjIyS0R1dFYxZz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://img2.pngio.com/brand-new-new-logo-for-animal-planet-by-chermayeff-geismar-haviv-animal-planet-logo-png-2000_832.png" tvg-chno="7505" group-title="ROKU",Animal Planet (USA)
 http://stream.tvtap.live:8081/live/us-animal.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMCA2OjQ1OjAxIFBNJmhhc2hfdmFsdWU9RmtrMTg3RmNLYnYxRnlIcnJKcFd6Zz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 channel-id="14" radio="false" tvg-id="SHOxBET HDTV [East]" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" tvg-chno="7506" group-title="ROKU",BET
+#EXTINF:-1 channel-id="14" radio="false" tvg-id="5ca670f6593a5d78f0e85aed" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" tvg-chno="7506" group-title="ROKU",BET
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 channel-id="15" radio="false" tvg-id="BET Her" tvg-logo="https://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png" tvg-chno="7507" group-title="ROKU",BET Her
+#EXTINF:-1 channel-id="15" radio="false" tvg-id="5d51e6949ab8e2b35bdcaa9f" tvg-logo="https://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png" tvg-chno="7507" group-title="ROKU",BET Her
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=175&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 channel-id="16" radio="false" tvg-id="5b68a18823ecb93393cba2f1" tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png" tvg-chno="7508" group-title="ROKU",British TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -16593,7 +16593,7 @@ https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-To
 https://ch.iptvmate.net/701984f5ad4d6d69d1a0d9b0b6a1f028.m3u8
 #EXTINF:-1 channel-id="67" radio="false" tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-logo="https://blog.shoutfactory.com/blog/wp-content/uploads/2020/06/Shout_crop.jpg" tvg-chno="7559" group-title="ROKU",Shout Factory
 https://shoutfactorytv-stirr.amagi.tv/playlist1080ps.m3u8
-#EXTINF:-1 channel-id="68" radio="false" tvg-logo="https://www.shoutfactory.com/corp/userFiles/uploads/logos/logo-sftv.png" tvg-chno="7560" group-title="ROKU",Shout! Factory TV
+#EXTINF:-1 channel-id="68" radio="false" tvg-id="55a6a3275616b6240c26f393" tvg-logo="https://www.shoutfactory.com/corp/userFiles/uploads/logos/logo-sftv.png" tvg-chno="7560" group-title="ROKU",Shout! Factory TV
 https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
 #EXTINF:-1 channel-id="69" radio="false" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" tvg-chno="7561" group-title="ROKU",Showtime (East)
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
@@ -16915,11 +16915,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/maste
 https://dai.google.com/linear/hls/event/hm3bn851RHqsIK1Y3T462g/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="2020-live-02-13-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/2020-live-02-13-2020.png" tvg-chno="2" group-title="Stirr",2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="21-jump-street-10-25-2019-10-25-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/21-jump-street-10-25-2019-10-25-2019.png" tvg-chno="157" group-title="Stirr",21 Jump Street
+#EXTINF:-1 radio="false" tvg-id="5d4af00df345adb154b7a1f4" tvg-logo="https://i.mjh.nz/Stirr/.images/21-jump-street-10-25-2019-10-25-2019.png" tvg-chno="157" group-title="Stirr",21 Jump Street
 https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-10-28-2020-232939597-10-28-2020.png" tvg-chno="354" group-title="Stirr",ACCDN
 https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-06-23-2020-06-23-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-23-2020-06-23-2020.png" tvg-chno="65" group-title="Stirr",AFV
+#EXTINF:-1 radio="false" tvg-id="5e82b55ad0213e00079c509f" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-23-2020-06-23-2020.png" tvg-chno="65" group-title="Stirr",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-06-2019-184659187-11-06-2019.png" tvg-chno="451" group-title="Stirr",Ambiance
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
@@ -16927,7 +16927,7 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="american-classics-07-18-2019-202011476" tvg-logo="https://i.mjh.nz/Stirr/.images/american-classics-07-18-2019-202011476.png" tvg-chno="57" group-title="Stirr",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="beverly-hillbillies-01-16-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/beverly-hillbillies-01-16-2020.png" tvg-chno="180" group-title="Stirr",Beverly Hillbillies
+#EXTINF:-1 radio="false" tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://i.mjh.nz/Stirr/.images/beverly-hillbillies-01-16-2020.png" tvg-chno="180" group-title="Stirr",Beverly Hillbillies
 https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-03-06-2019-235515534-03-06-2019.png" tvg-chno="255" group-title="Stirr",Big Life
 https://dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8
@@ -16937,11 +16937,11 @@ https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-07-30-2020-07-30-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-07-30-2020-07-30-2020.png" tvg-chno="285" group-title="Stirr",BspokeTV
 https://dai.google.com/linear/hls/event/f3uG6WJHTFi7wnsaH59Stg/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-05-18-2020-05-18-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-18-2020-05-18-2020.png" tvg-chno="55" group-title="Stirr",Buzzr
+#EXTINF:-1 radio="false" tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-18-2020-05-18-2020.png" tvg-chno="55" group-title="Stirr",Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-01-15-2020-201540715-01-15-2020.png" tvg-chno="98" group-title="Stirr",CHARGE
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="cheddar-wurl-external-10-31-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/cheddar-wurl-external-10-31-2018.png" tvg-chno="11" group-title="Stirr",Cheddar
+#EXTINF:-1 radio="false" tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.mjh.nz/Stirr/.images/cheddar-wurl-external-10-31-2018.png" tvg-chno="11" group-title="Stirr",Cheddar
 https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-02-04-2020-181017332-02-04-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-02-04-2020-181017332-02-04-2020.png" tvg-chno="365" group-title="Stirr",Choppertown
  https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
@@ -16951,7 +16951,7 @@ https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-05-25-2020-05-25-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-25-2020-05-25-2020.png" tvg-chno="416" group-title="Stirr",Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-07-10-2019-07-10-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-07-10-2019-07-10-2019.png" tvg-chno="356" group-title="Stirr",Combat Go
+#EXTINF:-1 radio="false" tvg-id="5ca1e141c16f7d78dc158380" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-07-10-2019-07-10-2019.png" tvg-chno="356" group-title="Stirr",Combat Go
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-08-01-2019-08-01-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-08-01-2019-08-01-2019.png" tvg-chno="75" group-title="Stirr",Comedy Dynamics
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
@@ -16961,7 +16961,7 @@ https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="crime-story-11-13-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/crime-story-11-13-2019.png" tvg-chno="159" group-title="Stirr",Crime Story
 https://dai.google.com/linear/hls/event/HgozmUlQQviIXFUF23mloA/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-06-25-2020-191519528-06-25-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-25-2020-191519528-06-25-2020.png" tvg-chno="53" group-title="Stirr",Deal or No Deal
+#EXTINF:-1 radio="false" tvg-id="5e9debf8c881310007d7bde1" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-25-2020-191519528-06-25-2020.png" tvg-chno="53" group-title="Stirr",Deal or No Deal
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-10-06-2020-10-06-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-10-06-2020-10-06-2020.png" tvg-chno="417" group-title="Stirr",DJAZZ
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
@@ -16977,7 +16977,7 @@ https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-06-26-2020-193146397-06-26-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-26-2020-193146397-06-26-2020.png" tvg-chno="284" group-title="Stirr",EVRGRN
 https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="fail-army-wurl-external-07-28-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/fail-army-wurl-external-07-28-2018.png" tvg-chno="302" group-title="Stirr",FailArmy
+#EXTINF:-1 radio="false" tvg-id="554158e864526b29254ff105" tvg-logo="https://i.mjh.nz/Stirr/.images/fail-army-wurl-external-07-28-2018.png" tvg-chno="302" group-title="Stirr",FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-07-18-2019-07-18-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-07-18-2019-07-18-2019.png" tvg-chno="229" group-title="Stirr",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
@@ -16993,19 +16993,19 @@ https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="greatest-american-hero-10-25-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/greatest-american-hero-10-25-2019.png" tvg-chno="151" group-title="Stirr",Greatest American Hero
 https://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-03-08-2019-021739216-03-08-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-03-08-2019-021739216-03-08-2019.png" tvg-chno="271" group-title="Stirr",Gusto
+#EXTINF:-1 radio="false" tvg-id="5c5c47f3662f6b3c476fc03e" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-03-08-2019-021739216-03-08-2019.png" tvg-chno="271" group-title="Stirr",Gusto
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-07-11-2019-07-11-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-07-11-2019-07-11-2019.png" tvg-chno="403" group-title="Stirr",Hallypop
 https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="hells-kitchen" tvg-logo="https://i.mjh.nz/Stirr/.images/hells-kitchen.png" tvg-chno="171" group-title="Stirr",Hell's Kitchen
+#EXTINF:-1 radio="false" tvg-id="5e6f38792075160007d85823" tvg-logo="https://i.mjh.nz/Stirr/.images/hells-kitchen.png" tvg-chno="171" group-title="Stirr",Hell's Kitchen
 https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-06-26-2020-185414162-06-26-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-26-2020-185414162-06-26-2020.png" tvg-chno="252" group-title="Stirr",HSN
+#EXTINF:-1 radio="false" tvg-id="5f8a02476b72230007e62b7d" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-26-2020-185414162-06-26-2020.png" tvg-chno="252" group-title="Stirr",HSN
 https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="hunter-10-25-2019-10-25-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/hunter-10-25-2019-10-25-2019.png" tvg-chno="154" group-title="Stirr",Hunter
+#EXTINF:-1 radio="false" tvg-id="5bee1a7359ee03633e780238" tvg-logo="https://i.mjh.nz/Stirr/.images/hunter-10-25-2019-10-25-2019.png" tvg-chno="154" group-title="Stirr",Hunter
 https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-06-2019-11-06-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-06-2019-11-06-2019.png" tvg-chno="281" group-title="Stirr",Insight TV
+#EXTINF:-1 radio="false" tvg-id="5f042bf0241c6f0007721021" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-06-2019-11-06-2019.png" tvg-chno="281" group-title="Stirr",Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-10-20-2020-10-20-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-10-20-2020-10-20-2020.png" tvg-chno="173" group-title="Stirr",Johnny Carson TV
+#EXTINF:-1 radio="false" tvg-id="5e66928133461100077dfd73" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-10-20-2020-10-20-2020.png" tvg-chno="173" group-title="Stirr",Johnny Carson TV
 https://dai.google.com/linear/hls/event/VY5rb91ASh26jkj60tkeNQ/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-12-11-2019-12-11-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-12-11-2019-12-11-2019.png" tvg-chno="415" group-title="Stirr",Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
@@ -17025,25 +17025,25 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="movie-mix-wurl-external-12-03-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/movie-mix-wurl-external-12-03-2018.png" tvg-chno="222" group-title="Stirr",Movie Mix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="nasatv-gracenote-external-01-09-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/nasatv-gracenote-external-01-09-2019.png" tvg-chno="16" group-title="Stirr",NASATV
+#EXTINF:-1 radio="false" tvg-id="54ee5ea872c1cbb844546d3f" tvg-logo="https://i.mjh.nz/Stirr/.images/nasatv-gracenote-external-01-09-2019.png" tvg-chno="16" group-title="Stirr",NASATV
 https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-09-27-2019-204550290-09-27-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-09-27-2019-204550290-09-27-2019.png" tvg-chno="6" group-title="Stirr",Newsy
+#EXTINF:-1 radio="false" tvg-id="5459795fc9f133a519bc0bef" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-09-27-2019-204550290-09-27-2019.png" tvg-chno="6" group-title="Stirr",Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="outdoor-america-wurl-external-12-21-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/outdoor-america-wurl-external-12-21-2018.png" tvg-chno="370" group-title="Stirr",Outdoor America
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-05-30-2019-05-30-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-30-2019-05-30-2019.png" tvg-chno="371" group-title="Stirr",Outside TV
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-30-2020-224017637-11-30-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-30-2020-224017637-11-30-2020.png" tvg-chno="303" group-title="Stirr",People Are Awesome
+#EXTINF:-1 radio="false" tvg-id="5e54169f4b9b25000994a303" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-30-2020-224017637-11-30-2020.png" tvg-chno="303" group-title="Stirr",People Are Awesome
 https://dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-09-26-2019-09-26-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-09-26-2019-09-26-2019.png" tvg-chno="80" group-title="Stirr",People TV
+#EXTINF:-1 radio="false" tvg-id="59c2c3ae40e64939daad8b76" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-09-26-2019-09-26-2019.png" tvg-chno="80" group-title="Stirr",People TV
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-02-13-2020-02-13-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-02-13-2020-02-13-2020.png" tvg-chno="86" group-title="Stirr",Popstar! TV
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-07-01-2020-225307685-07-01-2020.png" tvg-chno="372" group-title="Stirr",PursuitUp
+#EXTINF:-1 radio="false" tvg-id="5d486bed428fe37d8cadba45" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-07-01-2020-225307685-07-01-2020.png" tvg-chno="372" group-title="Stirr",PursuitUp
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-12-04-2019-193009840-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-12-04-2019-193009840-12-04-2019.png" tvg-chno="414" group-title="Stirr",Qello
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-05-26-2020-05-26-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-26-2020-05-26-2020.png" tvg-chno="253" group-title="Stirr",QVC
+#EXTINF:-1 radio="false" tvg-id="5bdcdf1e851dd5632e2c11d1" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-26-2020-05-26-2020.png" tvg-chno="253" group-title="Stirr",QVC
 https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="real-people-02-16-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/real-people-02-16-2020.png" tvg-chno="195" group-title="Stirr",Real People
 https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
@@ -17065,7 +17065,7 @@ https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-06-2019-182505306-11-06-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-06-2019-182505306-11-06-2019.png" tvg-chno="353" group-title="Stirr",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="stadium" tvg-logo="https://i.mjh.nz/Stirr/.images/stadium.png" tvg-chno="351" group-title="Stirr",Stadium
+#EXTINF:-1 radio="false" tvg-id="59974b6d7ec5063cb56f24c9" tvg-logo="https://i.mjh.nz/Stirr/.images/stadium.png" tvg-chno="351" group-title="Stirr",Stadium
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-12-04-2019-192438503-12-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-12-04-2019-192438503-12-04-2019.png" tvg-chno="406" group-title="Stirr",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
@@ -17115,29 +17115,29 @@ https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="the-adventures-of-sherlock-holmes-02-16-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/the-adventures-of-sherlock-holmes-02-16-2020.png" tvg-chno="193" group-title="Stirr",The Adventures of Sherlock Holmes
 https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-06-2019-184209249-11-06-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-06-2019-184209249-11-06-2019.png" tvg-chno="225" group-title="Stirr",The Asylum
+#EXTINF:-1 radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-06-2019-184209249-11-06-2019.png" tvg-chno="225" group-title="Stirr",The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-04-27-2020-04-27-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-04-27-2020-04-27-2020.png" tvg-chno="196" group-title="Stirr",The Bob Ross Channel
+#EXTINF:-1 radio="false" tvg-id="5f36d726234ce10007784f2a" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-04-27-2020-04-27-2020.png" tvg-chno="196" group-title="Stirr",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="the-commish-10-25-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/the-commish-10-25-2019.png" tvg-chno="155" group-title="Stirr",The Commish
 https://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-05-25-2020-174756630-05-25-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-25-2020-174756630-05-25-2020.png" tvg-chno="7" group-title="Stirr",The First
+#EXTINF:-1 radio="false" tvg-id="5d486acc34ceb37d3c458a64" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-25-2020-174756630-05-25-2020.png" tvg-chno="7" group-title="Stirr",The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="the-lone-ranger-02-16-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/the-lone-ranger-02-16-2020.png" tvg-chno="190" group-title="Stirr",The Lone Ranger
 https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="the-lucy-show-01-08-2020-02-16-2020-045440350" tvg-logo="https://i.mjh.nz/Stirr/.images/the-lucy-show-01-08-2020-02-16-2020-045440350.png" tvg-chno="185" group-title="Stirr",The Lucy Show
 https://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="the-pet-collective-wurl-external-07-28-2018-025714015" tvg-logo="https://i.mjh.nz/Stirr/.images/the-pet-collective-wurl-external-07-28-2018-025714015.png" tvg-chno="301" group-title="Stirr",The Pet Collective
+#EXTINF:-1 radio="false" tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://i.mjh.nz/Stirr/.images/the-pet-collective-wurl-external-07-28-2018-025714015.png" tvg-chno="301" group-title="Stirr",The Pet Collective
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-11-30-2020-195824573-11-30-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-30-2020-195824573-11-30-2020.png" tvg-chno="301" group-title="Stirr",The Pet Collective
+#EXTINF:-1 radio="false" tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-11-30-2020-195824573-11-30-2020.png" tvg-chno="301" group-title="Stirr",The Pet Collective
 https://the-pet-collective-samsung.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-id="free-07-26-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/free-07-26-2018.png" tvg-chno="352" group-title="Stirr",The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-01-27-2020-220319398-01-27-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-01-27-2020-220319398-01-27-2020.png" tvg-chno="280" group-title="Stirr",Truly
+#EXTINF:-1 radio="false" tvg-id="5ebd0ff1e1a4770007479dc7" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-01-27-2020-220319398-01-27-2020.png" tvg-chno="280" group-title="Stirr",Truly
 https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-06-26-2020-211236307-06-26-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-26-2020-211236307-06-26-2020.png" tvg-chno="120" group-title="Stirr",Unidentified
 https://dai.google.com/linear/hls/event/uK2qnl_mSxKMEwWNcatGeg/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="unsolved-mysteries-09-27-2019-10-04-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/unsolved-mysteries-09-27-2019-10-04-2019.png" tvg-chno="153" group-title="Stirr",Unsolved Mysteries
+#EXTINF:-1 radio="false" tvg-id="5b4e96a0423e067bd6df6901" tvg-logo="https://i.mjh.nz/Stirr/.images/unsolved-mysteries-09-27-2019-10-04-2019.png" tvg-chno="153" group-title="Stirr",Unsolved Mysteries
 https://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-08-14-2020-08-14-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-08-14-2020-08-14-2020.png" tvg-chno="394" group-title="Stirr",VENN
 https://dai.google.com/linear/hls/event/gJpQRkqiS8SHzAbPlGNRQw/master.m3u8
@@ -17153,7 +17153,7 @@ https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 #EXTINF:-1 radio="false" tvg-id="wiseguy-10-25-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/wiseguy-10-25-2019.png" tvg-chno="156" group-title="Stirr",Wiseguy
 https://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
-#EXTINF:-1 radio="false" tvg-id="externallinearfeed-04-23-2020-04-23-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-04-23-2020-04-23-2020.png" tvg-chno="355" group-title="Stirr",World Poker Tour
+#EXTINF:-1 radio="false" tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-04-23-2020-04-23-2020.png" tvg-chno="355" group-title="Stirr",World Poker Tour
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 #EXTINF:-1 radio="false" tvg-id="externallinearfeed-09-23-2020-11-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-09-23-2020-11-01-2020.png" tvg-chno="251" group-title="Stirr",zzz Deprecated Horse Shopping Channel
 https://usgeowall.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8?delay=30
@@ -17993,9 +17993,9 @@ https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:-1 channel-id="58" radio="false" tvg-logo="https://i.imgur.com/KjDQSPu.jpg" tvg-chno="7961" group-title="USTV",Black Widow TV
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
-#EXTINF:-1 channel-id="59" radio="false" tvg-id="Bloomberg TV USA" tvg-chno="7962" group-title="USTV",Bloomberg TV
+#EXTINF:-1 channel-id="59" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="7962" group-title="USTV",Bloomberg TV
 https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
-#EXTINF:-1 channel-id="60" radio="false" tvg-id="Bloomberg TV USA" tvg-chno="7963" group-title="USTV",Bloomberg TV
+#EXTINF:-1 channel-id="60" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="7963" group-title="USTV",Bloomberg TV
 https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
 #EXTINF:-1 channel-id="61" radio="false" tvg-chno="7964" group-title="USTV",Bloomberg TV Live Event
 https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
@@ -18039,11 +18039,11 @@ https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
 http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng
 #EXTINF:-1 channel-id="81" radio="false" tvg-chno="7984" group-title="USTV",CBN Español
 https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 channel-id="82" radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-name="CBS HD New York-US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-chno="7985" group-title="USTV",CBS
+#EXTINF:-1 channel-id="82" radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS HD New York-US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-chno="7985" group-title="USTV",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 channel-id="83" radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-chno="7986" group-title="USTV",CBS
+#EXTINF:-1 channel-id="83" radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-chno="7986" group-title="USTV",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 channel-id="84" radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-chno="7987" group-title="USTV",CBS
+#EXTINF:-1 channel-id="84" radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-chno="7987" group-title="USTV",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 channel-id="85" radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-chno="7988" group-title="USTV",CBSN
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
@@ -18145,7 +18145,7 @@ https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 https://bozztv.com/veset1/1080p/playlist_1080p.m3u8
 #EXTINF:-1 channel-id="134" radio="false" tvg-logo="https://i.imgur.com/bfXUwaa.png" tvg-chno="8037" group-title="USTV",ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
-#EXTINF:-1 channel-id="135" radio="false" tvg-id="LetsGoToTheMovies" tvg-chno="8038" group-title="USTV",ET
+#EXTINF:-1 channel-id="135" radio="false" tvg-id="5331d5fb753499095a00045a" tvg-chno="8038" group-title="USTV",ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 #EXTINF:-1 channel-id="136" radio="false" tvg-chno="8039" group-title="USTV",EURO SPORTS
 http://91.126.39.98:8086/udp/224.168.32.2:3202
@@ -18319,9 +18319,9 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 channel-id="221" radio="false" tvg-id="54ee5ea872c1cbb844546d3f" tvg-logo="https://i.imgur.com/iJldO7U.jpg" tvg-chno="8124" group-title="USTV",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 channel-id="222" radio="false" tvg-id="NBC (WOWT) Omaha, NE" tvg-name="US-NBC HD New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" tvg-chno="8125" group-title="USTV",NBC
+#EXTINF:-1 channel-id="222" radio="false" tvg-id="5df97894467dfa00091c873c" tvg-name="US-NBC HD New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" tvg-chno="8125" group-title="USTV",NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 channel-id="223" radio="false" tvg-id="NBC (WOWT) Omaha, NE" tvg-chno="8126" group-title="USTV",NBC
+#EXTINF:-1 channel-id="223" radio="false" tvg-id="5df97894467dfa00091c873c" tvg-chno="8126" group-title="USTV",NBC
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 channel-id="224" radio="false" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://i.imgur.com/LUhiYfG.jpg" tvg-chno="8127" group-title="USTV",NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
@@ -18369,7 +18369,7 @@ https://a.jsrdn.com/broadcast/b5d2k0x/playlist1080p.m3u8
 https://nimble.dashstreams.net/onestudio/pce/playlist.m3u8
 #EXTINF:-1 channel-id="246" radio="false" tvg-logo="https://i.imgur.com/iwd9Jxb.png" tvg-chno="8149" group-title="USTV",Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
-#EXTINF:-1 channel-id="247" radio="false" tvg-id="POP - East" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-chno="8150" group-title="USTV",Pop
+#EXTINF:-1 channel-id="247" radio="false" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-chno="8150" group-title="USTV",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 channel-id="248" radio="false" tvg-id="POP - East" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/P/Pop.png" tvg-chno="8151" group-title="USTV",POP 2
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
@@ -18387,7 +18387,7 @@ https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
 http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
 #EXTINF:-1 channel-id="255" radio="false" tvg-logo="https://i.imgur.com/X63rCqD.png" tvg-chno="8158" group-title="USTV",Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 channel-id="256" radio="false" tvg-id="QVC" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc.png" tvg-chno="8159" group-title="USTV",QVC
+#EXTINF:-1 channel-id="256" radio="false" tvg-id="5bdcdf1e851dd5632e2c11d1" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc.png" tvg-chno="8159" group-title="USTV",QVC
 https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
 #EXTINF:-1 channel-id="257" radio="false" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc2.png" tvg-chno="8160" group-title="USTV",QVC 2
 https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
@@ -18403,9 +18403,9 @@ https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 channel-id="263" radio="false" tvg-logo="https://i.imgur.com/sOVdYJZ.png" tvg-chno="8166" group-title="USTV",Revelation TV
 https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 channel-id="264" radio="false" tvg-id="PlanetCannabisEntertainment" tvg-chno="8167" group-title="USTV",RT
+#EXTINF:-1 channel-id="264" radio="false" tvg-id="56171fafada51f8004c4b40f" tvg-chno="8167" group-title="USTV",RT
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
-#EXTINF:-1 channel-id="265" radio="false" tvg-id="PlanetCannabisEntertainment" tvg-chno="8168" group-title="USTV",RT
+#EXTINF:-1 channel-id="265" radio="false" tvg-id="56171fafada51f8004c4b40f" tvg-chno="8168" group-title="USTV",RT
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 channel-id="266" radio="false" tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/movie-time-889225.png" tvg-chno="8169" group-title="USTV",RunTime Movies
 https://ammoruntime-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/1920x1080_5055600/index.m3u8
