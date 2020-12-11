@@ -16639,7 +16639,7 @@ http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@doo
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52729
 #EXTINF:-1 channel-id="12" radio="false" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime [East]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" tvg-chno="7582" group-title="ROKU USA",Showtime - Eastern Feed
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-#EXTINF:-1 channel-id="13" radio="false" tvg-id="Showtime 2 - Pacific" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" tvg-chno="7583" group-title="ROKU USA",Showtime 2 - Pacific
+#EXTINF:-1 channel-id="13" radio="false" tvg-id="Showtime 2 - Pacific" tvg-name="Showtime 2 - Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" tvg-chno="7583" group-title="ROKU USA",Showtime 2 - Pacific
 https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 #EXTINF:-1 channel-id="15" radio="false" tvg-id="Starz - Eastern" tvg-name="Starz - Eastern" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" tvg-chno="7585" group-title="ROKU USA",Starz - Eastern
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
