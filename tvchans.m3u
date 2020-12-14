@@ -9,7 +9,7 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287753.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287722.m3u8
 #EXTINF:0 channel-id="3" radio="false" tvg-id="AXN.bg" tvg-chno="5" group-title="*--- Netflix Premium ---*",AXN
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287736.m3u8
-#EXTINF:0 channel-id="4" radio="false" tvg-id="ext" tvg-chno="6" group-title="*--- Netflix Premium ---*",Batman
+#EXTINF:0 channel-id="4" radio="false" tvg-id="Batman" tvg-logo="https://ahscatseye.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-07-at-9.21.41-AM.png" tvg-chno="6" group-title="*--- Netflix Premium ---*",Batman
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40448.m3u8
 #EXTINF:0 channel-id="5" radio="false" tvg-id="BBCEarth.pl" tvg-chno="7" group-title="*--- Netflix Premium ---*",BBC Earth
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287754.m3u8
@@ -19,11 +19,11 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287765.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287766.m3u8
 #EXTINF:0 channel-id="8" radio="false" tvg-id="ext" tvg-chno="10" group-title="*--- Netflix Premium ---*",Berita Satu
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287725.m3u8
-#EXTINF:0 channel-id="9" radio="false" tvg-id="ext" tvg-chno="11" group-title="*--- Netflix Premium ---*",Bruce Willis
+#EXTINF:0 channel-id="9" radio="false" tvg-id="Bruce2Willis" tvg-logo="https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/202959913.png" tvg-chno="11" group-title="*--- Netflix Premium ---*",Bruce Willis
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40453.m3u8
 #EXTINF:0 channel-id="10" radio="false" tvg-id="cartoon" tvg-chno="12" group-title="*--- Netflix Premium ---*",Cartoon Network
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287745.m3u8
-#EXTINF:0 channel-id="11" radio="false" tvg-id="ext" tvg-chno="13" group-title="*--- Netflix Premium ---*",Celestial Movies
+#EXTINF:0 channel-id="11" radio="false" tvg-id="ext" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" tvg-chno="13" group-title="*--- Netflix Premium ---*",Celestial Movies
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287738.m3u8
 #EXTINF:0 channel-id="12" radio="false" tvg-id="ext" tvg-chno="14" group-title="*--- Netflix Premium ---*",Champion TV 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287730.m3u8
@@ -39,37 +39,37 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287535.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287755.m3u8
 #EXTINF:0 channel-id="18" radio="false" tvg-id="ext" tvg-chno="20" group-title="*--- Netflix Premium ---*",Charlie Chaplin
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40452.m3u8
-#EXTINF:0 channel-id="19" radio="false" tvg-id="ext" tvg-chno="21" group-title="*--- Netflix Premium ---*",CineBox 1 4K
+#EXTINF:0 channel-id="19" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="21" group-title="*--- Netflix Premium ---*",CineBox 1 4K
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297503.m3u8
-#EXTINF:0 channel-id="20" radio="false" tvg-id="ext" tvg-chno="22" group-title="*--- Netflix Premium ---*",CineBox 10 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297512.m3u8
-#EXTINF:0 channel-id="21" radio="false" tvg-id="ext" tvg-chno="23" group-title="*--- Netflix Premium ---*",CineBox 11 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297513.m3u8
-#EXTINF:0 channel-id="22" radio="false" tvg-id="ext" tvg-chno="24" group-title="*--- Netflix Premium ---*",CineBox 12 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297514.m3u8
-#EXTINF:0 channel-id="23" radio="false" tvg-id="ext" tvg-chno="25" group-title="*--- Netflix Premium ---*",CineBox 13 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297515.m3u8
-#EXTINF:0 channel-id="24" radio="false" tvg-id="ext" tvg-chno="26" group-title="*--- Netflix Premium ---*",CineBox 14 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297516.m3u8
-#EXTINF:0 channel-id="25" radio="false" tvg-id="ext" tvg-chno="27" group-title="*--- Netflix Premium ---*",CineBox 15 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297517.m3u8
-#EXTINF:0 channel-id="26" radio="false" tvg-id="ext" tvg-chno="28" group-title="*--- Netflix Premium ---*",CineBox 2 4K
+#EXTINF:0 channel-id="26" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="28" group-title="*--- Netflix Premium ---*",CineBox 2 4K
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297504.m3u8
-#EXTINF:0 channel-id="27" radio="false" tvg-id="ext" tvg-chno="29" group-title="*--- Netflix Premium ---*",CineBox 3 4K
+#EXTINF:0 channel-id="27" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="29" group-title="*--- Netflix Premium ---*",CineBox 3 4K
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297505.m3u8
-#EXTINF:0 channel-id="28" radio="false" tvg-id="ext" tvg-chno="30" group-title="*--- Netflix Premium ---*",CineBox 4 HD
+#EXTINF:0 channel-id="28" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="30" group-title="*--- Netflix Premium ---*",CineBox 4 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297506.m3u8
-#EXTINF:0 channel-id="29" radio="false" tvg-id="ext" tvg-chno="31" group-title="*--- Netflix Premium ---*",CineBox 5 HD
+#EXTINF:0 channel-id="29" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="31" group-title="*--- Netflix Premium ---*",CineBox 5 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297507.m3u8
-#EXTINF:0 channel-id="30" radio="false" tvg-id="ext" tvg-chno="32" group-title="*--- Netflix Premium ---*",CineBox 6 HD
+#EXTINF:0 channel-id="30" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="32" group-title="*--- Netflix Premium ---*",CineBox 6 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297508.m3u8
-#EXTINF:0 channel-id="31" radio="false" tvg-id="ext" tvg-chno="33" group-title="*--- Netflix Premium ---*",CineBox 7 HD
+#EXTINF:0 channel-id="31" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="33" group-title="*--- Netflix Premium ---*",CineBox 7 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297509.m3u8
-#EXTINF:0 channel-id="32" radio="false" tvg-id="ext" tvg-chno="34" group-title="*--- Netflix Premium ---*",CineBox 8 HD
+#EXTINF:0 channel-id="32" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="34" group-title="*--- Netflix Premium ---*",CineBox 8 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297510.m3u8
-#EXTINF:0 channel-id="33" radio="false" tvg-id="ext" tvg-chno="35" group-title="*--- Netflix Premium ---*",CineBox 9 HD
+#EXTINF:0 channel-id="33" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="35" group-title="*--- Netflix Premium ---*",CineBox 9 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297511.m3u8
-#EXTINF:0 channel-id="34" radio="false" tvg-id="ext" tvg-chno="36" group-title="*--- Netflix Premium ---*",CineBox: Information Screen
+#EXTINF:0 channel-id="20" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="22" group-title="*--- Netflix Premium ---*",CineBox 10 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297512.m3u8
+#EXTINF:0 channel-id="21" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="23" group-title="*--- Netflix Premium ---*",CineBox 11 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297513.m3u8
+#EXTINF:0 channel-id="22" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="24" group-title="*--- Netflix Premium ---*",CineBox 12 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297514.m3u8
+#EXTINF:0 channel-id="23" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="25" group-title="*--- Netflix Premium ---*",CineBox 13 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297515.m3u8
+#EXTINF:0 channel-id="24" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="26" group-title="*--- Netflix Premium ---*",CineBox 14 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297516.m3u8
+#EXTINF:0 channel-id="25" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="27" group-title="*--- Netflix Premium ---*",CineBox 15 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297517.m3u8
+#EXTINF:0 channel-id="34" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="36" group-title="*--- Netflix Premium ---*",CineBox: Information Screen
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297502.m3u8
 #EXTINF:0 channel-id="35" radio="false" tvg-id="CineMAX.ro" tvg-chno="37" group-title="*--- Netflix Premium ---*",Cinemax FHD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287762.m3u8
@@ -147,137 +147,137 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287751.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287750.m3u8
 #EXTINF:0 channel-id="72" radio="false" tvg-id="NETtv.svn" tvg-chno="74" group-title="*--- Netflix Premium ---*",Net TV
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287716.m3u8
-#EXTINF:0 channel-id="73" radio="false" tvg-id="ext" tvg-chno="75" group-title="*--- Netflix Premium ---*",Netflix Action
+#EXTINF:0 channel-id="73" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="75" group-title="*--- Netflix Premium ---*",Netflix Action
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244093.m3u8
-#EXTINF:0 channel-id="74" radio="false" tvg-id="ext" tvg-chno="76" group-title="*--- Netflix Premium ---*",Netflix Action +
+#EXTINF:0 channel-id="74" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="76" group-title="*--- Netflix Premium ---*",Netflix Action +
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244092.m3u8
-#EXTINF:0 channel-id="75" radio="false" tvg-id="ext" tvg-chno="77" group-title="*--- Netflix Premium ---*",Netflix Action 1
+#EXTINF:0 channel-id="75" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="77" group-title="*--- Netflix Premium ---*",Netflix Action 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244095.m3u8
-#EXTINF:0 channel-id="76" radio="false" tvg-id="ext" tvg-chno="78" group-title="*--- Netflix Premium ---*",Netflix Action 1
+#EXTINF:0 channel-id="76" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="78" group-title="*--- Netflix Premium ---*",Netflix Action 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244058.m3u8
-#EXTINF:0 channel-id="77" radio="false" tvg-id="ext" tvg-chno="79" group-title="*--- Netflix Premium ---*",Netflix Action 10
+#EXTINF:0 channel-id="77" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="79" group-title="*--- Netflix Premium ---*",Netflix Action 10
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244067.m3u8
-#EXTINF:0 channel-id="78" radio="false" tvg-id="ext" tvg-chno="80" group-title="*--- Netflix Premium ---*",Netflix Action 11
+#EXTINF:0 channel-id="78" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="80" group-title="*--- Netflix Premium ---*",Netflix Action 11
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244068.m3u8
-#EXTINF:0 channel-id="79" radio="false" tvg-id="ext" tvg-chno="81" group-title="*--- Netflix Premium ---*",Netflix Action 2
+#EXTINF:0 channel-id="79" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="81" group-title="*--- Netflix Premium ---*",Netflix Action 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244059.m3u8
-#EXTINF:0 channel-id="80" radio="false" tvg-id="ext" tvg-chno="82" group-title="*--- Netflix Premium ---*",Netflix Action 2
+#EXTINF:0 channel-id="80" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="82" group-title="*--- Netflix Premium ---*",Netflix Action 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244096.m3u8
-#EXTINF:0 channel-id="81" radio="false" tvg-id="ext" tvg-chno="83" group-title="*--- Netflix Premium ---*",Netflix Action 3
+#EXTINF:0 channel-id="81" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="83" group-title="*--- Netflix Premium ---*",Netflix Action 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244060.m3u8
-#EXTINF:0 channel-id="82" radio="false" tvg-id="ext" tvg-chno="84" group-title="*--- Netflix Premium ---*",Netflix Action 3
+#EXTINF:0 channel-id="82" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="84" group-title="*--- Netflix Premium ---*",Netflix Action 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244097.m3u8
-#EXTINF:0 channel-id="83" radio="false" tvg-id="ext" tvg-chno="85" group-title="*--- Netflix Premium ---*",Netflix Action 4
+#EXTINF:0 channel-id="83" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="85" group-title="*--- Netflix Premium ---*",Netflix Action 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244061.m3u8
-#EXTINF:0 channel-id="84" radio="false" tvg-id="ext" tvg-chno="86" group-title="*--- Netflix Premium ---*",Netflix Action 4
+#EXTINF:0 channel-id="84" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="86" group-title="*--- Netflix Premium ---*",Netflix Action 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244098.m3u8
-#EXTINF:0 channel-id="85" radio="false" tvg-id="ext" tvg-chno="87" group-title="*--- Netflix Premium ---*",Netflix Action 5
+#EXTINF:0 channel-id="85" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="87" group-title="*--- Netflix Premium ---*",Netflix Action 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244062.m3u8
-#EXTINF:0 channel-id="86" radio="false" tvg-id="ext" tvg-chno="88" group-title="*--- Netflix Premium ---*",Netflix Action 5
+#EXTINF:0 channel-id="86" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="88" group-title="*--- Netflix Premium ---*",Netflix Action 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244099.m3u8
-#EXTINF:0 channel-id="87" radio="false" tvg-id="ext" tvg-chno="89" group-title="*--- Netflix Premium ---*",Netflix Action 6
+#EXTINF:0 channel-id="87" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="89" group-title="*--- Netflix Premium ---*",Netflix Action 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244100.m3u8
-#EXTINF:0 channel-id="88" radio="false" tvg-id="ext" tvg-chno="90" group-title="*--- Netflix Premium ---*",Netflix Action 6
+#EXTINF:0 channel-id="88" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="90" group-title="*--- Netflix Premium ---*",Netflix Action 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244063.m3u8
-#EXTINF:0 channel-id="89" radio="false" tvg-id="ext" tvg-chno="91" group-title="*--- Netflix Premium ---*",Netflix Action 7
+#EXTINF:0 channel-id="89" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="91" group-title="*--- Netflix Premium ---*",Netflix Action 7
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244064.m3u8
-#EXTINF:0 channel-id="90" radio="false" tvg-id="ext" tvg-chno="92" group-title="*--- Netflix Premium ---*",Netflix Action 8
+#EXTINF:0 channel-id="90" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="92" group-title="*--- Netflix Premium ---*",Netflix Action 8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244065.m3u8
-#EXTINF:0 channel-id="91" radio="false" tvg-id="ext" tvg-chno="93" group-title="*--- Netflix Premium ---*",Netflix Action 9
+#EXTINF:0 channel-id="91" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="93" group-title="*--- Netflix Premium ---*",Netflix Action 9
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244066.m3u8
-#EXTINF:0 channel-id="92" radio="false" tvg-id="ext" tvg-chno="94" group-title="*--- Netflix Premium ---*",Netflix Action Top
+#EXTINF:0 channel-id="92" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="94" group-title="*--- Netflix Premium ---*",Netflix Action Top
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244094.m3u8
-#EXTINF:0 channel-id="93" radio="false" tvg-id="ext" tvg-chno="95" group-title="*--- Netflix Premium ---*",Netflix Anime 1
+#EXTINF:0 channel-id="93" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="95" group-title="*--- Netflix Premium ---*",Netflix Anime 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244077.m3u8
-#EXTINF:0 channel-id="94" radio="false" tvg-id="ext" tvg-chno="96" group-title="*--- Netflix Premium ---*",Netflix Anime 2
+#EXTINF:0 channel-id="94" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="96" group-title="*--- Netflix Premium ---*",Netflix Anime 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244078.m3u8
-#EXTINF:0 channel-id="95" radio="false" tvg-id="ext" tvg-chno="97" group-title="*--- Netflix Premium ---*",Netflix Anime 3
+#EXTINF:0 channel-id="95" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="97" group-title="*--- Netflix Premium ---*",Netflix Anime 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244079.m3u8
-#EXTINF:0 channel-id="96" radio="false" tvg-id="ext" tvg-chno="98" group-title="*--- Netflix Premium ---*",Netflix Anime 4
+#EXTINF:0 channel-id="96" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="98" group-title="*--- Netflix Premium ---*",Netflix Anime 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244080.m3u8
-#EXTINF:0 channel-id="97" radio="false" tvg-id="ext" tvg-chno="99" group-title="*--- Netflix Premium ---*",Netflix Anime 5
+#EXTINF:0 channel-id="97" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="99" group-title="*--- Netflix Premium ---*",Netflix Anime 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244081.m3u8
-#EXTINF:0 channel-id="98" radio="false" tvg-id="ext" tvg-chno="100" group-title="*--- Netflix Premium ---*",Netflix Anime 6
+#EXTINF:0 channel-id="98" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="100" group-title="*--- Netflix Premium ---*",Netflix Anime 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244082.m3u8
-#EXTINF:0 channel-id="99" radio="false" tvg-id="ext" tvg-chno="101" group-title="*--- Netflix Premium ---*",Netflix Comedy
+#EXTINF:0 channel-id="99" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="101" group-title="*--- Netflix Premium ---*",Netflix Comedy
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244108.m3u8
-#EXTINF:0 channel-id="100" radio="false" tvg-id="ext" tvg-chno="102" group-title="*--- Netflix Premium ---*",Netflix Comedy 1
+#EXTINF:0 channel-id="100" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="102" group-title="*--- Netflix Premium ---*",Netflix Comedy 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244109.m3u8
-#EXTINF:0 channel-id="101" radio="false" tvg-id="ext" tvg-chno="103" group-title="*--- Netflix Premium ---*",Netflix Comedy 1
+#EXTINF:0 channel-id="101" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="103" group-title="*--- Netflix Premium ---*",Netflix Comedy 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244085.m3u8
-#EXTINF:0 channel-id="102" radio="false" tvg-id="ext" tvg-chno="104" group-title="*--- Netflix Premium ---*",Netflix Comedy 2
+#EXTINF:0 channel-id="102" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="104" group-title="*--- Netflix Premium ---*",Netflix Comedy 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244086.m3u8
-#EXTINF:0 channel-id="103" radio="false" tvg-id="ext" tvg-chno="105" group-title="*--- Netflix Premium ---*",Netflix Comedy 2
+#EXTINF:0 channel-id="103" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="105" group-title="*--- Netflix Premium ---*",Netflix Comedy 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244110.m3u8
-#EXTINF:0 channel-id="104" radio="false" tvg-id="ext" tvg-chno="106" group-title="*--- Netflix Premium ---*",Netflix Comedy 3
+#EXTINF:0 channel-id="104" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="106" group-title="*--- Netflix Premium ---*",Netflix Comedy 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244111.m3u8
-#EXTINF:0 channel-id="105" radio="false" tvg-id="ext" tvg-chno="107" group-title="*--- Netflix Premium ---*",Netflix Comedy 3
+#EXTINF:0 channel-id="105" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="107" group-title="*--- Netflix Premium ---*",Netflix Comedy 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244087.m3u8
-#EXTINF:0 channel-id="106" radio="false" tvg-id="ext" tvg-chno="108" group-title="*--- Netflix Premium ---*",Netflix Comedy 4
+#EXTINF:0 channel-id="106" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="108" group-title="*--- Netflix Premium ---*",Netflix Comedy 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244112.m3u8
-#EXTINF:0 channel-id="107" radio="false" tvg-id="ext" tvg-chno="109" group-title="*--- Netflix Premium ---*",Netflix Comedy 5
+#EXTINF:0 channel-id="107" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="109" group-title="*--- Netflix Premium ---*",Netflix Comedy 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244113.m3u8
-#EXTINF:0 channel-id="108" radio="false" tvg-id="ext" tvg-chno="110" group-title="*--- Netflix Premium ---*",Netflix Comedy 6
+#EXTINF:0 channel-id="108" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="110" group-title="*--- Netflix Premium ---*",Netflix Comedy 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244114.m3u8
-#EXTINF:0 channel-id="109" radio="false" tvg-id="ext" tvg-chno="111" group-title="*--- Netflix Premium ---*",Netflix Drama
+#EXTINF:0 channel-id="109" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="111" group-title="*--- Netflix Premium ---*",Netflix Drama
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244122.m3u8
-#EXTINF:0 channel-id="110" radio="false" tvg-id="ext" tvg-chno="112" group-title="*--- Netflix Premium ---*",Netflix Drama 1
+#EXTINF:0 channel-id="110" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="112" group-title="*--- Netflix Premium ---*",Netflix Drama 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244088.m3u8
-#EXTINF:0 channel-id="111" radio="false" tvg-id="ext" tvg-chno="113" group-title="*--- Netflix Premium ---*",Netflix Drama 2
+#EXTINF:0 channel-id="111" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="113" group-title="*--- Netflix Premium ---*",Netflix Drama 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244089.m3u8
-#EXTINF:0 channel-id="112" radio="false" tvg-id="ext" tvg-chno="114" group-title="*--- Netflix Premium ---*",Netflix Drama 3
+#EXTINF:0 channel-id="112" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="114" group-title="*--- Netflix Premium ---*",Netflix Drama 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244090.m3u8
-#EXTINF:0 channel-id="113" radio="false" tvg-id="ext" tvg-chno="115" group-title="*--- Netflix Premium ---*",Netflix Drama 4
+#EXTINF:0 channel-id="113" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="115" group-title="*--- Netflix Premium ---*",Netflix Drama 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244091.m3u8
-#EXTINF:0 channel-id="114" radio="false" tvg-id="ext" tvg-chno="116" group-title="*--- Netflix Premium ---*",Netflix Drama+
+#EXTINF:0 channel-id="114" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="116" group-title="*--- Netflix Premium ---*",Netflix Drama+
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244123.m3u8
-#EXTINF:0 channel-id="115" radio="false" tvg-id="ext" tvg-chno="117" group-title="*--- Netflix Premium ---*",Netflix Horror
+#EXTINF:0 channel-id="115" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="117" group-title="*--- Netflix Premium ---*",Netflix Horror
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244101.m3u8
-#EXTINF:0 channel-id="116" radio="false" tvg-id="ext" tvg-chno="118" group-title="*--- Netflix Premium ---*",Netflix Horror 1
+#EXTINF:0 channel-id="116" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="118" group-title="*--- Netflix Premium ---*",Netflix Horror 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244102.m3u8
-#EXTINF:0 channel-id="117" radio="false" tvg-id="ext" tvg-chno="119" group-title="*--- Netflix Premium ---*",Netflix Horror 1
+#EXTINF:0 channel-id="117" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="119" group-title="*--- Netflix Premium ---*",Netflix Horror 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244069.m3u8
-#EXTINF:0 channel-id="118" radio="false" tvg-id="ext" tvg-chno="120" group-title="*--- Netflix Premium ---*",Netflix Horror 2
+#EXTINF:0 channel-id="118" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="120" group-title="*--- Netflix Premium ---*",Netflix Horror 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244103.m3u8
-#EXTINF:0 channel-id="119" radio="false" tvg-id="ext" tvg-chno="121" group-title="*--- Netflix Premium ---*",Netflix Horror 2
+#EXTINF:0 channel-id="119" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="121" group-title="*--- Netflix Premium ---*",Netflix Horror 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244070.m3u8
-#EXTINF:0 channel-id="120" radio="false" tvg-id="ext" tvg-chno="122" group-title="*--- Netflix Premium ---*",Netflix Horror 3
+#EXTINF:0 channel-id="120" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="122" group-title="*--- Netflix Premium ---*",Netflix Horror 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244104.m3u8
-#EXTINF:0 channel-id="121" radio="false" tvg-id="ext" tvg-chno="123" group-title="*--- Netflix Premium ---*",Netflix Horror 3
+#EXTINF:0 channel-id="121" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="123" group-title="*--- Netflix Premium ---*",Netflix Horror 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244071.m3u8
-#EXTINF:0 channel-id="122" radio="false" tvg-id="ext" tvg-chno="124" group-title="*--- Netflix Premium ---*",Netflix Horror 4
+#EXTINF:0 channel-id="122" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="124" group-title="*--- Netflix Premium ---*",Netflix Horror 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244105.m3u8
-#EXTINF:0 channel-id="123" radio="false" tvg-id="ext" tvg-chno="125" group-title="*--- Netflix Premium ---*",Netflix Horror 4
+#EXTINF:0 channel-id="123" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="125" group-title="*--- Netflix Premium ---*",Netflix Horror 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244072.m3u8
-#EXTINF:0 channel-id="124" radio="false" tvg-id="ext" tvg-chno="126" group-title="*--- Netflix Premium ---*",Netflix Horror 5
+#EXTINF:0 channel-id="124" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="126" group-title="*--- Netflix Premium ---*",Netflix Horror 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244073.m3u8
-#EXTINF:0 channel-id="125" radio="false" tvg-id="ext" tvg-chno="127" group-title="*--- Netflix Premium ---*",Netflix Horror 5
+#EXTINF:0 channel-id="125" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="127" group-title="*--- Netflix Premium ---*",Netflix Horror 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244106.m3u8
-#EXTINF:0 channel-id="126" radio="false" tvg-id="ext" tvg-chno="128" group-title="*--- Netflix Premium ---*",Netflix Horror 6
+#EXTINF:0 channel-id="126" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="128" group-title="*--- Netflix Premium ---*",Netflix Horror 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244074.m3u8
-#EXTINF:0 channel-id="127" radio="false" tvg-id="ext" tvg-chno="129" group-title="*--- Netflix Premium ---*",Netflix Horror 6
+#EXTINF:0 channel-id="127" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="129" group-title="*--- Netflix Premium ---*",Netflix Horror 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244107.m3u8
-#EXTINF:0 channel-id="128" radio="false" tvg-id="ext" tvg-chno="130" group-title="*--- Netflix Premium ---*",Netflix Horror 7
+#EXTINF:0 channel-id="128" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="130" group-title="*--- Netflix Premium ---*",Netflix Horror 7
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244075.m3u8
-#EXTINF:0 channel-id="129" radio="false" tvg-id="ext" tvg-chno="131" group-title="*--- Netflix Premium ---*",Netflix Horror 8
+#EXTINF:0 channel-id="129" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="131" group-title="*--- Netflix Premium ---*",Netflix Horror 8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244076.m3u8
-#EXTINF:0 channel-id="130" radio="false" tvg-id="ext" tvg-chno="132" group-title="*--- Netflix Premium ---*",Netflix Kids
+#EXTINF:0 channel-id="130" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="132" group-title="*--- Netflix Premium ---*",Netflix Kids
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244115.m3u8
-#EXTINF:0 channel-id="131" radio="false" tvg-id="ext" tvg-chno="133" group-title="*--- Netflix Premium ---*",Netflix Kids 1
+#EXTINF:0 channel-id="131" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="133" group-title="*--- Netflix Premium ---*",Netflix Kids 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244116.m3u8
-#EXTINF:0 channel-id="132" radio="false" tvg-id="ext" tvg-chno="134" group-title="*--- Netflix Premium ---*",Netflix Kids 2
+#EXTINF:0 channel-id="132" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="134" group-title="*--- Netflix Premium ---*",Netflix Kids 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244117.m3u8
-#EXTINF:0 channel-id="133" radio="false" tvg-id="ext" tvg-chno="135" group-title="*--- Netflix Premium ---*",Netflix Kids 3
+#EXTINF:0 channel-id="133" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="135" group-title="*--- Netflix Premium ---*",Netflix Kids 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244118.m3u8
-#EXTINF:0 channel-id="134" radio="false" tvg-id="ext" tvg-chno="136" group-title="*--- Netflix Premium ---*",Netflix Kids 4
+#EXTINF:0 channel-id="134" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="136" group-title="*--- Netflix Premium ---*",Netflix Kids 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244119.m3u8
-#EXTINF:0 channel-id="135" radio="false" tvg-id="ext" tvg-chno="137" group-title="*--- Netflix Premium ---*",Netflix Kids 5
+#EXTINF:0 channel-id="135" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="137" group-title="*--- Netflix Premium ---*",Netflix Kids 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244120.m3u8
-#EXTINF:0 channel-id="136" radio="false" tvg-id="ext" tvg-chno="138" group-title="*--- Netflix Premium ---*",Netflix Kids 6
+#EXTINF:0 channel-id="136" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="138" group-title="*--- Netflix Premium ---*",Netflix Kids 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244121.m3u8
-#EXTINF:0 channel-id="137" radio="false" tvg-id="ext" tvg-chno="139" group-title="*--- Netflix Premium ---*",Netflix S-FICTION 1
+#EXTINF:0 channel-id="137" radio="false" tvg-id="NetflixSciFi" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-bestscifi-netflix-1594931664.jpg" tvg-chno="139" group-title="*--- Netflix Premium ---*",Netflix S-FICTION 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244083.m3u8
-#EXTINF:0 channel-id="138" radio="false" tvg-id="ext" tvg-chno="140" group-title="*--- Netflix Premium ---*",Netflix S-FICTION 2
+#EXTINF:0 channel-id="138" radio="false" tvg-id="NetflixSciFi" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-bestscifi-netflix-1594931664.jpg" tvg-chno="140" group-title="*--- Netflix Premium ---*",Netflix S-FICTION 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244084.m3u8
 #EXTINF:0 channel-id="139" radio="false" tvg-id="Nhk.br" tvg-chno="141" group-title="*--- Netflix Premium ---*",NHK World Premium
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287749.m3u8
@@ -289,11 +289,11 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287717.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287737.m3u8
 #EXTINF:0 channel-id="143" radio="false" tvg-id="rtvint" tvg-chno="145" group-title="*--- Netflix Premium ---*",RTV
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287728.m3u8
-#EXTINF:0 channel-id="144" radio="false" tvg-id="ext" tvg-chno="146" group-title="*--- Netflix Premium ---*",Saw
+#EXTINF:0 channel-id="144" radio="false" tvg-id="Saw" tvg-logo="https://i.ytimg.com/vi/nCqAXtploOg/maxresdefault.jpg" tvg-chno="146" group-title="*--- Netflix Premium ---*",Saw
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40450.m3u8
 #EXTINF:0 channel-id="145" radio="false" tvg-id="ext" tvg-chno="147" group-title="*--- Netflix Premium ---*",SCTV
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287712.m3u8
-#EXTINF:0 channel-id="146" radio="false" tvg-id="ext" tvg-chno="148" group-title="*--- Netflix Premium ---*",Superman
+#EXTINF:0 channel-id="146" radio="false" tvg-id="Superman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81-ydTsFAoL._SX342_.jpg" tvg-chno="148" group-title="*--- Netflix Premium ---*",Superman
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40451.m3u8
 #EXTINF:0 channel-id="147" radio="false" tvg-id="ext" tvg-chno="149" group-title="*--- Netflix Premium ---*",Suria SG
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287536.m3u8
@@ -321,6 +321,260 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287533.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287748.m3u8
 #EXTINF:0 channel-id="159" radio="false" tvg-id="ext" tvg-chno="161" group-title="*--- Netflix Premium ---*",Zeebioskop
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287739.m3u8
+#EXTINF:0 channel-id="1" radio="false" tvg-id="Batman" tvg-logo="https://ahscatseye.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-07-at-9.21.41-AM.png" tvg-chno="7685" group-title="Movie Chans",Batman
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40448.m3u8
+#EXTINF:0 channel-id="2" radio="false" tvg-id="Bruce2Willis" tvg-logo="https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/202959913.png" tvg-chno="7686" group-title="Movie Chans",Bruce Willis
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40453.m3u8
+#EXTINF:0 channel-id="3" radio="false" tvg-id="ext" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" tvg-chno="7687" group-title="Movie Chans",Celestial Movies
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287738.m3u8
+#EXTINF:0 channel-id="4" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7688" group-title="Movie Chans",CineBox 1 4K
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297503.m3u8
+#EXTINF:0 channel-id="5" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7689" group-title="Movie Chans",CineBox 2 4K
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297504.m3u8
+#EXTINF:0 channel-id="6" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7690" group-title="Movie Chans",CineBox 3 4K
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297505.m3u8
+#EXTINF:0 channel-id="7" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7691" group-title="Movie Chans",CineBox 4 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297506.m3u8
+#EXTINF:0 channel-id="8" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7692" group-title="Movie Chans",CineBox 5 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297507.m3u8
+#EXTINF:0 channel-id="9" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7693" group-title="Movie Chans",CineBox 6 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297508.m3u8
+#EXTINF:0 channel-id="10" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7694" group-title="Movie Chans",CineBox 7 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297509.m3u8
+#EXTINF:0 channel-id="11" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7695" group-title="Movie Chans",CineBox 8 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297510.m3u8
+#EXTINF:0 channel-id="12" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7696" group-title="Movie Chans",CineBox 9 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297511.m3u8
+#EXTINF:0 channel-id="13" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7697" group-title="Movie Chans",CineBox 10 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297512.m3u8
+#EXTINF:0 channel-id="14" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7698" group-title="Movie Chans",CineBox 11 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297513.m3u8
+#EXTINF:0 channel-id="15" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7699" group-title="Movie Chans",CineBox 12 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297514.m3u8
+#EXTINF:0 channel-id="16" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7700" group-title="Movie Chans",CineBox 13 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297515.m3u8
+#EXTINF:0 channel-id="17" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7701" group-title="Movie Chans",CineBox 14 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297516.m3u8
+#EXTINF:0 channel-id="18" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7702" group-title="Movie Chans",CineBox 15 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297517.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-id="Cinemax - Eastern HD" tvg-name="Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" tvg-chno="7703" group-title="Movie Chans",Cinemax - Eastern HD
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-id="Cinemax - Pacific HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" tvg-chno="7704" group-title="Movie Chans",Cinemax - Pacific HD
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF:-1 channel-id="21" radio="false" tvg-id="EPIX - East" tvg-name="Epix (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" tvg-chno="7705" group-title="Movie Chans",Epix (East)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-id="EPIE2" tvg-name="EPIX - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" tvg-chno="7706" group-title="Movie Chans",Epix 2 (East)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+#EXTINF:0 channel-id="23" radio="false" tvg-id="ext" tvg-chno="7707" group-title="Movie Chans",Fast And Furious
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40446.m3u8
+#EXTINF:0 channel-id="24" radio="false" tvg-id="ext" tvg-chno="7708" group-title="Movie Chans",Fox Action Movies
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287734.m3u8
+#EXTINF:0 channel-id="25" radio="false" tvg-id="fox-crime" tvg-chno="7709" group-title="Movie Chans",Fox Crime
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287735.m3u8
+#EXTINF:0 channel-id="26" radio="false" tvg-id="fox-life" tvg-chno="7710" group-title="Movie Chans",Fox Life
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287741.m3u8
+#EXTINF:0 channel-id="27" radio="false" tvg-id="ext" tvg-chno="7711" group-title="Movie Chans",Fox Movies Premium
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287769.m3u8
+#EXTINF:0 channel-id="28" radio="false" tvg-id="galaxy" tvg-chno="7712" group-title="Movie Chans",Galaxy
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287740.m3u8
+#EXTINF:0 channel-id="29" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7713" tvg-country="US" group-title="Movie Chans",Hallmark
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
+#EXTINF:0 channel-id="31" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7715" group-title="Movie Chans",Hallmark HD
+http://planettvweb.com:8091/German/German/22615
+#EXTINF:0 channel-id="32" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7716" tvg-country="US" group-title="Movie Chans",Hallmark HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55842.ts
+#EXTINF:0 channel-id="34" radio="false" tvg-logo="https://i.ytimg.com/vi/JK6hKmwGedQ/hqdefault.jpg" tvg-chno="7718" tvg-country="US" group-title="Movie Chans",Hallmark Drama
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
+#EXTINF:0 channel-id="35" radio="false" tvg-logo="https://i.ytimg.com/vi/JK6hKmwGedQ/hqdefault.jpg" tvg-chno="7719" tvg-country="US" group-title="Movie Chans",Hallmark Drama HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55843.ts
+#EXTINF:0 channel-id="37" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7721" tvg-country="US" group-title="Movie Chans",Hallmark Movies & Mysteries (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53902
+#EXTINF:0 channel-id="38" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7722" tvg-country="US" group-title="Movie Chans",Hallmark Movies & Mysteries HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55841.ts
+#EXTINF:0 channel-id="39" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7723" tvg-country="US" group-title="Movie Chans",Hallmark Movies And Mysteries HD US
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/15180?checkedby:hlscat.com
+#EXTINF:0 channel-id="40" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7724" tvg-country="US" group-title="Movie Chans",Hallmark Movies&Mysteries HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27442?checkedby:hlscat.com
+#EXTINF:-1 channel-id="41" radio="false" tvg-id="HBO - Eastern Feed" tvg-name="HBO - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="7725" group-title="Movie Chans",HBO - Eastern Feed
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 channel-id="42" radio="false" tvg-id="HBO - Pacific Feed" tvg-name="HBO - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="7726" group-title="Movie Chans",HBO - Pacific Feed
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:0 channel-id="43" radio="false" tvg-id="HBO.hu" tvg-chno="7727" group-title="Movie Chans",HBO FHD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287763.m3u8
+#EXTINF:0 channel-id="44" radio="false" tvg-id="HBOFamilyHD.cl" tvg-chno="7728" group-title="Movie Chans",HBO Family FHD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287758.m3u8
+#EXTINF:0 channel-id="45" radio="false" tvg-id="ext" tvg-chno="7729" group-title="Movie Chans",HBO Hits FHD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287757.m3u8
+#EXTINF:0 channel-id="46" radio="false" tvg-id="HBOSignature.us" tvg-chno="7730" group-title="Movie Chans",HBO Signature FHD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287764.m3u8
+#EXTINF:0 channel-id="47" radio="false" tvg-id="ext" tvg-chno="7731" group-title="Movie Chans",James Bond
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40444.m3u8
+#EXTINF:0 channel-id="48" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7732" tvg-country="GB" group-title="Movie Chans",LifeTime
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27275
+#EXTINF:0 channel-id="50" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7734" tvg-country="CA" group-title="Movie Chans",Lifetime
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/71566.ts
+#EXTINF:0 channel-id="53" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7737" tvg-country="US" group-title="Movie Chans",Lifetime HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55791.ts
+#EXTINF:0 channel-id="54" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7738" tvg-country="CA" group-title="Movie Chans",LifeTime HD
+http://ea8.oknirvana.club:8880/1M7804/AJkm7aLrrY/3025
+#EXTINF:0 channel-id="56" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7740" tvg-country="US" group-title="Movie Chans",Lifetime HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+#EXTINF:0 channel-id="58" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7742" tvg-country="US" group-title="Movie Chans",Lifetime HD US
+http://latvonlive.com:33612/Lulu/1234/505
+#EXTINF:0 channel-id="59" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime_Movie_Network.png" tvg-chno="7743" tvg-country="US" group-title="Movie Chans",Lifetime Movie
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+#EXTINF:0 channel-id="62" radio="false" tvg-id="ext" tvg-chno="7746" group-title="Movie Chans",Mission Impossible
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40447.m3u8
+#EXTINF:0 channel-id="63" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7747" group-title="Movie Chans",Netflix Action
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244093.m3u8
+#EXTINF:0 channel-id="64" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7748" group-title="Movie Chans",Netflix Action +
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244092.m3u8
+#EXTINF:0 channel-id="65" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7749" group-title="Movie Chans",Netflix Action 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244095.m3u8
+#EXTINF:0 channel-id="66" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7750" group-title="Movie Chans",Netflix Action 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244096.m3u8
+#EXTINF:0 channel-id="67" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7751" group-title="Movie Chans",Netflix Action 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244097.m3u8
+#EXTINF:0 channel-id="68" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7752" group-title="Movie Chans",Netflix Action 4
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244098.m3u8
+#EXTINF:0 channel-id="69" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7753" group-title="Movie Chans",Netflix Action 5
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244099.m3u8
+#EXTINF:0 channel-id="70" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7754" group-title="Movie Chans",Netflix Action 6
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244100.m3u8
+#EXTINF:0 channel-id="71" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7755" group-title="Movie Chans",Netflix Action 7
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244064.m3u8
+#EXTINF:0 channel-id="72" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7756" group-title="Movie Chans",Netflix Action 8
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244065.m3u8
+#EXTINF:0 channel-id="73" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7757" group-title="Movie Chans",Netflix Action 9
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244066.m3u8
+#EXTINF:0 channel-id="74" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7758" group-title="Movie Chans",Netflix Action 10
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244067.m3u8
+#EXTINF:0 channel-id="75" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7759" group-title="Movie Chans",Netflix Action 11
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244068.m3u8
+#EXTINF:0 channel-id="76" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7760" group-title="Movie Chans",Netflix Action 12
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244058.m3u8
+#EXTINF:0 channel-id="77" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7761" group-title="Movie Chans",Netflix Action 13
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244059.m3u8
+#EXTINF:0 channel-id="78" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7762" group-title="Movie Chans",Netflix Action 14
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244060.m3u8
+#EXTINF:0 channel-id="79" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7763" group-title="Movie Chans",Netflix Action 15
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244061.m3u8
+#EXTINF:0 channel-id="80" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7764" group-title="Movie Chans",Netflix Action 16
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244062.m3u8
+#EXTINF:0 channel-id="81" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7765" group-title="Movie Chans",Netflix Action 17
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244063.m3u8
+#EXTINF:0 channel-id="82" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7766" group-title="Movie Chans",Netflix Action Top
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244094.m3u8
+#EXTINF:0 channel-id="83" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="7767" group-title="Movie Chans",Netflix Anime 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244077.m3u8
+#EXTINF:0 channel-id="84" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="7768" group-title="Movie Chans",Netflix Anime 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244078.m3u8
+#EXTINF:0 channel-id="85" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="7769" group-title="Movie Chans",Netflix Anime 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244079.m3u8
+#EXTINF:0 channel-id="86" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="7770" group-title="Movie Chans",Netflix Anime 4
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244080.m3u8
+#EXTINF:0 channel-id="87" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="7771" group-title="Movie Chans",Netflix Anime 5
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244081.m3u8
+#EXTINF:0 channel-id="88" radio="false" tvg-id="NetflixAnimeMovies" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/11/Top-50-Anime-On-Netflix-1.jpg" tvg-chno="7772" group-title="Movie Chans",Netflix Anime 6
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244082.m3u8
+#EXTINF:0 channel-id="89" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7773" group-title="Movie Chans",Netflix Comedy
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244108.m3u8
+#EXTINF:0 channel-id="90" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7774" group-title="Movie Chans",Netflix Comedy 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244109.m3u8
+#EXTINF:0 channel-id="91" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7775" group-title="Movie Chans",Netflix Comedy 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244110.m3u8
+#EXTINF:0 channel-id="92" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7776" group-title="Movie Chans",Netflix Comedy 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244111.m3u8
+#EXTINF:0 channel-id="93" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7777" group-title="Movie Chans",Netflix Comedy 4
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244112.m3u8
+#EXTINF:0 channel-id="94" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7778" group-title="Movie Chans",Netflix Comedy 5
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244113.m3u8
+#EXTINF:0 channel-id="95" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7779" group-title="Movie Chans",Netflix Comedy 6
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244114.m3u8
+#EXTINF:0 channel-id="96" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7780" group-title="Movie Chans",Netflix Comedy 7
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244085.m3u8
+#EXTINF:0 channel-id="97" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7781" group-title="Movie Chans",Netflix Comedy 8
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244086.m3u8
+#EXTINF:0 channel-id="98" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="7782" group-title="Movie Chans",Netflix Comedy 9
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244087.m3u8
+#EXTINF:0 channel-id="99" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="7783" group-title="Movie Chans",Netflix Drama
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244122.m3u8
+#EXTINF:0 channel-id="100" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="7784" group-title="Movie Chans",Netflix Drama 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244088.m3u8
+#EXTINF:0 channel-id="101" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="7785" group-title="Movie Chans",Netflix Drama 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244089.m3u8
+#EXTINF:0 channel-id="102" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="7786" group-title="Movie Chans",Netflix Drama 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244090.m3u8
+#EXTINF:0 channel-id="103" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="7787" group-title="Movie Chans",Netflix Drama 4
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244091.m3u8
+#EXTINF:0 channel-id="104" radio="false" tvg-id="NetflixDrama" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/highly-rated-dramas.png" tvg-chno="7788" group-title="Movie Chans",Netflix Drama+
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244123.m3u8
+#EXTINF:0 channel-id="105" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7789" group-title="Movie Chans",Netflix Horror
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244101.m3u8
+#EXTINF:0 channel-id="106" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7790" group-title="Movie Chans",Netflix Horror 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244102.m3u8
+#EXTINF:0 channel-id="107" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7791" group-title="Movie Chans",Netflix Horror 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244103.m3u8
+#EXTINF:0 channel-id="108" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7792" group-title="Movie Chans",Netflix Horror 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244104.m3u8
+#EXTINF:0 channel-id="109" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7793" group-title="Movie Chans",Netflix Horror 4
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244105.m3u8
+#EXTINF:0 channel-id="110" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7794" group-title="Movie Chans",Netflix Horror 5
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244106.m3u8
+#EXTINF:0 channel-id="111" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7795" group-title="Movie Chans",Netflix Horror 6
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244107.m3u8
+#EXTINF:0 channel-id="112" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7796" group-title="Movie Chans",Netflix Horror 7
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244069.m3u8
+#EXTINF:0 channel-id="113" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7797" group-title="Movie Chans",Netflix Horror 8
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244070.m3u8
+#EXTINF:0 channel-id="114" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7798" group-title="Movie Chans",Netflix Horror 9
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244071.m3u8
+#EXTINF:0 channel-id="115" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7799" group-title="Movie Chans",Netflix Horror 10
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244072.m3u8
+#EXTINF:0 channel-id="116" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7800" group-title="Movie Chans",Netflix Horror 11
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244073.m3u8
+#EXTINF:0 channel-id="117" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7801" group-title="Movie Chans",Netflix Horror 12
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244074.m3u8
+#EXTINF:0 channel-id="118" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7802" group-title="Movie Chans",Netflix Horror 13
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244075.m3u8
+#EXTINF:0 channel-id="119" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="7803" group-title="Movie Chans",Netflix Horror 14
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244076.m3u8
+#EXTINF:0 channel-id="120" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="7804" group-title="Movie Chans",Netflix Kids
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244115.m3u8
+#EXTINF:0 channel-id="121" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="7805" group-title="Movie Chans",Netflix Kids 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244116.m3u8
+#EXTINF:0 channel-id="122" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="7806" group-title="Movie Chans",Netflix Kids 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244117.m3u8
+#EXTINF:0 channel-id="123" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="7807" group-title="Movie Chans",Netflix Kids 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244118.m3u8
+#EXTINF:0 channel-id="124" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="7808" group-title="Movie Chans",Netflix Kids 4
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244119.m3u8
+#EXTINF:0 channel-id="125" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="7809" group-title="Movie Chans",Netflix Kids 5
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244120.m3u8
+#EXTINF:0 channel-id="126" radio="false" tvg-id="NetflixKids" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg" tvg-chno="7810" group-title="Movie Chans",Netflix Kids 6
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244121.m3u8
+#EXTINF:0 channel-id="127" radio="false" tvg-id="NetflixSciFi" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-bestscifi-netflix-1594931664.jpg" tvg-chno="7811" group-title="Movie Chans",Netflix S-Fiction 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244083.m3u8
+#EXTINF:0 channel-id="128" radio="false" tvg-id="NetflixSciFi" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-bestscifi-netflix-1594931664.jpg" tvg-chno="7812" group-title="Movie Chans",Netflix S-Fiction 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244084.m3u8
+#EXTINF:0 channel-id="129" radio="false" tvg-id="Saw" tvg-logo="https://i.ytimg.com/vi/nCqAXtploOg/maxresdefault.jpg" tvg-chno="7813" group-title="Movie Chans",Saw
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40450.m3u8
+#EXTINF:-1 channel-id="130" radio="false" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime [East]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" tvg-chno="7814" group-title="Movie Chans",Showtime - Eastern Feed
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF:-1 channel-id="131" radio="false" tvg-id="Showtime 2 - Pacific" tvg-name="Showtime 2 - Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" tvg-chno="7815" group-title="Movie Chans",Showtime 2 - Pacific
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+#EXTINF:-1 channel-id="132" radio="false" tvg-id="Starz - Eastern" tvg-name="Starz - Eastern" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" tvg-chno="7816" group-title="Movie Chans",Starz - Eastern
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+#EXTINF:-1 channel-id="133" radio="false" tvg-id="Starz - Pacific " tvg-name="Starz - Pacific " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" tvg-chno="7817" group-title="Movie Chans",Starz - Pacific
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:0 channel-id="134" radio="false" tvg-id="Superman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81-ydTsFAoL._SX342_.jpg" tvg-chno="7818" group-title="Movie Chans",Superman
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40451.m3u8
+#EXTINF:0 channel-id="135" radio="false" tvg-id="ext" tvg-chno="7819" group-title="Movie Chans",Sylvester Stallone
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40445.m3u8
+#EXTINF:0 channel-id="136" radio="false" tvg-id="ext" tvg-chno="7820" group-title="Movie Chans",Tom Cruise
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40454.m3u8
+#EXTINF:0 channel-id="137" radio="false" tvg-id="ext" tvg-chno="7821" group-title="Movie Chans",Twilight
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40449.m3u8
 #EXTINF:0 channel-id="1" radio="false" tvg-id="ADSports1.net" tvg-chno="162" group-title="*--- SPORTS ---*",Abu Dhabi Sports 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/30431.m3u8
 #EXTINF:0 channel-id="2" radio="false" tvg-id="ADSports2.net" tvg-chno="163" group-title="*--- SPORTS ---*",Abu Dhabi Sports 2
@@ -15367,280 +15621,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 channel-id="54" radio="false" tvg-chno="7684" group-title="Local",WPEC CBS12 News
 https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
-#EXTINF:0 channel-id="1" radio="false" tvg-id="ext" tvg-chno="7685" group-title="Movie Chans",Batman
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40448.m3u8
-#EXTINF:0 channel-id="2" radio="false" tvg-id="ext" tvg-chno="7686" group-title="Movie Chans",Bruce Willis
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40453.m3u8
-#EXTINF:0 channel-id="3" radio="false" tvg-id="ext" tvg-chno="7687" group-title="Movie Chans",Celestial Movies
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287738.m3u8
-#EXTINF:0 channel-id="4" radio="false" tvg-id="ext" tvg-chno="7688" group-title="Movie Chans",CineBox 1 4K
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297503.m3u8
-#EXTINF:0 channel-id="5" radio="false" tvg-id="ext" tvg-chno="7689" group-title="Movie Chans",CineBox 2 4K
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297504.m3u8
-#EXTINF:0 channel-id="6" radio="false" tvg-id="ext" tvg-chno="7690" group-title="Movie Chans",CineBox 3 4K
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297505.m3u8
-#EXTINF:0 channel-id="7" radio="false" tvg-id="ext" tvg-chno="7691" group-title="Movie Chans",CineBox 4 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297506.m3u8
-#EXTINF:0 channel-id="8" radio="false" tvg-id="ext" tvg-chno="7692" group-title="Movie Chans",CineBox 5 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297507.m3u8
-#EXTINF:0 channel-id="9" radio="false" tvg-id="ext" tvg-chno="7693" group-title="Movie Chans",CineBox 6 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297508.m3u8
-#EXTINF:0 channel-id="10" radio="false" tvg-id="ext" tvg-chno="7694" group-title="Movie Chans",CineBox 7 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297509.m3u8
-#EXTINF:0 channel-id="11" radio="false" tvg-id="ext" tvg-chno="7695" group-title="Movie Chans",CineBox 8 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297510.m3u8
-#EXTINF:0 channel-id="12" radio="false" tvg-id="ext" tvg-chno="7696" group-title="Movie Chans",CineBox 9 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297511.m3u8
-#EXTINF:0 channel-id="13" radio="false" tvg-id="ext" tvg-chno="7697" group-title="Movie Chans",CineBox 10 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297512.m3u8
-#EXTINF:0 channel-id="14" radio="false" tvg-id="ext" tvg-chno="7698" group-title="Movie Chans",CineBox 11 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297513.m3u8
-#EXTINF:0 channel-id="15" radio="false" tvg-id="ext" tvg-chno="7699" group-title="Movie Chans",CineBox 12 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297514.m3u8
-#EXTINF:0 channel-id="16" radio="false" tvg-id="ext" tvg-chno="7700" group-title="Movie Chans",CineBox 13 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297515.m3u8
-#EXTINF:0 channel-id="17" radio="false" tvg-id="ext" tvg-chno="7701" group-title="Movie Chans",CineBox 14 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297516.m3u8
-#EXTINF:0 channel-id="18" radio="false" tvg-id="ext" tvg-chno="7702" group-title="Movie Chans",CineBox 15 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297517.m3u8
-#EXTINF:-1 channel-id="19" radio="false" tvg-id="Cinemax - Eastern HD" tvg-name="Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" tvg-chno="7703" group-title="Movie Chans",Cinemax - Eastern HD
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-#EXTINF:-1 channel-id="20" radio="false" tvg-id="Cinemax - Pacific HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" tvg-chno="7704" group-title="Movie Chans",Cinemax - Pacific HD
-https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-#EXTINF:-1 channel-id="21" radio="false" tvg-id="EPIX - East" tvg-name="Epix (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" tvg-chno="7705" group-title="Movie Chans",Epix (East)
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-#EXTINF:-1 channel-id="22" radio="false" tvg-id="EPIE2" tvg-name="EPIX - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" tvg-chno="7706" group-title="Movie Chans",Epix 2 (East)
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-#EXTINF:0 channel-id="23" radio="false" tvg-id="ext" tvg-chno="7707" group-title="Movie Chans",Fast And Furious
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40446.m3u8
-#EXTINF:0 channel-id="24" radio="false" tvg-id="ext" tvg-chno="7708" group-title="Movie Chans",Fox Action Movies
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287734.m3u8
-#EXTINF:0 channel-id="25" radio="false" tvg-id="fox-crime" tvg-chno="7709" group-title="Movie Chans",Fox Crime
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287735.m3u8
-#EXTINF:0 channel-id="26" radio="false" tvg-id="fox-life" tvg-chno="7710" group-title="Movie Chans",Fox Life
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287741.m3u8
-#EXTINF:0 channel-id="27" radio="false" tvg-id="ext" tvg-chno="7711" group-title="Movie Chans",Fox Movies Premium
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287769.m3u8
-#EXTINF:0 channel-id="28" radio="false" tvg-id="galaxy" tvg-chno="7712" group-title="Movie Chans",Galaxy
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287740.m3u8
-#EXTINF:0 channel-id="29" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7713" tvg-country="US" group-title="Movie Chans",Hallmark
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561?checkedby:hlscat.com
-#EXTINF:0 channel-id="30" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7714" tvg-country="US" group-title="Movie Chans",Hallmark Channel HD US
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/9691?checkedby:hlscat.com
-#EXTINF:0 channel-id="31" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7715" group-title="Movie Chans",Hallmark HD
-http://planettvweb.com:8091/German/German/22615?checkedby:hlscat.com
-#EXTINF:0 channel-id="32" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7716" tvg-country="US" group-title="Movie Chans",Hallmark HD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55842.ts?checkedby:hlscat.com
-#EXTINF:0 channel-id="33" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7717" tvg-country="US" group-title="Movie Chans",Hallmark HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27372?checkedby:hlscat.com
-#EXTINF:0 channel-id="34" radio="false" tvg-logo="https://i.ytimg.com/vi/JK6hKmwGedQ/hqdefault.jpg" tvg-chno="7718" tvg-country="US" group-title="Movie Chans",Hallmark Drama
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562?checkedby:hlscat.com
-#EXTINF:0 channel-id="35" radio="false" tvg-logo="https://i.ytimg.com/vi/JK6hKmwGedQ/hqdefault.jpg" tvg-chno="7719" tvg-country="US" group-title="Movie Chans",Hallmark Drama HD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55843.ts?checkedby:hlscat.com
-#EXTINF:0 channel-id="36" radio="false" tvg-logo="https://i.ytimg.com/vi/JK6hKmwGedQ/hqdefault.jpg" tvg-chno="7720" tvg-country="US" group-title="Movie Chans",Hallmark Drama HD US
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/19392?checkedby:hlscat.com
-#EXTINF:0 channel-id="37" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7721" tvg-country="US" group-title="Movie Chans",Hallmark Movies & Mysteries (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/53902?checkedby:hlscat.com
-#EXTINF:0 channel-id="38" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7722" tvg-country="US" group-title="Movie Chans",Hallmark Movies & Mysteries HD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55841.ts?checkedby:hlscat.com
-#EXTINF:0 channel-id="39" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7723" tvg-country="US" group-title="Movie Chans",Hallmark Movies And Mysteries HD US
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/15180?checkedby:hlscat.com
-#EXTINF:0 channel-id="40" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7724" tvg-country="US" group-title="Movie Chans",Hallmark Movies&Mysteries HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27442?checkedby:hlscat.com
-#EXTINF:-1 channel-id="41" radio="false" tvg-id="HBO - Eastern Feed" tvg-name="HBO - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="7725" group-title="Movie Chans",HBO - Eastern Feed
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1 channel-id="42" radio="false" tvg-id="HBO - Pacific Feed" tvg-name="HBO - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="7726" group-title="Movie Chans",HBO - Pacific Feed
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-#EXTINF:0 channel-id="43" radio="false" tvg-id="HBO.hu" tvg-chno="7727" group-title="Movie Chans",HBO FHD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287763.m3u8
-#EXTINF:0 channel-id="44" radio="false" tvg-id="HBOFamilyHD.cl" tvg-chno="7728" group-title="Movie Chans",HBO Family FHD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287758.m3u8
-#EXTINF:0 channel-id="45" radio="false" tvg-id="ext" tvg-chno="7729" group-title="Movie Chans",HBO Hits FHD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287757.m3u8
-#EXTINF:0 channel-id="46" radio="false" tvg-id="HBOSignature.us" tvg-chno="7730" group-title="Movie Chans",HBO Signature FHD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287764.m3u8
-#EXTINF:0 channel-id="47" radio="false" tvg-id="ext" tvg-chno="7731" group-title="Movie Chans",James Bond
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40444.m3u8
-#EXTINF:0 channel-id="48" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7732" tvg-country="GB" group-title="Movie Chans",LifeTime
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27275?checkedby:hlscat.com
-#EXTINF:0 channel-id="49" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7733" tvg-country="PL" group-title="Movie Chans",LifeTime FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/25137?checkedby:hlscat.com
-#EXTINF:0 channel-id="50" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7734" tvg-country="CA" group-title="Movie Chans",Lifetime FHD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/71566.ts?checkedby:hlscat.com
-#EXTINF:0 channel-id="51" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7735" tvg-country="CA" group-title="Movie Chans",Lifetime FHD CA
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/17374?checkedby:hlscat.com
-#EXTINF:0 channel-id="52" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7736" tvg-country="GB" group-title="Movie Chans",Lifetime FHD UK
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/25080?checkedby:hlscat.com
-#EXTINF:0 channel-id="53" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7737" tvg-country="US" group-title="Movie Chans",Lifetime HD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55791.ts?checkedby:hlscat.com
-#EXTINF:0 channel-id="54" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7738" tvg-country="CA" group-title="Movie Chans",LifeTime HD
-http://ea8.oknirvana.club:8880/1M7804/AJkm7aLrrY/3025?checkedby:hlscat.com
-#EXTINF:0 channel-id="55" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7739" tvg-country="US" group-title="Movie Chans",LifeTime HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27405?checkedby:hlscat.com
-#EXTINF:0 channel-id="56" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7740" tvg-country="US" group-title="Movie Chans",Lifetime HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567?checkedby:hlscat.com
-#EXTINF:0 channel-id="57" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7741" tvg-country="US" group-title="Movie Chans",Lifetime HD US
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/23829?checkedby:hlscat.com
-#EXTINF:0 channel-id="58" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7742" tvg-country="US" group-title="Movie Chans",Lifetime HD US
-http://latvonlive.com:33612/Lulu/1234/505?checkedby:hlscat.com
-#EXTINF:0 channel-id="59" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime_Movie_Network.png" tvg-chno="7743" tvg-country="US" group-title="Movie Chans",Lifetime Movie
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568?checkedby:hlscat.com
-#EXTINF:0 channel-id="60" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime_Movie_Network.png" tvg-chno="7744" tvg-country="US" group-title="Movie Chans",Lifetime Movie Network HD US
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/23830?checkedby:hlscat.com
-#EXTINF:0 channel-id="61" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7745" group-title="Movie Chans",LIFETIME SD
-http://planettvweb.com:8091/German/German/11843?checkedby:hlscat.com
-#EXTINF:0 channel-id="62" radio="false" tvg-id="ext" tvg-chno="7746" group-title="Movie Chans",Mission Impossible
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40447.m3u8
-#EXTINF:0 channel-id="63" radio="false" tvg-id="ext" tvg-chno="7747" group-title="Movie Chans",Netflix Action
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244093.m3u8
-#EXTINF:0 channel-id="64" radio="false" tvg-id="ext" tvg-chno="7748" group-title="Movie Chans",Netflix Action +
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244092.m3u8
-#EXTINF:0 channel-id="65" radio="false" tvg-id="ext" tvg-chno="7749" group-title="Movie Chans",Netflix Action 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244095.m3u8
-#EXTINF:0 channel-id="66" radio="false" tvg-id="ext" tvg-chno="7750" group-title="Movie Chans",Netflix Action 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244096.m3u8
-#EXTINF:0 channel-id="67" radio="false" tvg-id="ext" tvg-chno="7751" group-title="Movie Chans",Netflix Action 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244097.m3u8
-#EXTINF:0 channel-id="68" radio="false" tvg-id="ext" tvg-chno="7752" group-title="Movie Chans",Netflix Action 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244098.m3u8
-#EXTINF:0 channel-id="69" radio="false" tvg-id="ext" tvg-chno="7753" group-title="Movie Chans",Netflix Action 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244099.m3u8
-#EXTINF:0 channel-id="70" radio="false" tvg-id="ext" tvg-chno="7754" group-title="Movie Chans",Netflix Action 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244100.m3u8
-#EXTINF:0 channel-id="71" radio="false" tvg-id="ext" tvg-chno="7755" group-title="Movie Chans",Netflix Action 7
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244064.m3u8
-#EXTINF:0 channel-id="72" radio="false" tvg-id="ext" tvg-chno="7756" group-title="Movie Chans",Netflix Action 8
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244065.m3u8
-#EXTINF:0 channel-id="73" radio="false" tvg-id="ext" tvg-chno="7757" group-title="Movie Chans",Netflix Action 9
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244066.m3u8
-#EXTINF:0 channel-id="74" radio="false" tvg-id="ext" tvg-chno="7758" group-title="Movie Chans",Netflix Action 10
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244067.m3u8
-#EXTINF:0 channel-id="75" radio="false" tvg-id="ext" tvg-chno="7759" group-title="Movie Chans",Netflix Action 11
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244068.m3u8
-#EXTINF:0 channel-id="76" radio="false" tvg-id="ext" tvg-chno="7760" group-title="Movie Chans",Netflix Action 12
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244058.m3u8
-#EXTINF:0 channel-id="77" radio="false" tvg-id="ext" tvg-chno="7761" group-title="Movie Chans",Netflix Action 13
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244059.m3u8
-#EXTINF:0 channel-id="78" radio="false" tvg-id="ext" tvg-chno="7762" group-title="Movie Chans",Netflix Action 14
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244060.m3u8
-#EXTINF:0 channel-id="79" radio="false" tvg-id="ext" tvg-chno="7763" group-title="Movie Chans",Netflix Action 15
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244061.m3u8
-#EXTINF:0 channel-id="80" radio="false" tvg-id="ext" tvg-chno="7764" group-title="Movie Chans",Netflix Action 16
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244062.m3u8
-#EXTINF:0 channel-id="81" radio="false" tvg-id="ext" tvg-chno="7765" group-title="Movie Chans",Netflix Action 17
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244063.m3u8
-#EXTINF:0 channel-id="82" radio="false" tvg-id="ext" tvg-chno="7766" group-title="Movie Chans",Netflix Action Top
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244094.m3u8
-#EXTINF:0 channel-id="83" radio="false" tvg-id="ext" tvg-chno="7767" group-title="Movie Chans",Netflix Anime 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244077.m3u8
-#EXTINF:0 channel-id="84" radio="false" tvg-id="ext" tvg-chno="7768" group-title="Movie Chans",Netflix Anime 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244078.m3u8
-#EXTINF:0 channel-id="85" radio="false" tvg-id="ext" tvg-chno="7769" group-title="Movie Chans",Netflix Anime 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244079.m3u8
-#EXTINF:0 channel-id="86" radio="false" tvg-id="ext" tvg-chno="7770" group-title="Movie Chans",Netflix Anime 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244080.m3u8
-#EXTINF:0 channel-id="87" radio="false" tvg-id="ext" tvg-chno="7771" group-title="Movie Chans",Netflix Anime 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244081.m3u8
-#EXTINF:0 channel-id="88" radio="false" tvg-id="ext" tvg-chno="7772" group-title="Movie Chans",Netflix Anime 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244082.m3u8
-#EXTINF:0 channel-id="89" radio="false" tvg-id="ext" tvg-chno="7773" group-title="Movie Chans",Netflix Comedy
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244108.m3u8
-#EXTINF:0 channel-id="90" radio="false" tvg-id="ext" tvg-chno="7774" group-title="Movie Chans",Netflix Comedy 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244109.m3u8
-#EXTINF:0 channel-id="91" radio="false" tvg-id="ext" tvg-chno="7775" group-title="Movie Chans",Netflix Comedy 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244110.m3u8
-#EXTINF:0 channel-id="92" radio="false" tvg-id="ext" tvg-chno="7776" group-title="Movie Chans",Netflix Comedy 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244111.m3u8
-#EXTINF:0 channel-id="93" radio="false" tvg-id="ext" tvg-chno="7777" group-title="Movie Chans",Netflix Comedy 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244112.m3u8
-#EXTINF:0 channel-id="94" radio="false" tvg-id="ext" tvg-chno="7778" group-title="Movie Chans",Netflix Comedy 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244113.m3u8
-#EXTINF:0 channel-id="95" radio="false" tvg-id="ext" tvg-chno="7779" group-title="Movie Chans",Netflix Comedy 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244114.m3u8
-#EXTINF:0 channel-id="96" radio="false" tvg-id="ext" tvg-chno="7780" group-title="Movie Chans",Netflix Comedy 7
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244085.m3u8
-#EXTINF:0 channel-id="97" radio="false" tvg-id="ext" tvg-chno="7781" group-title="Movie Chans",Netflix Comedy 8
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244086.m3u8
-#EXTINF:0 channel-id="98" radio="false" tvg-id="ext" tvg-chno="7782" group-title="Movie Chans",Netflix Comedy 9
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244087.m3u8
-#EXTINF:0 channel-id="99" radio="false" tvg-id="ext" tvg-chno="7783" group-title="Movie Chans",Netflix Drama
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244122.m3u8
-#EXTINF:0 channel-id="100" radio="false" tvg-id="ext" tvg-chno="7784" group-title="Movie Chans",Netflix Drama 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244088.m3u8
-#EXTINF:0 channel-id="101" radio="false" tvg-id="ext" tvg-chno="7785" group-title="Movie Chans",Netflix Drama 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244089.m3u8
-#EXTINF:0 channel-id="102" radio="false" tvg-id="ext" tvg-chno="7786" group-title="Movie Chans",Netflix Drama 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244090.m3u8
-#EXTINF:0 channel-id="103" radio="false" tvg-id="ext" tvg-chno="7787" group-title="Movie Chans",Netflix Drama 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244091.m3u8
-#EXTINF:0 channel-id="104" radio="false" tvg-id="ext" tvg-chno="7788" group-title="Movie Chans",Netflix Drama+
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244123.m3u8
-#EXTINF:0 channel-id="105" radio="false" tvg-id="ext" tvg-chno="7789" group-title="Movie Chans",Netflix Horror
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244101.m3u8
-#EXTINF:0 channel-id="106" radio="false" tvg-id="ext" tvg-chno="7790" group-title="Movie Chans",Netflix Horror 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244102.m3u8
-#EXTINF:0 channel-id="107" radio="false" tvg-id="ext" tvg-chno="7791" group-title="Movie Chans",Netflix Horror 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244103.m3u8
-#EXTINF:0 channel-id="108" radio="false" tvg-id="ext" tvg-chno="7792" group-title="Movie Chans",Netflix Horror 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244104.m3u8
-#EXTINF:0 channel-id="109" radio="false" tvg-id="ext" tvg-chno="7793" group-title="Movie Chans",Netflix Horror 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244105.m3u8
-#EXTINF:0 channel-id="110" radio="false" tvg-id="ext" tvg-chno="7794" group-title="Movie Chans",Netflix Horror 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244106.m3u8
-#EXTINF:0 channel-id="111" radio="false" tvg-id="ext" tvg-chno="7795" group-title="Movie Chans",Netflix Horror 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244107.m3u8
-#EXTINF:0 channel-id="112" radio="false" tvg-id="ext" tvg-chno="7796" group-title="Movie Chans",Netflix Horror 7
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244069.m3u8
-#EXTINF:0 channel-id="113" radio="false" tvg-id="ext" tvg-chno="7797" group-title="Movie Chans",Netflix Horror 8
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244070.m3u8
-#EXTINF:0 channel-id="114" radio="false" tvg-id="ext" tvg-chno="7798" group-title="Movie Chans",Netflix Horror 9
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244071.m3u8
-#EXTINF:0 channel-id="115" radio="false" tvg-id="ext" tvg-chno="7799" group-title="Movie Chans",Netflix Horror 10
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244072.m3u8
-#EXTINF:0 channel-id="116" radio="false" tvg-id="ext" tvg-chno="7800" group-title="Movie Chans",Netflix Horror 11
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244073.m3u8
-#EXTINF:0 channel-id="117" radio="false" tvg-id="ext" tvg-chno="7801" group-title="Movie Chans",Netflix Horror 12
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244074.m3u8
-#EXTINF:0 channel-id="118" radio="false" tvg-id="ext" tvg-chno="7802" group-title="Movie Chans",Netflix Horror 13
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244075.m3u8
-#EXTINF:0 channel-id="119" radio="false" tvg-id="ext" tvg-chno="7803" group-title="Movie Chans",Netflix Horror 14
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244076.m3u8
-#EXTINF:0 channel-id="120" radio="false" tvg-id="ext" tvg-chno="7804" group-title="Movie Chans",Netflix Kids
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244115.m3u8
-#EXTINF:0 channel-id="121" radio="false" tvg-id="ext" tvg-chno="7805" group-title="Movie Chans",Netflix Kids 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244116.m3u8
-#EXTINF:0 channel-id="122" radio="false" tvg-id="ext" tvg-chno="7806" group-title="Movie Chans",Netflix Kids 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244117.m3u8
-#EXTINF:0 channel-id="123" radio="false" tvg-id="ext" tvg-chno="7807" group-title="Movie Chans",Netflix Kids 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244118.m3u8
-#EXTINF:0 channel-id="124" radio="false" tvg-id="ext" tvg-chno="7808" group-title="Movie Chans",Netflix Kids 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244119.m3u8
-#EXTINF:0 channel-id="125" radio="false" tvg-id="ext" tvg-chno="7809" group-title="Movie Chans",Netflix Kids 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244120.m3u8
-#EXTINF:0 channel-id="126" radio="false" tvg-id="ext" tvg-chno="7810" group-title="Movie Chans",Netflix Kids 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244121.m3u8
-#EXTINF:0 channel-id="127" radio="false" tvg-id="ext" tvg-chno="7811" group-title="Movie Chans",Netflix S-Fiction 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244083.m3u8
-#EXTINF:0 channel-id="128" radio="false" tvg-id="ext" tvg-chno="7812" group-title="Movie Chans",Netflix S-Fiction 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244084.m3u8
-#EXTINF:0 channel-id="129" radio="false" tvg-id="ext" tvg-chno="7813" group-title="Movie Chans",Saw
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40450.m3u8
-#EXTINF:-1 channel-id="130" radio="false" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime [East]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" tvg-chno="7814" group-title="Movie Chans",Showtime - Eastern Feed
-https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-#EXTINF:-1 channel-id="131" radio="false" tvg-id="Showtime 2 - Pacific" tvg-name="Showtime 2 - Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" tvg-chno="7815" group-title="Movie Chans",Showtime 2 - Pacific
-https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-#EXTINF:-1 channel-id="132" radio="false" tvg-id="Starz - Eastern" tvg-name="Starz - Eastern" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" tvg-chno="7816" group-title="Movie Chans",Starz - Eastern
-https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-#EXTINF:-1 channel-id="133" radio="false" tvg-id="Starz - Pacific " tvg-name="Starz - Pacific " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" tvg-chno="7817" group-title="Movie Chans",Starz - Pacific
-https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-#EXTINF:0 channel-id="134" radio="false" tvg-id="ext" tvg-chno="7818" group-title="Movie Chans",Superman
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40451.m3u8
-#EXTINF:0 channel-id="135" radio="false" tvg-id="ext" tvg-chno="7819" group-title="Movie Chans",Sylvester Stallone
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40445.m3u8
-#EXTINF:0 channel-id="136" radio="false" tvg-id="ext" tvg-chno="7820" group-title="Movie Chans",Tom Cruise
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40454.m3u8
-#EXTINF:0 channel-id="137" radio="false" tvg-id="ext" tvg-chno="7821" group-title="Movie Chans",Twilight
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40449.m3u8
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/gHBvHes.jpg" tvg-chno="7822" group-title="Movies Plus",& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" tvg-chno="7823" group-title="Movies Plus",& Prive HD
