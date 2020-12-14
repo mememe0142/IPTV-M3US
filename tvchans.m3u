@@ -1,450 +1,4 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
-#EXTINF:0 radio="false" tvg-id="20Mediaset.it" group-title="(01) TV SAT",20 Mediaset FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75226.m3u8
-#EXTINF:0 radio="false" tvg-id="20Mediaset.it" group-title="(01) TV SAT",20 Mediaset HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75227.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",20 Mediaset HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75228.m3u8
-#EXTINF:0 radio="false" tvg-id="20Mediaset.it" group-title="(01) TV SAT",20 Mediaset SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75229.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Canala 5 HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75208.m3u8
-#EXTINF:0 radio="false" tvg-id="Canale5.it" group-title="(01) TV SAT",CANALE 5 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75205.m3u8
-#EXTINF:0 radio="false" tvg-id="Canale5.it" group-title="(01) TV SAT",Canale 5 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75206.m3u8
-#EXTINF:0 radio="false" tvg-id="Canale5.it" group-title="(01) TV SAT",CANALE 5 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75207.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",CASE DESIGN STILE
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75271.m3u8
-#EXTINF:0 radio="false" tvg-id="Cielo.it" group-title="(01) TV SAT",Cielo
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75245.m3u8
-#EXTINF:0 radio="false" tvg-id="DMAX.it" group-title="(01) TV SAT",DMax FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75258.m3u8
-#EXTINF:0 radio="false" tvg-id="DMAX.it" group-title="(01) TV SAT",DMAX HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75259.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Dmax HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75261.m3u8
-#EXTINF:0 radio="false" tvg-id="DiscoveryDMAX.uk" group-title="(01) TV SAT",Dmax SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75260.m3u8
-#EXTINF:0 radio="false" tvg-id="food-network-rus" group-title="(01) TV SAT",Food Network HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75262.m3u8
-#EXTINF:0 radio="false" tvg-id="Giallo.it" group-title="(01) TV SAT",Giallo FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75264.m3u8
-#EXTINF:0 radio="false" tvg-id="Giallo.it" group-title="(01) TV SAT",Giallo HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75265.m3u8
-#EXTINF:0 radio="false" tvg-id="Giallo.it" group-title="(01) TV SAT",Giallo SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75266.m3u8
-#EXTINF:0 radio="false" tvg-id="Iris.it" group-title="(01) TV SAT",Iris HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75236.m3u8
-#EXTINF:0 radio="false" tvg-id="Italia1.it" group-title="(01) TV SAT",ITALIA 1 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75210.m3u8
-#EXTINF:0 radio="false" tvg-id="Italia1.it" group-title="(01) TV SAT",Italia 1 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75211.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Italia 1 HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75213.m3u8
-#EXTINF:0 radio="false" tvg-id="Italia1.it" group-title="(01) TV SAT",ITALIA 1 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75212.m3u8
-#EXTINF:0 radio="false" tvg-id="LA5.it" group-title="(01) TV SAT",LA 5 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75250.m3u8
-#EXTINF:0 radio="false" tvg-id="La7.it" group-title="(01) TV SAT",LA 7 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75214.m3u8
-#EXTINF:0 radio="false" tvg-id="La7.it" group-title="(01) TV SAT",La 7 hd
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75215.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",LA 7 HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75216.m3u8
-#EXTINF:0 radio="false" tvg-id="La7.it" group-title="(01) TV SAT",LA 7 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75217.m3u8
-#EXTINF:0 radio="false" tvg-id="La7d.it" group-title="(01) TV SAT",LA 7d
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75249.m3u8
-#EXTINF:0 radio="false" tvg-id="La7d.it" group-title="(01) TV SAT",LA 7d FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75248.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Mediaset Cine34
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75247.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Mediaset Extra 2 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75256.m3u8
-#EXTINF:0 radio="false" tvg-id="MediasetExtra.it" group-title="(01) TV SAT",Mediaset Extra HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75255.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Mediaset Italia 2 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75257.m3u8
-#EXTINF:0 radio="false" tvg-id="Nove.it" group-title="(01) TV SAT",Nove fhd
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75222.m3u8
-#EXTINF:0 radio="false" tvg-id="Nove.it" group-title="(01) TV SAT",Nove HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75223.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Nove HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75224.m3u8
-#EXTINF:0 radio="false" tvg-id="Nove.it" group-title="(01) TV SAT",Nove SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75225.m3u8
-#EXTINF:0 radio="false" tvg-id="paramount" group-title="(01) TV SAT",Paramount Channel
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75246.m3u8
-#EXTINF:0 radio="false" tvg-id="QVC.it" group-title="(01) TV SAT",QVC Italia
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75270.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai1.it" group-title="(01) TV SAT",RAI 1 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75185.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai1.it" group-title="(01) TV SAT",RAI 1 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75186.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Rai 1 HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75188.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai1.it" group-title="(01) TV SAT",RAI 1 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75187.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai2.it" group-title="(01) TV SAT",RAI 2 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75190.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai2.it" group-title="(01) TV SAT",RAI 2 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75191.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Rai 2 HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75193.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai2.it" group-title="(01) TV SAT",RAI 2 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75192.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai3.it" group-title="(01) TV SAT",RAI 3 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75195.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai3.it" group-title="(01) TV SAT",RAI 3 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75196.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Rai 3 HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75198.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai3.it" group-title="(01) TV SAT",RAI 3 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75197.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai4.it" group-title="(01) TV SAT",RAI 4 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75230.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai4.it" group-title="(01) TV SAT",Rai 4 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75231.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai4.it" group-title="(01) TV SAT",Rai 4 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75232.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai5.it" group-title="(01) TV SAT",RAI 5 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75233.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai5.it" group-title="(01) TV SAT",Rai 5 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75234.m3u8
-#EXTINF:0 radio="false" tvg-id="Rai5.it" group-title="(01) TV SAT",Rai 5 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75235.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiItalia.cl" group-title="(01) TV SAT",Rai Italia
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75238.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiMovie.it" group-title="(01) TV SAT",Rai Movie FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75239.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiMovie.it" group-title="(01) TV SAT",Rai Movie HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75240.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiMovie.it" group-title="(01) TV SAT",Rai Movie SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75241.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiPremium.it" group-title="(01) TV SAT",Rai Premium FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75242.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiPremium.it" group-title="(01) TV SAT",Rai Premium HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75243.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiPremium.it" group-title="(01) TV SAT",Rai Premium SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75244.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Real Time HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75254.m3u8
-#EXTINF:0 radio="false" tvg-id="RealTime.it" group-title="(01) TV SAT",Real time SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75253.m3u8
-#EXTINF:0 radio="false" tvg-id="RealTime.it" group-title="(01) TV SAT",RealTime FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75251.m3u8
-#EXTINF:0 radio="false" tvg-id="RealTime.it" group-title="(01) TV SAT",RealTime HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75252.m3u8
-#EXTINF:0 radio="false" tvg-id="Rete4.it" group-title="(01) TV SAT",RETE 4 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75200.m3u8
-#EXTINF:0 radio="false" tvg-id="Rete4.it" group-title="(01) TV SAT",Rete 4 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75201.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Rete 4 HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75203.m3u8
-#EXTINF:0 radio="false" tvg-id="Rete4.it" group-title="(01) TV SAT",RETE 4 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75202.m3u8
-#EXTINF:0 radio="false" tvg-id="RSILa1.ch" group-title="(01) TV SAT",RSI LA 1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75272.m3u8
-#EXTINF:0 radio="false" tvg-id="RSILa2.ch" group-title="(01) TV SAT",RSI LA 2
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75274.m3u8
-#EXTINF:0 radio="false" tvg-id="RSILa2.ch" group-title="(01) TV SAT",Rsi La 2 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75275.m3u8
-#EXTINF:0 radio="false" tvg-id="RSILa1.ch" group-title="(01) TV SAT",Rsi La1 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75273.m3u8
-#EXTINF:0 radio="false" tvg-id="spike" group-title="(01) TV SAT",Spike
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75237.m3u8
-#EXTINF:0 radio="false" tvg-id="TopCrime.it" group-title="(01) TV SAT",Top Crime HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75263.m3u8
-#EXTINF:0 radio="false" tvg-id="tv8-lt" group-title="(01) TV SAT",TV8 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75218.m3u8
-#EXTINF:0 radio="false" tvg-id="tv8-lt" group-title="(01) TV SAT",Tv8 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75219.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01) TV SAT",Tv8 HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75220.m3u8
-#EXTINF:0 radio="false" tvg-id="tv8-lt" group-title="(01) TV SAT",Tv8 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75221.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01+) GRANDE FRATELLO LIVE",GRANDE FRATELLO REGIA 1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/91092.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01+) GRANDE FRATELLO LIVE",GRANDE FRATELLO REGIA 2
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/91093.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(01+) GRANDE FRATELLO LIVE",GRANDE FRATELLO UN ORA Fà
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/91091.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(03) NOTIZIARI",FANPAGE.IT
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99080.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(03) NOTIZIARI",NEWS CNBC
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/91707.m3u8
-#EXTINF:0 radio="false" tvg-id="TG24.it" group-title="(03) NOTIZIARI",Sky Tg 24 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75173.m3u8
-#EXTINF:0 radio="false" tvg-id="TG24.it" group-title="(03) NOTIZIARI",Sky Tg 24 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75174.m3u8
-#EXTINF:0 radio="false" tvg-id="TG24.it" group-title="(03) NOTIZIARI",Sky Tg 24 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75175.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiNews.it" group-title="(03) NOTIZIARI",Rai News 24 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75176.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(03) NOTIZIARI",Tg Com 24 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75177.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(03) NOTIZIARI",Tg Norba 24 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75179.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(03) NOTIZIARI",SenatoTV
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75178.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(03) NOTIZIARI",TV 2000 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75180.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(03) NOTIZIARI",Euronews Live HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/83920.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(03) NOTIZIARI",Video Tolento
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75181.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA  1+24 FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98983.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA 1 +24 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99009.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA 1+24 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98984.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA 2+24 FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98989.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA 2+24 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98990.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA 2+24 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99011.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesActionThriller.uk" group-title="(04) SKY CINEMA",SKY CINEMA ACTION FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98998.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesActionThriller.uk" group-title="(04) SKY CINEMA",SKY CINEMA ACTION HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98999.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesActionThriller.uk" group-title="(04) SKY CINEMA",SKY CINEMA ACTION SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99012.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaHits.it" group-title="(04) SKY CINEMA",SKY CINEMA CHRISTMAS FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98991.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaHits.it" group-title="(04) SKY CINEMA",SKY CINEMA CHRISTMAS HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98992.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaHits.it" group-title="(04) SKY CINEMA",SKY CINEMA CHRISTMAS SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99013.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesComedy.uk" group-title="(04) SKY CINEMA",SKY CINEMA COMEDY FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98996.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesComedy.uk" group-title="(04) SKY CINEMA",SKY CINEMA COMEDY HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98997.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesComedy.uk" group-title="(04) SKY CINEMA",SKY CINEMA COMEDY SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99014.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesDrama.uk" group-title="(04) SKY CINEMA",SKY CINEMA DRAMA FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99005.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesDrama.uk" group-title="(04) SKY CINEMA",SKY CINEMA DRAMA HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99004.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesDrama.uk" group-title="(04) SKY CINEMA",SKY CINEMA DRAMA SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99015.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaDue.it" group-title="(04) SKY CINEMA",SKY CINEMA DUE FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98986.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaDue.it" group-title="(04) SKY CINEMA",SKY CINEMA DUE HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98987.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA DUE HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98988.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaDue.it" group-title="(04) SKY CINEMA",SKY CINEMA DUE SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99010.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesFamily.uk" group-title="(04) SKY CINEMA",SKY CINEMA FAMILY FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98993.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesFamily.uk" group-title="(04) SKY CINEMA",SKY CINEMA FAMILY HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98994.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA FAMILY HD+1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98995.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyMoviesFamily.uk" group-title="(04) SKY CINEMA",SKY CINEMA FAMILY SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99016.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaRomance.it" group-title="(04) SKY CINEMA",SKY CINEMA ROMANCE FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99000.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaRomance.it" group-title="(04) SKY CINEMA",SKY CINEMA ROMANCE HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99001.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaRomance.it" group-title="(04) SKY CINEMA",SKY CINEMA ROMANCE SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99017.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(04) SKY CINEMA",SKY CINEMA SUSPENCE SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99018.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaSuspense.it" group-title="(04) SKY CINEMA",SKY CINEMA SUSPENSE FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99002.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaSuspense.it" group-title="(04) SKY CINEMA",SKY CINEMA SUSPENSE HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99003.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaPlus1.it" group-title="(04) SKY CINEMA",SKY CINEMA UNO +1 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98982.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaUnoPlus1.it" group-title="(04) SKY CINEMA",SKY CINEMA UNO +1 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99008.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaUno.it" group-title="(04) SKY CINEMA",SKY CINEMA UNO FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98980.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaUno.it" group-title="(04) SKY CINEMA",SKY CINEMA UNO HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98981.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyCinemaUno.it" group-title="(04) SKY CINEMA",SKY CINEMA UNO SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/99007.m3u8
-#EXTINF:0 radio="false" tvg-id="paramount" group-title="(05) PREMIUM CINEMA",PARAMOUNT CHANNEL
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101785.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumAction.it" group-title="(05) PREMIUM CINEMA",PREMIUM ACTION FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101797.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumAction.it" group-title="(05) PREMIUM CINEMA",PREMIUM ACTION HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101796.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumAction.it" group-title="(05) PREMIUM CINEMA",PREMIUM ACTION SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101795.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinemaPlus24.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA +24 FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101803.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinemaPlus24.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA +24 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101802.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinemaPlus24.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA +24 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101801.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinema2.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA 2 FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101794.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinema2.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA 2 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101793.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinema2.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA 2 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101792.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA 3 FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101800.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA 3 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101799.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinema3.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA 3 SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101798.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinema.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101806.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinema.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101805.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCinema.it" group-title="(05) PREMIUM CINEMA",PREMIUM CINEMA SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101804.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCrime.it" group-title="(05) PREMIUM CINEMA",PREMIUM CRIME FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101791.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCrime.it" group-title="(05) PREMIUM CINEMA",PREMIUM CRIME HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101790.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumCrime.it" group-title="(05) PREMIUM CINEMA",PREMIUM CRIME SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101789.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumStories.it" group-title="(05) PREMIUM CINEMA",PREMIUM STORIES FULL HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101788.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumStories.it" group-title="(05) PREMIUM CINEMA",PREMIUM STORIES HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101787.m3u8
-#EXTINF:0 radio="false" tvg-id="PremiumStories.it" group-title="(05) PREMIUM CINEMA",PREMIUM STORIES SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/101786.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(06) INTRATTENIMENTO",Blaze Full
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75071.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(06) INTRATTENIMENTO",Blaze H D
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75072.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(06) INTRATTENIMENTO",BLAZE HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75074.m3u8
-#EXTINF:0 radio="false" tvg-id="BLAZE.uk" group-title="(06) INTRATTENIMENTO",Blaze SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75073.m3u8
-#EXTINF:0 radio="false" tvg-id="ComedyCentralplus1.uk" group-title="(06) INTRATTENIMENTO",Comedy Central +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75078.m3u8
-#EXTINF:0 radio="false" tvg-id="ComedyCentral.uk" group-title="(06) INTRATTENIMENTO",Comedy Central FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75075.m3u8
-#EXTINF:0 radio="false" tvg-id="ComedyCentral.uk" group-title="(06) INTRATTENIMENTO",Comedy Central HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75076.m3u8
-#EXTINF:0 radio="false" tvg-id="ComedyCentral.uk" group-title="(06) INTRATTENIMENTO",Comedy Central SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75077.m3u8
-#EXTINF:0 radio="false" tvg-id="FoxPlus1.it" group-title="(06) INTRATTENIMENTO",Fox +1 HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75062.m3u8
-#EXTINF:0 radio="false" tvg-id="FoxCrimePlus1.it" group-title="(06) INTRATTENIMENTO",Fox crime +1hd
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75065.m3u8
-#EXTINF:0 radio="false" tvg-id="fox-crime" group-title="(06) INTRATTENIMENTO",Fox Crime FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75063.m3u8
-#EXTINF:0 radio="false" tvg-id="fox-crime" group-title="(06) INTRATTENIMENTO",Fox Crime HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75064.m3u8
-#EXTINF:0 radio="false" tvg-id="fox-crime" group-title="(06) INTRATTENIMENTO",FOX CRIME SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75066.m3u8
-#EXTINF:0 radio="false" tvg-id="fox-hd" group-title="(06) INTRATTENIMENTO",Fox FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75059.m3u8
-#EXTINF:0 radio="false" tvg-id="fox-hd" group-title="(06) INTRATTENIMENTO",Fox HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75060.m3u8
-#EXTINF:0 radio="false" tvg-id="fox-crime" group-title="(06) INTRATTENIMENTO",FOX SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75061.m3u8
-#EXTINF:0 radio="false" tvg-id="LaEffe.it" group-title="(06) INTRATTENIMENTO",LAEFFE FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75080.m3u8
-#EXTINF:0 radio="false" tvg-id="LaEffe.it" group-title="(06) INTRATTENIMENTO",Laeffe HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75081.m3u8
-#EXTINF:0 radio="false" tvg-id="LaEffe.it" group-title="(06) INTRATTENIMENTO",Laeffe SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75082.m3u8
-#EXTINF:0 radio="false" tvg-id="mtvlive-hd" group-title="(06) INTRATTENIMENTO",MTV FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75085.m3u8
-#EXTINF:0 radio="false" tvg-id="mtv-rus" group-title="(06) INTRATTENIMENTO",Mtv SD
-
-#EXTINF:0 radio="false" tvg-id="SkyAtlanticPlus1.de" group-title="(06) INTRATTENIMENTO",Sky Atlantic +1 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75056.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyAtlanticPlus1.de" group-title="(06) INTRATTENIMENTO",sky atlantic +1 hd
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75057.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyAtlanticplus1.uk" group-title="(06) INTRATTENIMENTO",sky atlantic +1 sd
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75058.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyAtlantic.uk" group-title="(06) INTRATTENIMENTO",Sky Atlantic FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75053.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyAtlantic.uk" group-title="(06) INTRATTENIMENTO",Sky Atlantic HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75054.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyAtlantic.uk" group-title="(06) INTRATTENIMENTO",SKY ATLANTIC SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75055.m3u8
-#EXTINF:0 radio="false" tvg-id="Classica.it" group-title="(06) INTRATTENIMENTO",Sky Classica HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75083.m3u8
-#EXTINF:0 radio="false" tvg-id="MTV.it" group-title="(06) INTRATTENIMENTO",Sky MTV HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75086.m3u8
-#EXTINF:0 radio="false" tvg-id="SKYUnoPlus1.it" group-title="(06) INTRATTENIMENTO",Sky Uno +1 FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75048.m3u8
-#EXTINF:0 radio="false" tvg-id="SKYUno.it" group-title="(06) INTRATTENIMENTO",Sky Uno FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75045.m3u8
-#EXTINF:0 radio="false" tvg-id="SKYUno.it" group-title="(06) INTRATTENIMENTO",Sky Uno HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75046.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyUno.it" group-title="(06) INTRATTENIMENTO",SKY UNO SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75047.m3u8
-#EXTINF:0 radio="false" tvg-id="vh1-europe" group-title="(06) INTRATTENIMENTO",VH 1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75079.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(07) DOC E LIFESTYLE",Alice + Marcopolo
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/98261.m3u8
-#EXTINF:0 radio="false" tvg-id="CrimeInvestigation.it" group-title="(07) DOC E LIFESTYLE",CI Crime Investigation FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75030.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(07) DOC E LIFESTYLE",CI Crime Investigation H D
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75031.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(07) DOC E LIFESTYLE",CI CRIME INVESTIGATION HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75032.m3u8
-#EXTINF:0 radio="false" tvg-id="CrimeAndInvestigationNetwork.uk" group-title="(07) DOC E LIFESTYLE",Ci crime investigation Sd
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75033.m3u8
-#EXTINF:0 radio="false" tvg-id="discov_rus-hd" group-title="(07) DOC E LIFESTYLE",Discovery Channel HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75011.m3u8
-#EXTINF:0 radio="false" tvg-id="DiscoveryPlus1.it" group-title="(07) DOC E LIFESTYLE",DISCOVERY CHANNEL HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75013.m3u8
-#EXTINF:0 radio="false" tvg-id="discov_rus" group-title="(07) DOC E LIFESTYLE",Discovery Channel SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75012.m3u8
-#EXTINF:0 radio="false" tvg-id="discov_sci" group-title="(07) DOC E LIFESTYLE",Discovery Sci FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75014.m3u8
-#EXTINF:0 radio="false" tvg-id="discov_sci" group-title="(07) DOC E LIFESTYLE",Discovery Sci HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75015.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(07) DOC E LIFESTYLE",Discovery Scii SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75016.m3u8
-#EXTINF:0 radio="false" tvg-id="Focus.it" group-title="(07) DOC E LIFESTYLE",Focus HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75037.m3u8
-#EXTINF:0 radio="false" tvg-id="GamberoRosso.it" group-title="(07) DOC E LIFESTYLE",Gambero Rosso FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75034.m3u8
-#EXTINF:0 radio="false" tvg-id="GamberoRosso.it" group-title="(07) DOC E LIFESTYLE",Gambero Rosso HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75035.m3u8
-#EXTINF:0 radio="false" tvg-id="GamberoRosso.it" group-title="(07) DOC E LIFESTYLE",Gambero rosso SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75036.m3u8
-#EXTINF:0 radio="false" tvg-id="HistoryHD.ru" group-title="(07) DOC E LIFESTYLE",History FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75026.m3u8
-#EXTINF:0 radio="false" tvg-id="HistoryHD.ru" group-title="(07) DOC E LIFESTYLE",History HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75027.m3u8
-#EXTINF:0 radio="false" tvg-id="HistoryPlus1.it" group-title="(07) DOC E LIFESTYLE",HISTORY HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75029.m3u8
-#EXTINF:0 radio="false" tvg-id="history-rus" group-title="(07) DOC E LIFESTYLE",History SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75028.m3u8
-#EXTINF:0 radio="false" tvg-id="NationalGeoPlus1.it" group-title="(07) DOC E LIFESTYLE",Nat Geo HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75020.m3u8
-#EXTINF:0 radio="false" tvg-id="wild-hd" group-title="(07) DOC E LIFESTYLE",Nat Geo Wild FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75022.m3u8
-#EXTINF:0 radio="false" tvg-id="wild-hd" group-title="(07) DOC E LIFESTYLE",Nat Geo Wild HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75023.m3u8
-#EXTINF:0 radio="false" tvg-id="NatGeoWildPlus1.it" group-title="(07) DOC E LIFESTYLE",Nat Geo Wild HD +1
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75024.m3u8
-#EXTINF:0 radio="false" tvg-id="natgeowild" group-title="(07) DOC E LIFESTYLE",Nat Geo Wild SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75025.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(07) DOC E LIFESTYLE",Nation Geo SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75021.m3u8
-#EXTINF:0 radio="false" tvg-id="natgeo_hd" group-title="(07) DOC E LIFESTYLE",National Geo FHD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75018.m3u8
-#EXTINF:0 radio="false" tvg-id="natgeo_hd" group-title="(07) DOC E LIFESTYLE",National Geo HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75019.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiScuola.it" group-title="(07) DOC E LIFESTYLE",Rai Scuola HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75038.m3u8
-#EXTINF:0 radio="false" tvg-id="RaiStoria.it" group-title="(07) DOC E LIFESTYLE",Rai Storia HD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75039.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyArte.it" group-title="(07) DOC E LIFESTYLE",Sky Arte fhd
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75007.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="(07) DOC E LIFESTYLE",Sky Arte H D
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75008.m3u8
-#EXTINF:0 radio="false" tvg-id="SkyArte.it" group-title="(07) DOC E LIFESTYLE",Sky arte SD
-http://extra-iptv-stream.com:8000/live/bknoOheS/e6tgmK2A/75009.m3u8
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="OFC" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="1" group-title="** Mecari **",Our Mecari Shop.
 https://www.dropbox.com/s/xstjzc3u2uiamqq/ofc-mecari.mp4?dl=1
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="OFCTVBoxs" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="2" group-title="*** Our New TV Box's **",Our New TV Box's - Now On Sale At $199  - Watch For Demo
@@ -487,12 +41,8 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287755.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40452.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 1 4K
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297503.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 1 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297518.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 10 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297512.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 10 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297527.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 11 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297513.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 12 HD
@@ -505,36 +55,20 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297516.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297517.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 2 4K
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297504.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 2 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297519.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 3 4K
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297505.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 3 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297520.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 4 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297506.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 4 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297521.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 5 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297507.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 5 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297522.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 6 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297508.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 6 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297523.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 7 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297509.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 7 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297524.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 8 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297510.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 8 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297525.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 9 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297511.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX 9 TR
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297526.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",CINEBOX: Information Screen
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297502.m3u8
 #EXTINF:0 radio="false" tvg-id="CineMAX.ro" group-title="*--- NETFLIX PREMIUM ---*",Cinemax FHD
@@ -759,24 +293,6 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287728.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40450.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",SCTV
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287712.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244049.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244050.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244051.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244052.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244053.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244054.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 7
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244055.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 8
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244056.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Shahid Tv 9
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244057.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Superman
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40451.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Suria SG
@@ -805,98 +321,6 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287533.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287748.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",Zeebioskop
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287739.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",أحلام أبو الهنا
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40493.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ابو المفهومية
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40492.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ابو جانتي 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40495.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ابو جانتي 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40496.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",الخربة
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40494.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",الرقية الشرعية
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40464.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",القرآن الكريم: الشيخ عبد الباسط عبد الصمد
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40463.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ايام الدراسة الجزء الاول
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40502.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ايام شامية
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40503.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40479.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 10
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40488.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40480.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40481.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40482.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40483.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40484.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 7
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40485.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 8
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40486.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",باب الحارة 9
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40487.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ببساطة
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40505.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",بكرا احلى
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40506.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",بلاد الواق واق
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40468.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",دنيا اسعد سعيد الجزء الاول
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40475.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",دنيا اسعد سعيد الجزء الثاني
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40476.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",رأفت الهجان الجزء الأول
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40469.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",رأفت الهجان الجزء الثالث
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40471.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",رأفت الهجان الجزء الثاني
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40470.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",زمن البرغوت 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40489.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",زمن البرغوت 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40490.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",صرخة روح 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40465.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",صرخة روح 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40466.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",صرخة روح 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40467.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ضبو الشناتي
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40477.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ضيعة ضايعة 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40497.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ضيعة ضايعة 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40498.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",عش المجانين
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40491.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",عصر الجنون
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40478.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",عيلة 7 نجوم
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40473.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",عيلة 8 نجوم
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40474.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",عيله خمس نجوم
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40472.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",كسر الخواطر
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40499.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",ليالي الصالحية
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40504.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",وطن على وتر الجز الاول
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40507.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",وطن على وتر الجز الثاني
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40508.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",يوميات مدير عام 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40500.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="*--- NETFLIX PREMIUM ---*",يوميات مدير عام 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40501.m3u8
 #EXTINF:0 radio="false" tvg-id="ADSports1.net" group-title="*--- SPORTS ---*",Abu Dhabi Sports 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/30431.m3u8
 #EXTINF:0 radio="false" tvg-id="ADSports2.net" group-title="*--- SPORTS ---*",Abu Dhabi Sports 2
@@ -19332,11 +18756,11 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",AKIT TV HD
-http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",AKIT TV HD
-http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",AKIT TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",AKIT TV HD
+http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",AKIT TV HD
+http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Al-Zahra TV Turkic
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Alanya Posta TV
@@ -19370,15 +18794,15 @@ https://canli.ensonhaber.com/tr/benguturk/index.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Berat TV
 http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="BEYAZTV.tr" group-title="Ungrouped",BEYAZ TV HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79834
-#EXTINF:0 radio="false" tvg-id="BEYAZTV.tr" group-title="Ungrouped",BEYAZ TV HD
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
+#EXTINF:0 radio="false" tvg-id="BEYAZTV.tr" group-title="Ungrouped",BEYAZ TV HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79834
 #EXTINF:0 radio="false" tvg-id="BEYAZTV.tr" group-title="Ungrouped",BEYAZ TV [HD]
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Beşiktaş Web TV
-https://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Beşiktaş Web TV
 http://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Beşiktaş Web TV
+https://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Biat TV
 https://5be5d840359c6.streamlock.net/biattv/biattv/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Bilimkurgu ?
@@ -19410,11 +18834,11 @@ http://win1.yayin.com.tr/cine5/cine5/iptvdelisi.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",CIZGIMIX 5
 http://31.220.40.44:80/Ung_debernardi123/mag322/79808
 #EXTINF:0 radio="false" tvg-id="CNNTURK.tr" group-title="Ungrouped",CNN TURK HD
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="CNNTURK.tr" group-title="Ungrouped",CNN TURK HD
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="CNNTURK.tr" group-title="Ungrouped",CNN TURK HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79765
-#EXTINF:0 radio="false" tvg-id="CNNTURK.tr" group-title="Ungrouped",CNN TURK HD
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="CNNTURK.tr" group-title="Ungrouped",CNN TURK HD
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Damar TV
 http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Denge - Shaft -2019 - AKSİYON-SUÇ ?
@@ -19478,11 +18902,11 @@ http://31.220.40.44:80/Ung_debernardi123/mag322/79863
 #EXTINF:0 radio="false" tvg-id="esp2-int" group-title="Ungrouped",EUROSPORT 2
 http://31.220.40.44:80/Ung_debernardi123/mag322/79862
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",EuroStar
 https://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="FBTV.tr" group-title="Ungrouped",FB TV
 http://31.220.40.44:80/Ung_debernardi123/mag322/79853
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Finans Turk TV
@@ -19490,11 +18914,11 @@ http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Finest TV
 http://media.finest.tv/hls/live.m3u8
 #EXTINF:0 radio="false" tvg-id="Fox.tr" group-title="Ungrouped",FOX TV HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="Fox.tr" group-title="Ungrouped",FOX TV HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="Fox.tr" group-title="Ungrouped",FOX TV HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79835
+#EXTINF:0 radio="false" tvg-id="Fox.tr" group-title="Ungrouped",FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="Fox.tr" group-title="Ungrouped",FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="FX.uk" group-title="Ungrouped",FX
 http://31.220.40.44:80/Ung_debernardi123/mag322/79664
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Gonca TV
@@ -19511,34 +18935,34 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HABER 61 TV
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HABER GLOBAL HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79762
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HABER GLOBAL HD
-https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Haber Global HD
 http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/13742
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HABER GLOBAL HD
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HABER GLOBAL HD
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HABER GLOBAL HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79762
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HABER GLOBAL [HD]
 https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HABER TURK
 http://31.220.40.44:80/Ung_debernardi123/mag322/79766
 #EXTINF:0 radio="false" tvg-id="HABERTURK.tr" group-title="Ungrouped",HABER TURK HD
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="HABERTURK.tr" group-title="Ungrouped",HABER TURK HD
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="HABERTURK.tr" group-title="Ungrouped",HABER TURK HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79767
-#EXTINF:0 radio="false" tvg-id="HABERTURK.tr" group-title="Ungrouped",HABER TURK HD
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="HABERTURK.tr" group-title="Ungrouped",HABER TURK HD
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="HalkTV.tr" group-title="Ungrouped",HALK TV HD
-https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="HalkTV.tr" group-title="Ungrouped",HALK TV HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79768
+#EXTINF:0 radio="false" tvg-id="HalkTV.tr" group-title="Ungrouped",HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",HISTORY TV
 http://31.220.40.44:80/Ung_debernardi123/mag322/79738
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",IBB TV
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",IBB TV
 rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",IBB TV
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="id-extra" group-title="Ungrouped",ID XTRA
 http://31.220.40.44:80/Ung_debernardi123/mag322/79733
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",IDMAN TV HD
@@ -19576,11 +19000,11 @@ https://59cba4d34b678.streamlock.net/canlitv/kanal60/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="Kanal7.tr" group-title="Ungrouped",KANAL 7 AVRUPA
 http://31.220.40.44:80/Ung_debernardi123/mag322/79838
 #EXTINF:0 radio="false" tvg-id="Kanal7.tr" group-title="Ungrouped",KANAL 7 HD
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="Kanal7.tr" group-title="Ungrouped",KANAL 7 HD
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="Kanal7.tr" group-title="Ungrouped",KANAL 7 HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79839
+#EXTINF:0 radio="false" tvg-id="Kanal7.tr" group-title="Ungrouped",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="Kanal7.tr" group-title="Ungrouped",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",KANAL A ALANYA
 http://stream2.taksimbilisim.com:1935/kanala/bant1/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Kanal Artvin
@@ -19621,28 +19045,28 @@ http://31.220.40.44:80/Ung_debernardi123/mag322/79716
 http://31.220.40.44:80/Ung_debernardi123/mag322/79714
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",KOMEDİ ?
 https://srv87.filmmodu.xyz/tt8323104/720p.tr.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Kon TV
-https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",KON TV
 https://59cba4d34b678.streamlock.net/live/kontv/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="KralPop.tr" group-title="Ungrouped",Kral Pop
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="KralPop.tr" group-title="Ungrouped",Kral Pop
-http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Kon TV
+https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="KralPop.tr" group-title="Ungrouped",KRAL POP
 http://31.220.40.44:80/Ung_debernardi123/mag322/3824
 #EXTINF:0 radio="false" tvg-id="KralPop.tr" group-title="Ungrouped",Kral Pop
 https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="KralPop.tr" group-title="Ungrouped",Kral Pop
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="KralPop.tr" group-title="Ungrouped",Kral Pop
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Kral POP 1 HD
 https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="KralTV.tu" group-title="Ungrouped",Kral TV
+https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="KralTV.tu" group-title="Ungrouped",Kral TV
+https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="KralTV.tu" group-title="Ungrouped",Kral TV
 http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="KralTV.tu" group-title="Ungrouped",Kral TV
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="KralTV.tu" group-title="Ungrouped",Kral TV
-https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="KralTV.tu" group-title="Ungrouped",Kral TV
-https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",KRT TV [HD]
 http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",KUDÜS TV
@@ -19650,9 +19074,9 @@ https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",LALEGUL TV
 http://31.220.40.44:80/Ung_debernardi123/mag322/79814
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",LALEGÜL TV
-http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",LALEGÜL TV
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",LALEGÜL TV
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",LEBLEBİ TV (720p)
 http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",LINE TV
@@ -19680,11 +19104,11 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Mercan TV HD
 http://yerelmedya.tv:1935/mercantv/bant1/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Merkez TV
-http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/iptvdelisi.m3u8
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",MERKEZ TV
 http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist_w1585059352_b664000_sltur.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Merkez TV
-http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/playlist.m3u8
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/iptvdelisi.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",MILYON TV
 https://live38.netmedya.net/hls/milyontv.m3u8
 #EXTINF:0 radio="false" tvg-id="MinikaGo.tr" group-title="Ungrouped",Minika Go
@@ -19708,13 +19132,13 @@ http://stream.taksimbilisim.com:1935/muglaturk/bant1/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="natgeo_hd" group-title="Ungrouped",NAT GEO HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79740
 #EXTINF:0 radio="false" tvg-id="wild-hd" group-title="Ungrouped",NAT GEO WILD HD
-https://x.birakmamseni.xyz/kaynakstreamradarco/55/strmrdr.m3u8
-#EXTINF:0 radio="false" tvg-id="wild-hd" group-title="Ungrouped",NAT GEO WILD HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ed1f49fc2ecdc5e.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Natural TV
-https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
+#EXTINF:0 radio="false" tvg-id="wild-hd" group-title="Ungrouped",NAT GEO WILD HD
+https://x.birakmamseni.xyz/kaynakstreamradarco/55/strmrdr.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Natural TV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="NBA.blt" group-title="Ungrouped",NBA TV HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79852
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",NEXTBOX LOCA HD 3
@@ -19742,21 +19166,21 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e198
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",NR1 HD
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",NR1 TURK HD
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",NR1 TURK HD
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e187779c76_1/playlist.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",NR1 TURK HD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",NR1 TÜRK [HD]
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",NR1 [HD]
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
 #EXTINF:0 radio="false" tvg-id="ntv" group-title="Ungrouped",NTV
-http://31.220.40.44:80/Ung_debernardi123/mag322/79763
-#EXTINF:0 radio="false" tvg-id="ntv" group-title="Ungrouped",NTV
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="ntv" group-title="Ungrouped",NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ntv" group-title="Ungrouped",NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="ntv" group-title="Ungrouped",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="ntv" group-title="Ungrouped",NTV
+http://31.220.40.44:80/Ung_debernardi123/mag322/79763
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",NTV 1280×720
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ntv" group-title="Ungrouped",NTV HD
@@ -19786,17 +19210,17 @@ rtmp://yayin.netradyom.com:1935/live/on4
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",ON Medya Haber
 http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",ON4 TV
-http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",ORDU 52 rtmp
 rtmp://stream.taksimbilisim.com:1935/tv52/bant1
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Paint - EFSANE SÜRÜCÜ - 2019 - AKSİYON ?
 https://srv17.filmmodu.xyz/tt7052494/720p.tr.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",PEPE TV
-http://bestcostiptv.com:8080/ruru/4fd09a88/75045
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",PEPE TV
 http://31.220.40.44:80/Ung_debernardi123/mag322/79776
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",PEPE TV
+http://bestcostiptv.com:8080/ruru/4fd09a88/75045
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",PEPEE SARKILARI
 http://31.220.40.44:80/Ung_debernardi123/mag322/79780
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",PERI MASALARI 2 UHD
@@ -19850,11 +19274,11 @@ http://31.220.40.44:80/Ung_debernardi123/mag322/79713
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Shazam!-Shazam! 6 Güç - 2019 - MACERA - FANTASTİK KOMEDİ ?
 https://srv70.filmmodu.xyz/tt0448115/720p.tr.m3u8
 #EXTINF:0 radio="false" tvg-id="ShowTV.tr" group-title="Ungrouped",SHOW TV HD
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="ShowTV.tr" group-title="Ungrouped",SHOW TV HD
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="ShowTV.tr" group-title="Ungrouped",SHOW TV HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79846
+#EXTINF:0 radio="false" tvg-id="ShowTV.tr" group-title="Ungrouped",SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="ShowTV.tr" group-title="Ungrouped",SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",SHOWMAX
 http://31.220.40.44:80/Ung_debernardi123/mag322/79844
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Showmax 720
@@ -19888,9 +19312,9 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="SportsTV.tr" group-title="Ungrouped",SPORTS TV [HD]
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 radio="false" tvg-id="Start.tr" group-title="Ungrouped",Star TV
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="Start.tr" group-title="Ungrouped",Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="Start.tr" group-title="Ungrouped",Star TV
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="Start.tr" group-title="Ungrouped",STAR TV HD
 https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="Start.tr" group-title="Ungrouped",STAR TV HD
@@ -19912,19 +19336,19 @@ https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Tele 1
 http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 #EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/chunklist_w1644874314.m3u8
+#EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-#EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/chunklist_w1644874314.m3u8
 #EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL rtmp
 rtmp://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1
 #EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL [SD]
-https://canli.ensonhaber.com/tr/tgrtbelgesel/index.m3u8
-#EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL [SD]
 https://5ab9557ae2fa9.streamlock.net/tgrt_belgesel/tgrt1/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT BELGESEL [SD]
+https://canli.ensonhaber.com/tr/tgrtbelgesel/index.m3u8
 #EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT EU
 http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/5744
 #EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT EU [SD]
@@ -19934,9 +19358,9 @@ http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/master.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TGRT HABER HD
 https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT HABER [HD]
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/index.m3u8
-#EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT HABER [HD]
 https://canli.ensonhaber.com/tr/tgrthaber/index.m3u8
+#EXTINF:0 radio="false" tvg-id="TGRTHaber.tr" group-title="Ungrouped",TGRT HABER [HD]
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/index.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",The Hard - Ortak 2019 - AKSİYON ?
 https://srv49.filmmodu.xyz/tt9815714/720p.tr.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",The Perfection - 2019 - GERİLİM. ?
@@ -19946,11 +19370,11 @@ http://31.220.40.44:80/Ung_debernardi123/mag322/79866
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Tivibu Spor 2 (Maç Saati)
 http://31.220.40.44:80/Ung_debernardi123/mag322/79865
 #EXTINF:0 radio="false" tvg-id="tlc-russia" group-title="Ungrouped",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:0 radio="false" tvg-id="tlc-russia" group-title="Ungrouped",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 radio="false" tvg-id="tlc-russia" group-title="Ungrouped",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TLC 1280×720
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TLC Türkiye
@@ -20016,9 +19440,9 @@ rtmp://stream.taksimbilisim.com:1935/tv41/bant1
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TV 41 m3u8 taksimbilisim
 http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TV 52
-rtmp://stream.taksimbilisim.com:1935/tv52/bant1
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TV 52
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TV 52
+rtmp://stream.taksimbilisim.com:1935/tv52/bant1
 #EXTINF:0 radio="false" tvg-id="TV8.tr" group-title="Ungrouped",TV 8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="TV8.tr" group-title="Ungrouped",TV 8 HD
@@ -20038,15 +19462,15 @@ https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="TVNet.tr" group-title="Ungrouped",TV NET HD
 http://ch.canlitvlive.io/tvnet/live.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TV100 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/79658
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TV100 HD
 http://str01.canlitvlive.io:25461/tv/tv/275
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",TV100 HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/79658
 #EXTINF:0 radio="false" tvg-id="tv8-lt" group-title="Ungrouped",TV8 HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79837
 #EXTINF:0 radio="false" tvg-id="TVNet.tr" group-title="Ungrouped",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-id="TVNet.tr" group-title="Ungrouped",TVNET
 http://31.220.40.44:80/Ung_debernardi123/mag322/79754
+#EXTINF:0 radio="false" tvg-id="TVNet.tr" group-title="Ungrouped",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-id="TVNet.tr" group-title="Ungrouped",TVNET [HD]
 https://canli.ensonhaber.com/tr/tvnet/index.m3u8
 #EXTINF:0 radio="false" tvg-id="UcankusTV.tr" group-title="Ungrouped",UCANKUS TV
@@ -20056,11 +19480,11 @@ https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="UlkeTV.tr" group-title="Ungrouped",ULKE TV
 http://31.220.40.44:80/Ung_debernardi123/mag322/79759
 #EXTINF:0 radio="false" tvg-id="UlkeTV.tr" group-title="Ungrouped",ULKE TV HD
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="UlkeTV.tr" group-title="Ungrouped",ULKE TV HD
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 radio="false" tvg-id="UlkeTV.tr" group-title="Ungrouped",ULKE TV HD
 http://31.220.40.44:80/Ung_debernardi123/mag322/79760
-#EXTINF:0 radio="false" tvg-id="UlkeTV.tr" group-title="Ungrouped",ULKE TV HD
-https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-id="UlkeTV.tr" group-title="Ungrouped",ULKE TV HD
-https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 radio="false" tvg-id="UlusalKanal.tr" group-title="Ungrouped",ULUSAL KANAL
 http://31.220.40.44:80/Ung_debernardi123/mag322/79757
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Ulusal Kanal (720)
@@ -20092,9 +19516,9 @@ https://59cba4d34b678.streamlock.net/canlitv/yarentv/iptvdelisi.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",Yeni Malatyaspor TV
 https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/playlist.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",YOL TV
-http://stream.yol.tv:9485/medialive/yol.m3u8
-#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",YOL TV
 http://31.220.40.44:80/Ung_debernardi123/mag322/79826
+#EXTINF:0 radio="false" tvg-id="ext" group-title="Ungrouped",YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="USA FOX",US036:FOX-HD
 http://a2.aminzer.club:8880/live/wh3m1067/GsgTfKJCUx/3132.m3u8
 #EXTINF:0 radio="false" tvg-id="ext" group-title="USA FOX",US037:FOX-News
