@@ -2797,26 +2797,32 @@ https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
 #EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" tvg-chno="1272" group-title="Harley Davidson TV",Harley Davidson Garage TV
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81CgTK58tBL._SL1500_.jpg" tvg-chno="1280" group-title="Holiday Fun",12 Days of Christmas Eve (2004)
+https://video-2.hatchfarmstudios.com/3861f486-cba5-4235-8f45-2ba1981fb46b/master.m3u8?d=1&b=2
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://3.bp.blogspot.com/-hH3JnVsQYS0/VmnJSIB3LLI/AAAAAAAASeI/ugfE7w_IXTM/s1600/ABabyforChristmas1.jpg" tvg-chno="1275" group-title="Holiday Fun",A Baby For Christmas (2015)
+https://d2uc0s1itpb6ah.cloudfront.net/Features/A-E/Baby_For_Christmas/Baby_For_Christmas_HLS/master.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NzU1NDk4OF5BMl5BanBnXkFtZTgwNDQzMTkzNzE@._V1_.jpg" tvg-chno="1279" group-title="Holiday Fun",A Christmas to Remember (2017)
+https://roku-aggregation.theblucloud.com/A%20Christmas%20to%20Remember/feature/roku/AChristmastoRemember.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yrEQcO8KL._SY445_.jpg" tvg-chno="1282" group-title="Holiday Fun",A Christmas Too Many (2007)
+https://video-2.hatchfarmstudios.com/aad94ef2-0077-429a-ac6b-5443972afb1f/master.m3u8?d=1&b=2
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/916vf1LQ53L._SL1500_.jpg" tvg-chno="1278" group-title="Holiday Fun",Holiday Engagement (2011)
+https://grv-2.hatchfarmstudios.com/d4898a67-49f7-44ef-aa59-4bdeb34186de/master.m3u8?d=1&b=2
+#EXTINF:-1 radio="false" group-title="Holiday Fun",iheart Christmas
+https://d35vozlor946gj.cloudfront.net/out/v1/bc83fb104a774588b1e199fd0fcf8b33/index.m3u8?streamid=4596&stationid=4596&callLetters=IHAD-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=45dbfab367eb5b7598310c7cf029c7d1&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=c899e18f-43dc-57d2-95ff-ec1e470ce73d&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/I/iheartclassic.jpg" group-title="Holiday Fun",iheart Christmas Classics
+https://d39a4k19q5wb1a.cloudfront.net/out/v1/28cada5616c2443398c7de03c921e739/index.m3u8?streamid=6137&stationid=6137&callLetters=IHVA-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=fb2d18e2a81f541885d0e2f133da4d25&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=c899e18f-43dc-57d2-95ff-ec1e470ce73d&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:-1 radio="false" group-title="Holiday Fun",iheart Christmas R&B
+https://d1k802x72s3su7.cloudfront.net/out/v1/27f0e05c261242c199eee01b7b99bc87/index.m3u8?streamid=6136&stationid=6136&callLetters=IHUR-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=55b7a69a772f5a96b49b331b96b7c488&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=c899e18f-43dc-57d2-95ff-ec1e470ce73d&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
 #EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://www.aspire.tv/wp-content/uploads/2017/03/marry-me-for-christmas-featured-1.jpg" tvg-chno="1273" group-title="Holiday Fun",Marry Me For Christmas (2013)
 https://s4b3b9a4.ssl.hwcdn.net/files/a8wn4hw/vi/02/31/10338499/hls-hi/s10338499.m3u8
 #EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://i.ytimg.com/vi/tkVet-aMNJo/hqdefault.jpg" tvg-chno="1274" group-title="Holiday Fun",Marry Us For Christmas (2014)
 https://d2uc0s1itpb6ah.cloudfront.net/Features/M-S/Marry_Us_For_Christmas/Marry_Us_For_Christmas_HLS/master.m3u8
-#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://3.bp.blogspot.com/-hH3JnVsQYS0/VmnJSIB3LLI/AAAAAAAASeI/ugfE7w_IXTM/s1600/ABabyforChristmas1.jpg" tvg-chno="1275" group-title="Holiday Fun",A Baby For Christmas (2015)
-https://d2uc0s1itpb6ah.cloudfront.net/Features/A-E/Baby_For_Christmas/Baby_For_Christmas_HLS/master.m3u8
 #EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://i.ytimg.com/vi/7-kIjInP1b0/hqdefault.jpg" tvg-chno="1276" group-title="Holiday Fun",Merry Christmas Baby (2016)
 https://d2uc0s1itpb6ah.cloudfront.net/Features/M-S/Merry_Christmas_Baby/Merry_Christmas_Baby_HLS/master.m3u8
-#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://i.ytimg.com/vi/3ZFqaT81MQo/maxresdefault.jpg" tvg-chno="1277" group-title="Holiday Fun",The Christmas Switch (2014)
-https://player.zype.com/manifest/5d40cb2ae17be85ce1c3c160.m3u8?ad_enabled=false&app_key=P0Ioc-yzMryxaWthrERBETHj8OmUYWtyHSU3BMPPrD6N0Gzodl6M2aUG6dncJJ3I&https=true&preview=false
-#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/916vf1LQ53L._SL1500_.jpg" tvg-chno="1278" group-title="Holiday Fun",Holiday Engagement (2011)
-https://grv-2.hatchfarmstudios.com/d4898a67-49f7-44ef-aa59-4bdeb34186de/master.m3u8?d=1&b=2
-#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NzU1NDk4OF5BMl5BanBnXkFtZTgwNDQzMTkzNzE@._V1_.jpg" tvg-chno="1279" group-title="Holiday Fun",A Christmas to Remember (2017)
-https://roku-aggregation.theblucloud.com/A%20Christmas%20to%20Remember/feature/roku/AChristmastoRemember.m3u8
-#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81CgTK58tBL._SL1500_.jpg" tvg-chno="1280" group-title="Holiday Fun",12 Days of Christmas Eve (2004)
-https://video-2.hatchfarmstudios.com/3861f486-cba5-4235-8f45-2ba1981fb46b/master.m3u8?d=1&b=2
 #EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://i.ytimg.com/vi/yoOkPIsTvfU/sddefault.jpg" tvg-chno="1281" group-title="Holiday Fun",Small Town Santa (2014)
 https://cdn.jwplayer.com/manifests/Stc9JA6F.m3u8
-#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yrEQcO8KL._SY445_.jpg" tvg-chno="1282" group-title="Holiday Fun",A Christmas Too Many (2007)
-https://video-2.hatchfarmstudios.com/aad94ef2-0077-429a-ac6b-5443972afb1f/master.m3u8?d=1&b=2
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://i.ytimg.com/vi/3ZFqaT81MQo/maxresdefault.jpg" tvg-chno="1277" group-title="Holiday Fun",The Christmas Switch (2014)
+https://player.zype.com/manifest/5d40cb2ae17be85ce1c3c160.m3u8?ad_enabled=false&app_key=P0Ioc-yzMryxaWthrERBETHj8OmUYWtyHSU3BMPPrD6N0Gzodl6M2aUG6dncJJ3I&https=true&preview=false
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="1283" group-title="ICI Tele Canada (Geo)",ICI Tele Acadie
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
 #EXTINF:-1 channel-id="2" radio="false" tvg-id="ICIalberta" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="1284" group-title="ICI Tele Canada (Geo)",ICI Tele Alberta
