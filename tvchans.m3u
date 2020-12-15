@@ -15417,17 +15417,17 @@ https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 channel-id="22" radio="false" tvg-id="EPIE2" tvg-name="EPIX - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" tvg-chno="7709" group-title="Movie Chans",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-#EXTINF:0 channel-id="23" radio="false" tvg-id="ext" tvg-chno="7710" group-title="Movie Chans",Fast And Furious
+#EXTINF:0 channel-id="23" radio="false" tvg-id="FastAndFuriousMovies" tvg-logo="https://blogs.bgsu.edu/couthom/files/2018/10/Screen-Shot-2018-09-29-at-8.26.54-PM-300x283.png" tvg-chno="7710" group-title="Movie Chans",Fast And Furious Movies
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40446.m3u8
-#EXTINF:0 channel-id="24" radio="false" tvg-id="ext" tvg-chno="7711" group-title="Movie Chans",Fox Action Movies
+#EXTINF:0 channel-id="24" radio="false" tvg-id="ext" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1549439491_foxaction.jpg" tvg-chno="7711" group-title="Movie Chans",Fox Action Movies
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287734.m3u8
-#EXTINF:0 channel-id="25" radio="false" tvg-id="fox-crime" tvg-chno="7712" group-title="Movie Chans",Fox Crime
+#EXTINF:0 channel-id="25" radio="false" tvg-id="fox-crime" tvg-logo="https://i0.wp.com/www.artofchannelbranding.com/wp-content/uploads/2016/10/foxcrime-10.jpg" tvg-chno="7712" group-title="Movie Chans",Fox Crime
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287735.m3u8
-#EXTINF:0 channel-id="26" radio="false" tvg-id="fox-life" tvg-chno="7713" group-title="Movie Chans",Fox Life
+#EXTINF:0 channel-id="26" radio="false" tvg-id="fox-life" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png" tvg-chno="7713" group-title="Movie Chans",Fox Life
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287741.m3u8
-#EXTINF:0 channel-id="27" radio="false" tvg-id="ext" tvg-chno="7714" group-title="Movie Chans",Fox Movies Premium
+#EXTINF:0 channel-id="27" radio="false" tvg-id="FoxMoviesPremium" tvg-logo="https://i0.wp.com/www.artofchannelbranding.com/wp-content/uploads/2016/10/fox-movies-premium-logo.jpg" tvg-chno="7714" group-title="Movie Chans",Fox Movies Premium
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287769.m3u8
-#EXTINF:0 channel-id="28" radio="false" tvg-id="galaxy" tvg-chno="7715" group-title="Movie Chans",Galaxy
+#EXTINF:0 channel-id="28" radio="false" tvg-id="galaxy" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/G/galaxy.jpg" tvg-chno="7715" group-title="Movie Chans",Galaxy
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287740.m3u8
 #EXTINF:0 channel-id="29" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7716" tvg-country="US" group-title="Movie Chans",Hallmark
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
@@ -15435,10 +15435,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
 #EXTINF:0 channel-id="31" radio="false" tvg-logo="https://i.ytimg.com/vi/JK6hKmwGedQ/hqdefault.jpg" tvg-chno="7718" tvg-country="US" group-title="Movie Chans",Hallmark Drama HD
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55843.ts
-#EXTINF:0 channel-id="32" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7719" group-title="Movie Chans",Hallmark HD
-http://planettvweb.com:8091/German/German/22615
 #EXTINF:0 channel-id="33" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7720" tvg-country="US" group-title="Movie Chans",Hallmark HD
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55842.ts
+#EXTINF:0 channel-id="32" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7719" group-title="Movie Chans",Hallmark HD
+http://planettvweb.com:8091/German/German/22615
 #EXTINF:0 channel-id="34" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7721" tvg-country="US" group-title="Movie Chans",Hallmark Movies & Mysteries (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53902
 #EXTINF:0 channel-id="35" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7722" tvg-country="US" group-title="Movie Chans",Hallmark Movies & Mysteries HD
@@ -15461,23 +15461,23 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287757.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287764.m3u8
 #EXTINF:-1 channel-id="44" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" tvg-chno="7731" group-title="Movie Chans",Horror Movies 24/7
 https://cdn.stream.bitwave.tv/hls/horrortv1/index.m3u8
-#EXTINF:0 channel-id="45" radio="false" tvg-id="ext" tvg-chno="7732" group-title="Movie Chans",James Bond
+#EXTINF:0 channel-id="45" radio="false" tvg-id="JamesBond" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/%23/007.png" tvg-chno="7732" group-title="Movie Chans",James Bond
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40444.m3u8
-#EXTINF:0 channel-id="46" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7733" tvg-country="CA" group-title="Movie Chans",Lifetime
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/71566.ts
 #EXTINF:0 channel-id="47" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7734" tvg-country="GB" group-title="Movie Chans",LifeTime
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27275
-#EXTINF:0 channel-id="48" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7735" tvg-country="CA" group-title="Movie Chans",LifeTime HD
-http://ea8.oknirvana.club:8880/1M7804/AJkm7aLrrY/3025
+#EXTINF:0 channel-id="46" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7733" tvg-country="CA" group-title="Movie Chans",Lifetime
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/71566.ts
 #EXTINF:0 channel-id="49" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7736" tvg-country="US" group-title="Movie Chans",Lifetime HD
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55791.ts
+#EXTINF:0 channel-id="48" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7735" tvg-country="CA" group-title="Movie Chans",LifeTime HD
+http://ea8.oknirvana.club:8880/1M7804/AJkm7aLrrY/3025
 #EXTINF:0 channel-id="50" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7737" tvg-country="US" group-title="Movie Chans",Lifetime HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
 #EXTINF:0 channel-id="51" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7738" tvg-country="US" group-title="Movie Chans",Lifetime HD US
 http://latvonlive.com:33612/Lulu/1234/505
 #EXTINF:0 channel-id="52" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime_Movie_Network.png" tvg-chno="7739" tvg-country="US" group-title="Movie Chans",Lifetime Movie
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
-#EXTINF:0 channel-id="53" radio="false" tvg-id="ext" tvg-chno="7740" group-title="Movie Chans",Mission Impossible
+#EXTINF:0 channel-id="53" radio="false" tvg-id="MissionImpossiblemovieCollection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Missionimpossibleblurayboxset.jpg/220px-Missionimpossibleblurayboxset.jpg" tvg-chno="7740" group-title="Movie Chans",Mission Impossible
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40447.m3u8
 #EXTINF:0 channel-id="54" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="7741" group-title="Movie Chans",Netflix Action
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244093.m3u8
@@ -15625,13 +15625,15 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 #EXTINF:0 channel-id="126" radio="false" tvg-id="Superman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81-ydTsFAoL._SX342_.jpg" tvg-chno="7813" group-title="Movie Chans",Superman
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40451.m3u8
-#EXTINF:0 channel-id="127" radio="false" tvg-id="ext" tvg-chno="7814" group-title="Movie Chans",Sylvester Stallone
+#EXTINF:0 channel-id="127" radio="false" tvg-id="SylvesterStallone" tvg-logo="https://i.ytimg.com/vi/TsitCrweMLc/maxresdefault.jpg" tvg-chno="7814" group-title="Movie Chans",Sylvester Stallone
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40445.m3u8
+#EXTINF:-1 radio="false" tvg-id="TheFamilyGuy" tvg-logo="https://tvguide1.cbsistatic.com/feed/1/634/12176634.jpg" group-title="Movie Chans",The Family Guy - All 13 Seasons.
+https://cdn.stream.bitwave.tv/hls/pvnfu/index.m3u8
 #EXTINF:-1 channel-id="128" radio="false" tvg-id="TheSimpsons247" tvg-logo="https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart_s32simp.jpg" tvg-chno="7815" group-title="Movie Chans",The Simpsons
-https://cdn.stream.bitrave.tv/hls/thesimpsonstv1/index.m3u8
-#EXTINF:0 channel-id="129" radio="false" tvg-id="ext" tvg-chno="7816" group-title="Movie Chans",Tom Cruise
+https://cdn.stream.bitwave.tv/hls/thesimpsonstv1/index.m3u8
+#EXTINF:0 channel-id="129" radio="false" tvg-id="TomCruise" tvg-logo="https://cnet2.cbsistatic.com/img/XTHL8bR-8DQ7rQ5QexuLbS8Oydg=/1200x675/2020/05/13/50c20cef-4065-4b06-9261-ce2305de8deb/vudu-tom-cruise-sale.jpg" tvg-chno="7816" group-title="Movie Chans",Tom Cruise Movies
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40454.m3u8
-#EXTINF:0 channel-id="130" radio="false" tvg-id="ext" tvg-chno="7817" group-title="Movie Chans",Twilight
+#EXTINF:0 channel-id="130" radio="false" tvg-id="Twilight" tvg-logo="https://i.pinimg.com/originals/17/74/4e/17744ed8a9222f8fa6388bdc7806ea16.jpg" tvg-chno="7817" group-title="Movie Chans",Twilight
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40449.m3u8
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/gHBvHes.jpg" tvg-chno="7818" group-title="Movies Plus",& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -17718,7 +17720,7 @@ https://svt-vod-2p.akamaized.net/d0/world/20200428/cf14cd31-2d74-41c9-b093-4b862
 #EXTINF:-1 channel-id="75" radio="false" tvg-id="591105034c1806b47438342c" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/theasylum_icon0-1024x1024-1024x1024.png" tvg-chno="8859" group-title="ROKU",The Asylum
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 channel-id="76" radio="false" tvg-id="TheSimpsons247" tvg-logo="https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart_s32simp.jpg" tvg-chno="8860" group-title="ROKU",The Simpsons
-https://cdn.stream.bitrave.tv/hls/thesimpsonstv1/index.m3u8
+https://cdn.stream.bitwave.tv/hls/thesimpsonstv1/index.m3u8
 #EXTINF:-1 channel-id="77" radio="false" tvg-id="ToonamiAftermath247" tvg-logo="https://i.imgur.com/0zKEbnv.png" tvg-chno="8861" group-title="ROKU",Toonami Aftermath
 https://sp6.toonamiaftermath.com/livehttporigin/est/mj1B9C-F2hFVc-playlist.m3u8
 #EXTINF:-1 channel-id="78" radio="false" tvg-logo="https://readfest.org/wp-content/uploads/2019/01/WINK-TV-gradient-wplate.jpg" tvg-chno="8862" group-title="ROKU",Wink TV
