@@ -89,13 +89,13 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287744.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40446.m3u8
 #EXTINF:0 channel-id="43" radio="false" tvg-id="fox-crime" tvg-chno="45" group-title="*--- Netflix Premium ---*",FOX
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287733.m3u8
-#EXTINF:0 channel-id="44" radio="false" tvg-id="ext" tvg-chno="46" group-title="*--- Netflix Premium ---*",Fox Action Movies
+#EXTINF:0 channel-id="24" radio="false" tvg-id="ext" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1549439491_foxaction.jpg" tvg-chno="7711" group-title="*--- Netflix Premium ---*",Fox Action Movies
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287734.m3u8
-#EXTINF:0 channel-id="45" radio="false" tvg-id="fox-crime" tvg-chno="47" group-title="*--- Netflix Premium ---*",Fox Crime
+#EXTINF:0 channel-id="25" radio="false" tvg-id="fox-crime" tvg-logo="https://i0.wp.com/www.artofchannelbranding.com/wp-content/uploads/2016/10/foxcrime-10.jpg" tvg-chno="7712" group-title="*--- Netflix Premium ---*",Fox Crime
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287735.m3u8
-#EXTINF:0 channel-id="46" radio="false" tvg-id="fox-life" tvg-chno="48" group-title="*--- Netflix Premium ---*",Fox Life
+#EXTINF:0 channel-id="26" radio="false" tvg-id="fox-life" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png" tvg-chno="7713" group-title="*--- Netflix Premium ---*",Fox Life
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287741.m3u8
-#EXTINF:0 channel-id="47" radio="false" tvg-id="ext" tvg-chno="49" group-title="*--- Netflix Premium ---*",Fox Movies Premium
+#EXTINF:0 channel-id="27" radio="false" tvg-id="FoxMoviesPremium" tvg-logo="https://i0.wp.com/www.artofchannelbranding.com/wp-content/uploads/2016/10/fox-movies-premium-logo.jpg" tvg-chno="7714" group-title="*--- Netflix Premium ---*",Fox Movies Premium
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287769.m3u8
 #EXTINF:0 channel-id="48" radio="false" tvg-id="FoxSport1.nl" tvg-chno="50" group-title="*--- Netflix Premium ---*",Fox Sport 1 FHD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287759.m3u8
@@ -129,9 +129,9 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40444.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287747.m3u8
 #EXTINF:0 channel-id="63" radio="false" tvg-id="ext" tvg-chno="65" group-title="*--- Netflix Premium ---*",Kompas TV
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287724.m3u8
-#EXTINF:0 channel-id="64" radio="false" tvg-id="ext" tvg-chno="66" group-title="*--- Netflix Premium ---*",Let's Relax - 1
+#EXTINF:0 channel-id="64" radio="false" tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxOp_dPwsJmLzLvRPW_LaRXdKGgB8WZo7fg&usqp=CAU" tvg-chno="66" group-title="*--- Netflix Premium ---*",Let's Relax - 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/283564.m3u8
-#EXTINF:0 channel-id="65" radio="false" tvg-id="ext" tvg-chno="67" group-title="*--- Netflix Premium ---*",Let's Relax - 2
+#EXTINF:0 channel-id="65" radio="false" tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxOp_dPwsJmLzLvRPW_LaRXdKGgB8WZo7fg&usqp=CAU" tvg-chno="67" group-title="*--- Netflix Premium ---*",Let's Relax - 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/283565.m3u8
 #EXTINF:0 channel-id="66" radio="false" tvg-id="Metro.pl" tvg-chno="68" group-title="*--- Netflix Premium ---*",Metro TV
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287726.m3u8
@@ -151,34 +151,34 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287716.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244093.m3u8
 #EXTINF:0 channel-id="74" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="76" group-title="*--- Netflix Premium ---*",Netflix Action +
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244092.m3u8
-#EXTINF:0 channel-id="75" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="77" group-title="*--- Netflix Premium ---*",Netflix Action 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244095.m3u8
 #EXTINF:0 channel-id="76" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="78" group-title="*--- Netflix Premium ---*",Netflix Action 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244058.m3u8
+#EXTINF:0 channel-id="75" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="77" group-title="*--- Netflix Premium ---*",Netflix Action 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244095.m3u8
 #EXTINF:0 channel-id="77" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="79" group-title="*--- Netflix Premium ---*",Netflix Action 10
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244067.m3u8
 #EXTINF:0 channel-id="78" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="80" group-title="*--- Netflix Premium ---*",Netflix Action 11
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244068.m3u8
-#EXTINF:0 channel-id="79" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="81" group-title="*--- Netflix Premium ---*",Netflix Action 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244059.m3u8
 #EXTINF:0 channel-id="80" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="82" group-title="*--- Netflix Premium ---*",Netflix Action 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244096.m3u8
-#EXTINF:0 channel-id="81" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="83" group-title="*--- Netflix Premium ---*",Netflix Action 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244060.m3u8
+#EXTINF:0 channel-id="79" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="81" group-title="*--- Netflix Premium ---*",Netflix Action 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244059.m3u8
 #EXTINF:0 channel-id="82" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="84" group-title="*--- Netflix Premium ---*",Netflix Action 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244097.m3u8
-#EXTINF:0 channel-id="83" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="85" group-title="*--- Netflix Premium ---*",Netflix Action 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244061.m3u8
+#EXTINF:0 channel-id="81" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="83" group-title="*--- Netflix Premium ---*",Netflix Action 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244060.m3u8
 #EXTINF:0 channel-id="84" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="86" group-title="*--- Netflix Premium ---*",Netflix Action 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244098.m3u8
-#EXTINF:0 channel-id="85" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="87" group-title="*--- Netflix Premium ---*",Netflix Action 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244062.m3u8
+#EXTINF:0 channel-id="83" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="85" group-title="*--- Netflix Premium ---*",Netflix Action 4
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244061.m3u8
 #EXTINF:0 channel-id="86" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="88" group-title="*--- Netflix Premium ---*",Netflix Action 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244099.m3u8
-#EXTINF:0 channel-id="87" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="89" group-title="*--- Netflix Premium ---*",Netflix Action 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244100.m3u8
+#EXTINF:0 channel-id="85" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="87" group-title="*--- Netflix Premium ---*",Netflix Action 5
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244062.m3u8
 #EXTINF:0 channel-id="88" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="90" group-title="*--- Netflix Premium ---*",Netflix Action 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244063.m3u8
+#EXTINF:0 channel-id="87" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="89" group-title="*--- Netflix Premium ---*",Netflix Action 6
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244100.m3u8
 #EXTINF:0 channel-id="89" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="91" group-title="*--- Netflix Premium ---*",Netflix Action 7
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244064.m3u8
 #EXTINF:0 channel-id="90" radio="false" tvg-id="NetflixAction" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/05/top-50-action-may.jpg" tvg-chno="92" group-title="*--- Netflix Premium ---*",Netflix Action 8
@@ -201,18 +201,18 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244081.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244082.m3u8
 #EXTINF:0 channel-id="99" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="101" group-title="*--- Netflix Premium ---*",Netflix Comedy
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244108.m3u8
-#EXTINF:0 channel-id="100" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="102" group-title="*--- Netflix Premium ---*",Netflix Comedy 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244109.m3u8
 #EXTINF:0 channel-id="101" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="103" group-title="*--- Netflix Premium ---*",Netflix Comedy 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244085.m3u8
-#EXTINF:0 channel-id="102" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="104" group-title="*--- Netflix Premium ---*",Netflix Comedy 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244086.m3u8
+#EXTINF:0 channel-id="100" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="102" group-title="*--- Netflix Premium ---*",Netflix Comedy 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244109.m3u8
 #EXTINF:0 channel-id="103" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="105" group-title="*--- Netflix Premium ---*",Netflix Comedy 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244110.m3u8
-#EXTINF:0 channel-id="104" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="106" group-title="*--- Netflix Premium ---*",Netflix Comedy 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244111.m3u8
+#EXTINF:0 channel-id="102" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="104" group-title="*--- Netflix Premium ---*",Netflix Comedy 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244086.m3u8
 #EXTINF:0 channel-id="105" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="107" group-title="*--- Netflix Premium ---*",Netflix Comedy 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244087.m3u8
+#EXTINF:0 channel-id="104" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="106" group-title="*--- Netflix Premium ---*",Netflix Comedy 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244111.m3u8
 #EXTINF:0 channel-id="106" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="108" group-title="*--- Netflix Premium ---*",Netflix Comedy 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244112.m3u8
 #EXTINF:0 channel-id="107" radio="false" tvg-id="NetflixComedy" tvg-logo="https://www.samma3a.com/tech/en/wp-content/uploads/sites/2/2019/07/Best-Binge-Worthy-Series-To-Watch-2-696x464.png" tvg-chno="109" group-title="*--- Netflix Premium ---*",Netflix Comedy 5
@@ -233,30 +233,30 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244091.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244123.m3u8
 #EXTINF:0 channel-id="115" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="117" group-title="*--- Netflix Premium ---*",Netflix Horror
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244101.m3u8
-#EXTINF:0 channel-id="116" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="118" group-title="*--- Netflix Premium ---*",Netflix Horror 1
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244102.m3u8
 #EXTINF:0 channel-id="117" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="119" group-title="*--- Netflix Premium ---*",Netflix Horror 1
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244069.m3u8
-#EXTINF:0 channel-id="118" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="120" group-title="*--- Netflix Premium ---*",Netflix Horror 2
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244103.m3u8
+#EXTINF:0 channel-id="116" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="118" group-title="*--- Netflix Premium ---*",Netflix Horror 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244102.m3u8
 #EXTINF:0 channel-id="119" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="121" group-title="*--- Netflix Premium ---*",Netflix Horror 2
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244070.m3u8
-#EXTINF:0 channel-id="120" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="122" group-title="*--- Netflix Premium ---*",Netflix Horror 3
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244104.m3u8
+#EXTINF:0 channel-id="118" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="120" group-title="*--- Netflix Premium ---*",Netflix Horror 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244103.m3u8
 #EXTINF:0 channel-id="121" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="123" group-title="*--- Netflix Premium ---*",Netflix Horror 3
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244071.m3u8
-#EXTINF:0 channel-id="122" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="124" group-title="*--- Netflix Premium ---*",Netflix Horror 4
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244105.m3u8
+#EXTINF:0 channel-id="120" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="122" group-title="*--- Netflix Premium ---*",Netflix Horror 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244104.m3u8
 #EXTINF:0 channel-id="123" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="125" group-title="*--- Netflix Premium ---*",Netflix Horror 4
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244072.m3u8
-#EXTINF:0 channel-id="124" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="126" group-title="*--- Netflix Premium ---*",Netflix Horror 5
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244073.m3u8
+#EXTINF:0 channel-id="122" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="124" group-title="*--- Netflix Premium ---*",Netflix Horror 4
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244105.m3u8
 #EXTINF:0 channel-id="125" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="127" group-title="*--- Netflix Premium ---*",Netflix Horror 5
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244106.m3u8
-#EXTINF:0 channel-id="126" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="128" group-title="*--- Netflix Premium ---*",Netflix Horror 6
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244074.m3u8
+#EXTINF:0 channel-id="124" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="126" group-title="*--- Netflix Premium ---*",Netflix Horror 5
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244073.m3u8
 #EXTINF:0 channel-id="127" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="129" group-title="*--- Netflix Premium ---*",Netflix Horror 6
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244107.m3u8
+#EXTINF:0 channel-id="126" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="128" group-title="*--- Netflix Premium ---*",Netflix Horror 6
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244074.m3u8
 #EXTINF:0 channel-id="128" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="130" group-title="*--- Netflix Premium ---*",Netflix Horror 7
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/244075.m3u8
 #EXTINF:0 channel-id="129" radio="false" tvg-id="NetflixHorror" tvg-logo="https://www.thesubsequent.com/wp-content/uploads/2020/05/best-horror-movies-on-NetFlix.png" tvg-chno="131" group-title="*--- Netflix Premium ---*",Netflix Horror 8
@@ -2321,8 +2321,6 @@ https://hls.savoir.media/live/stream.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" tvg-chno="1161" group-title="Francophone TV",Canada | Assemblee Nationale
 http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
-#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="1162" group-title="Free iHeart Radio",** Free iHeart Radio **
-https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/iHeartRadio_Wallpaper.mp4
 #EXTINF:-1 channel-id="2" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="1163" group-title="Free iHeart Radio",iHeart Radio | Kiss Radio
 http://stream.revma.ihrhls.com/zc7362/hls.m3u8
 #EXTINF:-1 channel-id="3" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="1164" group-title="Free iHeart Radio",iHeart Radio | Lite Rock
@@ -2697,6 +2695,8 @@ https://vidaprimo-plex.amagi.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/cl/93f291c3-dd46-42dd-ad35-8d6cbc12fe89/1280x720_1798489_0.m3u8
 #EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/ameba.png" tvg-chno="1349" group-title="Kids",Ameba
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8?p=roku&rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&coppa=true&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3cf59d054bb4558dadd4ced4033032ff&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=ameba&channelStore=us&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 radio="false" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_Cartoons_4U-1-520x293.jpg" group-title="Kids",Cartoons 4 U
+https://nimble.dashstreams.net/mytvtogo/cartoons_4u007/playlist.m3u8
 #EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/1f226546373d2c3e4df00e9bc6725e82e413f26e455afe9baa8e2f8d8f3dbc3e.png" tvg-chno="1350" group-title="Kids",Cocoro
 https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fireman_sam_9347.jpg" tvg-chno="1351" group-title="Kids",Fireman Sam
@@ -2711,6 +2711,8 @@ https://studio71-roku-us.amagi.tv/hls/amagi_hls_data_studio71A-studio71roku/CDN/
 https://da1112847ca04da495a4857c72d54ef6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RyanAndFriends/playlist.m3u8?ads.wurl_channel=505&ads.wurl_name=RyanAndFriends&ads.bmodel=bm1&ads.channelStore=us&ads.content=065994d86a31584883271057f97374ce&ads.content_rating=TVY7&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.coppa=true&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ryan_and_friends&ads.rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.88+Safari%2F537.36&is_lat=1&bmodel=bm1&content=065994d86a31584883271057f97374ce&platform=web&tags=ROKU_CONTENT_TAGS&coppa=true&content_type=livefeed&rdid=0cd0e7de-26c2-5936-9739-8549cb1dc4bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVY7&studio_id=ryan_and_friends&channel_id=151908&channelStore=us
 #EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://i.ytimg.com/vi/4aQwT3n2c1Q/maxresdefault.jpg" tvg-chno="1356" group-title="Kids",The LEGO Channel
 https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_ToonKrazyTV_1280x720-196x126.jpg" group-title="Kids",Toon Krazy TV
+https://nimble.dashstreams.net/mytvtogo/toonkrazy007/playlist.m3u8
 #EXTINF:-1 channel-id="1" radio="true" tvg-chno="1357" group-title="Live Radio",# 1980s Radio Zoom - 64k Stereo / 128k Mono [Harlow]
 https://samcloud.spacial.com/api/listen?sid=111415&rid=195121&f=mp3,any&br=128000,any&m=m3u
 #EXTINF:-1 channel-id="2" radio="true" tvg-chno="1358" group-title="Live Radio",# Radio 80s Zoom - 128k .mp3 Stereo [Southampton]
@@ -15381,18 +15383,6 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40453.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287738.m3u8
 #EXTINF:0 channel-id="4" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7691" group-title="Movie Chans",CineBox 1 4K
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297503.m3u8
-#EXTINF:0 channel-id="5" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7692" group-title="Movie Chans",CineBox 10 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297512.m3u8
-#EXTINF:0 channel-id="6" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7693" group-title="Movie Chans",CineBox 11 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297513.m3u8
-#EXTINF:0 channel-id="7" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7694" group-title="Movie Chans",CineBox 12 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297514.m3u8
-#EXTINF:0 channel-id="8" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7695" group-title="Movie Chans",CineBox 13 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297515.m3u8
-#EXTINF:0 channel-id="9" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7696" group-title="Movie Chans",CineBox 14 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297516.m3u8
-#EXTINF:0 channel-id="10" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7697" group-title="Movie Chans",CineBox 15 HD
-http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297517.m3u8
 #EXTINF:0 channel-id="11" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7698" group-title="Movie Chans",CineBox 2 4K
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297504.m3u8
 #EXTINF:0 channel-id="12" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7699" group-title="Movie Chans",CineBox 3 4K
@@ -15409,6 +15399,18 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297509.m3u8
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297510.m3u8
 #EXTINF:0 channel-id="18" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7705" group-title="Movie Chans",CineBox 9 HD
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297511.m3u8
+#EXTINF:0 channel-id="5" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7692" group-title="Movie Chans",CineBox 10 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297512.m3u8
+#EXTINF:0 channel-id="6" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7693" group-title="Movie Chans",CineBox 11 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297513.m3u8
+#EXTINF:0 channel-id="7" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7694" group-title="Movie Chans",CineBox 12 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297514.m3u8
+#EXTINF:0 channel-id="8" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7695" group-title="Movie Chans",CineBox 13 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297515.m3u8
+#EXTINF:0 channel-id="9" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7696" group-title="Movie Chans",CineBox 14 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297516.m3u8
+#EXTINF:0 channel-id="10" radio="false" tvg-id="CineBox" tvg-logo="https://dl3.cbsistatic.com/catalog/2017/06/12/b912bda9-dd59-4426-889a-44c27ece6e0f/imgingest-9136066331357017200.png" tvg-chno="7697" group-title="Movie Chans",CineBox 15 HD
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/297517.m3u8
 #EXTINF:-1 channel-id="19" radio="false" tvg-id="Cinemax - Eastern HD" tvg-name="Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" tvg-chno="7706" group-title="Movie Chans",Cinemax - Eastern HD
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 #EXTINF:-1 channel-id="20" radio="false" tvg-id="Cinemax - Pacific HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" tvg-chno="7707" group-title="Movie Chans",Cinemax - Pacific HD
@@ -15435,10 +15437,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
 #EXTINF:0 channel-id="31" radio="false" tvg-logo="https://i.ytimg.com/vi/JK6hKmwGedQ/hqdefault.jpg" tvg-chno="7718" tvg-country="US" group-title="Movie Chans",Hallmark Drama HD
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55843.ts
-#EXTINF:0 channel-id="32" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7719" tvg-country="US" group-title="Movie Chans",Hallmark HD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55842.ts
 #EXTINF:0 channel-id="33" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7720" group-title="Movie Chans",Hallmark HD
 http://planettvweb.com:8091/German/German/22615
+#EXTINF:0 channel-id="32" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="7719" tvg-country="US" group-title="Movie Chans",Hallmark HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55842.ts
 #EXTINF:0 channel-id="34" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7721" tvg-country="US" group-title="Movie Chans",Hallmark Movies & Mysteries (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53902
 #EXTINF:0 channel-id="35" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://www.kindpng.com/picc/m/725-7255172_hallmark-movies-mysteries-logo-png-transparent-png.png" tvg-chno="7722" tvg-country="US" group-title="Movie Chans",Hallmark Movies & Mysteries HD
@@ -15463,14 +15465,14 @@ http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287764.m3u8
 https://cdn.stream.bitwave.tv/hls/horrortv1/index.m3u8
 #EXTINF:0 channel-id="45" radio="false" tvg-id="JamesBond" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/%23/007.png" tvg-chno="7732" group-title="Movie Chans",James Bond
 http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/40444.m3u8
-#EXTINF:0 channel-id="46" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7733" tvg-country="GB" group-title="Movie Chans",LifeTime
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27275
 #EXTINF:0 channel-id="47" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7734" tvg-country="CA" group-title="Movie Chans",Lifetime
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/71566.ts
-#EXTINF:0 channel-id="48" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7735" tvg-country="US" group-title="Movie Chans",Lifetime HD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55791.ts
+#EXTINF:0 channel-id="46" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7733" tvg-country="GB" group-title="Movie Chans",LifeTime
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27275
 #EXTINF:0 channel-id="49" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7736" tvg-country="CA" group-title="Movie Chans",LifeTime HD
 http://ea8.oknirvana.club:8880/1M7804/AJkm7aLrrY/3025
+#EXTINF:0 channel-id="48" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7735" tvg-country="US" group-title="Movie Chans",Lifetime HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55791.ts
 #EXTINF:0 channel-id="50" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7737" tvg-country="US" group-title="Movie Chans",Lifetime HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
 #EXTINF:0 channel-id="51" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="7738" tvg-country="US" group-title="Movie Chans",Lifetime HD US
@@ -17235,248 +17237,226 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_b
 https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
 #EXTINF:-1 channel-id="101" radio="false" tvg-logo="https://i.imgur.com/6CLldAA.jpg" tvg-chno="8618" group-title="PLEX USA",Yahoo! Finance
 https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8619" group-title="Redbox Free Live TV",** Redbox | Movies **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Movies
-#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8620" group-title="Redbox Free Live TV",Redbox | Redbox 1
-https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8621" group-title="Redbox Free Live TV",Redbox | Redbox 2
-https://Comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-Comedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8622" group-title="Redbox Free Live TV",Redbox | Redbox 3
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8623" group-title="Redbox Free Live TV",Redbox | Dust
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdust/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8624" group-title="Redbox Free Live TV",Redbox | CONtv
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8625" group-title="Redbox Free Live TV",Redbox | Hi-Yah
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8626" group-title="Redbox Free Live TV",Redbox | Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8627" group-title="Redbox Free Live TV",Redbox | Maverick Black Cinema
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8628" group-title="Redbox Free Live TV",Redbox | FilmRise Sci-Fi
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8629" group-title="Redbox Free Live TV",Redbox | Filmrise Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8630" group-title="Redbox Free Live TV",Redbox | CineLife
-https://magnolia-redbox.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8631" group-title="Redbox Free Live TV",Redbox | Docurama
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="14" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8632" group-title="Redbox Free Live TV",Redbox | Samuel Goldwyn
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsamuelgoldwyn/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8633" group-title="Redbox Free Live TV",Redbox | Filmhub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8634" group-title="Redbox Free Live TV",Redbox | Voyager Docs
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8635" group-title="Redbox Free Live TV",** Redbox | News **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?News
-#EXTINF:-1 channel-id="18" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8636" group-title="Redbox Free Live TV",Redbox | Cheddar
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8637" group-title="Redbox Free Live TV",Redbox | Bloomberg
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="20" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8638" group-title="Redbox Free Live TV",Redbox | USA today
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="21" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8639" group-title="Redbox Free Live TV",Redbox | Black News Channel
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="22" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8640" group-title="Redbox Free Live TV",Redbox | CBC News
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="23" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8641" group-title="Redbox Free Live TV",Redbox | Wired
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="24" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8642" group-title="Redbox Free Live TV",Redbox | Now This
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="25" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8643" group-title="Redbox Free Live TV",** Sports **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Sports
-#EXTINF:-1 channel-id="26" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8644" group-title="Redbox Free Live TV",Redbox | PAC 12
-https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8?deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="27" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8645" group-title="Redbox Free Live TV",Redbox | World Poker Tour
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="28" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8646" group-title="Redbox Free Live TV",Redbox | bein Sports Xtra
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="29" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8647" group-title="Redbox Free Live TV",Redbox | Glory Kickboxing
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="30" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8648" group-title="Redbox Free Live TV",Redbox | Nitro Circus
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="31" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8649" group-title="Redbox Free Live TV",Redbox | Hard Knocks
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="32" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8650" group-title="Redbox Free Live TV",Redbox | Outdoor America
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="33" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8651" group-title="Redbox Free Live TV",Redbox | Outside TV+
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="34" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8652" group-title="Redbox Free Live TV",** Redbox | Crime & Scandal **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?CrimeAndScandal
-#EXTINF:-1 channel-id="35" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8653" group-title="Redbox Free Live TV",Redbox | Unsolved Mysteries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="36" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8654" group-title="Redbox Free Live TV",Redbox | Forensic Files
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="37" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8655" group-title="Redbox Free Live TV",Redbox | Reelz Channel
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="38" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8656" group-title="Redbox Free Live TV",Redbox | nosey
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="39" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8657" group-title="Redbox Free Live TV",Redbox | real nosey
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="40" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8658" group-title="Redbox Free Live TV",Redbox | TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="41" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8659" group-title="Redbox Free Live TV",** Redbox | Entertainment **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Entertainment
-#EXTINF:-1 channel-id="42" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8660" group-title="Redbox Free Live TV",Redbox | FamilyFeud
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="43" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8661" group-title="Redbox Free Live TV",Redbox | Global Got Talent
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="44" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8662" group-title="Redbox Free Live TV",Redbox | Vevo
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="45" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8663" group-title="Redbox Free Live TV",Redbox | The Bob Ross Channel
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="46" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8664" group-title="Redbox Free Live TV",Redbox | People are Awesome
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="47" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8665" group-title="Redbox Free Live TV",Redbox | Go Traveler
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="48" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8666" group-title="Redbox Free Live TV",Redbox | Weatherspy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="49" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8667" group-title="Redbox Free Live TV",Redbox | Journy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="50" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8668" group-title="Redbox Free Live TV",** Redbox | Food & Design **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?FoodAndDesign
-#EXTINF:-1 channel-id="51" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8669" group-title="Redbox Free Live TV",Redbox | Am.'s Test Kitchen
+#EXTINF:-1 channel-id="51" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8669" group-title="Redbox Live TV",Am.'s Test Kitchen
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="52" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8670" group-title="Redbox Free Live TV",Redbox | Tastemade
-https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="53" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8671" group-title="Redbox Free Live TV",Redbox | Bon Appetit
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="54" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8672" group-title="Redbox Free Live TV",Redbox | The Design Network
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="55" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8673" group-title="Redbox Free Live TV",Redbox | Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="56" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8674" group-title="Redbox Free Live TV",Redbox | Hungry
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="57" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8675" group-title="Redbox Free Live TV",Redbox | Architectural Digest
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="58" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8676" group-title="Redbox Free Live TV",Redbox | So Yummy!
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="59" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8677" group-title="Redbox Free Live TV",** Redbox | Lifestyle **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Lifestyle
-#EXTINF:-1 channel-id="60" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8678" group-title="Redbox Free Live TV",Redbox | Fuse XL
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="61" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8679" group-title="Redbox Free Live TV",Redbox | Complex
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="62" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8680" group-title="Redbox Free Live TV",Redbox | Vanity Fair
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="63" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8681" group-title="Redbox Free Live TV",Redbox | Glamour
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="64" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8682" group-title="Redbox Free Live TV",Redbox | Vogue
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="65" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8683" group-title="Redbox Free Live TV",Redbox | GQ
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="66" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8684" group-title="Redbox Free Live TV",** Redbox | Comedy **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Comedy
-#EXTINF:-1 channel-id="67" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8685" group-title="Redbox Free Live TV",Redbox | Funny Or Die
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="68" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8686" group-title="Redbox Free Live TV",Redbox | Just For Laughs Gags
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="69" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8687" group-title="Redbox Free Live TV",Redbox | Comedy Dynamics
-https://Comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-Comedydynamicscleanredbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="70" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8688" group-title="Redbox Free Live TV",Redbox | MST3K
-https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="71" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8689" group-title="Redbox Free Live TV",Redbox | Fail Army
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="72" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8690" group-title="Redbox Free Live TV",Redbox | the pet collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="73" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8691" group-title="Redbox Free Live TV",Redbox | Chive TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="74" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8692" group-title="Redbox Free Live TV",** Redbox | Classic TV & Movies **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?ClassicTV
-#EXTINF:-1 channel-id="75" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8693" group-title="Redbox Free Live TV",Redbox | FilmRise Classic TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="76" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8694" group-title="Redbox Free Live TV",Redbox | Shout! Factory TV
-https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="77" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8695" group-title="Redbox Free Live TV",Redbox | Johnny Carson TV
-https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="78" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8696" group-title="Redbox Free Live TV",Redbox | American Classics
+#EXTINF:-1 channel-id="78" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8696" group-title="Redbox Live TV",American Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="79" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8697" group-title="Redbox Free Live TV",Redbox | The Archive
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8??p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="80" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8698" group-title="Redbox Free Live TV",** Redbox | Kids & Family **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Kids
-#EXTINF:-1 channel-id="81" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8699" group-title="Redbox Free Live TV",Redbox | kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="82" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8700" group-title="Redbox Free Live TV",Redbox | Toon Goggles
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="83" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8701" group-title="Redbox Free Live TV",Redbox | Battery Pop
+#EXTINF:-1 channel-id="57" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8675" group-title="Redbox Live TV",Architectural Digest
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="83" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8701" group-title="Redbox Live TV",Battery Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="84" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8702" group-title="Redbox Free Live TV",Redbox | FilmRise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="85" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8703" group-title="Redbox Free Live TV",Redbox | Dove Channel
-https://dove-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-dovenow-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="86" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8704" group-title="Redbox Free Live TV",Redbox | pocketwatch
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="87" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8705" group-title="Redbox Free Live TV",Redbox | Best of AFV
+#EXTINF:-1 channel-id="28" radio="false" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8646" group-title="Redbox Live TV",bein Sports Xtra
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="87" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8705" group-title="Redbox Live TV",Best of AFV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="88" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8706" group-title="Redbox Free Live TV",** Redbox | Music **
-https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Music
-#EXTINF:-1 channel-id="89" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8707" group-title="Redbox Free Live TV",Redbox | Hot Country
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="90" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8708" group-title="Redbox Free Live TV",Redbox | Greatest Hits
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="91" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8709" group-title="Redbox Free Live TV",Redbox | Classic Rock
+#EXTINF:-1 channel-id="21" radio="false" tvg-id="5f1efad04320070007dbb60b" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8639" group-title="Redbox Live TV",Black News Channel
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8637" group-title="Redbox Live TV",Bloomberg
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="53" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8671" group-title="Redbox Live TV",Bon Appetit
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="22" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8640" group-title="Redbox Live TV",CBC News
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8636" group-title="Redbox Live TV",Cheddar
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="73" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8691" group-title="Redbox Live TV",Chive TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8630" group-title="Redbox Live TV",CineLife
+https://magnolia-redbox.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="91" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8709" group-title="Redbox Live TV",Classic Rock
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="92" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8710" group-title="Redbox Free Live TV",Redbox | Hit List
+#EXTINF:-1 channel-id="69" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8687" group-title="Redbox Live TV",Comedy Dynamics
+https://Comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-Comedydynamicscleanredbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="61" radio="false" tvg-id="5bb1b439ea5c9e53afd21325" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8679" group-title="Redbox Live TV",Complex
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8624" group-title="Redbox Live TV",CONtv
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8631" group-title="Redbox Live TV",Docurama
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="85" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8703" group-title="Redbox Live TV",Dove Channel
+https://dove-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-dovenow-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8623" group-title="Redbox Live TV",Dust
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdust/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="71" radio="false" tvg-id="554158e864526b29254ff105" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8689" group-title="Redbox Live TV",Fail Army
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="42" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8660" group-title="Redbox Live TV",FamilyFeud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8633" group-title="Redbox Live TV",Filmhub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="75" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8693" group-title="Redbox Live TV",FilmRise Classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="84" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8702" group-title="Redbox Live TV",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8629" group-title="Redbox Live TV",Filmrise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8628" group-title="Redbox Live TV",FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="55" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8673" group-title="Redbox Live TV",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="36" radio="false" tvg-id="5bb1af6a268cae539bcedb0a" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8654" group-title="Redbox Live TV",Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="67" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8685" group-title="Redbox Live TV",Funny Or Die
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="60" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8678" group-title="Redbox Live TV",Fuse XL
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="63" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8681" group-title="Redbox Live TV",Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="43" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8661" group-title="Redbox Live TV",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="29" radio="false" tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8647" group-title="Redbox Live TV",Glory Kickboxing
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="47" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8665" group-title="Redbox Live TV",Go Traveler
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="65" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8683" group-title="Redbox Live TV",GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8626" group-title="Redbox Live TV",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="90" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8708" group-title="Redbox Live TV",Greatest Hits
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="31" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8649" group-title="Redbox Live TV",Hard Knocks
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8625" group-title="Redbox Live TV",Hi-Yah
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="92" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8710" group-title="Redbox Live TV",Hit List
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="93" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8711" group-title="Redbox Free Live TV",Redbox | Soul Storm
+#EXTINF:-1 channel-id="89" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8707" group-title="Redbox Live TV",Hot Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="56" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8674" group-title="Redbox Live TV",Hungry
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="77" radio="false" tvg-id="5e66928133461100077dfd73" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8695" group-title="Redbox Live TV",Johnny Carson TV
+https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="49" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8667" group-title="Redbox Live TV",Journy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="68" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8686" group-title="Redbox Live TV",Just For Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="81" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8699" group-title="Redbox Live TV",kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8627" group-title="Redbox Live TV",Maverick Black Cinema
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="70" radio="false" tvg-id="545943f1c9f133a519bbac92" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8688" group-title="Redbox Live TV",MST3K
+https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="30" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8648" group-title="Redbox Live TV",Nitro Circus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="38" radio="false" tvg-id="5aec96ec5126c2157123c657" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8656" group-title="Redbox Live TV",nosey
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="24" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8642" group-title="Redbox Live TV",Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="32" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8650" group-title="Redbox Live TV",Outdoor America
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="33" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8651" group-title="Redbox Live TV",Outside TV+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="26" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8644" group-title="Redbox Live TV",PAC 12
+https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8?deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="46" radio="false" tvg-id="5e54169f4b9b25000994a303" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8664" group-title="Redbox Live TV",People are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="86" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8704" group-title="Redbox Live TV",pocketwatch
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="39" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8657" group-title="Redbox Live TV",real nosey
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8620" group-title="Redbox Live TV",Redbox 1
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8621" group-title="Redbox Live TV",Redbox 2
+https://Comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-Comedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8622" group-title="Redbox Live TV",Redbox 3
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="37" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8655" group-title="Redbox Live TV",Reelz Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="14" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8632" group-title="Redbox Live TV",Samuel Goldwyn
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsamuelgoldwyn/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="76" radio="false" tvg-id="55a6a3275616b6240c26f393" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8694" group-title="Redbox Live TV",Shout! Factory TV
+https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="58" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8676" group-title="Redbox Live TV",So Yummy!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="93" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8711" group-title="Redbox Live TV",Soul Storm
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/Comedy_300x300.png" tvg-chno="8712" group-title="REDBOX USA", Redbox Comedy
-https://Comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-Comedy/CDN/1920x1080_4870800/index.m3u8
-#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/spotlight_300x300.png" tvg-chno="8713" group-title="REDBOX USA", Redbox Spotlight
-https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/1920x1080_4870800/index.m3u8
-#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/rush_300x300.png" tvg-chno="8714" group-title="REDBOX USA", Redbox Rush
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/1920x1080_4870800/index.m3u8
-#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack" tvg-chno="8715" group-title="REDBOX USA", Redbox Filmrise
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999911/300x300.png?type=color_onBlack" tvg-chno="8716" group-title="REDBOX USA", Redbox Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/CONtv_300x300.png" tvg-chno="8717" group-title="REDBOX USA", Redbox conTV
-https://contv-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-contv-redbox/CDN/1920x1080_5090800/index.m3u8
-#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999913/300x300.png?type=color_onBlack" tvg-chno="8718" group-title="REDBOX USA", Redbox Filmhub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/Docurama_300x300.png" tvg-chno="8719" group-title="REDBOX USA", Redbox Docurama
-https://docurama-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-docurama-redboxA/CDN/1920x1080_4870800/index.m3u8
-#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999914/300x300.png?type=color_onBlack" tvg-chno="8720" group-title="REDBOX USA", Redbox Maverick Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/DoveNow_300x300.png" tvg-chno="8721" group-title="REDBOX USA", Redbox Dove Now
-https://dove-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-dovenow-redbox/CDN/1920x1080_5090800/index.m3u8
-#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999907/300x300.png?type=color_onBlack" tvg-chno="8722" group-title="REDBOX USA", Redbox Hi-Yah
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999912/300x300.png?type=color_onBlack" tvg-chno="8723" group-title="REDBOX USA", Redbox American Classics
+#EXTINF:-1 channel-id="52" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8670" group-title="Redbox Live TV",Tastemade
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="79" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8697" group-title="Redbox Live TV",The Archive
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8??p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="45" radio="false" tvg-id="5f36d726234ce10007784f2a" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8663" group-title="Redbox Live TV",The Bob Ross Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="54" radio="false" tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8672" group-title="Redbox Live TV",The Design Network
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="72" radio="false" tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8690" group-title="Redbox Live TV",the pet collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="40" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8658" group-title="Redbox Live TV",TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="82" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8700" group-title="Redbox Live TV",Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="35" radio="false" tvg-id="5b4e96a0423e067bd6df6901" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8653" group-title="Redbox Live TV",Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="20" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8638" group-title="Redbox Live TV",USA today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="62" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8680" group-title="Redbox Live TV",Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="44" radio="false" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8662" group-title="Redbox Live TV",Vevo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="64" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8682" group-title="Redbox Live TV",Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8634" group-title="Redbox Live TV",Voyager Docs
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="48" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8666" group-title="Redbox Live TV",Weatherspy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="23" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8641" group-title="Redbox Live TV",Wired
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8645" group-title="Redbox Live TV",World Poker Tour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999912/300x300.png?type=color_onBlack" tvg-chno="8723" group-title="Redbox USA",American Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999905/300x300.png?type=color_onBlack" tvg-chno="8724" group-title="REDBOX USA", Redbox FilmRise Unsolved Mysteries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="14" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999906/300x300.png?type=color_onBlack" tvg-chno="8725" group-title="REDBOX USA", Redbox Forensic Files
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999916/300x300.png?type=color_onBlack" tvg-chno="8726" group-title="REDBOX USA", Redbox FamilyFeud
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999915/300x300.png?type=color_onBlack" tvg-chno="8727" group-title="REDBOX USA", Redbox Global Got Talent
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999920/300x300.png?type=color_onBlack" tvg-chno="8728" group-title="REDBOX USA", Redbox Best of AFV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="18" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999903/300x300.png?type=color_onBlack" tvg-chno="8729" group-title="REDBOX USA", Redbox Fail Army
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/ComedyDynamics_300x300.png" tvg-chno="8730" group-title="REDBOX USA", Redbox Comedy Dynamics
-https://Comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-Comedydynamicscleanredbox/CDN/1920x1080_4870800/index.m3u8
-#EXTINF:-1 channel-id="20" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999904/300x300.png?type=color_onBlack" tvg-chno="8731" group-title="REDBOX USA", Redbox the pet collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="21" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999908/300x300.png?type=color_onBlack" tvg-chno="8732" group-title="REDBOX USA", Redbox People are Awesome
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="22" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999900/300x300.png?type=color_onBlack_cropped" tvg-chno="8733" group-title="REDBOX USA", Redbox Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="23" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999902/300x300.png?type=color_onBlack" tvg-chno="8734" group-title="REDBOX USA", Redbox Journey
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="24" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999921/300x300.png?type=color_onBlack" tvg-chno="8735" group-title="REDBOX USA", Redbox USA today
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/960x540_5000000/index.m3u8
-#EXTINF:-1 channel-id="25" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999919/300x300.png?type=color_onBlack" tvg-chno="8736" group-title="REDBOX USA", Redbox TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="26" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999918/300x300.png?type=color_onBlack" tvg-chno="8737" group-title="REDBOX USA", Redbox Now This
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="27" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999917/300x300.png?type=color_onBlack" tvg-chno="8738" group-title="REDBOX USA", Redbox kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 channel-id="28" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999909/300x300.png?type=color_onBlack" tvg-chno="8739" group-title="REDBOX USA", Redbox Battery Pop
+#EXTINF:-1 channel-id="28" radio="false" tvg-logo="https://cdn.batterypop.com/roku/images/batteryPOP-336.png" tvg-chno="8739" group-title="Redbox USA",Battery Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999920/300x300.png?type=color_onBlack" tvg-chno="8728" group-title="Redbox USA",Best of AFV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/Comedy_300x300.png" tvg-chno="8712" group-title="Redbox USA",Comedy
+https://Comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-Comedy/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/ComedyDynamics_300x300.png" tvg-chno="8730" group-title="Redbox USA",Comedy Dynamics
+https://Comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-Comedydynamicscleanredbox/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/CONtv_300x300.png" tvg-chno="8717" group-title="Redbox USA",conTV
+https://contv-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-contv-redbox/CDN/1920x1080_5090800/index.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/Docurama_300x300.png" tvg-chno="8719" group-title="Redbox USA",Docurama
+https://docurama-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-docurama-redboxA/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/DoveNow_300x300.png" tvg-chno="8721" group-title="Redbox USA",Dove Now
+https://dove-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-dovenow-redbox/CDN/1920x1080_5090800/index.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-id="554158e864526b29254ff105" tvg-logo="https://image.xumo.com/v1/channels/channel/9999903/300x300.png?type=color_onBlack" tvg-chno="8729" group-title="Redbox USA",Fail Army
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999916/300x300.png?type=color_onBlack" tvg-chno="8726" group-title="Redbox USA",FamilyFeud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999913/300x300.png?type=color_onBlack" tvg-chno="8718" group-title="Redbox USA",Filmhub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack" tvg-chno="8715" group-title="Redbox USA",Filmrise
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999905/300x300.png?type=color_onBlack" tvg-chno="8724" group-title="Redbox USA",FilmRise Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999900/300x300.png?type=color_onBlack_cropped" tvg-chno="8733" group-title="Redbox USA",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-id="5bb1af6a268cae539bcedb0a" tvg-logo="https://image.xumo.com/v1/channels/channel/9999906/300x300.png?type=color_onBlack" tvg-chno="8725" group-title="Redbox USA",Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999915/300x300.png?type=color_onBlack" tvg-chno="8727" group-title="Redbox USA",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999911/300x300.png?type=color_onBlack" tvg-chno="8716" group-title="Redbox USA",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999907/300x300.png?type=color_onBlack" tvg-chno="8722" group-title="Redbox USA",Hi-Yah
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999902/300x300.png?type=color_onBlack" tvg-chno="8734" group-title="Redbox USA",Journey
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999917/300x300.png?type=color_onBlack" tvg-chno="8738" group-title="Redbox USA",kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999914/300x300.png?type=color_onBlack" tvg-chno="8720" group-title="Redbox USA",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="26" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999918/300x300.png?type=color_onBlack" tvg-chno="8737" group-title="Redbox USA",Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="21" radio="false" tvg-id="5e54169f4b9b25000994a303" tvg-logo="https://image.xumo.com/v1/channels/channel/9999908/300x300.png?type=color_onBlack" tvg-chno="8732" group-title="Redbox USA",People are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="5f1aa7aab66c76000790ee7e" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/rush_300x300.png" tvg-chno="8714" group-title="Redbox USA",Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/spotlight_300x300.png" tvg-chno="8713" group-title="Redbox USA",Spotlight
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://image.xumo.com/v1/channels/channel/9999904/300x300.png?type=color_onBlack" tvg-chno="8731" group-title="Redbox USA",the pet collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="25" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999919/300x300.png?type=color_onBlack" tvg-chno="8736" group-title="Redbox USA",TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="24" radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999921/300x300.png?type=color_onBlack" tvg-chno="8735" group-title="Redbox USA",USA today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/960x540_5000000/index.m3u8
 #EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://i.imgur.com/4ydVVIA.png" tvg-chno="8740" group-title="Religious",3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://i.imgur.com/4ydVVIA.png" tvg-chno="8741" group-title="Religious",3ABN Latino
@@ -17651,16 +17631,18 @@ https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmriseAction/CDN
 https://gravitas-movies.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 channel-id="41" radio="false" tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" tvg-chno="8826" group-title="ROKU",HARVEST TV
 https://ch.iptvmate.net/5e93587f46695161f31a89e1.m3u8
-#EXTINF:-1 channel-id="42" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="8827" group-title="ROKU",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1 channel-id="43" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="8828" group-title="ROKU",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
 #EXTINF:-1 channel-id="44" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="8829" group-title="ROKU",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
+#EXTINF:-1 channel-id="43" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="8828" group-title="ROKU",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east_1.m3u8
+#EXTINF:-1 channel-id="42" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="8827" group-title="ROKU",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 channel-id="45" radio="false" tvg-id="HBO HD - Pacific Feed" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" tvg-chno="8830" group-title="ROKU",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 #EXTINF:-1 channel-id="46" radio="false" tvg-id="HBO Signature [East]" tvg-logo="https://img1.pnghut.com/13/15/20/ngmv6rSaXY/television-hbo-signature-channel-logo.jpg" tvg-chno="8831" group-title="ROKU",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/1.m3u8
+#EXTINF:-1 channel-id="60" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" tvg-chno="8845" group-title="ROKU",Horror Movies 24/7
+https://cdn.stream.bitwave.tv/hls/horrortv1/index.m3u8
 #EXTINF:-1 channel-id="47" radio="false" tvg-id="Horror247" tvg-logo="https://cdn.bitwave.tv/uploads/v2/avatar/f352db9b-2742-4651-ad54-7d0b7c8c1a8d-128.png" tvg-chno="8832" group-title="ROKU",Horror TV 24/7
 https://cdn.stream.bitwave.tv/hls/Horrortv1/index.m3u8
 #EXTINF:-1 channel-id="48" radio="false" tvg-logo="https://lincoln.ne.gov/city/mayor/communications/LNKTV/images/LNKTV-city-logo.png" tvg-chno="8833" group-title="ROKU",LNKTV City
@@ -17687,8 +17669,6 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 channel-id="59" radio="false" tvg-logo="https://shoppersvila.com/wp-content/uploads/2020/01/Movies-Now-tv-Hollywood-Films-list-today-schedule-all-popular-Movies-Now-tv-shows-timing-live-tv-app-details.jpg" tvg-chno="8844" group-title="ROKU",Movies Now
 https://ch.iptvmate.net/5e9358478f689e2c1721f54a.m3u8
-#EXTINF:-1 channel-id="60" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" tvg-chno="8845" group-title="ROKU",Horror Movies 24/7
-https://cdn.stream.bitwave.tv/hls/horrortv1/index.m3u8
 #EXTINF:-1 channel-id="61" radio="false" tvg-id="dummy010" tvg-logo="https://i.pinimg.com/originals/47/b1/6f/47b16f44de251d206530c543058bc27f.png" tvg-chno="8846" group-title="ROKU",New Movie Releases 24/7
 https://cdn.stream.bitwave.tv/hls/newmoviestv1/index.m3u8
 #EXTINF:-1 channel-id="62" radio="false" tvg-chno="8847" group-title="ROKU",New Stream
