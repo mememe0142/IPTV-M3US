@@ -1,0 +1,249 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="OFC" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="1" group-title="** Mecari **",Our Mecari Shop.
+https://www.dropbox.com/s/xstjzc3u2uiamqq/ofc-mecari.mp4?dl=1
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="OFCTVBoxs" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="2" group-title="*** Our New TV Box's **",Our New TV Box's - Now On Sale At $199  - Watch For Demo
+https://www.dropbox.com/s/2e0dom2ivj5fsmr/Previewofcbox-1.mp4?dl=1
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-chno="3" group-title="3ABN",3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" tvg-chno="14" group-title="ABC News Digital",ABC News D-0 (Main)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" tvg-chno="26" group-title="Adult Lifestyle & Interests",A3 Bikini (18+)
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="dummy000" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" tvg-chno="45" group-title="All Spark",Channel 0 - Falling Skys
+https://stream.allsprk.tv/live/0/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-chno="55" group-title="ALLSPRK USA",Artur
+https://stream.allsprk.tv/live/9/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_ABC-News-24.png?raw=true" tvg-chno="65" group-title="Australian TV",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" tvg-chno="74" group-title="Bumblebee TV",Activity Kid
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225d2d5eeee0f5a4094bf/playlist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-chno="134" group-title="Business",Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" tvg-chno="181" group-title="Canadian TV",CBC TV (Quebec) (Geo)
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="CBRTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" tvg-chno="207" group-title="CBC TV Canada (Geo)",CBC Calgary
+https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="221" group-title="CBS News",CBS News | CBSN National
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-chno="307" group-title="Chinese Network", Anhui Satellite TV
+http://112.17.40.140/PLTV/88888888/224/3221226611/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" tvg-chno="558" group-title="Cinedigm Digital Networks",Bambu
+https://a.jsrdn.com/broadcast/g44kshi9X/c.m3u8?Cinedigm
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG.png" tvg-chno="567" group-title="Classic TV",Beverly Hillbillies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f7796e470510900070d4e3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5e82b55ad0213e00079c509f" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" tvg-chno="586" group-title="Comedy",AFV TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=494&deviceId=5e82b55ad0213e00079c509f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5c37d6712de254456f7ec340" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" tvg-chno="623" group-title="Crime & Mystery",Cold Case Files
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=373&deviceId=5c37d6712de254456f7ec340&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5ca1de9208ee5378be82db3b" tvg-logo="https://images.pluto.tv/channels/5ca1de9208ee5378be82db3b/colorLogoPNG.png" tvg-chno="646" group-title="Curiosity",Fifth Gear
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca1de9208ee5378be82db3b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=578&deviceId=5ca1de9208ee5378be82db3b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5USA+1 - UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/1200px-Channel_5_USA.svg.png" tvg-chno="665" group-title="DAVE",5USA
+http://92.246.85.106:8000/play/a051/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-chno="686" group-title="Distro TV",ACCDN
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" tvg-chno="785" group-title="DISTRO USA",Bollywood HD
+https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5d4af00df345adb154b7a1f4" tvg-logo="https://images.pluto.tv/channels/5d4af00df345adb154b7a1f4/colorLogoPNG.png" tvg-chno="854" group-title="Drama",21 Jump Street
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=420&deviceId=5d4af00df345adb154b7a1f4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" tvg-chno="875" group-title="Entertainment",Buzzr | HD
+https://buzzrota-web.amagi.tv/playlist.m3u8?Entertainment
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5938876b78d8d9c074c3c657" tvg-logo="https://images.pluto.tv/channels/5938876b78d8d9c074c3c657/colorLogoPNG.png" tvg-chno="957" group-title="Explore",Adventure TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=675&deviceId=5938876b78d8d9c074c3c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" tvg-chno="971" group-title="Extras",Roku Skyline Screensaver
+https://od.lk/s/MF8yMTU5MTYzMTVf/Roku_City-Stroll_Skyline_720p_16m43s.mp4
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" tvg-chno="972" group-title="Extras",Roku Movie Magic Screensaver
+https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" tvg-chno="973" group-title="Extras",Fireplace & Chill (18+)
+https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
+#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN-International_200x200.png?raw=true" tvg-chno="984" group-title="Faith & Spirituality",3ABN | International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-name="Filmrise Classics" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" tvg-chno="990" group-title="Filmrise",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" tvg-chno="997" group-title="FilmRise Digital Networks",FilmRise | Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" tvg-chno="1012" group-title="Financial News & Info",Bloomberg US Channel
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" tvg-chno="1025" group-title="Francophone TV",France | France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" tvg-chno="1097" group-title="Free2View TV",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-VOD.png?raw=true" tvg-chno="1115" group-title="Free2View TV | VOD",Slipstream (1989)
+https://od.lk/s/MF8yMTg2NjkxODVf/Slipstream-1989_480p-3108kbps.ts
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" tvg-chno="1118" group-title="Gameshows & Competitions",Buzzr | Webstream
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESR24x7_180x180.png?raw=true" tvg-chno="1126" group-title="Geeks + Gaming",ESR 24x7 | eSports Revolution
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" tvg-chno="1146" group-title="Global News Canada",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" tvg-chno="1159" group-title="Harley Davidson TV",Harley Davidson TV
+https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81CgTK58tBL._SL1500_.jpg" tvg-chno="1163" group-title="Holiday Fun",12 Days of Christmas Eve (2004)
+https://video-2.hatchfarmstudios.com/3861f486-cba5-4235-8f45-2ba1981fb46b/master.m3u8?d=1&b=2
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="1176" group-title="ICI Tele Canada (Geo)",ICI Tele Acadie
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
+#EXTINF:-1 channel-id="1" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="1042" group-title="iHeart Radio",iHeart Radio | Kiss Radio
+http://stream.revma.ihrhls.com/zc7362/hls.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5f6df6293a12e10007017396" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" tvg-chno="1189" group-title="Infantil",A vida moderna de Rocko
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-name="Dubai One" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" tvg-chno="1203" group-title="International TV",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" tvg-chno="1217" group-title="Kids",After School Cartoons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="6" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="1071" group-title="Kids Radio",iHR | Build-A-Bear Radio
+https://stream.revma.ihrhls.com/zc8430/hls.m3u8
+#EXTINF:-1 channel-id="1" radio="true" tvg-chno="1272" group-title="Live Radio",# 1980s Radio Zoom - 64k Stereo / 128k Mono [Harlow]
+https://samcloud.spacial.com/api/listen?sid=111415&rid=195121&f=mp3,any&br=128000,any&m=m3u
+#EXTINF:-1 channel-id="1" radio="true" tvg-logo="http://radiodance.radioclub.es/wp-content/uploads/2016/01/cropped-1dancegrande-270x270.jpg" tvg-chno="1933" group-title="Live Radio CANADA",..:: *1Dance* ::..
+http://listen.radionomy.com/1-dance
+#EXTINF:-1 channel-id="1" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cjqfbpl6lyyn.png" tvg-chno="2828" group-title="Live Radio USA",#1980 HiFi Radio
+https://samcloud.spacial.com/api/listen?sid=111415&rid=194939&f=heaacv2,any&br=64000,any&m=pls
+#EXTINF:-1 channel-id="2" radio="true" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" tvg-chno="7546" group-title="Live Radio WORLD",RADIO Heart Extra Christmas
+http://ice-sov.musicradio.com/Heartextra
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" tvg-chno="7549" group-title="Local",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-id="dummy010" tvg-logo="https://i.imgur.com/E932mKv.jpg" tvg-chno="7693" group-title="Movie Chans",Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/gHBvHes.jpg" tvg-chno="7820" group-title="Movies Plus",& Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-chno="7978" group-title="Music Video & TV",30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5d2c571faeb3e2738ae27933" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" tvg-chno="8006" group-title="My5",My5 Crime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=470&deviceId=5d2c571faeb3e2738ae27933&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="AmericanHorrors" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" tvg-chno="8009" group-title="MyTVToGo",American Horrors
+https://nimble.dashstreams.net/mytvtogo/americanHorrors007/playlist.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://i.imgur.com/bkikN6d.png" tvg-chno="8040" group-title="MYTVTOGO USA",Apple Sauce Network
+https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" tvg-chno="8104" group-title="NASA TV",NASA TV 1 (Public)
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="8114" group-title="Nature Cams",Black Footed Ferret Cam
+https://nzp-ms05.si.edu/live_edge_bff/bff_1080_all.smil/playlist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/WVIR.png" tvg-chno="8137" group-title="NBC News Networks", NBC 29 Charlottesville (WVIR)
+http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bx/images/news12bx-logo.png" tvg-chno="8153" group-title="News & Weather", News 12 Bronx
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png" tvg-chno="8421" group-title="Nostalgia Flicks",Spydar TV
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://kiwi.racer159.com/site/images/channels/360north.png" tvg-chno="8431" group-title="okteve",360 North Live
+https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/2147483647_360north_247/chunklist.m3u8
+#EXTINF:-1 channel-id="3" radio="true" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" tvg-chno="8456" group-title="Old Time Radio",OTR AM600 Conyers OTR
+http://206.190.133.196:7161/stream
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" tvg-chno="8462" group-title="Olympic Channel",Olympic Channel 1 | 480p
+https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true" tvg-chno="8481" group-title="OTA TV25",TV25.2 NewsNet
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8?TV25
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5b4f56242d4ec87bdcbbb333" tvg-logo="https://images.pluto.tv/channels/5b4f56242d4ec87bdcbbb333/colorLogoPNG.png" tvg-chno="8492" group-title="OV",MST3K
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4f56242d4ec87bdcbbb333/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=922&deviceId=5b4f56242d4ec87bdcbbb333&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="WBIQ" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" tvg-chno="8499" group-title="PBS (Geo-USA)",AL | WBIQ PBS Birmingham
+https://wbiqdt.lls.cdn.pbs.org/wbiqdt/fa2db1d4-85a0-4a75-aa3d-1f5028578d52/primary.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" tvg-chno="8597" group-title="PBS | NPR",PBS | WPSU TV | HD
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://i.imgur.com/MFbbITI.jpg" tvg-chno="8611" group-title="PLEX USA",80s Party
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
+#EXTINF:-1 channel-id="8" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" tvg-chno="1085" group-title="Radio",TuneIn | MeTV FM WXZO
+http://crystalout.surfernetwork.com:8001/WXZO_MP3
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" tvg-chno="8712" group-title="Reality",All Reality by WE tv
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=310&deviceId=5e82530945600e0007ca076c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="8734" group-title="Redbox Live TV",Am.'s Test Kitchen
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://cdn.batterypop.com/roku/images/batteryPOP-336.png" tvg-chno="8817" group-title="Redbox USA",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://i.imgur.com/4ydVVIA.png" tvg-chno="8845" group-title="Religious",3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="A&E US - Eastern Feed" tvg-logo="https://i.imgur.com/zl7Gzwm.png" tvg-chno="8928" group-title="ROKU",A&E
+http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMCA2OjE2OjM3IFBNJmhhc2hfdmFsdWU9Sm5lYSt6Nm0xdXhVWGRVT3V5aWJHQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="5bf48085851dd5632e2f7b4d" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png" tvg-chno="9005" group-title="Season's Greetings",Fireplace
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5bf48085851dd5632e2f7b4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://i.imgur.com/q50kqOG.jpg" tvg-chno="9013" group-title="Shop",Cruise 1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" tvg-chno="9032" group-title="Special Interest",5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="5bd8322e59ee03633e74984a" tvg-logo="https://images.pluto.tv/channels/5bd8322e59ee03633e74984a/colorLogoPNG.png" tvg-chno="9076" group-title="Sports & Recreation",Action Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bd8322e59ee03633e74984a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=608&deviceId=5bd8322e59ee03633e74984a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="9223" group-title="Stingray Music",404 Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="covid-19-news" tvg-logo="https://i.mjh.nz/Stirr/.images/covid-19-news.png" tvg-chno="9237" group-title="Stirr", COVID-19 News
+https://dai.google.com/linear/hls/event/hm3bn851RHqsIK1Y3T462g/master.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" tvg-chno="9361" group-title="TEMP | CBC News (Geo-CA)",** For a Limited Time **
+https://od.lk/s/MF8yMjA4MTQ1MzRf/CBCNews_TempLive.mp4
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" tvg-chno="9362" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 1080p
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" tvg-chno="9380" group-title="TEMP | Merry Christmas",VOD FAMILY Jack Frost
+https://cloudfront.tubi.video/bd17f7cd-a624-4747-91d0-3d8b8149c265/ftxmihnp/stream.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:382/h:214/q:75/https://bleedingcool.com/wp-content/uploads/2020/09/Bloody-Disgusting-TV.jpg" tvg-chno="9406" group-title="The Roku Channel",Bloody Disgusting (1)
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8?Roku1
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" tvg-chno="9473" group-title="The Tennis Channel Free",The Tennis Channel | The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="9480" group-title="Travel & Tourism",The Florida Channel
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="ALF" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" tvg-chno="9492" group-title="TV Shows - Alf",S1E1
+https://cdn03.vidmark.seermedia.io/distro/renditions/437c060b-aae2-43fb-b194-f25c80fe48a5/480p.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="ALF" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" tvg-chno="9493" group-title="TV Shows - Alf",S1E2
+https://cdn03.vidmark.seermedia.io/distro/renditions/437c060b-aae2-43fb-b194-f25c80fe48a5/480p.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="ALF" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" tvg-chno="9494" group-title="TV Shows - Alf",S1E3
+https://cdn03.vidmark.seermedia.io/distro/renditions/b864e882-69c8-46bc-b43e-541fd9f19c3d/480p.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-id="ALF" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" tvg-chno="9495" group-title="TV Shows - Alf",S1E4
+https://cdn03.vidmark.seermedia.io/distro/renditions/061f3428-3cfb-4fa1-ae11-cdf533ebbcb0/480p.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="ALF" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Alf_images/lionsgate-ALF_S1-Full-Image_GalleryCover-en-US-1478304760700._UY500_UX667_RI_VQO7UQMHDfKxDGSNn57zZc6KsA1emIHX_TTW_.jpg" tvg-chno="9496" group-title="TV Shows - Alf",S1E5
+https://cdn03.vidmark.seermedia.io/distro/renditions/5f4fff6a-86b4-4049-bdb7-0a1abacb3194/480p.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71WYdY4Hi0L._SX300_.jpg" tvg-chno="9594" group-title="TV Shows - Magic's Biggest Secrets Finally Revealed",S1E1
+https://streamshls.unreel.me/smedia/2888e5200d0e43df800c23900a991973/F9/tZ6a7IN4XWuZl62g8iyf7CncxSD5XtrvOLMwol_r8/magic_20secrets_20revealed_eps101_205865-50fc5b10551fd4165301982d07feae41fc75e6bf.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71WYdY4Hi0L._SX300_.jpg" tvg-chno="9595" group-title="TV Shows - Magic's Biggest Secrets Finally Revealed",S1E2
+https://streamshls.unreel.me/smedia/2888e5200d0e43df800c23900a991973/Oc/A_RrFNufyisdJ2PZCVobIQXJ1c8jLtsMaS4oDBNOI/magic_20secrets_20revealed_eps102_205866-3a1c55eb2d4c640ccb522ce7366777fd2757e19c.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71WYdY4Hi0L._SX300_.jpg" tvg-chno="9596" group-title="TV Shows - Magic's Biggest Secrets Finally Revealed",S1E3
+https://streamshls.unreel.me/smedia/2888e5200d0e43df800c23900a991973/AW/UrQm7nSWeke2_Ukhaph2oosj8q63kwAIZG8bWleqc/magic_20secrets_20revealed_eps103_205867-f7d56e5cad177bb51ff78c27a65132d5c9202ee4.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71WYdY4Hi0L._SX300_.jpg" tvg-chno="9597" group-title="TV Shows - Magic's Biggest Secrets Finally Revealed",S1E4
+https://streamshls.unreel.me/smedia/2888e5200d0e43df800c23900a991973/Ee/NlbLYuaiSNvosJHHUbtlyvmO3LFY6D7FM9StcTFt0/magic_20secrets_20revealed_eps105_205869-489c0d57be568b5da8fdc9eac469ab2fcc4393f7.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71WYdY4Hi0L._SX300_.jpg" tvg-chno="9598" group-title="TV Shows - Magic's Biggest Secrets Finally Revealed",S1E5
+https://streamshls.unreel.me/smedia/2888e5200d0e43df800c23900a991973/Ee/NlbLYuaiSNvosJHHUbtlyvmO3LFY6D7FM9StcTFt0/magic_20secrets_20revealed_eps105_205869-489c0d57be568b5da8fdc9eac469ab2fcc4393f7.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-chno="9612" group-title="TVS USA",TVS Boxing
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://i.imgur.com/VLWDHGs.png" tvg-chno="9614" group-title="TVS USA",TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://i.imgur.com/ui099xQ.jpg" tvg-chno="9615" group-title="TVS USA",TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" tvg-chno="9648" group-title="UK",BBC 1 Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-id="BBC One E Mid - UK" tvg-name="BBC One" tvg-logo="https://i.imgur.com/arwMXZg.png" tvg-chno="9652" group-title="UK",BBC One
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-id="BBC Scotland - UK" tvg-name="BBC Scotland" tvg-logo="https://i.imgur.com/rtZxGzr.png" tvg-chno="9653" group-title="UK",BBC Scotland
+http://51.52.156.22:8888/http/001
+#EXTINF:0 channel-id="2" radio="false" tvg-id="ext" tvg-chno="9745" group-title="USA FOX",US037:FOX-News
+http://a2.aminzer.club:8880/live/wh3m1067/GsgTfKJCUx/3131.m3u8
+#EXTINF:0 channel-id="3" radio="false" tvg-id="ext" tvg-chno="9746" group-title="USA FOX",US038:FOX-Sports1
+http://a2.aminzer.club:8880/live/wh3m1067/GsgTfKJCUx/3130.m3u8
+#EXTINF:0 channel-id="4" radio="false" tvg-id="ext" tvg-chno="9747" group-title="USA FOX",US039:FOX-Sports2
+http://a2.aminzer.club:8880/live/wh3m1067/GsgTfKJCUx/3129.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" tvg-chno="9889" group-title="USA FREE OTA TV",Circle | HD
+https://circle-roku.amagi.tv/playlist.m3u8?OTA
+#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://i.imgur.com/zI6jr9L.png" tvg-chno="9910" group-title="USTV",3ABN Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="VODNEW" tvg-logo="https://i.jeded.com/i/101-dalmatians-one-hundred-and-one-dalmatians.25714.jpg" tvg-chno="10513" group-title="VOD",101 Dalmatians (1961)
+http://www.deadlyblogger.com/NewRelease/dal1.mp4
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="VODNEW" tvg-logo="http://www.dvdplanetstore.pk/wp-content/uploads/2014/01/3-Ninjas.jpg" tvg-chno="10514" group-title="VOD",3 Ninjas (1992)
+http://www.deadlyblogger.com/NewRelease/3ninja1.mp4
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="VODNEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/3_Ninjas_Kick_Back.jpg" tvg-chno="10515" group-title="VOD",3 Ninjas Kick Back (1994)
+http://www.deadlyblogger.com/NewRelease/3ninja2.mp4
+#EXTINF:-1 channel-id="4" radio="false" tvg-id="VODNEW" tvg-logo="https://i.jeded.com/i/3-ninjas-knuckle-up.41174.jpg" tvg-chno="10516" group-title="VOD",3 Ninjas Knuckle Up (1995)
+http://www.deadlyblogger.com/NewRelease/3ninja3.mp4
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="VODNEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/3_ninjas_high_noon_at_mega_mountain_poster.jpg" tvg-chno="10517" group-title="VOD",3 Ninjas: High Noon at Mega Mountain (1998)
+http://www.deadlyblogger.com/NewRelease/3ninja4.mp4
+#EXTINF:-1 channel-id="6" radio="false" tvg-id="VODNEW" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51f-NtZbSCL._SY445_.jpg" tvg-chno="10518" group-title="VOD",A Disney Christmas Gift (1983)
+http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_01_TVS-Network_160x160.png?raw=true" tvg-chno="10732" group-title="WatchYour.TV | TVS ",TVS Television Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_13_TVS-Main-Street_160x160.png?raw=true" tvg-chno="10733" group-title="WatchYour.TV | TVS ",TVS Main Street
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_01_TVS-Network_160x160.png?raw=true" tvg-chno="10734" group-title="WatchYour.TV | TVS ",TVS Select Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="The Weather Channel" tvg-name="The Weather Channel-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" tvg-chno="10756" group-title="Weather",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="10763" group-title="Xumo | Live TV",Xumo | 125 CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 channel-id="34" radio="false" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-chno="10843" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 channel-id="35" radio="false" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-chno="10844" group-title="XXX",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="10850" group-title="[adult swim]",Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="10851" group-title="[adult swim]",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
