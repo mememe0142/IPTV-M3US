@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+﻿#EXTM3U
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="OFC" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="1" group-title="** Mecari **",Our Mecari Shop.
 https://www.dropbox.com/s/xstjzc3u2uiamqq/ofc-mecari.mp4?dl=1
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="OFCTVBoxs" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="2" group-title="*** Our New TV Box's **",Our New TV Box's - Now On Sale At $199  - Watch For Demo
@@ -21583,3 +21583,823 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 #EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="10864" group-title="[adult swim]",Relaxing Fish
 https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+#EXTINF:-1 radio="false" group-title="test", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", a minor tv
+http://178.33.37.66/stream/HD4J36BFRE/303.m3u8
+#EXTINF:-1 radio="false" group-title="test", A1
+http://178.33.37.66/stream/HD4J36BFRE/117.m3u8
+#EXTINF:-1 radio="false" group-title="test", action-packed hd
+http://188.35.9.11:2015
+#EXTINF:-1 radio="false" group-title="test", amedia 1
+http://185.245.187.150:80/Amedia1/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Amedia 2
+http://109.111.191.108/239.211.211.82/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Amedia Hit
+http://178.33.37.66/stream/HD4J36BFRE/162.m3u8
+#EXTINF:-1 radio="false" group-title="test", amedia hit hd
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="test", Amedia Premium
+http://178.33.37.66/stream/HD4J36BFRE/151.m3u8
+#EXTINF:-1 radio="false" group-title="test", Amedia Premium HD
+http://109.111.191.108/239.211.211.171/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Amedia Premium HD
+http://185.245.187.150:80/AmediaPremiumFHD/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Ani
+http://178.33.37.66/stream/HD4J36BFRE/306.m3u8
+#EXTINF:-1 radio="false" group-title="test", animal planet
+http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Animal Planet HD
+http://178.33.37.66/stream/HD4J36BFRE/114.m3u8
+#EXTINF:-1 radio="false" group-title="test", Auto 24
+http://109.111.191.108/239.211.211.13/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Auto plus
+http://178.33.37.66/stream/HD4J36BFRE/186.m3u8
+#EXTINF:-1 radio="false" group-title="test", Auto Plus
+http://109.111.191.108/239.211.211.150/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Auto24 HD
+http://178.33.37.66/stream/HD4J36BFRE/78.m3u8
+#EXTINF:-1 radio="false" group-title="test", bashkortostan 24 hd
+http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1 radio="false" group-title="test", Belarus 1 HD
+http://178.33.37.66/stream/HD4J36BFRE/22.m3u8
+#EXTINF:-1 radio="false" group-title="test", Belarus 2 HD
+http://178.33.37.66/stream/HD4J36BFRE/24.m3u8
+#EXTINF:-1 radio="false" group-title="test", Belarus 3 HD
+http://178.33.37.66/stream/HD4J36BFRE/25.m3u8
+#EXTINF:-1 radio="false" group-title="test", BelRos
+http://178.33.37.66/stream/HD4J36BFRE/63.m3u8
+#EXTINF:-1 radio="false" group-title="test", Bollywood HD
+http://185.245.187.150:80/Bollywood/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Box TV
+http://178.33.37.66/stream/HD4J36BFRE/154.m3u8
+#EXTINF:-1 radio="false" group-title="test", boxing tv
+http://51.68.141.106:8081/iptv/box-tv/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", BRiDGE TV
+http://178.33.37.66/stream/HD4J36BFRE/318.m3u8
+#EXTINF:-1 radio="false" group-title="test", BRiDGE TV Classic
+http://178.33.37.66/stream/HD4J36BFRE/272.m3u8
+#EXTINF:-1 radio="false" group-title="test", BRiDGE TV Deluxe
+http://178.33.37.66/stream/HD4J36BFRE/92.m3u8
+#EXTINF:-1 radio="false" group-title="test", BRIDGE TV Hits
+http://178.33.37.66/stream/HD4J36BFRE/319.m3u8
+#EXTINF:-1 radio="false" group-title="test", BRIDGE TV Русский хит
+http://178.33.37.66/stream/HD4J36BFRE/320.m3u8
+#EXTINF:-1 radio="false" group-title="test", Carousel
+http://178.33.37.66/stream/HD4J36BFRE/120.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cartoon
+http://178.33.37.66/stream/HD4J36BFRE/232.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cartoon Network
+http://178.33.37.66/stream/HD4J36BFRE/144.m3u8
+#EXTINF:-1 radio="false" group-title="test", CBS Reality
+http://178.33.37.66/stream/HD4J36BFRE/314.m3u8
+#EXTINF:-1 radio="false" group-title="test", CBS Reality
+http://185.245.187.150:80/CBSReality/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cenouras
+http://178.33.37.66/stream/HD4J36BFRE/278.m3u8
+#EXTINF:-1 radio="false" group-title="test", Channel 2x2
+http://178.33.37.66/stream/HD4J36BFRE/187.m3u8
+#EXTINF:-1 radio="false" group-title="test", Channel Five
+http://178.33.37.66/stream/HD4J36BFRE/103.m3u8
+#EXTINF:-1 radio="false" group-title="test", Channel Five
+
+#EXTINF:-1 radio="false" group-title="test", Chanson
+TV http://178.33.37.66/stream/HD4J36BFRE/95.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://iptvx.one/icn/che.png" group-title="test", che
+
+#EXTINF:-1 radio="false" group-title="test", children's movies hd
+https://v2.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema
+http://109.111.191.108/239.211.211.106/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 1 (Mars-TV)
+https://marstv.catcast.tv/content/37033/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 10 (Cinema Season 4)
+https://5656.ga/ch4.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 11 (Cinema Season 5)
+https://5656.ga/ch5.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 12 (Cinema Season 6)
+https://5656.ga/ch6.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 13 (Cinema Season 7)
+https://5656.ga/ch7.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 14 (Cinema Season 8)
+https://5656.ga/ch8.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 15 (Cinema Season 9)
+https://5656.ga/ch9.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 16 (Movie Season 10)
+https://5656.ga/ch10.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 17 (Movie Season 11)
+https://5656.ga/ch11.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 18 (Movie Season 12)
+https://5656.ga/ch12.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 19 (Movie Season 13)
+https://5656.ga/ch13.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 2 (USSR EVGENIY)
+https://v2.catcast.tv/content/36506/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 20 (Movie Season 14)
+https://5656.ga/ch14.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 21 (Movie Season 15)
+https://5656.ga/ch15.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 22 (Cinema Season 16)
+https://5656.ga/ch16.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 23 (Cinema Season 17)
+https://5656.ga/ch17.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 24 (Cinema Season 18)
+https://5656.ga/ch18.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 25 (favorite Indian movie)
+https://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 26 (STR TV)
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 27 (SCIFI Fiction)
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 28 (Memory)
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 29 (Cartoons)
+https://v2.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 3 (Gal TV)
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 30 (ANIME channel)
+https://v2.catcast.tv/content/35676/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 31 (selecaotv)
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 32 (Children's Cinema International)
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 33 (Horror Movie)
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 34 (Premiere)
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 35 (City Eden TV)
+https://v2.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 36 (VHS EVGENIY)
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", cinema hall 37 (drama tic evgeniy)
+https://v2.catcast.tv/content/36732/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 38 (City Eden Film Classics)
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 39 (VHS Horror)
+https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 4 (Videotape)
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 40 (ULTO)
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 41 (Mosfilm TV)
+http://pro100tv.my1.ru/TV4/mosfilm3.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 42 (Movie Classic)
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 43 (severtv)
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 44 (VHS Video Store)
+https://hls.goodgame.ru/hls/175764.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 45 (akudji)
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 46 (FILM TV HD)
+https://hls.goodgame.ru/hls/178880.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 47 (KINDER TV)
+https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 48 (Cinema 1 International)
+https://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 49 (famously)
+https://v2.catcast.tv/content/37311/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 5 (Fear (HORROR) EVGENIY)
+https://v2.catcast.tv/content/36277/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 50 (kinobest)
+https://v2.catcast.tv/content/39478/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 51 (KVN-HD)
+https://cdnhls.goodgame.ru/hls/181746.m3u8
+#EXTINF:-1 radio="false" group-title="test", cinema hall 52 (music 1)
+https://v2.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 53 (Music 2)
+https://v2.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 54 (Eurodance 90 HD)
+https://eurodance.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 6 (Russian Comedy EVGENIY)
+https://v2.catcast.tv/content/36168/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 7 (Movie Season 1)
+https://5656.ga/ch1.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 8 (Cinema Season 2)
+https://5656.ga/ch2.m3u8
+#EXTINF:-1 radio="false" group-title="test", Cinema Hall 9 (Cinema Season 3)
+https://5656.ga/ch3.m3u8
+#EXTINF:-1 radio="false" group-title="test", Culture
+http://178.33.37.66/stream/HD4J36BFRE/229.m3u8
+#EXTINF:-1 radio="false" group-title="test", Da Vinci
+http://178.33.37.66/stream/HD4J36BFRE/238.m3u8
+#EXTINF:-1 radio="false" group-title="test", Dialogues about fishing
+http://178.33.37.66/stream/HD4J36BFRE/264.m3u8
+#EXTINF:-1 radio="false" group-title="test", Discovery
+http://147.135.210.90:8081/tv/Discovery/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Discovery channel HD
+http://178.33.37.66/stream/HD4J36BFRE/177.m3u8
+#EXTINF:-1 radio="false" group-title="test", Discovery Science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Discovery Science HD
+http://178.33.37.66/stream/HD4J36BFRE/146.m3u8
+#EXTINF:-1 radio="false" group-title="test", Discovery Showcase HD
+http://178.33.37.66/stream/HD4J36BFRE/316.m3u8
+#EXTINF:-1 radio="false" group-title="test", Disney Disney
+http://178.33.37.66/stream/HD4J36BFRE/118.m3u8
+#EXTINF:-1 radio="false" group-title="test", Doctor
+http://178.33.37.66/stream/HD4J36BFRE/80.m3u8
+#EXTINF:-1 radio="false" group-title="test", DocuBox HD
+http://178.33.37.66/stream/HD4J36BFRE/90.m3u8
+#EXTINF:-1 radio="false" group-title="test", Drive
+http://109.111.191.108/239.211.211.59/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", DTX
+http://178.33.37.66/stream/HD4J36BFRE/145.m3u8
+#EXTINF:-1 radio="false" group-title="test", dtx
+http://182.73.122.74:10005/bysid/407
+#EXTINF:-1 radio="false" group-title="test", Euronews
+http://178.33.37.66/stream/HD4J36BFRE/189.m3u8
+#EXTINF:-1 radio="false" group-title="test", Europa plus TV
+http://178.33.37.66/stream/HD4J36BFRE/184.m3u8
+#EXTINF:-1 radio="false" group-title="test", Eurosport 1 HD
+http://178.33.37.66/stream/HD4J36BFRE/176.m3u8
+#EXTINF:-1 radio="false" group-title="test", eurosport 1 hd
+http://185.245.187.150:80/EurosportFHD/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Eurosport 2 HD
+http://178.33.37.66/stream/HD4J36BFRE/192.m3u8
+#EXTINF:-1 radio="false" group-title="test", Eurosport 2 HD
+http://185.245.187.150:80/Eurosport2FHD/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", eurosport 4k
+
+#EXTINF:-1 radio="false" group-title="test", Eurosport Gold
+http://178.33.37.66/stream/HD4J36BFRE/286.m3u8
+#EXTINF:-1 radio="false" group-title="test", EXT
+
+#EXTINF:-1 radio="false" group-title="test", external channel
+http://178.33.37.66/stream/HD4J36BFRE/211.m3u8
+#EXTINF:-1 radio="false" group-title="test", FilmBox
+http://178.33.37.66/stream/HD4J36BFRE/307.m3u8
+#EXTINF:-1 radio="false" group-title="test", Filmbox ArtHouse
+http://178.33.37.66/stream/HD4J36BFRE/308.m3u8
+#EXTINF:-1 radio="false" group-title="test", first channel
+http://178.33.37.66/stream/HD4J36BFRE/99.m3u8
+#EXTINF:-1 radio="false" group-title="test", First HD channel
+http://185.245.187.150:80/1FHD/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", First Music HD
+http://rtmp.one.by:2200
+#EXTINF:-1 radio="false" group-title="test", First Music HD
+http://rtmp.one.by:1300
+#EXTINF:-1 radio="false" group-title="test", first tula hd
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Football 3 (Ukraine)
+http://178.33.37.66/stream/HD4J36BFRE/297.m3u8
+#EXTINF:-1 radio="false" group-title="test", Fox
+http://109.111.191.108/239.211.211.91/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", FOX HD
+http://178.33.37.66/stream/HD4J36BFRE/182.m3u8
+#EXTINF:-1 radio="false" group-title="test", fox hd
+http://185.245.187.150:80/Fox/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Fox Life
+http://51.68.141.106:8081/tv/fox-life/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Fox Life
+http://109.111.191.108/239.211.211.92/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", FOX life HD
+http://178.33.37.66/stream/HD4J36BFRE/129.m3u8
+#EXTINF:-1 radio="false" group-title="test", Friday
+http://178.33.37.66/stream/HD4J36BFRE/181.m3u8
+#EXTINF:-1 radio="false" group-title="test", friday hd
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Galaxy TV
+http://109.111.191.108/239.211.211.39/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", greater asia
+http://109.111.191.108/239.211.211.162/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", H2 HD
+http://178.33.37.66/stream/HD4J36BFRE/65.m3u8
+#EXTINF:-1 radio="false" group-title="test", hd comedy
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD Fashion & Lifestyle [FHD]
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/233.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/131.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/214.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/135.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/275.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/274.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/134.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/194.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/212.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/64.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/74.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/178.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/77.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/216.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/215.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/225.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/198.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD HD
+http://178.33.37.66/stream/HD4J36BFRE/226.m3u8
+#EXTINF:-1 radio="false" group-title="test", HD Life
+http://178.33.37.66/stream/HD4J36BFRE/161.m3u8
+#EXTINF:-1 radio="false" group-title="test", Healthy TB
+http://109.111.191.108/239.211.211.61/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", History
+http://178.33.37.66/stream/HD4J36BFRE/228.m3u8
+#EXTINF:-1 radio="false" group-title="test", Hollywood HD
+http://178.33.37.66/stream/HD4J36BFRE/268.m3u8
+#EXTINF:-1 radio="false" group-title="test", Home
+http://178.33.37.66/stream/HD4J36BFRE/227.m3u8
+#EXTINF:-1 radio="false" group-title="test", Home
+http://51.195.44.53:8081/tv/domashniy/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", House of Cinema
+http://147.135.210.90:8081/tv/dom-kino/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", House of Cinema
+http://185.245.187.150:80/Domkino/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", house of cinema premium
+http://178.33.37.66/stream/HD4J36BFRE/108.m3u8
+#EXTINF:-1 radio="false" group-title="test", house of cinema premium hd
+http://185.245.187.150:80/DomKinoPremiumFHD/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", HUMOR TV
+http://178.33.37.66/stream/HD4J36BFRE/222.m3u8
+#EXTINF:-1 radio="false" group-title="test", Hunting and Fishing
+http://178.33.37.66/stream/HD4J36BFRE/155.m3u8
+#EXTINF:-1 radio="false" group-title="test", ID Investigation Discovery
+http://178.33.37.66/stream/HD4J36BFRE/205.m3u8
+#EXTINF:-1 radio="false" group-title="test", Illusion +
+http://188.93.95.83/illuzionplus/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", in the animal world
+http://178.33.37.66/stream/HD4J36BFRE/241.m3u8
+#EXTINF:-1 radio="false" group-title="test", indian cinema
+http://178.33.37.66/stream/HD4J36BFRE/104.m3u8
+#EXTINF:-1 radio="false" group-title="test", Izvestia TV HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", jasmin tv
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", JimJam
+http://178.33.37.66/stream/HD4J36BFRE/150.m3u8
+#EXTINF:-1 radio="false" group-title="test", KHL
+http://178.33.37.66/stream/HD4J36BFRE/166.m3u8
+#EXTINF:-1 radio="false" group-title="test", kino tv
+http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Kinomix
+http://178.33.37.66/stream/HD4J36BFRE/133.m3u8
+#EXTINF:-1 radio="false" group-title="test", Kinomix HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="test", Kitchen TV
+http://178.33.37.66/stream/HD4J36BFRE/179.m3u8
+#EXTINF:-1 radio="false" group-title="test", Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 radio="false" group-title="test", lent tv 24
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Live Planet
+http://178.33.37.66/stream/HD4J36BFRE/83.m3u8
+#EXTINF:-1 radio="false" group-title="test", Love love
+http://178.33.37.66/stream/HD4J36BFRE/183.m3u8
+#EXTINF:-1 radio="false" group-title="test", Love Nature 4K
+
+#EXTINF:-1 radio="false" group-title="test", Male cinema
+http://188.93.95.83/interesnoetv/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", male movies
+http://178.33.37.66/stream/HD4J36BFRE/107.m3u8
+#EXTINF:-1 radio="false" group-title="test", Marine
+http://185.245.187.150:80/Morskoy/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", marine
+http://178.33.37.66/stream/HD4J36BFRE/141.m3u8
+#EXTINF:-1 radio="false" group-title="test", match! fighter
+http://178.33.37.66/stream/HD4J36BFRE/112.m3u8
+#EXTINF:-1 radio="false" group-title="test", match! HD
+http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
+#EXTINF:-1 radio="false" group-title="test", Men's movies HD
+http://188.35.9.11:2022
+#EXTINF:-1 radio="false" group-title="test", Mezzo HD
+http://178.33.37.66/stream/HD4J36BFRE/276.m3u8
+#EXTINF:-1 radio="false" group-title="test", Moscow 24
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Moscow 24
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 radio="false" group-title="test", moscow-24
+http://178.33.37.66/stream/HD4J36BFRE/67.m3u8
+#EXTINF:-1 radio="false" group-title="test", Mother
+http://178.33.37.66/stream/HD4J36BFRE/79.m3u8
+#EXTINF:-1 radio="false" group-title="test", motorsport
+tv http://178.33.37.66/stream/HD4J36BFRE/300.m3u8
+#EXTINF:-1 radio="false" group-title="test", Movie Comedy
+http://178.33.37.66/stream/HD4J36BFRE/265.m3u8
+#EXTINF:-1 radio="false" group-title="test", Movie Family
+http://178.33.37.66/stream/HD4J36BFRE/170.m3u8
+#EXTINF:-1 radio="false" group-title="test", movie hit
+http://178.33.37.66/stream/HD4J36BFRE/126.m3u8
+#EXTINF:-1 radio="false" group-title="test", movie hit
+http://109.111.191.108/239.211.211.142/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", movie hit
+http://188.93.95.83/kinohit/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Movie Hit HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="test", movie house
+http://178.33.37.66/stream/HD4J36BFRE/236.m3u8
+#EXTINF:-1 radio="false" group-title="test", movie premiere
+http://178.33.37.66/stream/HD4J36BFRE/160.m3u8
+#EXTINF:-1 radio="false" group-title="test", Movie Premiere HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="test", Movie TV
+http://178.33.37.66/stream/HD4J36BFRE/221.m3u8
+#EXTINF:-1 radio="false" group-title="test", movie view
+http://178.33.37.66/stream/HD4J36BFRE/171.m3u8
+#EXTINF:-1 radio="false" group-title="test", Movie view
+http://109.111.191.108/239.211.211.141/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Movie view
+http://188.93.95.83/kinosvidanie/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Movie View HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="test", MTV Dance
+http://178.33.37.66/stream/HD4J36BFRE/147.m3u8
+#EXTINF:-1 radio="false" group-title="test", MTV Rocks
+http://178.33.37.66/stream/HD4J36BFRE/88.m3u8
+#EXTINF:-1 radio="false" group-title="test", MTV Россия
+http://178.33.37.66/stream/HD4J36BFRE/89.m3u8
+#EXTINF:-1 radio="false" group-title="test", Multi-music
+http://178.33.37.66/stream/HD4J36BFRE/82.m3u8
+#EXTINF:-1 radio="false" group-title="test", music box russia hd
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", music music
+http://178.33.37.66/stream/HD4J36BFRE/317.m3u8
+#EXTINF:-1 radio="false" group-title="test", Music of the first
+http://178.33.37.66/stream/HD4J36BFRE/153.m3u8
+#EXTINF:-1 radio="false" group-title="test", MUZ-TV
+http://178.33.37.66/stream/HD4J36BFRE/86.m3u8
+#EXTINF:-1 radio="false" group-title="test", my planet
+http://178.33.37.66/stream/HD4J36BFRE/124.m3u8
+#EXTINF:-1 radio="false" group-title="test", Nat Geo Wild
+http://178.33.37.66/stream/HD4J36BFRE/149.m3u8
+#EXTINF:-1 radio="false" group-title="test", National Geographic
+http://109.111.191.108/239.211.211.40/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", National Geographic HD
+http://178.33.37.66/stream/HD4J36BFRE/116.m3u8
+#EXTINF:-1 radio="false" group-title="test", Native movie
+http://178.33.37.66/stream/HD4J36BFRE/242.m3u8
+#EXTINF:-1 radio="false" group-title="test", Nickelodeon HD
+http://178.33.37.66/stream/HD4J36BFRE/127.m3u8
+#EXTINF:-1 radio="false" group-title="test", nostalgia
+http://178.33.37.66/stream/HD4J36BFRE/94.m3u8
+#EXTINF:-1 radio="false" group-title="test", ntv
+http://178.33.37.66/stream/HD4J36BFRE/98.m3u8
+#EXTINF:-1 radio="false" group-title="test", NTV SERIES
+http://178.33.37.66/stream/HD4J36BFRE/301.m3u8
+#EXTINF:-1 radio="false" group-title="test", NTV-World
+http://178.33.37.66/stream/HD4J36BFRE/223.m3u8
+#EXTINF:-1 radio="false" group-title="test", Oh! http://178.33.37.66/stream/HD4J36BFRE/60.m3u8
+
+#EXTINF:-1 radio="false" group-title="test", OTP
+http://178.33.37.66/stream/HD4J36BFRE/61.m3u8
+#EXTINF:-1 radio="false" group-title="test", our detective
+http://178.33.37.66/stream/HD4J36BFRE/217.m3u8
+#EXTINF:-1 radio="false" group-title="test", our favorite movie
+http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", our movie fan
+http://178.33.37.66/stream/HD4J36BFRE/213.m3u8
+#EXTINF:-1 radio="false" group-title="test", our new movie
+http://178.33.37.66/stream/HD4J36BFRE/128.m3u8
+#EXTINF:-1 radio="false" group-title="test", Our new movie
+http://188.93.95.83/nashanovoekino/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Paramount Channel
+http://178.33.37.66/stream/HD4J36BFRE/219.m3u8
+#EXTINF:-1 radio="false" group-title="test", paramount comedy
+http://89.189.191.250/239.211.211.73/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Paramount Comedy
+http://178.33.37.66/stream/HD4J36BFRE/196.m3u8
+#EXTINF:-1 radio="false" group-title="test", pepper
+http://178.33.37.66/stream/HD4J36BFRE/121.m3u8
+#EXTINF:-1 radio="false" group-title="test", Pets
+http://109.111.191.108/239.211.211.65/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Phoenix+ Cinema
+http://109.111.191.108/239.211.211.72/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Playboy TV
+http://185.245.187.150:80/PlayboyTV/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Premium Cinema House
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 radio="false" group-title="test", premium hd
+http://188.35.9.26:5050/001
+#EXTINF:-1 radio="false" group-title="test", premium hd world
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Premium Premium
+http://178.33.37.66/stream/HD4J36BFRE/66.m3u8
+#EXTINF:-1 radio="false" group-title="test", Present
+http://178.33.37.66/stream/HD4J36BFRE/331.m3u8
+#EXTINF:-1 radio="false" group-title="test", questions and answers
+http://178.33.37.66/stream/HD4J36BFRE/76.m3u8
+#EXTINF:-1 radio="false" group-title="test", Rain
+http://178.33.37.66/stream/HD4J36BFRE/210.m3u8
+#EXTINF:-1 radio="false" group-title="test", RBC
+http://178.33.37.66/stream/HD4J36BFRE/105.m3u8
+#EXTINF:-1 radio="false" group-title="test", Real Scary TV
+http://178.33.37.66/stream/HD4J36BFRE/207.m3u8
+#EXTINF:-1 radio="false" group-title="test", ren tv
+
+#EXTINF:-1 radio="false" group-title="test", REN TV
+http://178.33.37.66/stream/HD4J36BFRE/132.m3u8
+#EXTINF:-1 radio="false" group-title="test", rifey-tv
+
+#EXTINF:-1 radio="false" group-title="test", RT HD HD
+http://178.33.37.66/stream/HD4J36BFRE/197.m3u8
+#EXTINF:-1 radio="false" group-title="test", rtr belarus
+http://178.33.37.66/stream/HD4J36BFRE/23.m3u8
+#EXTINF:-1 radio="false" group-title="test", rtr planet cis
+http://178.33.37.66/stream/HD4J36BFRE/224.m3u8
+#EXTINF:-1 radio="false" group-title="test", rtr planet cis
+http://178.33.37.66/stream/HD4J36BFRE/337.m3u8
+#EXTINF:-1 radio="false" group-title="test", RTVi
+http://178.33.37.66/stream/HD4J36BFRE/91.m3u8
+#EXTINF:-1 radio="false" group-title="test", RU TV
+http://178.33.37.66/stream/HD4J36BFRE/109.m3u8
+#EXTINF:-1 radio="false" group-title="test", ru tv hd
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", russia 1
+http://178.33.37.66/stream/HD4J36BFRE/96.m3u8
+#EXTINF:-1 radio="false" group-title="test", Russia 1 HD
+http://178.33.37.66/stream/HD4J36BFRE/137.m3u8
+#EXTINF:-1 radio="false" group-title="test", russia 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 radio="false" group-title="test", russia 24
+http://178.33.37.66/stream/HD4J36BFRE/139.m3u8
+#EXTINF:-1 radio="false" group-title="test", Russia To
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", russian bestseller
+http://178.33.37.66/stream/HD4J36BFRE/208.m3u8
+#EXTINF:-1 radio="false" group-title="test", russian bestseller
+http://109.111.191.108/239.211.211.137/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", russian comedy
+http://178.33.37.66/stream/HD4J36BFRE/68.m3u8
+#EXTINF:-1 radio="false" group-title="test", russian detective
+http://109.111.191.108/239.211.211.95/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", russian detective
+http://182.73.122.74:10005/bysid/416
+#EXTINF:-1 radio="false" group-title="test", Russian detective
+http://178.33.37.66/stream/HD4J36BFRE/204.m3u8
+#EXTINF:-1 radio="false" group-title="test", russian extreme uhd
+
+#EXTINF:-1 radio="false" group-title="test", russian illusion
+http://178.33.37.66/stream/HD4J36BFRE/122.m3u8
+#EXTINF:-1 radio="false" group-title="test", Russian Illusion
+
+#EXTINF:-1 radio="false" group-title="test", Russian Illusion
+http://188.93.95.83/rusilluzion/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Russian novel
+http://178.33.37.66/stream/HD4J36BFRE/266.m3u8
+#EXTINF:-1 radio="false" group-title="test", russian novel hd
+http://89.189.191.250/239.211.200.29/stream.m3u8
+#EXTINF:-1 radio="false" group-title="test", Russian Travel Guide (RTG TV)
+http://178.33.37.66/stream/HD4J36BFRE/164.m3u8
+#EXTINF:-1 radio="false" group-title="test", sarafan
+tv http://178.33.37.66/stream/HD4J36BFRE/81.m3u8
+#EXTINF:-1 radio="false" group-title="test", Sci-Fi Fiction
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", science 2.0
+http://91.206.19.123:4022/udp/225.0.55.13:1234
+#EXTINF:-1 radio="false" group-title="test", Science 2_0
+http://178.33.37.66/stream/HD4J36BFRE/125.m3u8
+#EXTINF:-1 radio="false" group-title="test", Setanta sport
+http://178.33.37.66/stream/HD4J36BFRE/234.m3u8
+#EXTINF:-1 radio="false" group-title="test", Setanta sport 2
+http://178.33.37.66/stream/HD4J36BFRE/235.m3u8
+#EXTINF:-1 radio="false" group-title="test", Setanta Sports 1
+http://188.93.95.83/setanta/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Shocking
+http://178.33.37.66/stream/HD4J36BFRE/75.m3u8
+#EXTINF:-1 radio="false" group-title="test", Sony Sci-Fi
+http://178.33.37.66/stream/HD4J36BFRE/180.m3u8
+#EXTINF:-1 radio="false" group-title="test", Sony Sony
+http://178.33.37.66/stream/HD4J36BFRE/69.m3u8
+#EXTINF:-1 radio="false" group-title="test", Sony Turbo
+http://176.115.152.6:4000/play/a005/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Sony Turbo
+http://178.33.37.66/stream/HD4J36BFRE/263.m3u8
+#EXTINF:-1 radio="false" group-title="test", Spike
+http://178.33.37.66/stream/HD4J36BFRE/304.m3u8
+#EXTINF:-1 radio="false" group-title="test", star
+http://178.33.37.66/stream/HD4J36BFRE/140.m3u8
+#EXTINF:-1 radio="false" group-title="test", Star
+http://51.68.141.106:8081/tv/zvezda/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Star Cinema
+http://178.33.37.66/stream/HD4J36BFRE/310.m3u8
+#EXTINF:-1 radio="false" group-title="test", STS
+http://178.33.37.66/stream/HD4J36BFRE/138.m3u8
+#EXTINF:-1 radio="false" group-title="test", sts love
+http://182.73.122.74:10001/bysid/712
+#EXTINF:-1 radio="false" group-title="test", Super
+http://178.33.37.66/stream/HD4J36BFRE/269.m3u8
+#EXTINF:-1 radio="false" group-title="test", Super
+
+#EXTINF:-1 radio="false" group-title="test", the world of the series
+http://188.93.95.83/mirseriala/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", TiJi
+http://178.33.37.66/stream/HD4J36BFRE/111.m3u8
+#EXTINF:-1 radio="false" group-title="test", time
+http://178.33.37.66/stream/HD4J36BFRE/237.m3u8
+#EXTINF:-1 radio="false" group-title="test", TLC HD
+http://178.33.37.66/stream/HD4J36BFRE/168.m3u8
+#EXTINF:-1 radio="false" group-title="test", TLC HD
+http://185.245.187.150:80/TLCHD/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", tnt
+http://178.33.37.66/stream/HD4J36BFRE/97.m3u8
+#EXTINF:-1 radio="false" group-title="test", tnt4
+http://178.33.37.66/stream/HD4J36BFRE/106.m3u8
+#EXTINF:-1 radio="false" group-title="test", TNT4
+
+#EXTINF:-1 radio="false" group-title="test", travel adventure
+http://178.33.37.66/stream/HD4J36BFRE/206.m3u8
+#EXTINF:-1 radio="false" group-title="test", travel bulgaria hd
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", travel channel
+http://178.33.37.66/stream/HD4J36BFRE/231.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV Center
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV CENTER
+http://178.33.37.66/stream/HD4J36BFRE/190.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV Center
+
+#EXTINF:-1 radio="false" group-title="test", TV XXI
+http://178.33.37.66/stream/HD4J36BFRE/152.m3u8
+#EXTINF:-1 radio="false" group-title="test", tv xxi
+
+#EXTINF:-1 radio="false" group-title="test", tv-3
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV-3
+http://178.33.37.66/stream/HD4J36BFRE/136.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV1000
+http://178.33.37.66/stream/HD4J36BFRE/110.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV1000
+http://188.93.95.83/tv1000/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV1000 action
+http://178.33.37.66/stream/HD4J36BFRE/100.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV1000 Russian Cinema
+http://178.33.37.66/stream/HD4J36BFRE/123.m3u8
+#EXTINF:-1 radio="false" group-title="test", TV1000 Russian Cinema
+http://188.93.95.83/tv1000rukino/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", UFC TV
+
+#EXTINF:-1 radio="false" group-title="test", UFC TV
+http://178.33.37.66/stream/HD4J36BFRE/279.m3u8
+#EXTINF:-1 radio="false" group-title="test", UFC TV HD
+
+#EXTINF:-1 radio="false" group-title="test", UHD Movie
+
+#EXTINF:-1 radio="false" group-title="test", uhd tv series
+
+#EXTINF:-1 radio="false" group-title="test", ultra hd cinema
+
+#EXTINF:-1 radio="false" group-title="test", Ultra HD Cinema
+
+#EXTINF:-1 radio="false" group-title="test", Ultra Ultra HD
+http://178.33.37.66/stream/HD4J36BFRE/285.m3u8
+#EXTINF:-1 radio="false" group-title="test", unique
+http://178.33.37.66/stream/HD4J36BFRE/195.m3u8
+#EXTINF:-1 radio="false" group-title="test", Univer TV
+
+#EXTINF:-1 radio="false" group-title="test", VH1 Classic
+http://178.33.37.66/stream/HD4J36BFRE/87.m3u8
+#EXTINF:-1 radio="false" group-title="test", VH1 European
+http://178.33.37.66/stream/HD4J36BFRE/165.m3u8
+#EXTINF:-1 radio="false" group-title="test", VIASAT Explore
+http://178.33.37.66/stream/HD4J36BFRE/239.m3u8
+#EXTINF:-1 radio="false" group-title="test", VIASAT history
+http://178.33.37.66/stream/HD4J36BFRE/101.m3u8
+#EXTINF:-1 radio="false" group-title="test", Viasat Nature
+http://185.245.187.150:80/ViasatNature/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", VIASAT Nature CEE
+http://178.33.37.66/stream/HD4J36BFRE/240.m3u8
+#EXTINF:-1 radio="false" group-title="test", Viasat Nature HD
+http://185.245.187.150:80/ViasatHistory/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Viasat Sport
+http://185.245.187.150:80/ViasatSport/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", VIASAT Sport
+http://178.33.37.66/stream/HD4J36BFRE/102.m3u8
+#EXTINF:-1 radio="false" group-title="test", Viasat Sport HD
+http://178.33.37.66/stream/HD4J36BFRE/333.m3u8
+#EXTINF:-1 radio="false" group-title="test", vip comedy
+http://178.33.37.66/stream/HD4J36BFRE/201.m3u8
+#EXTINF:-1 radio="false" group-title="test", vip comedy hd
+http://195.189.105.158:9050/132/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", vip megahit
+http://178.33.37.66/stream/HD4J36BFRE/200.m3u8
+#EXTINF:-1 radio="false" group-title="test", vip premiere
+http://178.33.37.66/stream/HD4J36BFRE/202.m3u8
+#EXTINF:-1 radio="false" group-title="test", vip premiere hd
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", vip serial number
+http://178.33.37.66/stream/HD4J36BFRE/311.m3u8
+#EXTINF:-1 radio="false" group-title="test", VISITING A FAIRY TALE
+http://178.33.37.66/stream/HD4J36BFRE/93.m3u8
+#EXTINF:-1 radio="false" group-title="test", Weapons
+http://178.33.37.66/stream/HD4J36BFRE/203.m3u8
+#EXTINF:-1 radio="false" group-title="test", Wild
+http://185.245.187.150:80/Dikiy/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Wild Fishing HD
+
+#EXTINF:-1 radio="false" group-title="test", Wild Hunt HD
+
+#EXTINF:-1 radio="false" group-title="test", Win
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="test", win
+http://178.33.37.66/stream/HD4J36BFRE/312.m3u8
+#EXTINF:-1 radio="false" group-title="test", World 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", World Fashion Channel (rus_)
+http://178.33.37.66/stream/HD4J36BFRE/119.m3u8
+#EXTINF:-1 radio="false" group-title="test", WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", World HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="test", Y
+http://178.33.37.66/stream/HD4J36BFRE/230.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://iptvx.one/icn/yu.png" group-title="test", Yu
+
+#EXTINF:-1 radio="false" group-title="test", zee tv
+http://176.115.152.6:4002/play/a00e/index.m3u8
+#EXTINF:-1 radio="false" group-title="test", Zee TV
+http://178.33.37.66/stream/HD4J36BFRE/309.m3u8
+#EXTINF:-1 radio="false" group-title="test", Экстремальные виды спорта
+http://178.33.37.66/stream/HD4J36BFRE/148.m3u8
+#EXTINF:-1 radio="false" group-title="test", девушка Гулли
+http://178.33.37.66/stream/HD4J36BFRE/305.m3u8
+#EXTINF:-1 radio="false" group-title="test", история
+http://178.33.37.66/stream/HD4J36BFRE/113.m3u8
+#EXTINF:-1 radio="false" group-title="test", кино
+http://178.33.37.66/stream/HD4J36BFRE/62.m3u8
+#EXTINF:-1 radio="false" group-title="test", прекрасная жизнь
+http://178.33.37.66/stream/HD4J36BFRE/273.m3u8
+#EXTINF:-1 radio="false" group-title="test", продовольственная сеть
+http://178.33.37.66/stream/HD4J36BFRE/298.m3u8
+#EXTINF:-1 radio="false" group-title="test",24 Техно
+http://178.33.37.66/stream/HD4J36BFRE/209.m3u8
+#EXTINF:-1 radio="false" group-title="test",365 дней тв
+http://178.33.37.66/stream/HD4J36BFRE/70.m3u8
+#EXTINF:-1 radio="false" group-title="test",8 Канал
+http://178.33.37.66/stream/HD4J36BFRE/299.m3u8
+#EXTINF:-1 radio="false" group-title="test",Amedia Hit HD
+http://185.245.187.150:80/AmediaHitHD/index.m3u8
+#EXTINF:-1 radio="false" group-title="Movies",VIP Megahit HD
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:-1 radio="false" group-title="Movies",TV1000 HD
+http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:-1 radio="false" group-title="Movies",TV1000 Action
+http://188.93.95.83/tv1000act/index.m3u8
+#EXTINF:-1 radio="false" group-title="Movies",Evrokino
+http://51.68.141.106:8081/tv/evrokino/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="Movies",Drama HD
+http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="Cinema",Kinsella
+http://188.93.95.83/kinosemya/index.m3u8
+#EXTINF:-1 radio="false" group-title="Cinema",Kinsella HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="Cognitive",Nat Geo Wild
+http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="Cognitive",Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="Cognitive", "Silence" TV WORLD HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="Educational",Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 radio="false" group-title="Educational",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 radio="false" group-title="Educational",#EXTINF:-1 group-title="Educational"Kitchen TV
+http://91.206.19.123:4022/udp/225.0.55.15:1234
+#EXTINF:-1 radio="false" group-title="RUS",Russia 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 radio="false" group-title="RUS",Mosobl TV HD
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 radio="false" group-title="RUS",Mosobl TV HD
+http://1hdru-hls-otcnet.cdnvideo.ru/mosobrtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 radio="false" group-title="RUS",TNT
+
+#EXTINF:-1 radio="false" group-title="RUS",TNT HD
+http://188.35.9.11:2018
+#EXTINF:-1 radio="false" group-title="RUS",NTV
+
+#EXTINF:-1 radio="false" group-title="RUS",STS
+
+#EXTINF:-1 radio="false" group-title="RUS",Rain
+http://109.111.191.108/239.211.211.70/stream.m3u8
+#EXTINF:-1 radio="false" group-title="RU",360°
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="http://epg.it999.ru/img/323.png" group-title="RU",2x2
+
+#EXTINF:-1 radio="false" group-title="Sport",the Match! Football 1
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 radio="false" group-title="Sport",the Match! fighter
+http://109.111.191.108/239.211.211.44/stream.m3u8
+#EXTINF:-1 radio="false" group-title="Sport",the Match! arena
+http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="Sport",the Match! A country
+http://109.111.191.108/239.211.211.63/stream.m3u8
+#EXTINF:-1 radio="false" group-title="Sport",the Match! Planet
+http://51.68.141.106:8081/tv/match-planeta/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="Sports",Sports"CHL HD
+http://212.232.45.244:4022/udp/239.2.100.27:4321
+#EXTINF:-1 radio="false" group-title="Music",Country, FM, HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
