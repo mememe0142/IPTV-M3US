@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+﻿#EXTM3U
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="OFC" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="1" group-title="** Mecari **",Our Mecari Shop.
 https://www.dropbox.com/s/xstjzc3u2uiamqq/ofc-mecari.mp4?dl=1
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="OFCTVBoxs" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="2" group-title="*** Our New TV Box's **",Our New TV Box's - Now On Sale At $199  - Watch For Demo
@@ -22521,3 +22521,13 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 #EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="11261" group-title="[adult swim]",Relaxing Fish
 https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Undefined",BBC ONE HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1279?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Undefined",BBC TWO HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1278?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Undefined",CBBC HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1268?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Undefined",BBC AME HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Undefined",BBC America (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53809?checkedby:hlscat.com
