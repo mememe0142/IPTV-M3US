@@ -16493,6 +16493,26 @@ https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 channel-id="8247" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" tvg-chno="158" group-title="Movies Plus",Xumo Free Westerns
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_roku_lat=1&platform=web&content=6b71b3f003f15cd99996f63578a7f0e2&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=ROKU_BIZ_MODEL&tags=ROKU_CONTENT_TAGS&studio_id=xumo&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
+#EXTINF:0 channel-id="11468" radio="false" tvg-chno="1" tvg-country="GB" group-title="MSNBC",BBC ONE HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1279?checkedby:hlscat.com
+#EXTINF:0 channel-id="11469" radio="false" tvg-chno="2" tvg-country="GB" group-title="MSNBC",BBC TWO HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1278?checkedby:hlscat.com
+#EXTINF:0 channel-id="11470" radio="false" tvg-chno="3" tvg-country="GB" group-title="MSNBC",CBBC HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1268?checkedby:hlscat.com
+#EXTINF:0 channel-id="11471" radio="false" tvg-chno="4" tvg-country="US" group-title="MSNBC",BBC AME HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679?checkedby:hlscat.com
+#EXTINF:0 channel-id="11472" radio="false" tvg-chno="5" tvg-country="US" group-title="MSNBC",BBC America (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53809?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="MSNBC",MSNBC
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81129?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="MSNBC",MSNBC
+http://rv.therevenge.co:80/565656/565656/81129?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="MSNBC",MSNBC
+http://rv.therevenge.co:80/live/242424/242424/81129.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="MSNBC",MSNBC HD 1080P
+http://51.222.82.89:22829/1212/1212/323319?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="MSNBC",MSNBC HD ENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596?checkedby:hlscat.com
 #EXTINF:-1 channel-id="8248" radio="false" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-chno="1" group-title="Music Video & TV",30A Music
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 channel-id="8249" radio="false" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-chno="2" group-title="Music Video & TV",30A Music
@@ -22933,13 +22953,3 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 #EXTINF:-1 channel-id="11467" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19" group-title="[adult swim]",Relaxing Fish
 https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
-#EXTINF:0 channel-id="11468" radio="false" tvg-chno="1" tvg-country="GB" group-title="Undefined",BBC ONE HD
-http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1279?checkedby:hlscat.com
-#EXTINF:0 channel-id="11469" radio="false" tvg-chno="2" tvg-country="GB" group-title="Undefined",BBC TWO HD
-http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1278?checkedby:hlscat.com
-#EXTINF:0 channel-id="11470" radio="false" tvg-chno="3" tvg-country="GB" group-title="Undefined",CBBC HD
-http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1268?checkedby:hlscat.com
-#EXTINF:0 channel-id="11471" radio="false" tvg-chno="4" tvg-country="US" group-title="Undefined",BBC AME HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679?checkedby:hlscat.com
-#EXTINF:0 channel-id="11472" radio="false" tvg-chno="5" tvg-country="US" group-title="Undefined",BBC America (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/53809?checkedby:hlscat.com
