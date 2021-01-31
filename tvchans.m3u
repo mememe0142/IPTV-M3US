@@ -3,14 +3,6 @@
 https://www.dropbox.com/s/xstjzc3u2uiamqq/ofc-mecari.mp4?dl=1
 #EXTINF:-1 channel-id="2" radio="false" tvg-id="OFCTVBoxs" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="1" group-title="*** Our New TV Box's **",Our New TV Box's - Now On Sale At $149  - Watch For Demo
 https://www.dropbox.com/s/2e0dom2ivj5fsmr/Previewofcbox-1.mp4?dl=1
-#EXTINF:-1 radio="false" tvg-logo="https://www.stream4free.live//images/avatars/southpark.jpg" group-title="24x7 TV Shows",Southpark
-https://sv2.data-stream.top/b58d3e73edcd412221ce0f634ae19f62dc3e7941d052740fd7b4115b716ba41e/hls/spark.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://www.stream4free.live//images/avatars/simpsons.jpg" group-title="24x7 TV Shows",The Simpsons
-https://sv2.data-stream.top/b58d3e73edcd412221ce0f634ae19f62dc3e7941d052740fd7b4115b716ba41e/hls/simpsons.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://www.stream4free.live//images/avatars/family.jpg" group-title="24x7 TV Shows",Family Guy
-https://sv7.data-stream.top/b58d3e73edcd412221ce0f634ae19f62dc3e7941d052740fd7b4115b716ba41e/hls/familyguy.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://www.stream4free.live//images/avatars/game-of-thrones-logo.png" group-title="24x7 TV Shows",Game Of Thrones
-https://sv2.data-stream.top/b58d3e73edcd412221ce0f634ae19f62dc3e7941d052740fd7b4115b716ba41e/hls/gamehd.m3u8
 #EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-chno="1" group-title="3ABN",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8
 #EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://i.imgur.com/zI6jr9L.png" tvg-chno="2" group-title="3ABN",3ABN Dare to Dream
