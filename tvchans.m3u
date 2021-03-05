@@ -1,25 +1,27 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
 #EXTINF:-1 channel-id="1" radio="false" tvg-id="OFC" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="1" group-title="** Mecari **",Our Mecari Shop.
 https://www.dropbox.com/s/xstjzc3u2uiamqq/ofc-mecari.mp4?dl=1
-#EXTINF:-1 radio="false" tvg-logo="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/02/06210437/Coming-2-America-Eddie-Murphy.jpg" group-title="** VOD **",Coming 2 America
+#EXTINF:-1 radio="false" tvg-logo="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/02/06210437/Coming-2-America-Eddie-Murphy.jpg" group-title="** VOD **",Coming 2 America (2021)
 https://861138008.tapecontent.net/radosgw/GJ4v4PmpbYH1r4M/nBmL7hfGDYoqXzz283F4swegpH9SpeM5y2yR7uw3UbENfMXQKUa6hYi7WzOzDoCCUc9C8F_wqGI6Wf-EXyYMVzwCSIg99FSpP5yK2UWlJUuUPNXAtIfTgOeQFxlBakmjlQ-iVnq4l6x0IhAbxle5nYXx32nL4LpydFE_P7Rj0BCq5wXsmFF-lWGsLdlwd8BnhMgRi7LGULHZOL7k3UXTqh6LDvXzue8BETkxn91aWuwO7qSwVNTGOiH0QPSrJXiG0UwA96M8ED5-ImHeyFM3McHb_tLtSsSy1yUadGTtzdvSyfQ_LRAluNQSNmqapC_wsy02rlkQoeLiVDka/Coming.2.America.2021.HDRip.XviD.AC3-EVO.mp4
+#EXTINF:-1 radio="false" tvg-logo="https://flxt.tmsimg.com/assets/p10915_p_v13_am.jpg" group-title="** VOD **",Coming to America (1988)
+https://908359881.tapecontent.net/radosgw/VxM0DWa9AKhKAPk/zWo5H2NcfzR5rpd6SZiTOKNEy_CuR6VZ8PBtH-XvurIDzimjraRJc5iFwXRSWcijX9P0MI1AC69-2oV4IgBq-LiyO9bFq1Loan-byoXMNSIH7LU99PqQDwwpGWS9aCuhKWQT31mJa8ZkhNPdyyoowv9livM16vUXgAZaepY3U9cLSxidNicMfTegPSWDxtgtTGTfmeQAYnYqa2JDYWaZTU2i8jVqoYHijG-FsML96gDmN_-NKRa7_MFPLdXFmkSlq33Y8mn3-R885F73mfveA0zgyeaypURMKR2GYIbNa9UHal-hqFbfsDs91ZSusM7qMEFyKdMrOnJ4QEG-8jiHvLseU2dRfFhx2_wI0Q/tt0094898.Coming.To.America.1988.1080p.BluRay.H264.AAC-RARBG.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://www.comingsoon.net/assets/uploads/gallery/monster-hunter-2020/monster-hunter-blu-ray.jpg" group-title="** VOD **",Monster Hunter (2020)
 https://s05.eplayvid.com/vids/monster.hunter.2020.1080p.bluray.x264.aac5.1-_yts.mx___602edeb2006cc.mp4
-#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="** VOD **",Outside The Wire 2021
+#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="** VOD **",Outside The Wire (2021)
 https://s04.eplayvid.com/vids/outside.the.wire.2021.1080p.web.h264-strontium___6002d54150abc.mp4
-#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThjNDhkNWQtYzIyZC00MDcxLWFlYjctODhhMmM4YzdiZmI3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="** VOD **",Promising Young Woman 2020
+#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThjNDhkNWQtYzIyZC00MDcxLWFlYjctODhhMmM4YzdiZmI3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="** VOD **",Promising Young Woman (2020)
 https://s02.eplayvid.com/vids/promising.young.woman.2020.720p.webscr.x264.ac3-evo___5fef3ff986127.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="** VOD **",Raya And The Last Dragon (2021)
 https://858141720.tapecontent.net/radosgw/wro6bg2DwdiJOjY/3niJGsu4uyzEN7H7vycR0EgOB4aXHzFJOgsjC64BWxWC0rPxgHsDeJr9k4_ZSYSEBMmV9JLZ7p_x9JXSNW0_ByVxwwVX3Im5nPKOC6tH2JshJGZY_2qt1GYioPzLWcb3-RV8CRbW3-7Xy3LXFsXE85aEJlTO8EzkSxuqNG8Z-Tf0sQchnl9vvLraZ5RCXspim4RjYm1YOd_wy7cr-BNOETKAe5T4jAuyRCjv5OUWP4UIJFt9kD70KGls6A838JJFV6t2r-D_8bFqTzQ3iYm5dmNR6D8PozIlebkdt88J9ntBzxClDGS-MdPRwW3a9HBlTKMCGRSb_DipFaqKBwNkruTEVUf2uTbhXmz0Tg/Raya.and.the.Last.Dragon.2021.HDRip.XviD.AC3-EVO.mp4
-#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNiNGQyMzUtN2VmMi00NDI2LWI3NGUtMTEwZGQxYzFjZTNjXkEyXkFqcGdeQXVyMTEyNDk3MjY3._V1_.jpg" group-title="** VOD **",Shadow In The Cloud 2020
+#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNiNGQyMzUtN2VmMi00NDI2LWI3NGUtMTEwZGQxYzFjZTNjXkEyXkFqcGdeQXVyMTEyNDk3MjY3._V1_.jpg" group-title="** VOD **",Shadow In The Cloud (2020)
 https://s02.eplayvid.com/vids/shadow.in.the.cloud.2020.1080p.web-dl.dd5.1.h.264-evo___5fef713127350.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://i1.wp.com/keeping-it-reel.com/wp-content/uploads/2020/12/souldecember.jpg" group-title="** VOD **",Soul (2020)
 https://s02.eplayvid.com/vids/soul.2020.hdrip.xvid.ac3-evo___5fe60579c4250.mp4
-#EXTINF:-1 radio="false" tvg-logo="https://media2.firstshowing.net/firstshowing/img12/tomandjerryPretzelpostermainb5992.jpg" group-title="** VOD **",Tom And Jerry 2021
+#EXTINF:-1 radio="false" tvg-logo="https://media2.firstshowing.net/firstshowing/img12/tomandjerryPretzelpostermainb5992.jpg" group-title="** VOD **",Tom And Jerry (2021)
 https://s08.eplayvid.com/vids/tom.and.jerry.2021.1080p.webrip.x264.aac5.1-_yts.mx___6039d681f05ed.mp4
 #EXTINF:-1 radio="false" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2020/11/Wonder-Woman-1984-poster.jpg" group-title="** VOD **",Wonder Woman 1984 (2020)
 https://s03.eplayvid.com/vids/wonder.woman.1984.2020.1080p.webrip.x264.aac5.1-_yts.mx___5fe717b1701f2.mp4
-#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5ZWE2MTMtODE3ZC00NWQ4LWJkNzctNGY4Njg5NDY5MzNlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg" group-title="** VOD **",Wrong Turn 2021
+#EXTINF:-1 radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5ZWE2MTMtODE3ZC00NWQ4LWJkNzctNGY4Njg5NDY5MzNlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg" group-title="** VOD **",Wrong Turn (2021)
 https://s08.eplayvid.com/vids/wrong.turn.2021.1080p.bluray.h264.aac-rarbg___602aa8911a254.mp4
 #EXTINF:-1 channel-id="2" radio="false" tvg-id="OFCTVBoxs" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/icon.png" tvg-chno="1" group-title="*** Our New TV Box's **",Our New TV Box's - Now On Sale At $149  - Watch For Demo
 https://www.dropbox.com/s/2e0dom2ivj5fsmr/Previewofcbox-1.mp4?dl=1
