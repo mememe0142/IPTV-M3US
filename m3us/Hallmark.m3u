@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0,ofcmovies - Starting Soon
+https://github.com/bitsbb01/IPTV-M3US/raw/master/ofcvideos.mp4
+
+#EXTINF:0,Starting
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
