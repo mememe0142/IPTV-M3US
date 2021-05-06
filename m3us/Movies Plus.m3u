@@ -1,10 +1,10 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
 #EXTINF:-1 channel-id="2456" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/gHBvHes.jpg" tvg-chno="1" group-title="Movies Plus",& Flix HD
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/FlixHD.m3u
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="2457" radio="false" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" tvg-chno="2" group-title="Movies Plus",& Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 channel-id="2458" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/UkcgDgO.jpg" tvg-chno="3" group-title="Movies Plus",&Flix
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/FlixHD.m3u
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="2459" radio="false" tvg-logo="https://i.imgur.com/bPQkvtO.jpg" tvg-chno="4" group-title="Movies Plus",24 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 channel-id="2462" radio="false" tvg-logo="https://img.iptvmate.net/47c143519667bf66d33f8610f81570e2.jpg" tvg-chno="7" tvg-country="US" group-title="Movies Plus",24/7 Retro TV
@@ -178,7 +178,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 channel-id="2544" radio="false" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_GoingToWar.jpg" tvg-chno="89" group-title="Movies Plus",Going To War
 https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="Hallmark" tvg-logo="http://allvectorlogo.com/img/2016/07/hallmark-channel-logo.png" group-title="Movies Plus",Hallmark
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/Hallmark.m3u
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 channel-id="2545" radio="false" tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" tvg-chno="90" group-title="Movies Plus",Hallmark Movies & More | HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 channel-id="2546" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://i.imgur.com/dfaJpw4.png" tvg-chno="91" group-title="Movies Plus",Hallmark Movies & Mysteries (Geo)
