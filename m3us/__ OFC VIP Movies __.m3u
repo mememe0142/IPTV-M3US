@@ -1,0 +1,9 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 radio="false" tvg-logo="https://www.rockinrudys.com/wp-content/uploads/2020/10/coming-soon.jpg" group-title="** OFC VIP Movies **",Coming Soon To OFC VIP Movies
+https://github.com/bitsbb01/IPTV-M3US/raw/master/ofcvideos.mp4
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg" tvg-chno="1" group-title="** OFC VIP Movies **",Mortal Kombat 2021
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/MortalKombat2021.m3u
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5ZWE2MTMtODE3ZC00NWQ4LWJkNzctNGY4Njg5NDY5MzNlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg" tvg-chno="2" group-title="** OFC VIP Movies **",Wrong Turn (2021)
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/wrongturn21.m3u
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://thedirect.s3.amazonaws.com/media/article_full/zackjl.jpg" tvg-chno="3" group-title="** OFC VIP Movies **",Zack Snyder's Justice League (2021)
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/zsjusticel2021.m3u

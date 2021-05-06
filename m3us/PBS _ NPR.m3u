@@ -1,0 +1,29 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="3370" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" tvg-chno="1" group-title="PBS | NPR",PBS | WPSU TV | HD
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
+#EXTINF:-1 channel-id="3371" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" tvg-chno="2" group-title="PBS | NPR",PBS | Maryland Public TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 channel-id="3372" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" tvg-chno="3" group-title="PBS | NPR",PBS | KET TV HD
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+#EXTINF:-1 channel-id="3373" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" tvg-chno="4" group-title="PBS | NPR",PBS Kids | KET TV HD
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 channel-id="3374" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" tvg-chno="5" group-title="PBS | NPR",PBS Kids (Geo-USA) East HD
+https://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:-1 channel-id="3375" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" tvg-chno="6" group-title="PBS | NPR",PBS Kids (Geo-USA) Hawaii HD
+https://live-cdn.pbskids.org/out/u/hast.m3u8
+#EXTINF:-1 channel-id="3376" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" tvg-chno="7" group-title="PBS | NPR",PBS | World Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 channel-id="3377" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" tvg-chno="8" group-title="PBS | NPR",** NPR Radio Networks **
+https://od.lk/s/MF8yMjI5MDcxMDNf/NPR_Wallpaper_1280x720.mp4
+#EXTINF:-1 channel-id="3378" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" tvg-chno="9" group-title="PBS | NPR",WPSU FM 91.5 News & Classical
+https://wpsu-ice.streamguys1.com/wpsu1
+#EXTINF:-1 channel-id="3379" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" tvg-chno="10" group-title="PBS | NPR",WPSU Radio 2 Public Radio Mix
+https://wpsu-ice.streamguys1.com/wpsu2
+#EXTINF:-1 channel-id="3380" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" tvg-chno="11" group-title="PBS | NPR",WPSU Radio 3 Jazzworks
+https://wpsu-ice.streamguys1.com/wpsu3
+#EXTINF:-1 channel-id="3381" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" tvg-chno="12" group-title="PBS | NPR",NPR | WCPN 90.3 Radio
+https://ideastream.streamguys1.com/wcpn.mp3
+#EXTINF:-1 channel-id="3382" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" tvg-chno="13" group-title="PBS | NPR",WCLV CLassical 104.9 Radio
+https://ideastream.streamguys1.com/wclv.mp3
+#EXTINF:-1 channel-id="3383" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" tvg-chno="14" group-title="PBS | NPR",NPR | NPR Hourly Newscast
+http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3

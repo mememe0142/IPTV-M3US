@@ -1,0 +1,27 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="1577" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" tvg-chno="1" group-title="Cinedigm Digital Networks",Bambu
+https://bambu-junctionus.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-junction/CDN/playlist.m3u8?webstream
+#EXTINF:-1 channel-id="1578" radio="false" tvg-logo="https://od.lk/s/MF8yMjU5ODE5MzNf/BloodyDisgustingTV_900x900.png" tvg-chno="2" group-title="Cinedigm Digital Networks",Bloody Disgusting TV
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1 channel-id="1579" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" tvg-chno="3" group-title="Cinedigm Digital Networks",Bob Ross
+https://cinedigm-bobross-1.plex.wurl.com/master.m3u8
+#EXTINF:-1 channel-id="1580" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ComedyDynamics_640x640.png?raw=true" tvg-chno="4" group-title="Cinedigm Digital Networks",Comedy Dynamics
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 channel-id="1581" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTVAnime_302x302.png?raw=true" tvg-chno="5" group-title="Cinedigm Digital Networks",CONtv Anime
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?webstream
+#EXTINF:-1 channel-id="1582" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTV_NEW_640x640.png?raw=true" tvg-chno="6" group-title="Cinedigm Digital Networks",CONtv Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8?webstream
+#EXTINF:-1 channel-id="1583" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Docurama_670x670.png" tvg-chno="7" group-title="Cinedigm Digital Networks",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8?webstream
+#EXTINF:-1 channel-id="1584" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" tvg-chno="8" group-title="Cinedigm Digital Networks",Dove Channel
+https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="1585" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" tvg-chno="9" group-title="Cinedigm Digital Networks",Lone Star
+https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?Cinedigm
+#EXTINF:-1 channel-id="1586" radio="false" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" tvg-chno="10" group-title="Cinedigm Digital Networks",My Time Movies
+https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 channel-id="1587" radio="false" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" tvg-chno="11" group-title="Cinedigm Digital Networks",So... Real
+https://cinedigm-so-real-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="1588" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" tvg-chno="12" group-title="Cinedigm Digital Networks",The Film Detective
+https://filmdetective-stirr.amagi.tv/index.m3u8
+#EXTINF:-1 channel-id="1589" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" tvg-chno="13" group-title="Cinedigm Digital Networks",Whistle TV
+https://whistle-1.plex.wurl.com/manifest/playlist.m3u8

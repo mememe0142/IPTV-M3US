@@ -1,0 +1,25 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="14485" radio="false" tvg-logo="https://i.imgur.com/VF1r0Yf.png" tvg-chno="1" group-title="TV25",TV25.1 Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8?TV25
+#EXTINF:-1 channel-id="14486" radio="false" tvg-logo="https://i.imgur.com/qHMnuZR.png" tvg-chno="2" group-title="TV25",TV25.2 NewsNet
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8?TV25
+#EXTINF:-1 channel-id="14487" radio="false" tvg-logo="https://i.imgur.com/UIBChFQ.png" tvg-chno="3" group-title="TV25",TV25.3 Antenna TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 channel-id="14488" radio="false" tvg-logo="https://i.imgur.com/ToAJpkl.png" tvg-chno="4" group-title="TV25",TV25.4 Action
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 channel-id="14489" radio="false" tvg-logo="https://i.imgur.com/WjGRh21.png" tvg-chno="5" group-title="TV25",TV25.5 NewsMax TV
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:-1 channel-id="14490" radio="false" tvg-logo="https://i.imgur.com/llwNzuE.png" tvg-chno="6" group-title="TV25",TV25.6 WeatherNation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 channel-id="14491" radio="false" tvg-logo="https://i.imgur.com/d9bONa8.png" tvg-chno="7" group-title="TV25",TV25.7 Rev'n
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1 channel-id="14492" radio="false" tvg-logo="https://i.imgur.com/J3Wh6qf.png" tvg-chno="8" group-title="TV25",TV25.8 Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 channel-id="14493" radio="false" tvg-logo="https://i.imgur.com/2drg89O.png" tvg-chno="9" group-title="TV25",TV25.9 Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 channel-id="14494" radio="false" tvg-logo="https://i.imgur.com/UJXfOZM.png" tvg-chno="10" group-title="TV25",TV25.10 Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+#EXTINF:-1 channel-id="14495" radio="false" tvg-logo="https://i.imgur.com/diT3Q4q.png" tvg-chno="11" group-title="TV25",TV25.11 This TV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 channel-id="14496" radio="false" tvg-logo="https://i.imgur.com/ijCIxFf.png" tvg-chno="12" group-title="TV25",TV25.12 Jewelry TV
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8

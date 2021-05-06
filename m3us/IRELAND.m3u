@@ -1,0 +1,29 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2341" radio="false" tvg-logo="http://i.imgur.com/skxsriT.png" tvg-chno="1" group-title="IRELAND",Kinsale
+http://62.77.164.197:80/mjpg/video.mjpg
+#EXTINF:-1 channel-id="2342" radio="false" tvg-logo="https://static-media.streema.com/media/cache/b9/f3/b9f36007998830ad09ccfbb2287d551e.jpg" tvg-chno="2" group-title="IRELAND",Midwest Irish Radio
+http://tx.sharp-stream.com/http_live.php?i=mwir.mp3
+#EXTINF:-1 channel-id="2343" radio="false" tvg-logo="https://i.imgur.com/RYm3X3W.png" tvg-chno="3" group-title="IRELAND",RTÉ 1
+http://185.142.29.240:9981/stream/channelid/439248771
+#EXTINF:-1 channel-id="2344" radio="false" tvg-logo="https://i.imgur.com/RYm3X3W.png" tvg-chno="4" group-title="IRELAND",RTÉ 1 (+1)
+http://185.142.29.240:9981/stream/channelid/551870964
+#EXTINF:-1 channel-id="2345" radio="false" tvg-logo="https://i.imgur.com/6hZtoqq.png" tvg-chno="5" group-title="IRELAND",RTÉ 2
+http://185.142.29.240:9981/stream/channelid/1021620325
+#EXTINF:-1 channel-id="2346" radio="false" tvg-logo="https://i.imgur.com/6hZtoqq.png" tvg-chno="6" group-title="IRELAND",RTÉ 2 (+1)
+http://185.142.29.240:9981/stream/channelid/1073142753
+#EXTINF:-1 channel-id="2347" radio="false" tvg-logo="https://i.imgur.com/TB3jwQO.png" tvg-chno="7" group-title="IRELAND",RTÉ Jr. (Opt-1)
+https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:-1 channel-id="2348" radio="false" tvg-logo="https://i.imgur.com/TB3jwQO.png" tvg-chno="8" group-title="IRELAND",RTÉ Jr. (Opt-2)
+http://185.142.29.240:9981/stream/channelid/1752912640
+#EXTINF:-1 channel-id="2349" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" tvg-chno="9" group-title="IRELAND",RTÉ News Now (Opt-1)
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 channel-id="2350" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" tvg-chno="10" group-title="IRELAND",RTÉ News Now (Opt-2)
+http://185.142.29.240:9981/stream/channelid/1288479484
+#EXTINF:-1 channel-id="2351" radio="false" tvg-logo="https://i.imgur.com/SMvAjyK.png" tvg-chno="11" group-title="IRELAND",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 channel-id="2352" radio="false" tvg-logo="https://i.imgur.com/Am3E90P.png" tvg-chno="12" group-title="IRELAND",Virgin Media 1
+http://185.142.29.240:9981/stream/channelid/1441750165
+#EXTINF:-1 channel-id="2353" radio="false" tvg-logo="https://i.imgur.com/a1RIARk.png" tvg-chno="13" group-title="IRELAND",Virgin Media 2
+http://185.142.29.240:9981/stream/channelid/54953321
+#EXTINF:-1 channel-id="2354" radio="false" tvg-logo="https://i.imgur.com/GCtaCdG.png" tvg-chno="14" group-title="IRELAND",Virgin Media 3
+http://185.142.29.240:9981/stream/channelid/1639782501

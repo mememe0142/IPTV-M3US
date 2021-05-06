@@ -1,0 +1,31 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="1" group-title="24/7 OLYMPICS",Olympic Channel 1 (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="2" group-title="24/7 OLYMPICS",Olympic Channel 1 (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="3" group-title="24/7 OLYMPICS",Olympic Channel 1 (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="4" group-title="24/7 OLYMPICS",Olympic Channel 2 (SD)
+https://ott-live.olympicchannel.com/out/u/OC2_3.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="5" group-title="24/7 OLYMPICS",Olympic Channel 2 (HD)
+https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="6" group-title="24/7 OLYMPICS",Olympic Channel 2 (UHD)
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 channel-id="21" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="7" group-title="24/7 OLYMPICS",Olympic Channel 3 (SD)
+https://ott-live.olympicchannel.com/out/u/OC3_3.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="8" group-title="24/7 OLYMPICS",Olympic Channel 3 (HD)
+https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="9" group-title="24/7 OLYMPICS",Olympic Channel 3 (UHD)
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 channel-id="24" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="10" group-title="24/7 OLYMPICS",Olympic Channel 4 (SD)
+https://ott-live.olympicchannel.com/out/u/OC4_3.m3u8
+#EXTINF:-1 channel-id="25" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="11" group-title="24/7 OLYMPICS",Olympic Channel 4 (HD)
+https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
+#EXTINF:-1 channel-id="26" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="12" group-title="24/7 OLYMPICS",Olympic Channel 4 (UHD)
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="13" group-title="24/7 OLYMPICS",Olympic Channel 5 (SD)
+https://ott-live.olympicchannel.com/out/u/OC5_3.m3u8
+#EXTINF:-1 channel-id="28" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="14" group-title="24/7 OLYMPICS",Olympic Channel 5 (HD)
+https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
+#EXTINF:-1 channel-id="29" radio="false" tvg-logo="https://i.imgur.com/5sIgTki.png" tvg-chno="15" group-title="24/7 OLYMPICS",Olympic Channel 5 (UHD)
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8

@@ -1,0 +1,145 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="17881" radio="false" tvg-logo="https://i.imgur.com/wk8i4N3.png" tvg-chno="1" group-title="USA PUBLIC",Access 19 Montgomery
+http://reflect-ch19-mcmedia.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1 channel-id="17882" radio="false" tvg-logo="https://i.imgur.com/8jjHm3a.png" tvg-chno="2" group-title="USA PUBLIC",Akaku 53 Hawaii
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 channel-id="17883" radio="false" tvg-logo="https://i.imgur.com/8jjHm3a.png" tvg-chno="3" group-title="USA PUBLIC",Akaku 54 Hawaii
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 channel-id="17884" radio="false" tvg-logo="https://i.imgur.com/8jjHm3a.png" tvg-chno="4" group-title="USA PUBLIC",Akaku 55 Hawaii
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 channel-id="17885" radio="false" tvg-logo="https://i.imgur.com/CA7c5W2.png" tvg-chno="5" group-title="USA PUBLIC",Anne Arundel TV
+http://reflect-live-aac.cablecast.tv/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 channel-id="17886" radio="false" tvg-logo="https://i.imgur.com/ESQ1Fwz.png" tvg-chno="6" group-title="USA PUBLIC",Arizona Capitol TV
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+#EXTINF:-1 channel-id="17887" radio="false" tvg-logo="https://i.imgur.com/LqGSdNg.png" tvg-chno="7" group-title="USA PUBLIC",Beach TV CSULB
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 channel-id="17888" radio="false" tvg-logo="https://i.imgur.com/4I9GGpt.png" tvg-chno="8" group-title="USA PUBLIC",Benicia TV
+https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
+#EXTINF:-1 channel-id="17889" radio="false" tvg-logo="https://i.imgur.com/RnOS2Ct.png" tvg-chno="9" group-title="USA PUBLIC",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 channel-id="17890" radio="false" tvg-logo="https://i.imgur.com/iAWNBq2.png" tvg-chno="10" group-title="USA PUBLIC",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 channel-id="17891" radio="false" tvg-logo="https://i.imgur.com/Uhi2iae.png" tvg-chno="11" group-title="USA PUBLIC",BUTV10 BU
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 channel-id="17892" radio="false" tvg-logo="https://i.imgur.com/8w3N2k3.png" tvg-chno="12" group-title="USA PUBLIC",Capital City Connection Montgomery
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17893" radio="false" tvg-logo="https://i.imgur.com/gs8x5ES.png" tvg-chno="13" group-title="USA PUBLIC",CC-TV Charlotte County
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 channel-id="17894" radio="false" tvg-logo="https://i.imgur.com/DJG1KGR.png" tvg-chno="14" group-title="USA PUBLIC",CCX Media Minnesota
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17895" radio="false" tvg-logo="https://i.imgur.com/ht6KgDW.png" tvg-chno="15" group-title="USA PUBLIC",Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17896" radio="false" tvg-logo="https://i.imgur.com/1p2WF6I.png" tvg-chno="16" group-title="USA PUBLIC",CGTV Champaign
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 channel-id="17897" radio="false" tvg-logo="https://i.imgur.com/WrBz2L6.png" tvg-chno="17" group-title="USA PUBLIC",Chandler Channel
+https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
+#EXTINF:-1 channel-id="17898" radio="false" tvg-logo="https://i.imgur.com/UxEzPeX.png" tvg-chno="18" group-title="USA PUBLIC",Connecticut Network
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:-1 channel-id="17899" radio="false" tvg-logo="https://i.imgur.com/UxEzPeX.png" tvg-chno="19" group-title="USA PUBLIC",Connecticut Network (Court Feed)
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:-1 channel-id="17900" radio="false" tvg-logo="https://i.imgur.com/UxEzPeX.png" tvg-chno="20" group-title="USA PUBLIC",Connecticut Network (Instant)
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
+#EXTINF:-1 channel-id="17901" radio="false" tvg-logo="https://i.imgur.com/UxEzPeX.png" tvg-chno="21" group-title="USA PUBLIC",Connecticut Network (Live Stream 1)
+http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
+#EXTINF:-1 channel-id="17902" radio="false" tvg-logo="https://i.imgur.com/UxEzPeX.png" tvg-chno="22" group-title="USA PUBLIC",Connecticut Network (Live Stream 2)
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:-1 channel-id="17903" radio="false" tvg-logo="https://i.imgur.com/pY66Xjp.png" tvg-chno="23" group-title="USA PUBLIC",DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 channel-id="17904" radio="false" tvg-logo="https://i.imgur.com/lRNAnGS.png" tvg-chno="24" group-title="USA PUBLIC",Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 channel-id="17905" radio="false" tvg-logo="https://i.imgur.com/BYr3TId.png" tvg-chno="25" group-title="USA PUBLIC",Denver Open Media 56
+https://dkp8rf3nn2n8j.cloudfront.net/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1 channel-id="17906" radio="false" tvg-logo="https://i.imgur.com/tWxvYhp.png" tvg-chno="26" group-title="USA PUBLIC",Denver Open Media 57
+https://d2amg57no8tp11.cloudfront.net/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1 channel-id="17907" radio="false" tvg-logo="https://i.imgur.com/ck6VVWT.png" tvg-chno="27" group-title="USA PUBLIC",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 channel-id="17908" radio="false" tvg-logo="https://i.imgur.com/UnbstRH.png" tvg-chno="28" group-title="USA PUBLIC",Escambia TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+#EXTINF:-1 channel-id="17909" radio="false" tvg-logo="https://i.imgur.com/pWsmV4z.png" tvg-chno="29" group-title="USA PUBLIC",Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17910" radio="false" tvg-logo="https://i.imgur.com/KiFsDBi.png" tvg-chno="30" group-title="USA PUBLIC",Galveston County TV
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+#EXTINF:-1 channel-id="17911" radio="false" tvg-logo="https://i.imgur.com/xkiZlyd.png" tvg-chno="31" group-title="USA PUBLIC",Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 channel-id="17912" radio="false" tvg-logo="https://i.imgur.com/wHb9BLd.png" tvg-chno="32" group-title="USA PUBLIC",Greensboro TV
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 channel-id="17913" radio="false" tvg-logo="https://i.imgur.com/rfTBd6H.png" tvg-chno="33" group-title="USA PUBLIC",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1 channel-id="17914" radio="false" tvg-logo="https://i.imgur.com/FXOQfqa.png" tvg-chno="34" group-title="USA PUBLIC",KBVR TV OSU
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 channel-id="17915" radio="false" tvg-logo="https://i.imgur.com/GJlPDSa.png" tvg-chno="35" group-title="USA PUBLIC",LA36
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17916" radio="false" tvg-logo="https://i.imgur.com/REqqKQ9.png" tvg-chno="36" group-title="USA PUBLIC",Lake Havasu City 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:-1 channel-id="17917" radio="false" tvg-logo="https://i.imgur.com/LzaXjsz.png" tvg-chno="37" group-title="USA PUBLIC",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17918" radio="false" tvg-logo="https://i.imgur.com/LzaXjsz.png" tvg-chno="38" group-title="USA PUBLIC",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17919" radio="false" tvg-logo="https://i.imgur.com/LzaXjsz.png" tvg-chno="39" group-title="USA PUBLIC",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17920" radio="false" tvg-logo="https://i.imgur.com/N2sVD8V.png" tvg-chno="40" group-title="USA PUBLIC",Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17921" radio="false" tvg-logo="https://i.imgur.com/9PywJCs.png" tvg-chno="41" group-title="USA PUBLIC",Lindenwood University TV
+https://lindenwood-lh.akamaihd.net/i/lindenwood_1@728008/master.m3u8
+#EXTINF:-1 channel-id="17922" radio="false" tvg-logo="https://i.imgur.com/F95hUZ4.png" tvg-chno="42" group-title="USA PUBLIC",LNKTV City
+http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17923" radio="false" tvg-logo="https://i.imgur.com/ZjUslsT.png" tvg-chno="43" group-title="USA PUBLIC",LNKTV Education
+http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17924" radio="false" tvg-logo="https://i.imgur.com/jOhhLQQ.png" tvg-chno="44" group-title="USA PUBLIC",LNKTV Health
+http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17925" radio="false" tvg-logo="https://i.imgur.com/FBr6UAw.png" tvg-chno="45" group-title="USA PUBLIC",Local Now
+https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
+#EXTINF:-1 channel-id="17926" radio="false" tvg-logo="https://i.imgur.com/6C9dWLK.png" tvg-chno="46" group-title="USA PUBLIC",LVTV-3 La Verne Community TV
+https://na-us-se13.secdn.net/pegstream3-live/play/d6af6526-5e48-4f8d-aa2c-ed1c270f20d0/chunklist_w2046155663.m3u8
+#EXTINF:-1 channel-id="17927" radio="false" tvg-logo="https://i.imgur.com/5rlQBA2.png" tvg-chno="47" group-title="USA PUBLIC",MCM-TV McMinnville
+http://reflect-live-mcm11.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 channel-id="17928" radio="false" tvg-logo="https://i.imgur.com/RXIzPcl.png" tvg-chno="48" group-title="USA PUBLIC",Na Leo TV 54 Hawaii
+http://reflect-live2-naleo.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 channel-id="17929" radio="false" tvg-logo="https://i.imgur.com/6Qq40gn.png" tvg-chno="49" group-title="USA PUBLIC",Naz Today
+https://stream.ec.nau.edu/live/amlst:channelfour/chunklist_w842042479_b628000.m3u8
+#EXTINF:-1 channel-id="17930" radio="false" tvg-logo="https://i.imgur.com/3aPf3il.png" tvg-chno="50" group-title="USA PUBLIC",NYXT NYC
+http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
+#EXTINF:-1 channel-id="17931" radio="false" tvg-logo="https://i.imgur.com/Yf0MFYU.png" tvg-chno="51" group-title="USA PUBLIC",Olelo Community Media 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:-1 channel-id="17932" radio="false" tvg-logo="https://i.imgur.com/Yf0MFYU.png" tvg-chno="52" group-title="USA PUBLIC",Olelo Community Media 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:-1 channel-id="17933" radio="false" tvg-logo="https://i.imgur.com/Yf0MFYU.png" tvg-chno="53" group-title="USA PUBLIC",Olelo Community Media 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 channel-id="17934" radio="false" tvg-logo="https://i.imgur.com/Yf0MFYU.png" tvg-chno="54" group-title="USA PUBLIC",Olelo Community Media 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 channel-id="17935" radio="false" tvg-logo="https://i.imgur.com/C8vBURi.png" tvg-chno="55" group-title="USA PUBLIC",Orange Media Network
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 channel-id="17936" radio="false" tvg-logo="https://i.imgur.com/s3FQwRN.png" tvg-chno="56" group-title="USA PUBLIC",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 channel-id="17937" radio="false" tvg-logo="https://i.imgur.com/otj9cSL.png" tvg-chno="57" group-title="USA PUBLIC",PATV Great Neck
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1 channel-id="17938" radio="false" tvg-logo="https://i.imgur.com/mpZkIOh.png" tvg-chno="58" group-title="USA PUBLIC",Prince George County Public Schools
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1 channel-id="17939" radio="false" tvg-logo="https://i.imgur.com/80ihcjR.png" tvg-chno="59" group-title="USA PUBLIC",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 channel-id="17940" radio="false" tvg-logo="https://i.imgur.com/X8s5JMg.png" tvg-chno="60" group-title="USA PUBLIC",Seattle Colleges TV
+https://5caeec96c1972.streamlock.net/broadcast/scctv/playlist.m3u8
+#EXTINF:-1 channel-id="17941" radio="false" tvg-logo="https://i.imgur.com/WmFBaX6.png" tvg-chno="61" group-title="USA PUBLIC",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 channel-id="17942" radio="false" tvg-logo="https://i.imgur.com/fB0jYOO.png" tvg-chno="62" group-title="USA PUBLIC",St. Charles Parish TV
+http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1 channel-id="17943" radio="false" tvg-logo="https://i.imgur.com/Sb1nuei.png" tvg-chno="63" group-title="USA PUBLIC",Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1 channel-id="17944" radio="false" tvg-logo="https://i.imgur.com/tV8tVxQ.png" tvg-chno="64" group-title="USA PUBLIC",Texas Student TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 channel-id="17945" radio="false" tvg-logo="https://i.imgur.com/OF24Hon.png" tvg-chno="65" group-title="USA PUBLIC",Town of Vienna Community Network (Opt-1)
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_002/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17946" radio="false" tvg-logo="https://i.imgur.com/OF24Hon.png" tvg-chno="66" group-title="USA PUBLIC",Town of Vienna Community Network (Opt-2)
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17947" radio="false" tvg-logo="https://i.imgur.com/SrRxU67.png" tvg-chno="67" group-title="USA PUBLIC",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 channel-id="17948" radio="false" tvg-logo="https://i.imgur.com/SrRxU67.png" tvg-chno="68" group-title="USA PUBLIC",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 channel-id="17949" radio="false" tvg-logo="https://i.imgur.com/OTZxloq.png" tvg-chno="69" group-title="USA PUBLIC",UALR TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:-1 channel-id="17950" radio="false" tvg-logo="https://i.imgur.com/77PehgD.png" tvg-chno="70" group-title="USA PUBLIC",UWW-TV UW Whitewater
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
+#EXTINF:-1 channel-id="17951" radio="false" tvg-logo="https://i.imgur.com/cOx41cu.png" tvg-chno="71" group-title="USA PUBLIC",WCCA TV Worcester (Opt-1)
+http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17952" radio="false" tvg-logo="https://i.imgur.com/sxxRphV.png" tvg-chno="72" group-title="USA PUBLIC",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8

@@ -1,0 +1,313 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="13481" radio="false" tvg-chno="1" group-title="ROKU",ABC News Live
+https://abcnewslive-roku.akamaized.net/midroll/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13482" radio="false" tvg-chno="2" group-title="ROKU",ACCDN
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuaccdigitalnetworkA/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13483" radio="false" tvg-chno="3" group-title="ROKU",AFV Family
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="13484" radio="false" tvg-chno="4" group-title="ROKU",AFV Family En Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="13485" radio="false" tvg-chno="5" group-title="ROKU",Ameba
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13486" radio="false" tvg-chno="6" group-title="ROKU",America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13487" radio="false" tvg-chno="7" group-title="ROKU",Americateve
+https://americateve-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13488" radio="false" tvg-chno="8" group-title="ROKU",Architect Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13489" radio="false" tvg-chno="9" group-title="ROKU",ASN Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 channel-id="13490" radio="false" tvg-chno="10" group-title="ROKU",Bein Sports Xtra
+https://bein-xtra-roku-us.amagi.tv/hls/amagi_hls_data_beinAAAAA-beinxtra/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13491" radio="false" tvg-chno="11" group-title="ROKU",Black News Channel
+https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13492" radio="false" tvg-chno="12" group-title="ROKU",Bloody Disgusting
+https://bloodydisgusting-roku-us.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bloodydisgusting/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13493" radio="false" tvg-chno="13" group-title="ROKU",Bon Appetit
+https://bonappetit-roku-us.amagi.tv/hls/amagi_hls_data_condenast-bonappetitroku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13494" radio="false" tvg-chno="14" group-title="ROKU",BratTV
+https://brat-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13495" radio="false" tvg-chno="15" group-title="ROKU",Buzzr
+https://buzzr-roku-us.amagi.tv/hls/amagi_hls_data_buzzrAAAA-buzzr/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13496" radio="false" tvg-chno="16" group-title="ROKU",Cheddar
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13497" radio="false" tvg-chno="17" group-title="ROKU",Cine Sureño
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13498" radio="false" tvg-chno="18" group-title="ROKU",Circle
+https://circle-roku.amagi.tv/hls/amagi_hls_data_circleAAA-circle-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13499" radio="false" tvg-chno="19" group-title="ROKU",Cocoro
+https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13500" radio="false" tvg-chno="20" group-title="ROKU",College Humour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucollegehumor/CDN/master.m3u8
+#EXTINF:-1 channel-id="13501" radio="false" tvg-chno="21" group-title="ROKU",Combat GO
+https://combatgo-roku-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-combatgoroku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13502" radio="false" tvg-chno="22" group-title="ROKU",Comedy Cental Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 channel-id="13503" radio="false" tvg-chno="23" group-title="ROKU",Comedy Dynamics
+https://comedydynamics-roku-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-comedydynamicsroku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13504" radio="false" tvg-chno="24" group-title="ROKU",Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13505" radio="false" tvg-chno="25" group-title="ROKU",Conde Neste Traveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13506" radio="false" tvg-chno="26" group-title="ROKU",CONtv Anime
+https://contvanime-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-contv-anime-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13507" radio="false" tvg-chno="27" group-title="ROKU",Deal or No deal
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13508" radio="false" tvg-chno="28" group-title="ROKU",DIY Daily
+https://endemol-restore-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13509" radio="false" tvg-chno="29" group-title="ROKU",Dove Channel
+https://dovenow-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-dovenow-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13510" radio="false" tvg-chno="30" group-title="ROKU",Dust
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudust/CDN/master.m3u8
+#EXTINF:-1 channel-id="13511" radio="false" tvg-chno="31" group-title="ROKU",Dust
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudust/CDN/master.m3u8
+#EXTINF:-1 channel-id="13512" radio="false" tvg-chno="32" group-title="ROKU",Edge Sports
+https://edgesports-roku.amagi.tv/hls/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13513" radio="false" tvg-chno="33" group-title="ROKU",Estrella News
+https://estrellanews-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellanews-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13514" radio="false" tvg-chno="34" group-title="ROKU",Estrella TV
+https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13515" radio="false" tvg-chno="35" group-title="ROKU",ESTV
+https://estv-roku.amagi.tv/hls/amagi_hls_data_estvAAAAA-estv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13516" radio="false" tvg-chno="36" group-title="ROKU",Euronews  English
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13517" radio="false" tvg-chno="37" group-title="ROKU",Euronews  Español
+https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13518" radio="false" tvg-chno="38" group-title="ROKU",FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13519" radio="false" tvg-chno="39" group-title="ROKU",Family Feud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13520" radio="false" tvg-chno="40" group-title="ROKU",Filmrise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13521" radio="false" tvg-chno="41" group-title="ROKU",Filmrise Classic tV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13522" radio="false" tvg-chno="42" group-title="ROKU",Filmrise Cooking
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13523" radio="false" tvg-chno="43" group-title="ROKU",Filmrise Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 channel-id="13524" radio="false" tvg-chno="44" group-title="ROKU",Filmrise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13525" radio="false" tvg-chno="45" group-title="ROKU",Filmrise Mystery
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13526" radio="false" tvg-chno="46" group-title="ROKU",Filmrise scifi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 channel-id="13527" radio="false" tvg-chno="47" group-title="ROKU",Filmrise Western
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13528" radio="false" tvg-chno="48" group-title="ROKU",Fireman Sam
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13529" radio="false" tvg-chno="49" group-title="ROKU",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13530" radio="false" tvg-chno="50" group-title="ROKU",Fox Soul
+https://fox-foxsoul-roku.amagi.tv/hls/amagi_hls_data_foxAAAAAA-foxsoul-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13531" radio="false" tvg-chno="51" group-title="ROKU",FTF (For the Fans)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13532" radio="false" tvg-chno="52" group-title="ROKU",Fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 channel-id="13533" radio="false" tvg-chno="53" group-title="ROKU",Funny or Die
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
+#EXTINF:-1 channel-id="13534" radio="false" tvg-chno="54" group-title="ROKU",Gameshow Central
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13535" radio="false" tvg-chno="55" group-title="ROKU",Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuglamour/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13536" radio="false" tvg-chno="56" group-title="ROKU",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13537" radio="false" tvg-chno="57" group-title="ROKU",GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13538" radio="false" tvg-chno="58" group-title="ROKU",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13539" radio="false" tvg-chno="59" group-title="ROKU",Gusto TV
+https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13540" radio="false" tvg-chno="60" group-title="ROKU",Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13541" radio="false" tvg-chno="61" group-title="ROKU",Hiyaahh
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="13542" radio="false" tvg-chno="62" group-title="ROKU",Horrify
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-horrify-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13543" radio="false" tvg-chno="63" group-title="ROKU",Ifood
+https://ft-ifood-roku.amagi.tv/hls/amagi_hls_data_futuretod-ifood-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13544" radio="false" tvg-chno="64" group-title="ROKU",Iheart Christmas
+https://d35vozlor946gj.cloudfront.net/out/v1/bc83fb104a774588b1e199fd0fcf8b33/index.m3u8?streamid=4596&stationid=4596&callLetters=IHAD-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=45dbfab367eb5b7598310c7cf029c7d1&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:-1 channel-id="13545" radio="false" tvg-chno="65" group-title="ROKU",Iheart Christmas Classics
+https://d39a4k19q5wb1a.cloudfront.net/out/v1/28cada5616c2443398c7de03c921e739/index.m3u8?streamid=6137&stationid=6137&callLetters=IHVA-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=fb2d18e2a81f541885d0e2f133da4d25&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:-1 channel-id="13546" radio="false" tvg-chno="66" group-title="ROKU",Iheart Christmas Country
+https://d1k9eusiqcru88.cloudfront.net/out/v1/689cb2bf2f5d480aa1f37d8a595ab899/index.m3u8?streamid=4601&stationid=4601&callLetters=IHCO-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=80acb7809cac5051bc39dac439a33d3d&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:-1 channel-id="13547" radio="false" tvg-chno="67" group-title="ROKU",Iheart Christmas R&B
+https://d1k802x72s3su7.cloudfront.net/out/v1/27f0e05c261242c199eee01b7b99bc87/index.m3u8?streamid=6136&stationid=6136&callLetters=IHUR-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=55b7a69a772f5a96b49b331b96b7c488&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:-1 channel-id="13548" radio="false" tvg-chno="68" group-title="ROKU",Iheart Christmas Rock
+https://d1ipcy3kxm6s6d.cloudfront.net/out/v1/cdc0e2c2bfef4a1c9fa1c4f3595c0dd3/index.m3u8?streamid=6410&stationid=6410&callLetters=IHRK-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=192a78187148597f85ba8dafbdb3ede6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:-1 channel-id="13549" radio="false" tvg-chno="69" group-title="ROKU",Juntos
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13550" radio="false" tvg-chno="70" group-title="ROKU",Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+#EXTINF:-1 channel-id="13551" radio="false" tvg-chno="71" group-title="ROKU",Kartoon Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukidgenius/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13552" radio="false" tvg-chno="72" group-title="ROKU",Ketchup TV
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13553" radio="false" tvg-chno="73" group-title="ROKU",Ketchup TV
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13554" radio="false" tvg-chno="74" group-title="ROKU",Kid Gamer TV
+https://studio71-roku-us.amagi.tv/hls/amagi_hls_data_studio71A-studio71roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13555" radio="false" tvg-chno="75" group-title="ROKU",kiDoodle TV
+https://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13556" radio="false" tvg-chno="76" group-title="ROKU",Kidz Bop
+https://kidzbop-rokuus.amagi.tv/hls/amagi_hls_data_kidzbopAA-kidzbop-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13557" radio="false" tvg-chno="77" group-title="ROKU",Latido Music
+https://vidaprimo-roku-us.amagi.tv/hls/amagi_hls_data_vidaprimo-rokuvidaprimo/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13558" radio="false" tvg-chno="78" group-title="ROKU",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13559" radio="false" tvg-chno="79" group-title="ROKU",Lively Place
+https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13560" radio="false" tvg-chno="80" group-title="ROKU",Love Nature
+https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13561" radio="false" tvg-chno="81" group-title="ROKU",Love Nature Espanol
+https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
+#EXTINF:-1 channel-id="13562" radio="false" tvg-chno="82" group-title="ROKU",Made in Hollywood
+https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13563" radio="false" tvg-chno="83" group-title="ROKU",Made in Hollywood
+https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13564" radio="false" tvg-chno="84" group-title="ROKU",Maverick Black Cinema
+https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13565" radio="false" tvg-chno="85" group-title="ROKU",MavTV Select
+https://mavtv-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13566" radio="false" tvg-chno="86" group-title="ROKU",Midnight Pulp
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13567" radio="false" tvg-chno="87" group-title="ROKU",MoonBug
+https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13568" radio="false" tvg-chno="88" group-title="ROKU",Movie Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13569" radio="false" tvg-chno="89" group-title="ROKU",Moviesphere
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13570" radio="false" tvg-chno="90" group-title="ROKU",MST3K
+https://mst3k-roku.amagi.tv/hls/amagi_hls_data_shoutfact-mst3k-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13571" radio="false" tvg-chno="91" group-title="ROKU",MyTime Movie network
+https://mytime-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-mytime-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13572" radio="false" tvg-chno="92" group-title="ROKU",NewsMax TV
+https://newsmax-roku-us.amagi.tv/hls/amagi_hls_data_newsmaxAA-newsmax/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13573" radio="false" tvg-chno="93" group-title="ROKU",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 channel-id="13574" radio="false" tvg-chno="94" group-title="ROKU",Nosey
+https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13575" radio="false" tvg-chno="95" group-title="ROKU",Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13576" radio="false" tvg-chno="96" group-title="ROKU",One America (OAN)
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13577" radio="false" tvg-chno="97" group-title="ROKU",Outside Tv
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13578" radio="false" tvg-chno="98" group-title="ROKU",Pac-12 Insider
+https://pac12-roku-us.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac-12-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13579" radio="false" tvg-chno="99" group-title="ROKU",People are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13580" radio="false" tvg-chno="100" group-title="ROKU",People TV
+https://peopletv-roku-us.akamaized.net/midroll/amagi_hls_data_peopletvA-peopletvtrc/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13581" radio="false" tvg-chno="101" group-title="ROKU",Players.tv
+https://playerstv-roku-us.amagi.tv/hls/amagi_hls_data_playerstv-playerstv-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13582" radio="false" tvg-chno="102" group-title="ROKU",Pocket Watch
+https://pocketwatch.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13583" radio="false" tvg-chno="103" group-title="ROKU",Pong lo Novela Club
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13584" radio="false" tvg-chno="104" group-title="ROKU",Power Nation
+https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13585" radio="false" tvg-chno="105" group-title="ROKU",Rainbow Ruby
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13586" radio="false" tvg-chno="106" group-title="ROKU",Real Nosey
+https://nosey-realnosey-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13587" radio="false" tvg-chno="107" group-title="ROKU",Real Truth Crime
+https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13588" radio="false" tvg-chno="108" group-title="ROKU",Redbox Free Movies
+https://spotlight-rokuus.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13589" radio="false" tvg-chno="109" group-title="ROKU",Reelz
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13590" radio="false" tvg-chno="110" group-title="ROKU",RetroCrush
+https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13591" radio="false" tvg-chno="111" group-title="ROKU",Reuters
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13592" radio="false" tvg-chno="112" group-title="ROKU",Rev and Roll
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13593" radio="false" tvg-chno="113" group-title="ROKU",Revry
+https://linear-45.frequency.stream/dist/roku/45/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="13594" radio="false" tvg-chno="114" group-title="ROKU",Runtime Español
+https://runtime-espanol-roku.amagi.tv/hls/amagi_hls_data_ammoAAAAA-runtime-espanol-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13595" radio="false" tvg-chno="115" group-title="ROKU",Ryan and Friends
+https://pocketwatch-ryanandfriends-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13596" radio="false" tvg-chno="116" group-title="ROKU",Samuel Goldwyn Channel
+https://samuelgoldwyn-films-roku.amagi.tv/hls/amagi_hls_data_samuelgol-sgfilms-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13597" radio="false" tvg-chno="117" group-title="ROKU",Samuel Goldwyn Classics
+https://samuelgoldwyn-classic-roku.amagi.tv/hls/amagi_hls_data_samuelgol-sgclassics-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13598" radio="false" tvg-chno="118" group-title="ROKU",Skills and Thrills
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13599" radio="false" tvg-chno="119" group-title="ROKU",Sony Canal Comedias
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13600" radio="false" tvg-chno="120" group-title="ROKU",Sony Canal Competencias
+https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13601" radio="false" tvg-chno="121" group-title="ROKU",Sony Canal Novelas
+https://sony-novelas-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13602" radio="false" tvg-chno="122" group-title="ROKU",Sportsgrid
+https://sportsgrid-roku-us.amagi.tv/hls/amagi_hls_data_sportsgri-roku-sportsgridA/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13603" radio="false" tvg-chno="123" group-title="ROKU",Stadium
+https://stadium.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13604" radio="false" tvg-chno="124" group-title="ROKU",TasteMade
+https://tastemade-roku-us.amagi.tv/hls/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13605" radio="false" tvg-chno="125" group-title="ROKU",Tastemade Espanol
+https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13606" radio="false" tvg-chno="126" group-title="ROKU",Teletubbies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13607" radio="false" tvg-chno="127" group-title="ROKU",The Asylum
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13608" radio="false" tvg-chno="128" group-title="ROKU",The Asylum
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13609" radio="false" tvg-chno="129" group-title="ROKU",The Bob Ross Channel
+https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13610" radio="false" tvg-chno="130" group-title="ROKU",The Carol Burnett Show
+https://carolburnett-roku.amagi.tv/hls/amagi_hls_data_shoutfact-carolburnett-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13611" radio="false" tvg-chno="131" group-title="ROKU",The Craftistry
+https://studio71-craftistry-roku.amagi.tv/hls/amagi_hls_data_studio71A-craftistry-rokuA/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13612" radio="false" tvg-chno="132" group-title="ROKU",The Design Network
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13613" radio="false" tvg-chno="133" group-title="ROKU",The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
+#EXTINF:-1 channel-id="13614" radio="false" tvg-chno="134" group-title="ROKU",This Old House
+https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13615" radio="false" tvg-chno="135" group-title="ROKU",TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13616" radio="false" tvg-chno="136" group-title="ROKU",Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13617" radio="false" tvg-chno="137" group-title="ROKU",True Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13618" radio="false" tvg-chno="138" group-title="ROKU",TYT GO
+https://tyt-roku-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13619" radio="false" tvg-chno="139" group-title="ROKU",Unbeaten
+https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13620" radio="false" tvg-chno="140" group-title="ROKU",Unsolved Mysterys
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13621" radio="false" tvg-chno="141" group-title="ROKU",Usa Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13622" radio="false" tvg-chno="142" group-title="ROKU",Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvanityfair/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13623" radio="false" tvg-chno="143" group-title="ROKU",Venn TV
+https://venntv-roku.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13624" radio="false" tvg-chno="144" group-title="ROKU",Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvogue/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13625" radio="false" tvg-chno="145" group-title="ROKU",Voyager Documentaries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13626" radio="false" tvg-chno="146" group-title="ROKU",WeatherNation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13627" radio="false" tvg-chno="147" group-title="ROKU",Weatherspy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13628" radio="false" tvg-chno="148" group-title="ROKU",Whistle TV
+https://whistletv-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-whistlesports-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13629" radio="false" tvg-chno="149" group-title="ROKU",Wipeout Xtra
+https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13630" radio="false" tvg-chno="150" group-title="ROKU",Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuwired/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13631" radio="false" tvg-chno="151" group-title="ROKU",Xplore
+https://xplore-roku.amagi.tv/hls/amagi_hls_data_littonAAA-xplore-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13632" radio="false" tvg-chno="152" group-title="ROKU",Xumo Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13633" radio="false" tvg-chno="153" group-title="ROKU",Xumo Free Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13634" radio="false" tvg-chno="154" group-title="ROKU",yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13635" radio="false" tvg-chno="155" group-title="ROKU",Yo Gabba Gabba
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13636" radio="false" tvg-chno="156" group-title="ROKU",Zoo Moo
+https://zoomoo-samsung.roku.wurl.com/manifest/playlist.m3u8

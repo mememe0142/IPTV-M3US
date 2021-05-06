@@ -1,0 +1,23 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="248" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FashionTV_600x600.png?raw=true" tvg-chno="1" group-title="Adult Lifestyle & Interests",Fashion TV Global (13+)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 channel-id="249" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FashionTV_600x600.png?raw=true" tvg-chno="2" group-title="Adult Lifestyle & Interests",Fashion TV UK (16+)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:-1 channel-id="250" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-chno="3" group-title="Adult Lifestyle & Interests",HD Fashion & Lifestyle
+https://nimble.dashstreams.net/onestudio/hdfashionlifestyle/playlist.m3u8
+#EXTINF:-1 channel-id="251" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-chno="4" group-title="Adult Lifestyle & Interests",MyTVToGo | bspoke TV
+https://bspoketv.nexustreamer.com/mytvtogo/master.m3u8
+#EXTINF:-1 channel-id="252" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-chno="5" group-title="Adult Lifestyle & Interests",MyTVToGo | Cooking 4U
+https://nimble.dashstreams.net/onestudio/cooking_4u_network/playlist.m3u8
+#EXTINF:-1 channel-id="253" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-chno="6" group-title="Adult Lifestyle & Interests",MyTVToGo | Excercise 4U
+https://nimble.dashstreams.net/onestudio/exercise_4u_tv/playlist.m3u8
+#EXTINF:-1 channel-id="254" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-chno="7" group-title="Adult Lifestyle & Interests",MyTVToGo | Models Inc.
+https://nimble.dashstreams.net/onestudio/modelsinc/playlist.m3u8
+#EXTINF:-1 channel-id="255" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-chno="8" group-title="Adult Lifestyle & Interests",MyTVToGo | She TV Network
+https://nimble.dashstreams.net/onestudio/She_Tv_Network/playlist.m3u8
+#EXTINF:-1 channel-id="256" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-chno="9" group-title="Adult Lifestyle & Interests",MyTVToGo | Shopping 4U
+https://nimble.dashstreams.net/onestudio/shopping_4u/playlist.m3u8
+#EXTINF:-1 channel-id="257" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-chno="10" group-title="Adult Lifestyle & Interests",MyTVToGo | Travel 4U
+https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
+#EXTINF:-1 channel-id="258" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RunwayTV_960x960.png?raw=true" tvg-chno="11" group-title="Adult Lifestyle & Interests",Runway TV
+https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8

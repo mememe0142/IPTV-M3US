@@ -1,0 +1,43 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="17768" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BTN_355x355.png?raw=true" tvg-chno="1" group-title="USA FREE OTA TV",Blues Television Network
+https://uni01rtmp.tulix.tv/aitterce/aitterce/playlist.m3u8
+#EXTINF:-1 channel-id="17769" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png" tvg-chno="2" group-title="USA FREE OTA TV",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 channel-id="17770" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" tvg-chno="3" group-title="USA FREE OTA TV",Circle | HD
+https://circle-roku.amagi.tv/playlist.m3u8?OTA
+#EXTINF:-1 channel-id="17771" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" tvg-chno="4" group-title="USA FREE OTA TV",Comet TV
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 channel-id="17772" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" tvg-chno="5" group-title="USA FREE OTA TV",Court TV | HD
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+#EXTINF:-1 channel-id="17773" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-1_241x241.png?raw=true" tvg-chno="6" group-title="USA FREE OTA TV",K36JH | 36.1 Victor Valley TV
+https://2-fss-2.streamhoster.com/pl_120/amlst:201794-1288810/playlist.m3u8
+#EXTINF:-1 channel-id="17774" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-2_AMGTV_290x290.png?raw=true" tvg-chno="7" group-title="USA FREE OTA TV",K36JH | 36.2 AMG-TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 channel-id="17775" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NewsNet.png?raw=true" tvg-chno="8" group-title="USA FREE OTA TV",K36JH | 36.3 NewsNet (Sc.1)
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
+#EXTINF:-1 channel-id="17776" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NewsNet.png?raw=true" tvg-chno="9" group-title="USA FREE OTA TV",K36JH | 36.3 NewsNet (Sc.2)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 channel-id="17777" radio="false" tvg-logo="https://od.lk/s/MF8yMjU3OTE2ODhf/CitiCable_225x225.png" tvg-chno="10" group-title="USA FREE OTA TV",KNET-CD 25.2 | Local Access
+http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
+#EXTINF:-1 channel-id="17778" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KVVB-33_370x370.png?raw=true" tvg-chno="11" group-title="USA FREE OTA TV",KVVB-TV 33.1 Victorville CA
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 channel-id="17779" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" tvg-chno="12" group-title="USA FREE OTA TV",NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
+#EXTINF:-1 channel-id="17780" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Positiv_520x520.png?raw=true" tvg-chno="13" group-title="USA FREE OTA TV",Positiv TV | HD
+https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?OTATV
+#EXTINF:-1 channel-id="17781" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RightNowTV_460x460.png?raw=true" tvg-chno="14" group-title="USA FREE OTA TV",Right Now Television
+https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
+#EXTINF:-1 channel-id="17782" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true" tvg-chno="15" group-title="USA FREE OTA TV",Victor Valley TV-3 | Movies
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1 channel-id="17783" radio="false" tvg-logo="https://od.lk/s/MF8yMjU3OTA3MjZf/VicValley_TV2_303x303.png" tvg-chno="16" group-title="USA FREE OTA TV",VVTV-2 33.2 | Local Access
+https://2-fss-1.streamhoster.com/pl_122/201794-1397100-1/playlist.m3u8
+#EXTINF:-1 channel-id="17784" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" tvg-chno="17" group-title="USA FREE OTA TV",WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 channel-id="17785" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" tvg-chno="18" group-title="USA FREE OTA TV",WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1 channel-id="17786" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" tvg-chno="19" group-title="USA FREE OTA TV",WZTS-TV | Cozi TV
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+#EXTINF:-1 channel-id="17787" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ZLiving_512x512.png?raw=true" tvg-chno="20" group-title="USA FREE OTA TV",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8?OTATV
+#EXTINF:-1 channel-id="17788" radio="false" tvg-chno="21" group-title="USA FREE OTA TV",ZooMoo
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8

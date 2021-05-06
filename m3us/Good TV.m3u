@@ -1,0 +1,111 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2225" radio="false" tvg-logo="https://i.imgur.com/VNR9NDB.jpg" tvg-chno="1" group-title="Good TV", Good TV (USA)
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 channel-id="2226" radio="false" tvg-logo="https://i.imgur.com/VNR9NDB.jpg" tvg-chno="2" group-title="Good TV", Good TV (USA)
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 channel-id="2227" radio="false" tvg-logo="https://i.imgur.com/VNR9NDB.jpg" tvg-chno="3" group-title="Good TV", Good TV (USA)
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 channel-id="2228" radio="false" tvg-logo="https://i.imgur.com/VNR9NDB.jpg" tvg-chno="4" group-title="Good TV", Good TV (USA)
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 channel-id="2229" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" tvg-chno="5" group-title="Good TV", Good TV 1 (TW)
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 channel-id="2230" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" tvg-chno="6" group-title="Good TV", Good TV 2 (TW)
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 channel-id="2231" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/3_file.jpg" tvg-chno="7" group-title="Good TV", Good TV 3 (TW)
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 channel-id="2232" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/4_file.jpg" tvg-chno="8" group-title="Good TV", Good TV 4 (TW)
+http://live.streamingfast.net/osmflivech4.m3u8
+#EXTINF:-1 channel-id="2233" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/5_file.jpg" tvg-chno="9" group-title="Good TV", Good TV 5 (TW)
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 channel-id="2234" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/6_file.jpg" tvg-chno="10" group-title="Good TV", Good TV 6 (TW)
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1 channel-id="2235" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/7_file.jpg" tvg-chno="11" group-title="Good TV", Good TV 7 (TW)
+http://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:-1 channel-id="2236" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/8_file.jpg" tvg-chno="12" group-title="Good TV", Good TV 8 (TW)
+http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1 channel-id="2237" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" tvg-chno="13" group-title="Good TV", Good TV 9 (TW)
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 channel-id="2238" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/10_file.jpg" tvg-chno="14" group-title="Good TV", Good TV 10 (TW)
+http://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1 channel-id="2239" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/11_file.jpg" tvg-chno="15" group-title="Good TV", Good TV 11 (TW)
+http://live.streamingfast.net/osmflivech11.m3u8
+#EXTINF:-1 channel-id="2240" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" tvg-chno="16" group-title="Good TV", Good TV 12 (TW)
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 channel-id="2241" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" tvg-chno="17" group-title="Good TV", Good TV 13 (TW)
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1 channel-id="2242" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/14_file.jpg" tvg-chno="18" group-title="Good TV", Good TV 14 (TW)
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 channel-id="2243" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/15_file.jpg" tvg-chno="19" group-title="Good TV", Good TV 15 (TW)
+http://live.streamingfast.net/osmflivech15.m3u8
+#EXTINF:-1 channel-id="2244" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/16_file.jpg" tvg-chno="20" group-title="Good TV", Good TV 16 (TW)
+http://live.streamingfast.net/osmflivech16.m3u8
+#EXTINF:-1 channel-id="2245" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/17_file.jpg" tvg-chno="21" group-title="Good TV", Good TV 17 (TW)
+http://live.streamingfast.net/osmflivech17.m3u8
+#EXTINF:-1 channel-id="2246" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/18_file.jpg" tvg-chno="22" group-title="Good TV", Good TV 18 (TW)
+http://live.streamingfast.net/osmflivech18.m3u8
+#EXTINF:-1 channel-id="2247" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/19_file.jpg" tvg-chno="23" group-title="Good TV", Good TV 19 (TW)
+http://live.streamingfast.net/osmflivech19.m3u8
+#EXTINF:-1 channel-id="2248" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/20_file.jpg" tvg-chno="24" group-title="Good TV", Good TV 20 (TW)
+http://live.streamingfast.net/osmflivech20.m3u8
+#EXTINF:-1 channel-id="2249" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/21_file.jpg" tvg-chno="25" group-title="Good TV", Good TV 21 (TW)
+http://live.streamingfast.net/osmflivech21.m3u8
+#EXTINF:-1 channel-id="2250" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/22_file.jpg" tvg-chno="26" group-title="Good TV", Good TV 22 (TW)
+http://live.streamingfast.net/osmflivech22.m3u8
+#EXTINF:-1 channel-id="2251" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/23_file.jpg" tvg-chno="27" group-title="Good TV", Good TV 23 (TW)
+http://live.streamingfast.net/osmflivech23.m3u8
+#EXTINF:-1 channel-id="2252" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/24_file.jpg" tvg-chno="28" group-title="Good TV", Good TV 24 (TW)
+http://live.streamingfast.net/osmflivech24.m3u8
+#EXTINF:-1 channel-id="2253" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/25_file.jpg" tvg-chno="29" group-title="Good TV", Good TV 25 (TW)
+http://live.streamingfast.net/osmflivech25.m3u8
+#EXTINF:-1 channel-id="2254" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/26_file.jpg" tvg-chno="30" group-title="Good TV", Good TV 26 (TW)
+http://live.streamingfast.net/osmflivech26.m3u8
+#EXTINF:-1 channel-id="2255" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/27_file.jpg" tvg-chno="31" group-title="Good TV", Good TV 27 (TW)
+http://live.streamingfast.net/osmflivech27.m3u8
+#EXTINF:-1 channel-id="2256" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/28_file.jpg" tvg-chno="32" group-title="Good TV", Good TV 28 (TW)
+http://live.streamingfast.net/osmflivech28.m3u8
+#EXTINF:-1 channel-id="2257" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/29_file.jpg" tvg-chno="33" group-title="Good TV", Good TV 29 (TW)
+http://live.streamingfast.net/osmflivech29.m3u8
+#EXTINF:-1 channel-id="2258" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/30_file.jpg" tvg-chno="34" group-title="Good TV", Good TV 30 (TW)
+http://live.streamingfast.net/osmflivech30.m3u8
+#EXTINF:-1 channel-id="2259" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/31_file.jpg" tvg-chno="35" group-title="Good TV", Good TV 31 (TW)
+http://live.streamingfast.net/osmflivech31.m3u8
+#EXTINF:-1 channel-id="2260" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/32_file.jpg" tvg-chno="36" group-title="Good TV", Good TV 32 (TW)
+http://live.streamingfast.net/osmflivech32.m3u8
+#EXTINF:-1 channel-id="2261" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/33_file.jpg" tvg-chno="37" group-title="Good TV", Good TV 33 (TW)
+http://live.streamingfast.net/osmflivech33.m3u8
+#EXTINF:-1 channel-id="2262" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/34_file.jpg" tvg-chno="38" group-title="Good TV", Good TV 34 (TW)
+http://live.streamingfast.net/osmflivech34.m3u8
+#EXTINF:-1 channel-id="2263" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/35_file.jpg" tvg-chno="39" group-title="Good TV", Good TV 35 (TW)
+http://live.streamingfast.net/osmflivech35.m3u8
+#EXTINF:-1 channel-id="2264" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/36_file.jpg" tvg-chno="40" group-title="Good TV", Good TV 36 (TW)
+http://live.streamingfast.net/osmflivech36.m3u8
+#EXTINF:-1 channel-id="2265" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/37_file.jpg" tvg-chno="41" group-title="Good TV", Good TV 37 (TW)
+http://live.streamingfast.net/osmflivech37.m3u8
+#EXTINF:-1 channel-id="2266" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/38_file.jpg" tvg-chno="42" group-title="Good TV", Good TV 38 (TW)
+http://live.streamingfast.net/osmflivech38.m3u8
+#EXTINF:-1 channel-id="2267" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/39_file.jpg" tvg-chno="43" group-title="Good TV", Good TV 39 (TW)
+http://live.streamingfast.net/osmflivech39.m3u8
+#EXTINF:-1 channel-id="2268" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/40_file.jpg" tvg-chno="44" group-title="Good TV", Good TV 40 (TW)
+http://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:-1 channel-id="2269" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" tvg-chno="45" group-title="Good TV", Good TV 41 (TW)
+http://live.streamingfast.net/osmflivech41.m3u8
+#EXTINF:-1 channel-id="2270" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/42_file.jpg" tvg-chno="46" group-title="Good TV", Good TV 42 (TW)
+http://live.streamingfast.net/osmflivech42.m3u8 
+#EXTINF:-1 channel-id="2271" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/43_file.jpg" tvg-chno="47" group-title="Good TV", Good TV 43 (TW)
+http://live.streamingfast.net/osmflivech43.m3u8
+#EXTINF:-1 channel-id="2272" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" tvg-chno="48" group-title="Good TV", Good TV 44 (TW)
+http://live.streamingfast.net/osmflivech44.m3u8
+#EXTINF:-1 channel-id="2273" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" tvg-chno="49" group-title="Good TV", Good TV 45 (TW)
+http://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1 channel-id="2274" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/46_file.jpg" tvg-chno="50" group-title="Good TV", Good TV 46 (TW)
+http://live.streamingfast.net/osmflivech46.m3u8
+#EXTINF:-1 channel-id="2275" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/47_file.jpg" tvg-chno="51" group-title="Good TV", Good TV 47 (TW)
+http://live.streamingfast.net/osmflivech47.m3u8
+#EXTINF:-1 channel-id="2276" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/48_file.jpg" tvg-chno="52" group-title="Good TV", Good TV 48 (TW)
+http://live.streamingfast.net/osmflivech48.m3u8
+#EXTINF:-1 channel-id="2277" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" tvg-chno="53" group-title="Good TV", Good TV 49 (TW)
+http://live.streamingfast.net/osmflivech49.m3u8
+#EXTINF:-1 channel-id="2278" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/50_file.jpg" tvg-chno="54" group-title="Good TV", Good TV 50 (TW)
+http://live.streamingfast.net/osmflivech50.m3u8
+#EXTINF:-1 channel-id="2279" radio="false" tvg-logo="https://app.streamingfast.net/uploads/channel/51_file.jpg" tvg-chno="55" group-title="Good TV", Good TV 51 (TW)
+http://live.streamingfast.net/osmflivech51.m3u8

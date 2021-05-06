@@ -1,0 +1,29 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2090" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" tvg-chno="1" group-title="FilmRise Digital Networks",Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2091" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" tvg-chno="2" group-title="FilmRise Digital Networks",Classic TV
+https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/master.m3u8
+#EXTINF:-1 channel-id="2092" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Family_355x355.png?raw=true" tvg-chno="3" group-title="FilmRise Digital Networks",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2093" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" tvg-chno="4" group-title="FilmRise Digital Networks",FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8?p=roku
+#EXTINF:-1 channel-id="2094" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" tvg-chno="5" group-title="FilmRise Digital Networks",FilmRise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2095" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_512x512.png?raw=true" tvg-chno="6" group-title="FilmRise Digital Networks",FilmRise Kitchen
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2096" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_UnsolvedMys_900x900.png?raw=true" tvg-chno="7" group-title="FilmRise Digital Networks",Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2097" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_ForensicFiles_398x398.png?raw=true" tvg-chno="8" group-title="FilmRise Digital Networks",Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8?p=roku
+#EXTINF:-1 channel-id="2098" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_512x512.png?raw=true" tvg-chno="9" group-title="FilmRise Digital Networks",FilmRise Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2099" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_512x512.png?raw=true" tvg-chno="10" group-title="FilmRise Digital Networks",FilmRise Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2100" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="11" group-title="FilmRise Digital Networks",FilmRise Movies on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="2101" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="12" group-title="FilmRise Digital Networks",FilmRise Family on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="2102" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="13" group-title="FilmRise Digital Networks",FilmRise Sci-Fi on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="2103" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-chno="14" group-title="FilmRise Digital Networks",FilmRise Classic TV on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows

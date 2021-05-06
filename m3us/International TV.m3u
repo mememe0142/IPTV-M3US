@@ -1,0 +1,57 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2313" radio="false" tvg-name="Dubai One" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" tvg-chno="1" group-title="International TV",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 channel-id="2314" radio="false" tvg-name="Dubai Racing" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" tvg-chno="2" group-title="International TV",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 channel-id="2315" radio="false" tvg-name="Dubai Racing 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" tvg-chno="3" group-title="International TV",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 channel-id="2316" radio="false" tvg-name="Dubai Racing 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" tvg-chno="4" group-title="International TV",Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 channel-id="2317" radio="false" tvg-name="Dubai Sports 1" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" tvg-chno="5" group-title="International TV",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 channel-id="2318" radio="false" tvg-name="Dubai Sports 2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" tvg-chno="6" group-title="International TV",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 channel-id="2319" radio="false" tvg-name="Dubai Sports 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" tvg-chno="7" group-title="International TV",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 channel-id="2320" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/logo_m2o_1024x1024.png" tvg-chno="8" group-title="International TV",m2o TV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channel-id="2321" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NHKWorldJapan_600x600.png?raw=true" tvg-chno="9" group-title="International TV",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 channel-id="2322" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/logo_m2o_1024x1024.png" tvg-chno="10" group-title="International TV",radio m2o (Radio) [IPTV]
+https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channel-id="2323" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RetroMusicTV.png" tvg-chno="11" group-title="International TV",Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 channel-id="2324" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-America_400x400.png" tvg-chno="12" group-title="International TV",RT America | HD
+https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 channel-id="2325" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-Live_256x256.png" tvg-chno="13" group-title="International TV",Russia Today Live
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 channel-id="2326" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-UK_400x400.png" tvg-chno="14" group-title="International TV",Russia Today UK
+https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1 channel-id="2327" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BlackSquare.png?raw=true" tvg-chno="15" group-title="International TV",** SPANISH CHANNELS **
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?SP1
+#EXTINF:-1 channel-id="2328" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SonyCanal_224x224.png?raw=true" tvg-chno="16" group-title="International TV",ES | Sony Canal Comedias
+https://219f175197464379a9c71feb7682f207.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalComedias/playlist.m3u8?ads.wurl_channel=510&ads.wurl_name=SonyCanalComedias&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5f5132e262fe160040f26c05&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.189&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 channel-id="2329" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SonyCanal_224x224.png?raw=true" tvg-chno="17" group-title="International TV",ES | Sony Canal Competencias
+https://5ee6dc9413fb4a298356339ba8356ca3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalCompetencias/playlist.m3u8?ads.wurl_channel=509&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5f5132e362fe160040f26c0a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.189&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 channel-id="2330" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SonyCanal_224x224.png?raw=true" tvg-chno="18" group-title="International TV",ES | Sony Canal Novelas
+https://c19ff234e2524151a46e0e13d0e3f3fa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas/playlist.m3u8?ads.wurl_channel=577&ads.wurl_name=SonyCanalNovelas&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.189&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 channel-id="2331" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RunTimeEspanol_120x120.png?raw=true" tvg-chno="19" group-title="International TV",ES | Runtime Espanol
+https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f5132e362fe160040f26c15
+#EXTINF:-1 channel-id="2332" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Latido-Music_367x367.png?raw=true" tvg-chno="20" group-title="International TV",ES | Latido Music
+https://vidaprimo-plex.amagi.tv/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f598c33465f860041cd2dee
+#EXTINF:-1 channel-id="2333" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanelaTV_553x553.png?raw=true" tvg-chno="21" group-title="International TV",ES | Canela TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:-1 channel-id="2334" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BlackSquare.png?raw=true" tvg-chno="22" group-title="International TV",** SPANISH ALTERNATES **
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?SP2
+#EXTINF:-1 channel-id="2335" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SonyCanal_224x224.png?raw=true" tvg-chno="23" group-title="International TV",ES | Sony Canal Comedias
+https://sony-comedias-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2336" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SonyCanal_224x224.png?raw=true" tvg-chno="24" group-title="International TV",ES | Sony Canal Competencias
+https://sony-competencias-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2337" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SonyCanal_224x224.png?raw=true" tvg-chno="25" group-title="International TV",ES | Sony Canal Novelas
+https://sony-novelas-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2338" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RunTimeEspanol_120x120.png?raw=true" tvg-chno="26" group-title="International TV",ES | Runtime Espanol
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="2339" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Latido-Music_367x367.png?raw=true" tvg-chno="27" group-title="International TV",ES | Latido Music
+https://vidaprimo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="2340" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanelaTV_553x553.png?raw=true" tvg-chno="28" group-title="International TV",ES | Canela TV
+https://stream-us-east-1.getpublica.com/cl/93f291c3-dd46-42dd-ad35-8d6cbc12fe89/1280x720_1798489_0.m3u8

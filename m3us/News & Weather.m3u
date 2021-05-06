@@ -1,0 +1,149 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="3032" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" tvg-chno="1" group-title="News & Weather",ABC News Live | HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 channel-id="3033" radio="false" tvg-id="5e1f7da4bc7d740009831259" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" tvg-chno="2" group-title="News & Weather",America's Voice News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3034" radio="false" tvg-id="5f1efad04320070007dbb60b" tvg-logo="https://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" tvg-chno="3" group-title="News & Weather",Black News Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3035" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="4" group-title="News & Weather",Black News Network
+https://lnc-black-news.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3036" radio="false" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" tvg-chno="5" group-title="News & Weather",Blaze Live
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3037" radio="false" tvg-id="54ff7ba69222cb1c2624c584" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" tvg-chno="6" group-title="News & Weather",Bloomberg TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3038" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="7" group-title="News & Weather",Bloomberg TV
+https://csm-e-cetubiausw2live101-06ebe33587c16b95b.csm.tubi.video/csm/live/240948717.m3u8
+#EXTINF:-1 channel-id="3039" radio="false" tvg-logo="https://od.lk/s/MF8yMjM3MzA0MDFf/BNC247_300x300.png" tvg-chno="8" group-title="News & Weather",BNC 24/7 | HD
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8	
+#EXTINF:-1 channel-id="3040" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="9" group-title="News & Weather",CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 channel-id="3041" radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" tvg-chno="10" group-title="News & Weather",CBSN 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3042" radio="false" tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvg-chno="11" group-title="News & Weather",CBSN Los Angeles 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3043" radio="false" tvg-id="5dc9b8223687ff000936ed79" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" tvg-chno="12" group-title="News & Weather",CBSN New York 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3044" radio="false" tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://images.pluto.tv/channels/5812afe1d0f0b8d55dde67fa/colorLogoPNG.png" tvg-chno="13" group-title="News & Weather",Cheddar
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3045" radio="false" tvg-id="5ca1e02c08ee5378be82db47" tvg-logo="https://images.pluto.tv/channels/5ca1e02c08ee5378be82db47/colorLogoPNG.png" tvg-chno="14" group-title="News & Weather",Cheddar
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c08ee5378be82db47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3046" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="15" group-title="News & Weather",Cheddar News
+https://csm-e-cetubiausw2live101-08651e4b1e735af14.csm.tubi.video/csm/live/241515520.m3u8
+#EXTINF:-1 channel-id="3047" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" tvg-chno="16" group-title="News & Weather",Cheddar | Webstream
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+#EXTINF:-1 channel-id="3048" radio="false" tvg-id="56283c8769ba54637dea0464" tvg-logo="https://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" tvg-chno="17" group-title="News & Weather",CNET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3049" radio="false" tvg-id="5421f71da6af422839419cb3" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" tvg-chno="18" group-title="News & Weather",CNN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3050" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CNN.png?raw=true" tvg-chno="19" group-title="News & Weather",CNN | Event Stream
+https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/de/master.m3u8
+#EXTINF:-1 channel-id="3051" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="20" group-title="News & Weather",Estrella News | SP
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 channel-id="3052" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ETLive.png?raw=true" tvg-chno="21" group-title="News & Weather",ET Live Showbiz News
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1 channel-id="3053" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="22" group-title="News & Weather",Euronews
+https://csm-e-cetubiausw2live101-0ab2d16d68bb18f13.csm.tubi.video/csm/live/248551385.m3u8
+#EXTINF:-1 channel-id="3054" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" tvg-chno="23" group-title="News & Weather",Euronews | HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 channel-id="3055" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="24" group-title="News & Weather",Fox News Now
+https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3056" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="25" group-title="News & Weather",Fox Soul (Sc.1)
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3057" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="26" group-title="News & Weather",Fox Soul (Sc.2)
+https://csm-e-cetubiausw2live101-0f045a640757c30da.csm.tubi.video/csm/live/249707400.m3u8
+#EXTINF:-1 channel-id="3058" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" tvg-chno="27" group-title="News & Weather",France 24 | English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 channel-id="3059" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" tvg-chno="28" group-title="News & Weather",France 24 | French
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 channel-id="3060" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="29" group-title="News & Weather",fubo Sports Network
+https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/246665421.m3u8
+#EXTINF:-1 channel-id="3061" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" tvg-chno="30" group-title="News & Weather",Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 channel-id="3062" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="31" group-title="News & Weather",HD
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 channel-id="3063" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="32" group-title="News & Weather",KCPQ Fox Q13 Seattle
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3064" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="33" group-title="News & Weather",KDFW Fox 4 Dallas-FT-Worth
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3065" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="34" group-title="News & Weather",KMSP Fox 9 Minneapolis ST Paul
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3066" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="35" group-title="News & Weather",KRIV Fox 26 Houston
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3067" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="36" group-title="News & Weather",KTBC Fox 7 Austin
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3068" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="37" group-title="News & Weather",KTTV Fox 11 Los Angeles
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3069" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="38" group-title="News & Weather",KTVU Fox 2 San Francisco
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3070" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="39" group-title="News & Weather",KZAS Fox 10 Phoenix
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3071" radio="false" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" tvg-chno="40" group-title="News & Weather",NBC News NOW
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3072" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="41" group-title="News & Weather",NBC News Now
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/244416207.m3u8
+#EXTINF:-1 channel-id="3073" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="42" group-title="News & Weather",NBC News Now | HD
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+#EXTINF:-1 channel-id="3074" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="43" group-title="News & Weather",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3075" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" tvg-chno="44" group-title="News & Weather",News Net | HD
+https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
+#EXTINF:-1 channel-id="3076" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" tvg-chno="45" group-title="News & Weather",News Net | SD
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
+#EXTINF:-1 channel-id="3077" radio="false" tvg-id="I25.5.97119.zap2it.com" tvg-name="25.5" tvg-logo="https://od.lk/s/MF8yMjY2MjMwMDdf/NewsMaxTV.png" tvg-chno="46" group-title="News & Weather",NewsMax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 channel-id="3078" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" tvg-chno="47" group-title="News & Weather",NewsMax TV | Alternate
+https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 channel-id="3079" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" tvg-chno="48" group-title="News & Weather",NewsMax TV | Webstream
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 channel-id="3080" radio="false" tvg-id="55b179af994403942f3061d6" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" tvg-chno="49" group-title="News & Weather",NewsmaxTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3081" radio="false" tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-logo="https://od.lk/s/MF8yMjY2MjI1OTlf/NewsNet.png" tvg-chno="50" group-title="News & Weather",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 channel-id="3082" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Newsy_359x359.png?raw=true" tvg-chno="51" group-title="News & Weather",Newsy | Alternate
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8?ad=therokuchannel
+#EXTINF:-1 channel-id="3083" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Newsy_359x359.png?raw=true" tvg-chno="52" group-title="News & Weather",Newsy | Webstream
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 channel-id="3084" radio="false" tvg-id="5e7cf6c7b156d500078c5f44" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" tvg-chno="53" group-title="News & Weather",OAN Plus
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3085" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="54" group-title="News & Weather",People TV
+https://lnc-people-tv.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3086" radio="false" tvg-id="5268abcd0ce20a8472000114" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" tvg-chno="55" group-title="News & Weather",Pluto TV News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3087" radio="false" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" tvg-chno="56" group-title="News & Weather",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 channel-id="3088" radio="false" tvg-id="5d486acc34ceb37d3c458a64" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" tvg-chno="57" group-title="News & Weather",The First
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3089" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheWeatherChannel.png" tvg-chno="58" group-title="News & Weather",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 channel-id="3090" radio="false" tvg-id="5d695f7db53adf96b78e7ce3" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" tvg-chno="59" group-title="News & Weather",TODAY
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3091" radio="false" tvg-id="5459795fc9f133a519bc0bef" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" tvg-chno="60" group-title="News & Weather",Top Stories by Newsy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3092" radio="false" tvg-id="5331d5fb753499095a00045a" tvg-logo="https://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png" tvg-chno="61" group-title="News & Weather",TYT Network
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3093" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="62" group-title="News & Weather",WAGA Fox 5 Atlanta
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3094" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="63" group-title="News & Weather",Weather Nation
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
+#EXTINF:-1 channel-id="3095" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" tvg-chno="64" group-title="News & Weather",Weather Nation | Webstream
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 channel-id="3096" radio="false" tvg-id="I25.6.97120.zap2it.com" tvg-name="25.6" tvg-logo="https://od.lk/s/MF8yMjY2MjMxMDVf/WeatherNation.png" tvg-chno="65" group-title="News & Weather",WeatherNation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 channel-id="3097" radio="false" tvg-id="5bdce04659ee03633e758130" tvg-logo="https://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" tvg-chno="66" group-title="News & Weather",WeatherNation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="3098" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="67" group-title="News & Weather",WFLD FOX 32 Chicago
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3099" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="68" group-title="News & Weather",WITI Fox 6 Milwaukee
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3100" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="69" group-title="News & Weather",WJBK Fox 2 Detroit
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3101" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="70" group-title="News & Weather",WOFL Fox 35 Orlando
+https://lnc-wofl-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3102" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="71" group-title="News & Weather",WTTG Fox 5 Washington DC
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3103" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="72" group-title="News & Weather",WTVT Fox 13 Tampa Bay
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3104" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="73" group-title="News & Weather",WTXF Fox 29 Philadelphia
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="3105" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="74" group-title="News & Weather",WYNY Fox 5 New York
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8

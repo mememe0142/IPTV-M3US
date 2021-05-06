@@ -1,0 +1,25 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="3998" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="1" group-title="Radio - Kids",Build-A-Bear Radio
+https://stream.revma.ihrhls.com/zc8430/hls.m3u8
+#EXTINF:-1 channel-id="3999" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="2" group-title="Radio - Kids",Country Family
+https://stream.revma.ihrhls.com/zc7014/hls.m3u8
+#EXTINF:-1 channel-id="4000" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="3" group-title="Radio - Kids",Disney Country (Geo-USA)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RDCOUNTRYAAC64.m3u8
+#EXTINF:-1 channel-id="4001" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="4" group-title="Radio - Kids",Hit Nation Junior
+https://stream.revma.ihrhls.com/zc6395/hls.m3u8
+#EXTINF:-1 channel-id="4002" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="5" group-title="Radio - Kids",iHR Family Top 40 Countdown
+https://stream.revma.ihrhls.com/zc7013/hls.m3u8
+#EXTINF:-1 channel-id="4003" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="6" group-title="Radio - Kids",iHRadio | Kids Hits
+https://stream.revma.ihrhls.com/zc7223/hls.m3u8
+#EXTINF:-1 channel-id="4004" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="7" group-title="Radio - Kids",iMaginate Radio
+https://stream.revma.ihrhls.com/zc8523/hls.m3u8
+#EXTINF:-1 channel-id="4005" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="8" group-title="Radio - Kids",iRead2Know Radio
+https://stream.revma.ihrhls.com/zc7101/hls.m3u8
+#EXTINF:-1 channel-id="4006" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="9" group-title="Radio - Kids",Kids Club Radio
+https://stream.revma.ihrhls.com/zc6551/hls.m3u8
+#EXTINF:-1 channel-id="4007" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="10" group-title="Radio - Kids",Lullabies Radio
+https://stream.revma.ihrhls.com/zc7249/hls.m3u8
+#EXTINF:-1 channel-id="4008" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="11" group-title="Radio - Kids",Radio Disney (Geo-USA)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEY_IHEART.m3u8
+#EXTINF:-1 channel-id="4009" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-chno="12" group-title="Radio - Kids",Video-Clip | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/6-TeddyBearRadioCassette.mp4

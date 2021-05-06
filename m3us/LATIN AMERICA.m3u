@@ -1,0 +1,57 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2375" radio="false" tvg-logo="https://i.imgur.com/4YoW2Pt.png" tvg-chno="1" group-title="LATIN AMERICA",AMC
+http://181.198.153.175:5005/play/a07q/index.m3u8
+#EXTINF:-1 channel-id="2376" radio="false" tvg-logo="https://i.imgur.com/DQSHHTS.png" tvg-chno="2" group-title="LATIN AMERICA",America Teve
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+#EXTINF:-1 channel-id="2377" radio="false" tvg-logo="https://i.imgur.com/7PUTPqg.png" tvg-chno="3" group-title="LATIN AMERICA",Azteca America
+https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1 channel-id="2378" radio="false" tvg-logo="https://i.imgur.com/NENJFAa.png" tvg-chno="4" group-title="LATIN AMERICA",Cartelera Hollywood (Dual)
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
+#EXTINF:-1 channel-id="2379" radio="false" tvg-logo="https://i.imgur.com/GEUzSd4.png" tvg-chno="5" group-title="LATIN AMERICA",CGTN Español (Opt-1)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 channel-id="2380" radio="false" tvg-logo="https://i.imgur.com/GEUzSd4.png" tvg-chno="6" group-title="LATIN AMERICA",CGTN Español (Opt-2)
+http://livefr.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 channel-id="2381" radio="false" tvg-logo="https://i.imgur.com/yjqyXZo.png" tvg-chno="7" group-title="LATIN AMERICA",Discovery Science
+http://181.198.153.175:5003/play/a08d/index.m3u8
+#EXTINF:-1 channel-id="2382" radio="false" tvg-logo="https://i.imgur.com/kJcwaOU.png" tvg-chno="8" group-title="LATIN AMERICA",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 channel-id="2383" radio="false" tvg-logo="https://i.imgur.com/fDJpIpn.png" tvg-chno="9" group-title="LATIN AMERICA",ESPN (Opt-1)
+http://181.198.153.175:5004/play/a075/index.m3u8
+#EXTINF:-1 channel-id="2384" radio="false" tvg-logo="https://i.imgur.com/nrYLBkN.png" tvg-chno="10" group-title="LATIN AMERICA",ESPN 2 (Opt-1)
+http://181.198.153.175:5004/play/a076/index.m3u8
+#EXTINF:-1 channel-id="2385" radio="false" tvg-logo="https://i.imgur.com/QZY7wVj.png" tvg-chno="11" group-title="LATIN AMERICA",Fox Premium Family
+http://181.198.153.175:5005/play/a07s/index.m3u8
+#EXTINF:-1 channel-id="2386" radio="false" tvg-logo="https://i.imgur.com/aqogYb3.png" tvg-chno="12" group-title="LATIN AMERICA",Fox Sports 1
+http://181.198.153.175:5004/play/a077/index.m3u8
+#EXTINF:-1 channel-id="2387" radio="false" tvg-logo="https://i.imgur.com/aqogYb3.png" tvg-chno="13" group-title="LATIN AMERICA",Fox Sports 2
+http://181.198.153.175:5003/play/a08h/index.m3u8
+#EXTINF:-1 channel-id="2388" radio="false" tvg-logo="https://i.imgur.com/aqogYb3.png" tvg-chno="14" group-title="LATIN AMERICA",Fox Sports 3
+http://181.198.153.175:5007/play/a0a6/index.m3u8
+#EXTINF:-1 channel-id="2389" radio="false" tvg-logo="https://i.imgur.com/kV5t7Dg.png" tvg-chno="15" group-title="LATIN AMERICA",Frecuencia Musical (Opt-1)
+https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+#EXTINF:-1 channel-id="2390" radio="false" tvg-logo="https://i.imgur.com/kV5t7Dg.png" tvg-chno="16" group-title="LATIN AMERICA",Frecuencia Musical (Opt-2)
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="2391" radio="false" tvg-logo="https://i.imgur.com/YNPq3RW.png" tvg-chno="17" group-title="LATIN AMERICA",Gol TV
+http://181.198.153.175:5002/play/a044/index.m3u8
+#EXTINF:-1 channel-id="2392" radio="false" tvg-logo="https://i.imgur.com/AAN2Qyu.png" tvg-chno="18" group-title="LATIN AMERICA",HispanTV
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="2393" radio="false" tvg-logo="https://i.imgur.com/kDt8pzL.png" tvg-chno="19" group-title="LATIN AMERICA",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 channel-id="2394" radio="false" tvg-logo="https://i.imgur.com/woRgqEh.png" tvg-chno="20" group-title="LATIN AMERICA",Latido Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+#EXTINF:-1 channel-id="2395" radio="false" tvg-logo="https://i.imgur.com/7SjPZSp.png" tvg-chno="21" group-title="LATIN AMERICA",Locomotion TV
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 channel-id="2396" radio="false" tvg-logo="https://melodychannel.tv/images/logomeloddy.png" tvg-chno="22" group-title="LATIN AMERICA",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 channel-id="2397" radio="false" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-chno="23" group-title="LATIN AMERICA",MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="2398" radio="false" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" tvg-chno="24" group-title="LATIN AMERICA",RT Español
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="2399" radio="false" tvg-logo="https://i.imgur.com/ZdQpY9Q.png" tvg-chno="25" group-title="LATIN AMERICA",TCM
+http://181.198.153.175:5003/play/a091/index.m3u8
+#EXTINF:-1 channel-id="2400" radio="false" tvg-logo="https://i.imgur.com/fyPHgEH.png" tvg-chno="26" group-title="LATIN AMERICA",Telemusica
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:-1 channel-id="2401" radio="false" tvg-logo="https://i.imgur.com/bzNiQNs.png" tvg-chno="27" group-title="LATIN AMERICA",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 channel-id="2402" radio="false" tvg-logo="https://i.imgur.com/n5AjNup.png" tvg-chno="28" group-title="LATIN AMERICA",Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8

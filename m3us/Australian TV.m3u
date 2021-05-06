@@ -1,0 +1,91 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="315" radio="false" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" tvg-chno="1" group-title="Australian TV",2GB Sydney
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+#EXTINF:-1 channel-id="316" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" tvg-chno="2" group-title="Australian TV",2SM Sydney [Opt-1]
+http://144.140.228.109:8220/mp3/master.m3u8
+#EXTINF:-1 channel-id="317" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" tvg-chno="3" group-title="Australian TV",2SM Sydney [Opt-2]
+http://144.140.228.109:8220/mp3/master.m3u8
+#EXTINF:-1 channel-id="318" radio="false" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" tvg-chno="4" group-title="Australian TV",2UE Sydney [Opt-1]
+http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
+#EXTINF:-1 channel-id="319" radio="false" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" tvg-chno="5" group-title="Australian TV",2UE Sydney [Opt-2]
+http://shout01.stream.hostworks.com.au:/2ue_mp3/master.m3u8
+#EXTINF:-1 channel-id="320" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/1200px-3AW693logo.svg.png" tvg-chno="6" group-title="Australian TV",3AW 693 AM Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1 channel-id="321" radio="false" tvg-logo="https://i.imgur.com/V3GCQ5a.png" tvg-chno="7" group-title="Australian TV",4BC 1116 AM Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1 channel-id="322" radio="false" tvg-logo="https://pbs.twimg.com/profile_images/491755252043898881/cRRs4BMl.jpeg" tvg-chno="8" group-title="Australian TV",4CRB 89.3 FM
+http://stream.4crb.com:8000/stream/1/
+#EXTINF:-1 channel-id="323" radio="false" tvg-logo="https://i.imgur.com/iCiRwiD.png" tvg-chno="9" group-title="Australian TV",ABC
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
+#EXTINF:-1 channel-id="324" radio="false" tvg-logo="https://i.imgur.com/Z953ME3.png" tvg-chno="10" group-title="Australian TV",ABC Comedy
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
+#EXTINF:-1 channel-id="325" radio="false" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" tvg-chno="11" group-title="Australian TV",ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+#EXTINF:-1 channel-id="326" radio="false" tvg-logo="https://i.imgur.com/5SZ3kOS.png" tvg-chno="12" group-title="Australian TV",ABC Kids
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 channel-id="327" radio="false" tvg-logo="https://i.imgur.com/YlSO3MW.png" tvg-chno="13" group-title="Australian TV",ABC Me
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 channel-id="328" radio="false" tvg-logo="http://i.imgur.com/tzxsdyN.png" tvg-chno="14" group-title="Australian TV",ABC News
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+#EXTINF:-1 channel-id="329" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_ABC-News-24.png?raw=true" tvg-chno="15" group-title="Australian TV",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 channel-id="330" radio="false" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" tvg-chno="16" group-title="Australian TV",ABC Radio Canberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+#EXTINF:-1 channel-id="331" radio="false" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" tvg-chno="17" group-title="Australian TV",ABC Radio National
+http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
+#EXTINF:-1 channel-id="332" radio="false" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" tvg-chno="18" group-title="Australian TV",ABC Radio Sydney
+http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
+#EXTINF:-1 channel-id="333" radio="false" tvg-logo="https://i.imgur.com/ZeC0jE4.png" tvg-chno="19" group-title="Australian TV",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 channel-id="334" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_Aust-Channel.png?raw=true" tvg-chno="20" group-title="Australian TV",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 channel-id="335" radio="false" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-chno="21" group-title="Australian TV",Bloomberg Television
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 channel-id="336" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" tvg-chno="22" group-title="Australian TV",Bloomberg TV (AU)
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 channel-id="337" radio="false" tvg-logo="https://i.imgur.com/h4PmdaN.png" tvg-chno="23" group-title="Australian TV",C31 Melbourne
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="338" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Channel7AU_440x440.png?raw=true" tvg-chno="24" group-title="Australian TV",Ch. 7 Adelaide (Geo-AU)
+https://tbs.cdn.7livecloud.io/hls/live/ADE1/master_1500.m3u8
+#EXTINF:-1 channel-id="339" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Channel7AU_440x440.png?raw=true" tvg-chno="25" group-title="Australian TV",Ch. 7 Sydney (Geo-AU)
+https://npc.cdn.7livecloud.io/hls/live/SYD1/master_1500.m3u8
+#EXTINF:-1 channel-id="340" radio="false" tvg-logo="https://c44.com.au/wp-content/uploads/2018/04/44-Logo-Approved-clbkg-no-text.png" tvg-chno="26" group-title="Australian TV",Channel 44 Adelaide
+https://bdz47wk-lh.akamaihd.net/i/bdz47wk6avrot1_1@683133/master.m3u8?attributes=off&
+#EXTINF:-1 channel-id="341" radio="false" tvg-logo="https://www.coles.com.au/customer-service/www.coles.com.au/~/media/images/colesa/about-coles/coles-logo.jpg" tvg-chno="27" group-title="Australian TV",Coles Radio
+http://coles.streaming.novaentertainment.com.au/sa_nt
+#EXTINF:-1 channel-id="342" radio="false" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/28488.png" tvg-chno="28" group-title="Australian TV",Curtin FM 100.1
+http://192.99.17.12:6192/stream
+#EXTINF:-1 channel-id="343" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" tvg-chno="29" group-title="Australian TV",Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 channel-id="344" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" tvg-chno="30" group-title="Australian TV",Fox Sports
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 channel-id="345" radio="false" tvg-logo="https://i.imgur.com/vLdszKt.png" tvg-chno="31" group-title="Australian TV",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 channel-id="346" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_FoxSportsNews.png?raw=true" tvg-chno="32" group-title="Australian TV",Fox Sports News AU
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 channel-id="347" radio="false" tvg-logo="https://i.imgur.com/AaXbz6o.png" tvg-chno="33" group-title="Australian TV",Macquarie Sports Radio
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+#EXTINF:-1 channel-id="348" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Mix_102.3_logo.png" tvg-chno="34" group-title="Australian TV",Mix 102.3 Adelaide
+http://icy.arn.com.au/au_003_icy
+#EXTINF:-1 channel-id="349" radio="false" tvg-logo="http://valleychamber.com.au/wp-content/uploads/job-manager-uploads/company_logo/2016/04/Nova_1069_logo.svg.png" tvg-chno="35" group-title="Australian TV",Nova 106.9 Brisbane
+http://streaming.novaentertainment.com.au/nova1069
+#EXTINF:-1 channel-id="350" radio="false" tvg-logo="http://onlinetamilradio.in/img/puradsi-fm.jpg" tvg-chno="36" group-title="Australian TV",Puradsi FM Tamil
+http://107.182.231.73:9994/stream
+#EXTINF:-1 channel-id="351" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" tvg-chno="37" group-title="Australian TV",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="352" radio="false" tvg-logo="https://i.imgur.com/gRrfqSb.png" tvg-chno="38" group-title="Australian TV",Rainbow TV Chinese
+http://rtvcdn.com.au:8082/TV_GG.m3u8
+#EXTINF:-1 channel-id="353" radio="false" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" tvg-chno="39" group-title="Australian TV",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 channel-id="354" radio="false" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" tvg-chno="40" group-title="Australian TV",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 channel-id="355" radio="false" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" tvg-chno="41" group-title="Australian TV",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 channel-id="356" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/TerritoryFM.png" tvg-chno="42" group-title="Australian TV",Territory FM 104.1 Darwin
+http://streaming.territoryfm.com:8000/TerritoryFM
+#EXTINF:-1 channel-id="357" radio="false" tvg-logo="https://shop.rrr.org.au/assets/red-logo-detail-230-x-250.jpg" tvg-chno="43" group-title="Australian TV",Triple R 102.7 FM
+http://public-radio1.internode.on.net:8002/114
+#EXTINF:-1 channel-id="358" radio="false" tvg-logo="http://wtvperth.com.au/wp-content/uploads/2017/11/logo@2x.png" tvg-chno="44" group-title="Australian TV",WestTV
+http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_2/chunklist_dvr.m3u8
+#EXTINF:-1 channel-id="359" radio="false" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2018/11/your-money-image.png" tvg-chno="45" group-title="Australian TV",Your Money
+https://yourmoneylive.akamaized.net/hls/live/712194/yourmoneyau/live1280x720.m3u8?fluxustv.m3u8

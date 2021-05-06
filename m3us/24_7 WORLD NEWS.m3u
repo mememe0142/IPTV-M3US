@@ -1,0 +1,57 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="209" radio="false" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-chno="1" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 channel-id="210" radio="false" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-chno="2" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-2)
+http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="211" radio="false" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-chno="3" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+#EXTINF:-1 channel-id="212" radio="false" tvg-logo="http://www.isv.net/logos/arirangtv.png" tvg-chno="4" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-1)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 channel-id="213" radio="false" tvg-logo="http://www.isv.net/logos/arirangtv.png" tvg-chno="5" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-2)
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:-1 channel-id="214" radio="false" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" tvg-chno="6" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-1)
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="215" radio="false" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" tvg-chno="7" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-2)
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="216" radio="false" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" tvg-chno="8" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 channel-id="217" radio="false" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-chno="9" group-title="24/7 WORLD NEWS",Bloomberg TV Asia (HK)
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+#EXTINF:-1 channel-id="218" radio="false" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" tvg-chno="10" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 channel-id="219" radio="false" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" tvg-chno="11" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 channel-id="220" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-chno="12" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-1)
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="221" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-chno="13" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-2)
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+#EXTINF:-1 channel-id="222" radio="false" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-chno="14" group-title="24/7 WORLD NEWS",CNN (US) (Opt-1)
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="223" radio="false" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-chno="15" group-title="24/7 WORLD NEWS",CNN (US) (Opt-2)
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="224" radio="false" tvg-logo="https://i.imgur.com/kJcwaOU.png" tvg-chno="16" group-title="24/7 WORLD NEWS",DW News (DE)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 channel-id="225" radio="false" tvg-logo="https://i.imgur.com/cSZn7dD.png" tvg-chno="17" group-title="24/7 WORLD NEWS",Euronews (FR)
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+#EXTINF:-1 channel-id="226" radio="false" tvg-logo="https://i.imgur.com/gDOEH0A.png" tvg-chno="18" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 channel-id="227" radio="false" tvg-logo="https://i.imgur.com/gDOEH0A.png" tvg-chno="19" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 channel-id="228" radio="false" tvg-logo="https://i.imgur.com/mBTe5bW.png" tvg-chno="20" group-title="24/7 WORLD NEWS",NHK World (JP)
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+#EXTINF:-1 channel-id="229" radio="false" tvg-logo="https://i.imgur.com/4nNmJSW.png" tvg-chno="21" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-1)
+https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist.m3u8
+#EXTINF:-1 channel-id="230" radio="false" tvg-logo="https://i.imgur.com/4nNmJSW.png" tvg-chno="22" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-2)
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+#EXTINF:-1 channel-id="231" radio="false" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-chno="23" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-1)
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="232" radio="false" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" tvg-chno="24" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-2)
+http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="233" radio="false" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" tvg-chno="25" group-title="24/7 WORLD NEWS",RT UK (RU)
+https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="234" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" tvg-chno="26" group-title="24/7 WORLD NEWS",Sky News (UK)
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1 channel-id="235" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-chno="27" group-title="24/7 WORLD NEWS",TeleSUR (VE)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="236" radio="false" tvg-logo="https://i.imgur.com/PLpyQsV.png" tvg-chno="28" group-title="24/7 WORLD NEWS",TRT World (TR)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8

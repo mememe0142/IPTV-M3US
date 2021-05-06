@@ -1,0 +1,257 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="17953" radio="false" tvg-logo="https://i.imgur.com/uYyPF4S.jpg" tvg-chno="1" group-title="VisioTV",ABC WTAE 4 (Pittsburgh)
+https://linear-36.frequency.stream/dist/36/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="17954" radio="false" tvg-logo="https://i.imgur.com/QWzEbJZ.png" tvg-chno="2" group-title="VisioTV",Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioadventuresportsnetwork/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17955" radio="false" tvg-logo="https://i.imgur.com/OGPMBo3.jpg" tvg-chno="3" group-title="VisioTV",AFV
+https://linear-49.frequency.stream/dist/49/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="17956" radio="false" tvg-logo="https://i.imgur.com/OGPMBo3.jpg" tvg-chno="4" group-title="VisioTV",AFV ES
+https://linear-46.frequency.stream/dist/46/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="17957" radio="false" tvg-logo="https://i.imgur.com/OGPMBo3.jpg" tvg-chno="5" group-title="VisioTV",AFV Ultimate
+https://linear-12.frequency.stream/dist/12/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="17958" radio="false" tvg-logo="https://i.imgur.com/qa5K2PS.jpg" tvg-chno="6" group-title="VisioTV",Aljazeera
+https://linear-22.frequency.stream/dist/22/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="17959" radio="false" tvg-logo="https://i.imgur.com/bKJ1qTZ.jpg" tvg-chno="7" group-title="VisioTV",AMC Absolute Reality
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17960" radio="false" tvg-logo="https://i.imgur.com/bKJ1qTZ.jpg" tvg-chno="8" group-title="VisioTV",AMC All Weddings
+https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17961" radio="false" tvg-logo="https://i.imgur.com/bKJ1qTZ.jpg" tvg-chno="9" group-title="VisioTV",AMC IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17962" radio="false" tvg-logo="https://i.imgur.com/bKJ1qTZ.jpg" tvg-chno="10" group-title="VisioTV",AMC Presents
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17963" radio="false" tvg-logo="https://i.imgur.com/bKJ1qTZ.jpg" tvg-chno="11" group-title="VisioTV",AMC Rush by AMC
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17964" radio="false" tvg-logo="https://i.imgur.com/bKJ1qTZ.jpg" tvg-chno="12" group-title="VisioTV",AMC Slightly off
+https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17965" radio="false" tvg-logo="https://i.imgur.com/86N6nw6.png" tvg-chno="13" group-title="VisioTV",Ameba
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioameba/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17966" radio="false" tvg-logo="https://i.imgur.com/Ay5jSQn.png" tvg-chno="14" group-title="VisioTV",Ameritrade
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17967" radio="false" tvg-logo="https://i.imgur.com/GVUAzpd.jpg" tvg-chno="15" group-title="VisioTV",AWE Encore
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17968" radio="false" tvg-logo="https://i.imgur.com/TINNSbD.jpg" tvg-chno="16" group-title="VisioTV",Baeble Music
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziobaeblemusic/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17969" radio="false" tvg-logo="https://i.imgur.com/vDp4prN.png" tvg-chno="17" group-title="VisioTV",Bein Sports Xtra (USA only)
+https://bein-xtra-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17970" radio="false" tvg-logo="https://i.imgur.com/Y2jHj1t.jpg" tvg-chno="18" group-title="VisioTV",Black News Channel
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17971" radio="false" tvg-logo="https://i.imgur.com/SZnEPBe.png" tvg-chno="19" group-title="VisioTV",Bob Ross
+https://cinedigm-bobross-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17972" radio="false" tvg-logo="https://i.imgur.com/sOGD647.jpg" tvg-chno="20" group-title="VisioTV",Bonappetit
+https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17973" radio="false" tvg-logo="https://i.imgur.com/8iISxc5.jpg" tvg-chno="21" group-title="VisioTV",Brat TV
+https://brat-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17974" radio="false" tvg-logo="https://i.imgur.com/QSvPQgV.jpg" tvg-chno="22" group-title="VisioTV",Cheddar
+https://cheddar-cheddar-3.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17975" radio="false" tvg-logo="https://i.imgur.com/KxJ2lZb.png" tvg-chno="23" group-title="VisioTV",Chopper Town
+https://oneworlddigital-choppertown-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17976" radio="false" tvg-logo="https://i.imgur.com/KxJ2lZb.png" tvg-chno="24" group-title="VisioTV",ChopperTown
+https://linear-11.frequency.stream/dist/11/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="17977" radio="false" tvg-logo="https://i.imgur.com/u2dcHkR.png" tvg-chno="25" group-title="VisioTV",Circle TV
+https://circle-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17978" radio="false" tvg-logo="https://i.imgur.com/uF7uDVJ.png" tvg-chno="26" group-title="VisioTV",ConTV
+https://contv.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17979" radio="false" tvg-logo="https://i.imgur.com/9FXN6is.jpg" tvg-chno="27" group-title="VisioTV",Contv Anime
+https://contvanime-vizio-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 channel-id="17980" radio="false" tvg-logo="https://i.imgur.com/IRelqIA.jpg" tvg-chno="28" group-title="VisioTV",Deal or no Deal
+https://endemol-dealornodeal-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17981" radio="false" tvg-logo="https://i.imgur.com/YPeNoPV.jpg" tvg-chno="29" group-title="VisioTV",Demand Africa
+https://demandafrica-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17982" radio="false" tvg-logo="https://i.imgur.com/aPhgADo.jpg" tvg-chno="30" group-title="VisioTV",Divorce Court
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziodivorcecourt/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17983" radio="false" tvg-logo="https://i.imgur.com/kDopHm7.jpg" tvg-chno="31" group-title="VisioTV",DM TV
+https://dmtv-viziosc.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17984" radio="false" tvg-logo="https://i.imgur.com/BTjYBGH.png" tvg-chno="32" group-title="VisioTV",Doc TV
+https://wownow-doctv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17985" radio="false" tvg-logo="https://i.imgur.com/FGvBEmW.jpg" tvg-chno="33" group-title="VisioTV",Docurama
+https://docurama.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17986" radio="false" tvg-logo="https://i.imgur.com/aCLZgVN.jpg" tvg-chno="34" group-title="VisioTV",Dove Channel
+https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17987" radio="false" tvg-logo="https://i.imgur.com/n0gJo6G.jpg" tvg-chno="35" group-title="VisioTV",Dust
+https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17988" radio="false" tvg-logo="https://i.imgur.com/Knik6FD.jpg" tvg-chno="36" group-title="VisioTV",Estv
+https://estv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17989" radio="false" tvg-logo="https://i.imgur.com/G1kK5nI.jpg" tvg-chno="37" group-title="VisioTV",Fail Army
+https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17990" radio="false" tvg-logo="https://i.imgur.com/maXSxU2.jpg" tvg-chno="38" group-title="VisioTV",Fawesome
+https://fawesome-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="17991" radio="false" tvg-logo="https://i.imgur.com/PKL4gBF.jpg" tvg-chno="39" group-title="VisioTV",FilmRise classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17992" radio="false" tvg-logo="https://i.imgur.com/7htbphc.jpg" tvg-chno="40" group-title="VisioTV",FilmRise crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17993" radio="false" tvg-logo="https://i.imgur.com/0Nl1Pg9.png" tvg-chno="41" group-title="VisioTV",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17994" radio="false" tvg-logo="https://i.imgur.com/lCEeyfh.jpg" tvg-chno="42" group-title="VisioTV",FilmRise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17995" radio="false" tvg-logo="https://i.imgur.com/JOanYsW.jpg" tvg-chno="43" group-title="VisioTV",FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisescifi/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17996" radio="false" tvg-logo="https://i.imgur.com/aGg2CjW.png" tvg-chno="44" group-title="VisioTV",Flix Fling Now
+https://flixfling-flixflingnow-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17997" radio="false" tvg-logo="https://i.imgur.com/Tw2Cq4S.png" tvg-chno="45" group-title="VisioTV",Food
+https://food.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17998" radio="false" tvg-logo="https://i.imgur.com/ibudPiz.png" tvg-chno="46" group-title="VisioTV",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofood52/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="17999" radio="false" tvg-logo="https://i.imgur.com/3yRs6AC.jpg" tvg-chno="47" group-title="VisioTV",Fox News Now
+https://foxcorona-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18000" radio="false" tvg-logo="https://i.imgur.com/mtdxCvq.jpg" tvg-chno="48" group-title="VisioTV",Funny or Die
+https://funnyordie-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18001" radio="false" tvg-logo="https://i.imgur.com/hnP0wO8.png" tvg-chno="49" group-title="VisioTV",Gameshow Network
+https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18002" radio="false" tvg-logo="https://i.imgur.com/e8CGwXF.png" tvg-chno="50" group-title="VisioTV",Glewed TV
+https://glewedtv-3.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18003" radio="false" tvg-logo="https://i.imgur.com/AGzreGf.png" tvg-chno="51" group-title="VisioTV",Gravitas Movies
+https://gravitas-movies.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18004" radio="false" tvg-logo="https://i.imgur.com/yqp9ghc.png" tvg-chno="52" group-title="VisioTV",Gusto TV
+https://gustotv-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18005" radio="false" tvg-logo="https://i.imgur.com/U6bS8VB.png" tvg-chno="53" group-title="VisioTV",HallyPop
+https://hallypop.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18006" radio="false" tvg-logo="https://i.imgur.com/RmvFk6u.png" tvg-chno="54" group-title="VisioTV",HappyKids
+https://happykids-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18007" radio="false" tvg-logo="https://i.imgur.com/laPLTHv.png" tvg-chno="55" group-title="VisioTV",HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18008" radio="false" tvg-logo="https://i.imgur.com/27wcfQ5.jpg" tvg-chno="56" group-title="VisioTV",Hollywire
+https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18009" radio="false" tvg-logo="https://i.imgur.com/27wcfQ5.jpg" tvg-chno="57" group-title="VisioTV",Hollywire
+https://hollywire-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18010" radio="false" tvg-logo="https://i.imgur.com/IoIKM9H.jpg" tvg-chno="58" group-title="VisioTV",Hometalk
+https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18011" radio="false" tvg-logo="https://i.imgur.com/Qyc1kSR.jpg" tvg-chno="59" group-title="VisioTV",Ifood
+https://ifood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18012" radio="false" tvg-logo="https://i.imgur.com/Ofwz2ew.jpg" tvg-chno="60" group-title="VisioTV",Insight TV
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18013" radio="false" tvg-logo="https://i.imgur.com/Ofwz2ew.jpg" tvg-chno="61" group-title="VisioTV",Introuble
+https://introuble-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18014" radio="false" tvg-logo="https://i.imgur.com/Ofwz2ew.jpg" tvg-chno="62" group-title="VisioTV",inWonder
+https://inWonder-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18015" radio="false" tvg-logo="https://i.imgur.com/fbUCNJm.png" tvg-chno="63" group-title="VisioTV",Ion PLus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18016" radio="false" tvg-logo="https://i.imgur.com/IWSca00.png" tvg-chno="64" group-title="VisioTV",Ion Qubo
+https://ion-qubo-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18017" radio="false" tvg-logo="https://i.imgur.com/zdku77W.png" tvg-chno="65" group-title="VisioTV",Johnny Carson TV
+https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18018" radio="false" tvg-logo="https://i.imgur.com/96WFkcX.jpg" tvg-chno="66" group-title="VisioTV",Judge Faith
+https://judge-faith-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18019" radio="false" tvg-logo="https://i.imgur.com/QSC0AlF.jpg" tvg-chno="67" group-title="VisioTV",Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18020" radio="false" tvg-logo="https://i.imgur.com/IaHwGta.jpg" tvg-chno="68" group-title="VisioTV",Kidgamer TV
+https://studio71-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18021" radio="false" tvg-logo="https://i.imgur.com/OpCVaOD.png" tvg-chno="69" group-title="VisioTV",Kidoodle TV
+http://kidoodletv-kdtv-3.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18022" radio="false" tvg-logo="https://i.imgur.com/Q78o4jL.jpg" tvg-chno="70" group-title="VisioTV",Latido
+https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18023" radio="false" tvg-logo="https://i.imgur.com/NPZYxLe.png" tvg-chno="71" group-title="VisioTV",Latido Music
+https://vidaprimo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18024" radio="false" tvg-logo="https://i.imgur.com/7y0RLfS.png" tvg-chno="72" group-title="VisioTV",Law & Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziolawandcrime/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18025" radio="false" tvg-logo="https://i.imgur.com/RNmXHB3.png" tvg-chno="73" group-title="VisioTV",Magellan TV
+https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18026" radio="false" tvg-logo="https://i.imgur.com/QrHS09T.png" tvg-chno="74" group-title="VisioTV",MavTV
+https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18027" radio="false" tvg-logo="https://i.imgur.com/680ORlT.jpg" tvg-chno="75" group-title="VisioTV",Monster Movies
+https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18028" radio="false" tvg-logo="https://i.imgur.com/0HZ3pk8.jpg" tvg-chno="76" group-title="VisioTV",Moovimex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18029" radio="false" tvg-logo="https://i.imgur.com/XSeHCXR.jpg" tvg-chno="77" group-title="VisioTV",Mst3k
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18030" radio="false" tvg-logo="https://i.imgur.com/Vlz3zdL.png" tvg-chno="78" group-title="VisioTV",Mytime Movies
+https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 channel-id="18031" radio="false" tvg-logo="https://i.imgur.com/1uZ0Qhp.png" tvg-chno="79" group-title="VisioTV",Newsy
+https://newsy.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18032" radio="false" tvg-logo="https://i.imgur.com/hYWQDvZ.jpg" tvg-chno="80" group-title="VisioTV",NovelaClub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizionovelaclub/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18033" radio="false" tvg-logo="https://i.imgur.com/mHAtbz7.jpg" tvg-chno="81" group-title="VisioTV",Ohio 24/7 Now
+https://linear-38.frequency.stream/dist/38/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="18034" radio="false" tvg-logo="https://i.imgur.com/T2VbU3w.jpg" tvg-chno="82" group-title="VisioTV",One America News
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18035" radio="false" tvg-logo="https://i.imgur.com/EhppsKM.png" tvg-chno="83" group-title="VisioTV",Outside TV
+https://outside-tv-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18036" radio="false" tvg-logo="https://i.imgur.com/pKvncDf.jpg" tvg-chno="84" group-title="VisioTV",Pac 12 Insider
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18037" radio="false" tvg-logo="https://i.imgur.com/rbVa21a.jpg" tvg-chno="85" group-title="VisioTV",People are Awesome
+https://jukin-peopleareawesome-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18038" radio="false" tvg-logo="https://i.imgur.com/ohR4yUz.jpg" tvg-chno="86" group-title="VisioTV",Playworks
+https://playworksdigital-playworks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18039" radio="false" tvg-logo="https://i.imgur.com/P5icLYr.png" tvg-chno="87" group-title="VisioTV",Pocketwatch
+https://pocketwatch-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18040" radio="false" tvg-logo="https://i.imgur.com/6HuyPSe.jpg" tvg-chno="88" group-title="VisioTV",PopStar!TV
+https://linear-10.frequency.stream/dist/10/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="18041" radio="false" tvg-logo="https://i.imgur.com/GR9rekM.png" tvg-chno="89" group-title="VisioTV",Preview Channel
+https://previewchannel-previewchannel-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18042" radio="false" tvg-logo="https://i.imgur.com/wgnCVV7.png" tvg-chno="90" group-title="VisioTV",Qello Concerts
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18043" radio="false" tvg-logo="https://i.imgur.com/6BnXHBD.jpg" tvg-chno="91" group-title="VisioTV",Reel Truth Crime
+https://endemol-reeltruthcrime-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18044" radio="false" tvg-logo="https://i.imgur.com/bYSnSei.jpg" tvg-chno="92" group-title="VisioTV",Reelz
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18045" radio="false" tvg-logo="https://i.imgur.com/BpUcjXi.jpg" tvg-chno="93" group-title="VisioTV",Restore
+https://endemol-restore-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18046" radio="false" tvg-logo="https://i.imgur.com/RdSkUUE.jpg" tvg-chno="94" group-title="VisioTV",Revry
+https://linear-45.frequency.stream/dist/45/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="18047" radio="false" tvg-logo="https://i.imgur.com/G17uZfP.jpg" tvg-chno="95" group-title="VisioTV",Revry Movies
+https://linear-43.frequency.stream/dist/43/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="18048" radio="false" tvg-logo="https://i.imgur.com/7ExpIGU.png" tvg-chno="96" group-title="VisioTV",Revry Queer TV
+https://linear-44.frequency.stream/dist/44/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="18049" radio="false" tvg-logo="https://i.imgur.com/DGv3waB.jpg" tvg-chno="97" group-title="VisioTV",Rifftrax
+https://rifftrax-2.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18050" radio="false" tvg-logo="https://i.imgur.com/1oZ1Bjc.png" tvg-chno="98" group-title="VisioTV",Shout Factory
+https://shout-factory.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18051" radio="false" tvg-logo="https://i.imgur.com/mgDci4Z.jpg" tvg-chno="99" group-title="VisioTV",So Yummy
+https://soyummy-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18052" radio="false" tvg-logo="https://i.imgur.com/O2seMf6.png" tvg-chno="100" group-title="VisioTV",Sony Comedia
+https://sony-comedias-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18053" radio="false" tvg-logo="https://i.imgur.com/O2seMf6.png" tvg-chno="101" group-title="VisioTV",Sony Competencias
+https://sony-competencias-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18054" radio="false" tvg-logo="https://i.imgur.com/O2seMf6.png" tvg-chno="102" group-title="VisioTV",Sony Novelas
+https://sony-novelas-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18055" radio="false" tvg-logo="https://i.imgur.com/gtGOjr0.jpg" tvg-chno="103" group-title="VisioTV",Sportsgrid
+https://sportsgrid-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18056" radio="false" tvg-logo="https://i.imgur.com/bBABeS4.jpg" tvg-chno="104" group-title="VisioTV",Spotlight
+https://spotlight-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18057" radio="false" tvg-logo="https://i.imgur.com/G50gT6d.jpg" tvg-chno="105" group-title="VisioTV",Sqad
+https://sqad-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18058" radio="false" tvg-logo="https://i.imgur.com/yJFWHYC.png" tvg-chno="106" group-title="VisioTV",Stingray Ambience
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18059" radio="false" tvg-logo="https://i.imgur.com/QUkZQfX.png" tvg-chno="107" group-title="VisioTV",Super Simple Songs
+https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18060" radio="false" tvg-logo="https://i.imgur.com/i94h0Dk.jpg" tvg-chno="108" group-title="VisioTV",Tankee Gaming
+https://playworksdigital-tankee-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18061" radio="false" tvg-logo="https://i.imgur.com/BcIJ43p.jpg" tvg-chno="109" group-title="VisioTV",Tastemade
+http://tastemade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18062" radio="false" tvg-logo="https://i.imgur.com/aPgTDBG.jpg" tvg-chno="110" group-title="VisioTV",Tastemade Espanol
+https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18063" radio="false" tvg-logo="https://i.imgur.com/BcIJ43p.jpg" tvg-chno="111" group-title="VisioTV",Tastemade International
+https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18064" radio="false" tvg-logo="https://i.imgur.com/MggnqCd.jpg" tvg-chno="112" group-title="VisioTV",The Asylum
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotheasylum/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18065" radio="false" tvg-logo="https://i.imgur.com/v0f5fkl.jpg" tvg-chno="113" group-title="VisioTV",The Design Network
+https://thedesignnetwork-tdn-4.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18066" radio="false" tvg-logo="https://i.imgur.com/SLsjRww.jpg" tvg-chno="114" group-title="VisioTV",The First
+https://thefirst-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18067" radio="false" tvg-logo="https://i.imgur.com/H6UZvYP.jpg" tvg-chno="115" group-title="VisioTV",The Official LEGO Channel
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18068" radio="false" tvg-logo="https://i.imgur.com/PYH61PX.png" tvg-chno="116" group-title="VisioTV",The Pet Collective
+https://the-pet-collective-linear.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18069" radio="false" tvg-logo="https://i.imgur.com/VDoVnFz.jpg" tvg-chno="117" group-title="VisioTV",This Old House
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziothisoldhouse/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18070" radio="false" tvg-logo="https://i.imgur.com/9jPOfv4.jpg" tvg-chno="118" group-title="VisioTV",TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18071" radio="false" tvg-logo="https://i.imgur.com/NN62K7h.png" tvg-chno="119" group-title="VisioTV",Toon Goggles
+https://toon-goggles-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18072" radio="false" tvg-logo="https://i.imgur.com/BA0asHd.png" tvg-chno="120" group-title="VisioTV",USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18073" radio="false" tvg-logo="https://i.imgur.com/6DAuYxq.png" tvg-chno="121" group-title="VisioTV",USA Today Sportswire
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatodaysportswire/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="18074" radio="false" tvg-logo="https://i.imgur.com/qarLlaW.jpg" tvg-chno="122" group-title="VisioTV",Venn TV
+https://venntv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18075" radio="false" tvg-logo="https://i.imgur.com/bAKvOVw.jpg" tvg-chno="123" group-title="VisioTV",WeatherSpy
+https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18076" radio="false" tvg-logo="https://i.imgur.com/fnGkefz.jpg" tvg-chno="124" group-title="VisioTV",Whistle
+https://whistle-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18077" radio="false" tvg-logo="https://i.imgur.com/zMvqU5i.png" tvg-chno="125" group-title="VisioTV",Wipeout
+https://endemol-wipeoutxtra-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18078" radio="false" tvg-logo="https://i.imgur.com/wJIDE2s.jpg" tvg-chno="126" group-title="VisioTV",wow Now kids
+https://wownow-wownowkids-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="18079" radio="false" tvg-logo="https://i.imgur.com/wfuklsn.png" tvg-chno="127" group-title="VisioTV",Yahoo Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="18080" radio="false" tvg-logo="https://i.imgur.com/dG7uG6I.jpg" tvg-chno="128" group-title="VisioTV",Young Hollywood
+https://younghollywood-vizio.amagi.tv/playlist.m3u8

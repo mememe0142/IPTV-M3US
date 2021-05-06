@@ -1,0 +1,19 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2152" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" tvg-chno="1" group-title="Gameshows & Competitions",Buzzr | Webstream
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="2153" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" tvg-chno="2" group-title="Gameshows & Competitions",Buzzr | Source 2
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="2154" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" tvg-chno="3" group-title="Gameshows & Competitions",Game Show Central | Ch.1
+https://gsn-gameshowchannnel-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2155" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" tvg-chno="4" group-title="Gameshows & Competitions",Game Show Central | Ch.2
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2156" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" tvg-chno="5" group-title="Gameshows & Competitions",Deal or No Deal | Sinclair
+https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2157" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" tvg-chno="6" group-title="Gameshows & Competitions",Deal or No Deal | Source 2
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2158" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" tvg-chno="7" group-title="Gameshows & Competitions",Wipeout Xtra | HD
+https://endemol-wipeoutxtra-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2159" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FamilyFeud_755x755.png?raw=true" tvg-chno="8" group-title="Gameshows & Competitions",The Best of 'Family Feud'
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="2160" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalGotTalent_800x800.png?raw=true" tvg-chno="9" group-title="Gameshows & Competitions",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku

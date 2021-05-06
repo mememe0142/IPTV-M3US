@@ -1,0 +1,21 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2446" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="1" group-title="Local Now",Local Now | Newsy
+https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 channel-id="2447" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="2" group-title="Local Now",Local Now | Black History
+https://lnblackhistory-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_601b44c973e7842a025f72e4_lnblackhistory-live/playlist.m3u8
+#EXTINF:-1 channel-id="2448" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3" group-title="Local Now",Local Now | grvty
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:-1 channel-id="2449" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="4" group-title="Local Now",Local Now | WPT
+https://world-poker-tour.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f734a4a0a6064513436ac12_world-poker-tour/175.m3u8
+#EXTINF:-1 channel-id="2450" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="5" group-title="Local Now",Local Now | Gusto TV
+https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="2451" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="6" group-title="Local Now",Local Now | People TV
+https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="2452" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="7" group-title="Local Now",Local Now | VENN
+https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="2453" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="8" group-title="Local Now",Local Now | ConTV
+https://d2rir1vttzppfq.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="2454" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="9" group-title="Local Now",Local Now | Fireside
+https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+#EXTINF:-1 channel-id="2455" radio="false" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="10" group-title="Local Now",Local Now | Zen
+https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8

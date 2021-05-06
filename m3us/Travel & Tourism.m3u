@@ -1,0 +1,29 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="14439" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" tvg-chno="1" group-title="Travel & Tourism",Plymouth Rock TV | Source 1
+https://hls-cdn.tvstartup.net/barakyah-channel/live/plymouthtv/playlist.m3u8
+#EXTINF:-1 channel-id="14440" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" tvg-chno="2" group-title="Travel & Tourism",Plymouth Rock TV | Source 2
+https://hls-cdn.tvstartup.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
+#EXTINF:-1 channel-id="14441" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="3" group-title="Travel & Tourism",The Florida Channel
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+#EXTINF:-1 channel-id="14442" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="4" group-title="Travel & Tourism",30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1 channel-id="14443" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="5" group-title="Travel & Tourism",30A TV | Music
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 channel-id="14444" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="6" group-title="Travel & Tourism",30A TV | Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 channel-id="14445" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="7" group-title="Travel & Tourism",30A TV | SideWalks TV
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 channel-id="14446" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="8" group-title="Travel & Tourism",Beach TV | Gulf Coast
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="14447" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="9" group-title="Travel & Tourism",Beach TV | Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 channel-id="14448" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="10" group-title="Travel & Tourism",Beach TV | Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 channel-id="14449" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="11" group-title="Travel & Tourism",Beach TV | Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="14450" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="12" group-title="Travel & Tourism",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="14451" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="13" group-title="Travel & Tourism",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1 channel-id="14452" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" tvg-chno="14" group-title="Travel & Tourism",Bahamas | Island Luck
+https://iltv.cachefly.net/live/live/playlist.m3u8

@@ -1,0 +1,1089 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="14536" radio="false" tvg-chno="1" group-title="UK", BBC Four HD
+http://152.89.62.111:8080/m123/m123/57
+#EXTINF:-1 channel-id="14537" radio="false" tvg-chno="2" group-title="UK", Blaze HD
+http://152.89.62.111:8080/m123/m123/107
+#EXTINF:-1 channel-id="14538" radio="false" tvg-chno="3" group-title="UK", CBS Drama HD
+http://152.89.62.111:8080/m123/m123/67
+#EXTINF:-1 channel-id="14539" radio="false" tvg-chno="4" group-title="UK", Challenge HD
+http://152.89.62.111:8080/m123/m123/105
+#EXTINF:-1 channel-id="14540" radio="false" tvg-chno="5" group-title="UK",24/7 12 oz Mouse
+http://152.89.62.111:8080/m123/m123/185465
+#EXTINF:-1 channel-id="14541" radio="false" tvg-chno="6" group-title="UK",24/7 Empire
+http://152.89.62.111:8080/m123/m123/182327
+#EXTINF:-1 channel-id="14542" radio="false" tvg-chno="7" group-title="UK",4 MUSIC
+http://152.89.62.111:8080/m123/m123/128407
+#EXTINF:-1 channel-id="14543" radio="false" tvg-chno="8" group-title="UK",4 Seven HD
+http://152.89.62.111:8080/m123/m123/46
+#EXTINF:-1 channel-id="14544" radio="false" tvg-chno="9" group-title="UK",4 Seven HD BACKUP
+http://152.89.62.111:8080/m123/m123/54416
+#EXTINF:-1 channel-id="14545" radio="false" tvg-chno="10" group-title="UK",5 Star HD
+http://152.89.62.111:8080/m123/m123/86
+#EXTINF:-1 channel-id="14546" radio="false" tvg-chno="11" group-title="UK",5 Star HD BACKUP
+http://152.89.62.111:8080/m123/m123/54420
+#EXTINF:-1 channel-id="14547" radio="false" tvg-chno="12" group-title="UK",5 Star+1
+http://152.89.62.111:8080/m123/m123/161115
+#EXTINF:-1 channel-id="14548" radio="false" tvg-chno="13" group-title="UK",5 USA HD
+http://152.89.62.111:8080/m123/m123/31101
+#EXTINF:-1 channel-id="14549" radio="false" tvg-chno="14" group-title="UK",5 USA HD BACKUP
+http://152.89.62.111:8080/m123/m123/54421
+#EXTINF:-1 channel-id="14550" radio="false" tvg-chno="15" group-title="UK",5STAR+1
+http://152.89.62.111:8080/m123/m123/65599
+#EXTINF:-1 channel-id="14551" radio="false" tvg-chno="16" group-title="UK",5USA +1
+http://152.89.62.111:8080/m123/m123/161137
+#EXTINF:-1 channel-id="14552" radio="false" tvg-id="5USA+1 - UK" tvg-chno="17" group-title="UK",5USA+1
+http://152.89.62.111:8080/m123/m123/65600
+#EXTINF:-1 channel-id="14553" radio="false" tvg-logo="https://static-media.streema.com/media/cache/9a/bb/9abbabb2387286d36125195bda17bbb4.jpg" tvg-chno="18" group-title="UK",Abacus.fm - Mozart Piano
+http://178.33.232.106:8046/stream
+#EXTINF:-1 channel-id="14554" radio="false" tvg-logo="https://pbs.twimg.com/profile_images/884423852578787328/pWi2ihQa.jpg" tvg-chno="19" group-title="UK",Absolute Radio - 00s
+http://icy-e-bab-04-cr.sharp-stream.com:80/absolute00s.mp3
+#EXTINF:-1 channel-id="14555" radio="false" tvg-logo="https://pbs.twimg.com/profile_images/884423852578787328/pWi2ihQa.jpg" tvg-chno="20" group-title="UK",Absolute Radio - 90s
+http://icy-e-bab-04-cr.sharp-stream.com:80/absolute90s.mp3
+#EXTINF:-1 channel-id="14556" radio="false" tvg-logo="https://pbs.twimg.com/profile_images/884423852578787328/pWi2ihQa.jpg" tvg-chno="21" group-title="UK",Absolute Radio - Classic Rock
+http://icy-e-bab-04-cr.sharp-stream.com:80/absoluteclassicrock.mp3
+#EXTINF:-1 channel-id="14557" radio="false" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-chno="22" group-title="UK",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="14558" radio="false" tvg-id="Al Jazeera HD - UK" tvg-chno="23" group-title="UK",AL JAZEERA HD
+http://152.89.62.111:8080/m123/m123/131680
+#EXTINF:-1 channel-id="14559" radio="false" tvg-chno="24" group-title="UK",Alibi +1
+http://152.89.62.111:8080/m123/m123/161107
+#EXTINF:-1 channel-id="14560" radio="false" tvg-id="alibi HD - UK" tvg-chno="25" group-title="UK",Alibi HD
+http://152.89.62.111:8080/m123/m123/109
+#EXTINF:-1 channel-id="14561" radio="false" tvg-chno="26" group-title="UK",Alibi HD BACKUP
+http://152.89.62.111:8080/m123/m123/54422
+#EXTINF:-1 channel-id="14562" radio="false" tvg-id="AMC - Eastern Feed" tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" tvg-chno="27" group-title="UK",AMC
+http://84.22.33.254/unicast.amc/index.m3u8
+#EXTINF:-1 channel-id="14563" radio="false" tvg-chno="28" group-title="UK",AMC HD
+http://152.89.62.111:8080/m123/m123/31109
+#EXTINF:-1 channel-id="14564" radio="false" tvg-chno="29" group-title="UK",Animal Planet (Discovery +) FHD
+http://152.89.62.111:8080/m123/m123/178015
+#EXTINF:-1 channel-id="14565" radio="false" tvg-chno="30" group-title="UK",Animal Planet +1
+http://152.89.62.111:8080/m123/m123/161108
+#EXTINF:-1 channel-id="14566" radio="false" tvg-chno="31" group-title="UK",Animal Planet HD
+http://152.89.62.111:8080/m123/m123/34293
+#EXTINF:-1 channel-id="14567" radio="false" tvg-chno="32" group-title="UK",Animal Planet HD BACKUP
+http://152.89.62.111:8080/m123/m123/54454
+#EXTINF:-1 channel-id="14568" radio="false" tvg-logo="https://i.imgur.com/uxEkyBS.png" tvg-chno="33" group-title="UK",AsSalt TV
+https://stream.ecable.tv/asstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="14569" radio="false" tvg-chno="34" group-title="UK",BBC 2 HD
+http://152.89.62.111:8080/m123/m123/31033
+#EXTINF:-1 channel-id="14570" radio="false" tvg-chno="35" group-title="UK",BBC 2 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54409
+#EXTINF:-1 channel-id="14571" radio="false" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p01lclpc.jpg" tvg-chno="36" group-title="UK",BBC Asian Network
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio=320000.norewind.m3u8
+#EXTINF:-1 channel-id="14572" radio="false" tvg-chno="37" group-title="UK",BBC Earth HD
+http://152.89.62.111:8080/m123/m123/43234
+#EXTINF:-1 channel-id="14573" radio="false" tvg-chno="38" group-title="UK",BBC Entertainment HD
+http://152.89.62.111:8080/m123/m123/31111
+#EXTINF:-1 channel-id="14574" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" tvg-chno="39" group-title="UK",BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+#EXTINF:-1 channel-id="14575" radio="false" tvg-chno="40" group-title="UK",BBC NEWS
+http://152.89.62.111:8080/m123/m123/181431
+#EXTINF:-1 channel-id="14576" radio="false" tvg-chno="41" group-title="UK",BBC News HD
+http://152.89.62.111:8080/m123/m123/58
+#EXTINF:-1 channel-id="14577" radio="false" tvg-id="BBC One E Mid - UK" tvg-chno="42" group-title="UK",BBC ONE
+http://152.89.62.111:8080/m123/m123/181435
+#EXTINF:-1 channel-id="14578" radio="false" tvg-chno="43" group-title="UK",BBC ONE CAMBRIDGE
+http://152.89.62.111:8080/m123/m123/65495
+#EXTINF:-1 channel-id="14579" radio="false" tvg-chno="44" group-title="UK",BBC ONE CHANNEL ISLANDS
+http://152.89.62.111:8080/m123/m123/65496
+#EXTINF:-1 channel-id="14580" radio="false" tvg-id="BBC One East E - UK" tvg-chno="45" group-title="UK",BBC ONE EAST
+http://152.89.62.111:8080/m123/m123/65497
+#EXTINF:-1 channel-id="14581" radio="false" tvg-chno="46" group-title="UK",BBC ONE EAST MIDLANDS
+http://152.89.62.111:8080/m123/m123/65498
+#EXTINF:-1 channel-id="14582" radio="false" tvg-id="BBC One HD - UK" tvg-chno="47" group-title="UK",BBC One HD
+http://152.89.62.111:8080/m123/m123/31136
+#EXTINF:-1 channel-id="14583" radio="false" tvg-chno="48" group-title="UK",BBC One HD BACKUP
+http://152.89.62.111:8080/m123/m123/54408
+#EXTINF:-1 channel-id="14584" radio="false" tvg-chno="49" group-title="UK",BBC ONE LONDON
+http://152.89.62.111:8080/m123/m123/65499
+#EXTINF:-1 channel-id="14585" radio="false" tvg-id="BBC One NI HD - UK" tvg-chno="50" group-title="UK",BBC one NI
+http://152.89.62.111:8080/m123/m123/85502
+#EXTINF:-1 channel-id="14586" radio="false" tvg-chno="51" group-title="UK",BBC ONE NORTH EAST & CUMBRIA
+http://152.89.62.111:8080/m123/m123/65500
+#EXTINF:-1 channel-id="14587" radio="false" tvg-chno="52" group-title="UK",BBC ONE NORTH WEST
+http://152.89.62.111:8080/m123/m123/65501
+#EXTINF:-1 channel-id="14588" radio="false" tvg-chno="53" group-title="UK",BBC ONE NORTHERN IRELAND
+http://152.89.62.111:8080/m123/m123/101099
+#EXTINF:-1 channel-id="14589" radio="false" tvg-id="BBC One Oxford - UK" tvg-chno="54" group-title="UK",BBC ONE OXFORD
+http://152.89.62.111:8080/m123/m123/65502
+#EXTINF:-1 channel-id="14590" radio="false" tvg-chno="55" group-title="UK",BBC ONE SCOTLAND
+http://152.89.62.111:8080/m123/m123/181432
+#EXTINF:-1 channel-id="14591" radio="false" tvg-chno="56" group-title="UK",BBC ONE SCOTLAND
+http://152.89.62.111:8080/m123/m123/155511
+#EXTINF:-1 channel-id="14592" radio="false" tvg-chno="57" group-title="UK",BBC ONE SCOTLAND
+http://152.89.62.111:8080/m123/m123/65503
+#EXTINF:-1 channel-id="14593" radio="false" tvg-id="BBC One South - UK" tvg-chno="58" group-title="UK",BBC ONE SOUTH
+http://152.89.62.111:8080/m123/m123/65504
+#EXTINF:-1 channel-id="14594" radio="false" tvg-chno="59" group-title="UK",BBC One SOUTH EAST
+http://152.89.62.111:8080/m123/m123/65505
+#EXTINF:-1 channel-id="14595" radio="false" tvg-chno="60" group-title="UK",BBC ONE SOUTH WEST
+http://152.89.62.111:8080/m123/m123/65506
+#EXTINF:-1 channel-id="14596" radio="false" tvg-id="BBC One Wales - UK" tvg-chno="61" group-title="UK",BBC ONE WALES
+http://152.89.62.111:8080/m123/m123/65507
+#EXTINF:-1 channel-id="14597" radio="false" tvg-id="BBC One West - UK" tvg-chno="62" group-title="UK",BBC ONE WEST
+http://152.89.62.111:8080/m123/m123/65508
+#EXTINF:-1 channel-id="14598" radio="false" tvg-chno="63" group-title="UK",BBC ONE WEST MIDLANDS
+http://152.89.62.111:8080/m123/m123/65509
+#EXTINF:-1 channel-id="14599" radio="false" tvg-id="BBC One Yorks - UK" tvg-chno="64" group-title="UK",BBC ONE YORK
+http://152.89.62.111:8080/m123/m123/65510
+#EXTINF:-1 channel-id="14600" radio="false" tvg-chno="65" group-title="UK",BBC ONE YORKSHIRE & LINCOLNSHIRE
+http://152.89.62.111:8080/m123/m123/65511
+#EXTINF:-1 channel-id="14601" radio="false" tvg-chno="66" group-title="UK",BBC PARLIAMENT
+http://152.89.62.111:8080/m123/m123/65513
+#EXTINF:-1 channel-id="14602" radio="false" tvg-chno="67" group-title="UK",BBC Parliament HD
+http://152.89.62.111:8080/m123/m123/31112
+#EXTINF:-1 channel-id="14603" radio="false" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" tvg-chno="68" group-title="UK",BBC Radio 1 [Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1 channel-id="14604" radio="false" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" tvg-chno="69" group-title="UK",BBC Radio 1 [Opt-2]
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
+#EXTINF:-1 channel-id="14605" radio="false" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" tvg-chno="70" group-title="UK",BBC Radio 1 [Opt-3]
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
+#EXTINF:-1 channel-id="14606" radio="false" tvg-logo="https://madnews.files.wordpress.com/2010/11/1xtra.jpg" tvg-chno="71" group-title="UK",BBC Radio 1Xtra
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8
+#EXTINF:-1 channel-id="14607" radio="false" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" tvg-chno="72" group-title="UK",BBC Radio 2 [Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1 channel-id="14608" radio="false" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" tvg-chno="73" group-title="UK",BBC Radio 2 [Opt-2]
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+#EXTINF:-1 channel-id="14609" radio="false" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" tvg-chno="74" group-title="UK",BBC Radio 2 [Opt-3]
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
+#EXTINF:-1 channel-id="14610" radio="false" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" tvg-chno="75" group-title="UK",BBC Radio 3 [Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1 channel-id="14611" radio="false" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" tvg-chno="76" group-title="UK",BBC Radio 3 [Opt-2]
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
+#EXTINF:-1 channel-id="14612" radio="false" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" tvg-chno="77" group-title="UK",BBC Radio 4 [Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1 channel-id="14613" radio="false" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" tvg-chno="78" group-title="UK",BBC Radio 4 [Opt-2]
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1 channel-id="14614" radio="false" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" tvg-chno="79" group-title="UK",BBC Radio 4 [Opt-3]
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
+#EXTINF:-1 channel-id="14615" radio="false" tvg-logo="http://www.bbc.co.uk/staticarchive/44a9d03f481254b8be3b4ed19ed9ddaf36e442cc.jpg" tvg-chno="80" group-title="UK",BBC Radio 4Xtra
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
+#EXTINF:-1 channel-id="14616" radio="false" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" tvg-chno="81" group-title="UK",BBC Radio 5 Live [Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1 channel-id="14617" radio="false" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p01l80mb.jpg" tvg-chno="82" group-title="UK",BBC Radio 5 Live [Opt-2]
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.norewind.m3u8
+#EXTINF:-1 channel-id="14618" radio="false" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" tvg-chno="83" group-title="UK",BBC Radio 6 Music [Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1 channel-id="14619" radio="false" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" tvg-chno="84" group-title="UK",BBC Radio 6 Music [Opt-2]
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
+#EXTINF:-1 channel-id="14620" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/BBC_Radio_Cymru_logo.svg/1280px-BBC_Radio_Cymru_logo.svg.png" tvg-chno="85" group-title="UK",BBC Radio Cymru
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio=320000.norewind.m3u8
+#EXTINF:-1 channel-id="14621" radio="false" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p02bz7vv.jpg" tvg-chno="86" group-title="UK",BBC Radio Foyle
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio=320000.norewind.m3u8
+#EXTINF:-1 channel-id="14622" radio="false" tvg-logo="http://logowow.net/logos/uSCxKeDk6.png" tvg-chno="87" group-title="UK",BBC Radio Nan Gaidheal
+http://as-hds-ww-live.akamaized.net/pool_7/live/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio=320000.norewind.m3u8
+#EXTINF:-1 channel-id="14623" radio="false" tvg-logo="https://www.una.org.uk/sites/default/files/bbc-radio-ulster_0.gif" tvg-chno="88" group-title="UK",BBC Radio Ulster
+http://as-hds-ww-live.akamaized.net/pool_6/live/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio=320000.norewind.m3u8
+#EXTINF:-1 channel-id="14624" radio="false" tvg-chno="89" group-title="UK",BBC RED BUTTON
+http://152.89.62.111:8080/m123/m123/181433
+#EXTINF:-1 channel-id="14625" radio="false" tvg-chno="90" group-title="UK",BBC RED BUTTON 1
+http://152.89.62.111:8080/m123/m123/65514
+#EXTINF:-1 channel-id="14626" radio="false" tvg-id="BBC Scotland - UK" tvg-chno="91" group-title="UK",BBC SCOTLAND
+http://152.89.62.111:8080/m123/m123/181437
+#EXTINF:-1 channel-id="14627" radio="false" tvg-chno="92" group-title="UK",BBC Three HD
+http://152.89.62.111:8080/m123/m123/31114
+#EXTINF:-1 channel-id="14628" radio="false" tvg-id="BBC Two HD - UK" tvg-chno="93" group-title="UK",BBC TWO
+http://152.89.62.111:8080/m123/m123/181436
+#EXTINF:-1 channel-id="14629" radio="false" tvg-chno="94" group-title="UK",BBC TWO ENGLAND
+http://152.89.62.111:8080/m123/m123/65516
+#EXTINF:-1 channel-id="14630" radio="false" tvg-chno="95" group-title="UK",BBC TWO NORTHEN IRELAND
+http://152.89.62.111:8080/m123/m123/65518
+#EXTINF:-1 channel-id="14631" radio="false" tvg-chno="96" group-title="UK",BBC TWO SCOTLAND
+http://152.89.62.111:8080/m123/m123/65520
+#EXTINF:-1 channel-id="14632" radio="false" tvg-id="BBC Two Wales - UK" tvg-chno="97" group-title="UK",BBC TWO WALES
+http://152.89.62.111:8080/m123/m123/65522
+#EXTINF:-1 channel-id="14633" radio="false" tvg-chno="98" group-title="UK",BBC WORLD NEWS
+http://152.89.62.111:8080/m123/m123/181434
+#EXTINF:-1 channel-id="14634" radio="false" tvg-logo="http://static.radio.net/images/broadcasts/dd/cb/3476/c175.png" tvg-chno="99" group-title="UK",BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+#EXTINF:-1 channel-id="14635" radio="false" tvg-id="SHOxBET HDTV [East]" tvg-chno="100" group-title="UK",Bet HD
+http://152.89.62.111:8080/m123/m123/110
+#EXTINF:-1 channel-id="14636" radio="false" tvg-chno="101" group-title="UK",Bet HD BACKUP
+http://152.89.62.111:8080/m123/m123/54423
+#EXTINF:-1 channel-id="14637" radio="false" tvg-id="Bloomberg HD - UK" tvg-chno="102" group-title="UK",Bloomberg HD
+http://152.89.62.111:8080/m123/m123/46784
+#EXTINF:-1 channel-id="14638" radio="false" tvg-chno="103" group-title="UK",BLOOMBERG NEWS HD
+http://152.89.62.111:8080/m123/m123/133099
+#EXTINF:-1 channel-id="14639" radio="false" tvg-id="Bloomberg TV USA" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-chno="104" group-title="UK",Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 channel-id="14640" radio="false" tvg-id="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" tvg-chno="105" group-title="UK",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14641" radio="false" tvg-chno="106" group-title="UK",Boomerang +1
+http://152.89.62.111:8080/m123/m123/161109
+#EXTINF:-1 channel-id="14642" radio="false" tvg-id="Box Hits - UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" tvg-chno="107" group-title="UK",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 channel-id="14643" radio="false" tvg-chno="108" group-title="UK",Box Hits HD
+http://152.89.62.111:8080/m123/m123/45297
+#EXTINF:-1 channel-id="14644" radio="false" tvg-chno="109" group-title="UK",BOX OFFICE 1 HD
+http://152.89.62.111:8080/m123/m123/30302
+#EXTINF:-1 channel-id="14645" radio="false" tvg-chno="110" group-title="UK",BOX OFFICE 10 HD
+http://152.89.62.111:8080/m123/m123/30303
+#EXTINF:-1 channel-id="14646" radio="false" tvg-chno="111" group-title="UK",BOX OFFICE 2 HD
+http://152.89.62.111:8080/m123/m123/30304
+#EXTINF:-1 channel-id="14647" radio="false" tvg-chno="112" group-title="UK",BOX OFFICE 3 HD
+http://152.89.62.111:8080/m123/m123/30306
+#EXTINF:-1 channel-id="14648" radio="false" tvg-chno="113" group-title="UK",BOX OFFICE 4 HD
+http://152.89.62.111:8080/m123/m123/30308
+#EXTINF:-1 channel-id="14649" radio="false" tvg-chno="114" group-title="UK",BOX OFFICE 5 HD
+http://152.89.62.111:8080/m123/m123/30310
+#EXTINF:-1 channel-id="14650" radio="false" tvg-chno="115" group-title="UK",BOX OFFICE 6 HD
+http://152.89.62.111:8080/m123/m123/30307
+#EXTINF:-1 channel-id="14651" radio="false" tvg-chno="116" group-title="UK",BOX OFFICE 7 HD
+http://152.89.62.111:8080/m123/m123/30309
+#EXTINF:-1 channel-id="14652" radio="false" tvg-chno="117" group-title="UK",BOX OFFICE 8 HD
+http://152.89.62.111:8080/m123/m123/30311
+#EXTINF:-1 channel-id="14653" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Burst_Red_2012.jpg" tvg-chno="118" group-title="UK",Bristol University Radio Station (Burst)
+http://app-burst.services.bris.ac.uk:8000/Burst
+#EXTINF:-1 channel-id="14654" radio="false" tvg-logo="https://i.imgur.com/aUyuS7T.png" tvg-chno="119" group-title="UK",BritCom
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:-1 channel-id="14655" radio="false" tvg-logo="https://pbs.twimg.com/profile_images/718459531353788417/OMVjPAdi.jpg" tvg-chno="120" group-title="UK",Bucks 101 Radio
+http://206.190.136.140:9539/;stream
+#EXTINF:-1 channel-id="14656" radio="false" tvg-logo="http://burnsideradiouk.com/BurnsideRadioWhite.png" tvg-chno="121" group-title="UK",Burnside Radio 105.0 FM Swansea
+http://aries.streaming.zfast.co.uk:8084/burnsideradiouk.aac
+#EXTINF:-1 channel-id="14657" radio="false" tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" tvg-chno="122" group-title="UK",Capital 95.8 FM London
+http://media-sov.musicradio.com:80/CapitalMP3
+#EXTINF:-1 channel-id="14658" radio="false" tvg-chno="123" group-title="UK",Cartoon Network +1
+http://152.89.62.111:8080/m123/m123/161111
+#EXTINF:-1 channel-id="14659" radio="false" tvg-logo="https://i.imgur.com/pcpSfMD.png" tvg-chno="124" group-title="UK",CBBC
+http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="14660" radio="false" tvg-chno="125" group-title="UK",CBS DRAMA
+http://152.89.62.111:8080/m123/m123/181439
+#EXTINF:-1 channel-id="14661" radio="false" tvg-id="CBS Justice - UK" tvg-chno="126" group-title="UK",CBS Justice
+http://152.89.62.111:8080/m123/m123/181438
+#EXTINF:-1 channel-id="14662" radio="false" tvg-chno="127" group-title="UK",CBS Justice HD
+http://152.89.62.111:8080/m123/m123/111
+#EXTINF:-1 channel-id="14663" radio="false" tvg-id="CBS Reality+1 - UK" tvg-chno="128" group-title="UK",CBS REALITY
+http://152.89.62.111:8080/m123/m123/181440
+#EXTINF:-1 channel-id="14664" radio="false" tvg-chno="129" group-title="UK",CBS Reality +1
+http://152.89.62.111:8080/m123/m123/161110
+#EXTINF:-1 channel-id="14665" radio="false" tvg-chno="130" group-title="UK",CBS Reality HD
+http://152.89.62.111:8080/m123/m123/113
+#EXTINF:-1 channel-id="14666" radio="false" tvg-logo="https://i.imgur.com/4wbZUfh.png" tvg-chno="131" group-title="UK",CGTN Documentary (Opt-1)
+http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14667" radio="false" tvg-logo="https://i.imgur.com/4wbZUfh.png" tvg-chno="132" group-title="UK",CGTN Documentary (Opt-2)
+http://livefr.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 channel-id="14668" radio="false" tvg-logo="https://i.imgur.com/4wbZUfh.png" tvg-chno="133" group-title="UK",CGTN Documentary (Opt-3)
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+#EXTINF:-1 channel-id="14669" radio="false" tvg-chno="134" group-title="UK",CHALLENGE
+http://152.89.62.111:8080/m123/m123/181441
+#EXTINF:-1 channel-id="14670" radio="false" tvg-chno="135" group-title="UK",Challenge HD BACKUP
+http://152.89.62.111:8080/m123/m123/54424
+#EXTINF:-1 channel-id="14671" radio="false" tvg-id="dummy004" tvg-chno="136" group-title="UK",CHANNEL 4
+http://152.89.62.111:8080/m123/m123/181444
+#EXTINF:-1 channel-id="14672" radio="false" tvg-chno="137" group-title="UK",Channel 4 HD
+http://152.89.62.111:8080/m123/m123/70
+#EXTINF:-1 channel-id="14673" radio="false" tvg-chno="138" group-title="UK",Channel 4 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54414
+#EXTINF:-1 channel-id="14674" radio="false" tvg-chno="139" group-title="UK",CHANNEL 4 MIDLANDS
+http://152.89.62.111:8080/m123/m123/65553
+#EXTINF:-1 channel-id="14675" radio="false" tvg-chno="140" group-title="UK",CHANNEL 4 NORTH
+http://152.89.62.111:8080/m123/m123/65554
+#EXTINF:-1 channel-id="14676" radio="false" tvg-chno="141" group-title="UK",CHANNEL 4 NORTH 1
+http://152.89.62.111:8080/m123/m123/65556
+#EXTINF:-1 channel-id="14677" radio="false" tvg-chno="142" group-title="UK",CHANNEL 4 NORTHEN IRELAND
+http://152.89.62.111:8080/m123/m123/65558
+#EXTINF:-1 channel-id="14678" radio="false" tvg-chno="143" group-title="UK",CHANNEL 4 SCOTLAND
+http://152.89.62.111:8080/m123/m123/65560
+#EXTINF:-1 channel-id="14679" radio="false" tvg-chno="144" group-title="UK",CHANNEL 4 SOUTH AND EAST
+http://152.89.62.111:8080/m123/m123/65561
+#EXTINF:-1 channel-id="14680" radio="false" tvg-id="Channel 4+1 - UK" tvg-chno="145" group-title="UK",CHANNEL 4+1
+http://152.89.62.111:8080/m123/m123/138101
+#EXTINF:-1 channel-id="14681" radio="false" tvg-id="dummy005" tvg-chno="146" group-title="UK",CHANNEL 5
+http://152.89.62.111:8080/m123/m123/181445
+#EXTINF:-1 channel-id="14682" radio="false" tvg-chno="147" group-title="UK",Channel 5 +1
+http://152.89.62.111:8080/m123/m123/161113
+#EXTINF:-1 channel-id="14683" radio="false" tvg-chno="148" group-title="UK",Channel 5 HD
+http://152.89.62.111:8080/m123/m123/115
+#EXTINF:-1 channel-id="14684" radio="false" tvg-chno="149" group-title="UK",Channel 5 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54419
+#EXTINF:-1 channel-id="14685" radio="false" tvg-chno="150" group-title="UK",CHANNEL 5+1
+http://152.89.62.111:8080/m123/m123/65597
+#EXTINF:-1 channel-id="14686" radio="false" tvg-chno="151" group-title="UK",CHANNEL S
+http://152.89.62.111:8080/m123/m123/181442
+#EXTINF:-1 channel-id="14687" radio="false" tvg-id="Channels 24 - UK" tvg-chno="152" group-title="UK",CHANNELS 24
+http://152.89.62.111:8080/m123/m123/181443
+#EXTINF:-1 channel-id="14688" radio="false" tvg-chno="153" group-title="UK",Clubland TV HD
+http://152.89.62.111:8080/m123/m123/45306
+#EXTINF:-1 channel-id="14689" radio="false" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/12.png" tvg-chno="154" group-title="UK",Clyde 1 102.5 FM Glasgow [Low-1]
+http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1low.mp3
+#EXTINF:-1 channel-id="14690" radio="false" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/12.png" tvg-chno="155" group-title="UK",Clyde 1 102.5 FM Glasgow [Low-2]
+http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1low.aac
+#EXTINF:-1 channel-id="14691" radio="false" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/12.png" tvg-chno="156" group-title="UK",Clyde 1 102.5 FM Glasgow [Opt-1]
+http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1.mp3
+#EXTINF:-1 channel-id="14692" radio="false" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/12.png" tvg-chno="157" group-title="UK",Clyde 1 102.5 FM Glasgow [Opt-2]
+http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1.aac
+#EXTINF:-1 channel-id="14693" radio="false" tvg-logo="https://i.imgur.com/53EgUZN.png" tvg-chno="158" group-title="UK",CNBC Europe
+http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14694" radio="false" tvg-id="CNBC HD - UK" tvg-chno="159" group-title="UK",CNBC HD
+http://152.89.62.111:8080/m123/m123/23269
+#EXTINF:-1 channel-id="14695" radio="false" tvg-chno="160" group-title="UK",CNBC NEWS
+http://152.89.62.111:8080/m123/m123/133097
+#EXTINF:-1 channel-id="14696" radio="false" tvg-chno="161" group-title="UK",CNBC NEWS HD
+http://152.89.62.111:8080/m123/m123/133098
+#EXTINF:-1 channel-id="14697" radio="false" tvg-id="CNN HD" tvg-chno="162" group-title="UK",CNN HD
+http://152.89.62.111:8080/m123/m123/23270
+#EXTINF:-1 channel-id="14698" radio="false" tvg-id="COLORS - UK" tvg-chno="163" group-title="UK",COLORS
+http://152.89.62.111:8080/m123/m123/181446
+#EXTINF:-1 channel-id="14699" radio="false" tvg-id="Comedy Central (US) - Eastern Feed" tvg-chno="164" group-title="UK",COMEDY CENTRAL
+http://152.89.62.111:8080/m123/m123/181447
+#EXTINF:-1 channel-id="14700" radio="false" tvg-chno="165" group-title="UK",Comedy Central +1
+http://152.89.62.111:8080/m123/m123/161114
+#EXTINF:-1 channel-id="14701" radio="false" tvg-chno="166" group-title="UK",COMEDY CENTRAL EXTRA
+http://152.89.62.111:8080/m123/m123/181448
+#EXTINF:-1 channel-id="14702" radio="false" tvg-chno="167" group-title="UK",Comedy Central Extra HD
+http://152.89.62.111:8080/m123/m123/54426
+#EXTINF:-1 channel-id="14703" radio="false" tvg-id="Comedy Central HD - Eastern Feed" tvg-chno="168" group-title="UK",Comedy Central HD
+http://152.89.62.111:8080/m123/m123/62
+#EXTINF:-1 channel-id="14704" radio="false" tvg-chno="169" group-title="UK",Comedy Central HD BACKUP
+http://152.89.62.111:8080/m123/m123/54425
+#EXTINF:-1 channel-id="14705" radio="false" tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" tvg-chno="170" group-title="UK",Create and Craft
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14706" radio="false" tvg-chno="171" group-title="UK",Crime & Investigation HD
+http://152.89.62.111:8080/m123/m123/6
+#EXTINF:-1 channel-id="14707" radio="false" tvg-chno="172" group-title="UK",Crime & Investigation HD BACKUO
+http://152.89.62.111:8080/m123/m123/54453
+#EXTINF:-1 channel-id="14708" radio="false" tvg-logo="https://i.imgur.com/eD8zkhY.png" tvg-chno="173" group-title="UK",Cruise1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14709" radio="false" tvg-id="Dave HD - UK" tvg-chno="174" group-title="UK",Dave HD
+http://152.89.62.111:8080/m123/m123/74
+#EXTINF:-1 channel-id="14710" radio="false" tvg-chno="175" group-title="UK",Dave HD BACKUP
+http://152.89.62.111:8080/m123/m123/54427
+#EXTINF:-1 channel-id="14711" radio="false" tvg-chno="176" group-title="UK",Discovery +1
+http://152.89.62.111:8080/m123/m123/161116
+#EXTINF:-1 channel-id="14712" radio="false" tvg-chno="177" group-title="UK",Discovery Channel (Discovery +) FHD
+http://152.89.62.111:8080/m123/m123/178016
+#EXTINF:-1 channel-id="14713" radio="false" tvg-chno="178" group-title="UK",Discovery Channel HD
+http://152.89.62.111:8080/m123/m123/33884
+#EXTINF:-1 channel-id="14714" radio="false" tvg-chno="179" group-title="UK",Discovery Channel HD BACKUP
+http://152.89.62.111:8080/m123/m123/54455
+#EXTINF:-1 channel-id="14715" radio="false" tvg-chno="180" group-title="UK",Discovery DMAX (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178020
+#EXTINF:-1 channel-id="14716" radio="false" tvg-chno="181" group-title="UK",Discovery History (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178021
+#EXTINF:-1 channel-id="14717" radio="false" tvg-chno="182" group-title="UK",Discovery History +1
+http://152.89.62.111:8080/m123/m123/161118
+#EXTINF:-1 channel-id="14718" radio="false" tvg-chno="183" group-title="UK",Discovery History HD
+http://152.89.62.111:8080/m123/m123/33885
+#EXTINF:-1 channel-id="14719" radio="false" tvg-chno="184" group-title="UK",Discovery History HD BACKUP
+http://152.89.62.111:8080/m123/m123/54456
+#EXTINF:-1 channel-id="14720" radio="false" tvg-chno="185" group-title="UK",Discovery Science (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178022
+#EXTINF:-1 channel-id="14721" radio="false" tvg-chno="186" group-title="UK",Discovery Science +1
+http://152.89.62.111:8080/m123/m123/161119
+#EXTINF:-1 channel-id="14722" radio="false" tvg-chno="187" group-title="UK",Discovery Science HD
+http://152.89.62.111:8080/m123/m123/33887
+#EXTINF:-1 channel-id="14723" radio="false" tvg-chno="188" group-title="UK",Discovery Science HD BACKUP
+http://152.89.62.111:8080/m123/m123/54457
+#EXTINF:-1 channel-id="14724" radio="false" tvg-logo="https://i.imgur.com/zvLBL3b.png" tvg-chno="189" group-title="UK",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 channel-id="14725" radio="false" tvg-chno="190" group-title="UK",Discovery Turbo (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178023
+#EXTINF:-1 channel-id="14726" radio="false" tvg-chno="191" group-title="UK",Discovery Turbo +1
+http://152.89.62.111:8080/m123/m123/161117
+#EXTINF:-1 channel-id="14727" radio="false" tvg-chno="192" group-title="UK",Discovery Turbo HD
+http://152.89.62.111:8080/m123/m123/11
+#EXTINF:-1 channel-id="14728" radio="false" tvg-chno="193" group-title="UK",Discovery Turbo HD BACKUP
+http://152.89.62.111:8080/m123/m123/54459
+#EXTINF:-1 channel-id="14729" radio="false" tvg-id="DMAX - UK" tvg-chno="194" group-title="UK",DMAX
+http://152.89.62.111:8080/m123/m123/181449
+#EXTINF:-1 channel-id="14730" radio="false" tvg-chno="195" group-title="UK",DMAX +1
+http://152.89.62.111:8080/m123/m123/161140
+#EXTINF:-1 channel-id="14731" radio="false" tvg-chno="196" group-title="UK",DMAX HD
+http://152.89.62.111:8080/m123/m123/65
+#EXTINF:-1 channel-id="14732" radio="false" tvg-chno="197" group-title="UK",Drama +1
+http://152.89.62.111:8080/m123/m123/161120
+#EXTINF:-1 channel-id="14733" radio="false" tvg-id="Sky Drama HD - UK" tvg-chno="198" group-title="UK",Drama HD
+http://152.89.62.111:8080/m123/m123/66
+#EXTINF:-1 channel-id="14734" radio="false" tvg-chno="199" group-title="UK",Drama HD BACKUP
+http://152.89.62.111:8080/m123/m123/54428
+#EXTINF:-1 channel-id="14735" radio="false" tvg-logo="https://i.imgur.com/4qrQOr7.png" tvg-chno="200" group-title="UK",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14736" radio="false" tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" tvg-chno="201" group-title="UK",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
+#EXTINF:-1 channel-id="14737" radio="false" tvg-id="E! Entertainment USA - Eastern Feed" tvg-chno="202" group-title="UK",E! ENTERTAINMENT
+http://152.89.62.111:8080/m123/m123/181450
+#EXTINF:-1 channel-id="14738" radio="false" tvg-chno="203" group-title="UK",E! Entertainment HD
+http://152.89.62.111:8080/m123/m123/119
+#EXTINF:-1 channel-id="14739" radio="false" tvg-chno="204" group-title="UK",E! Entertainment HD BACKUP
+http://152.89.62.111:8080/m123/m123/54429
+#EXTINF:-1 channel-id="14740" radio="false" tvg-id="E4+1 - UK" tvg-chno="205" group-title="UK",E4
+http://152.89.62.111:8080/m123/m123/181451
+#EXTINF:-1 channel-id="14741" radio="false" tvg-id="E4 HD - UK" tvg-chno="206" group-title="UK",E4 HD
+http://152.89.62.111:8080/m123/m123/81
+#EXTINF:-1 channel-id="14742" radio="false" tvg-chno="207" group-title="UK",E4 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54430
+#EXTINF:-1 channel-id="14743" radio="false" tvg-id="E4+1 - UK" tvg-chno="208" group-title="UK",E4+1
+http://152.89.62.111:8080/m123/m123/65595
+#EXTINF:-1 channel-id="14744" radio="false" tvg-id="Eden - UK" tvg-chno="209" group-title="UK",EDEN
+http://152.89.62.111:8080/m123/m123/181452
+#EXTINF:-1 channel-id="14745" radio="false" tvg-chno="210" group-title="UK",Eden +1
+http://152.89.62.111:8080/m123/m123/161121
+#EXTINF:-1 channel-id="14746" radio="false" tvg-chno="211" group-title="UK",Eden HD
+http://152.89.62.111:8080/m123/m123/63
+#EXTINF:-1 channel-id="14747" radio="false" tvg-chno="212" group-title="UK",Eden HD BACKUP
+http://152.89.62.111:8080/m123/m123/54431
+#EXTINF:-1 channel-id="14748" radio="false" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple5/v4/2a/a1/1b/2aa11b5a-0b6d-06de-f04d-8249b0444ed5/source/512x512bb.jpg" tvg-chno="213" group-title="UK",Energy FM
+http://188.40.135.197:8434/listen.
+#EXTINF:-1 channel-id="14749" radio="false" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" tvg-chno="214" group-title="UK",English Club TV
+http://ott-cdn.ucom.am/s37/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14750" radio="false" tvg-chno="215" group-title="UK",Euro News HD
+http://152.89.62.111:8080/m123/m123/60
+#EXTINF:-1 channel-id="14751" radio="false" tvg-chno="216" group-title="UK",FILM 4
+http://152.89.62.111:8080/m123/m123/181454
+#EXTINF:-1 channel-id="14752" radio="false" tvg-chno="217" group-title="UK",Film 4 HD
+http://152.89.62.111:8080/m123/m123/31048
+#EXTINF:-1 channel-id="14753" radio="false" tvg-chno="218" group-title="UK",Film 4 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54418
+#EXTINF:-1 channel-id="14754" radio="false" tvg-chno="219" group-title="UK",Film4 +1
+http://152.89.62.111:8080/m123/m123/161148
+#EXTINF:-1 channel-id="14755" radio="false" tvg-id="Film4+1 - UK" tvg-chno="220" group-title="UK",FILM4+1
+http://152.89.62.111:8080/m123/m123/65596
+#EXTINF:-1 channel-id="14756" radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" tvg-chno="221" group-title="UK",Food Network
+http://95.86.32.7:999/food
+#EXTINF:-1 channel-id="14757" radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-chno="222" group-title="UK",FOOD NETWORK
+http://152.89.62.111:8080/m123/m123/181455
+#EXTINF:-1 channel-id="14758" radio="false" tvg-chno="223" group-title="UK",Food Network +1
+http://152.89.62.111:8080/m123/m123/161147
+#EXTINF:-1 channel-id="14759" radio="false" tvg-chno="224" group-title="UK",Food Network HD
+http://152.89.62.111:8080/m123/m123/124
+#EXTINF:-1 channel-id="14760" radio="false" tvg-chno="225" group-title="UK",FOOD XP
+http://152.89.62.111:8080/m123/m123/181457
+#EXTINF:-1 channel-id="14761" radio="false" tvg-chno="226" group-title="UK",FoodNetwork (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178014
+#EXTINF:-1 channel-id="14762" radio="false" tvg-chno="227" group-title="UK",FORCES TV
+http://152.89.62.111:8080/m123/m123/181456
+#EXTINF:-1 channel-id="14763" radio="false" tvg-id="FOX HD - UK" tvg-chno="228" group-title="UK",Fox HD
+http://152.89.62.111:8080/m123/m123/31052
+#EXTINF:-1 channel-id="14764" radio="false" tvg-id="Fox Sports Midwest - Nebraska" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" tvg-chno="229" group-title="UK",Fox Sports
+http://45.58.62.92:8080
+#EXTINF:-1 channel-id="14765" radio="false" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/06/Garden-County-Radio.jpg" tvg-chno="230" group-title="UK",Garden County Radio Dublin
+http://5.63.151.52:7044/stream
+#EXTINF:-1 channel-id="14766" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" tvg-chno="231" group-title="UK",Gemporia (Opt-1)
+https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
+#EXTINF:-1 channel-id="14767" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" tvg-chno="232" group-title="UK",Gemporia (Opt-2)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 channel-id="14768" radio="false" tvg-chno="233" group-title="UK",Ginx Gaming Channel HD
+http://152.89.62.111:8080/m123/m123/34291
+#EXTINF:-1 channel-id="14769" radio="false" tvg-id="GOLD - UK" tvg-chno="234" group-title="UK",GOLD
+http://152.89.62.111:8080/m123/m123/181458
+#EXTINF:-1 channel-id="14770" radio="false" tvg-chno="235" group-title="UK",Gold +1
+http://152.89.62.111:8080/m123/m123/161131
+#EXTINF:-1 channel-id="14771" radio="false" tvg-id="GOLD HD - UK" tvg-chno="236" group-title="UK",Gold HD
+http://152.89.62.111:8080/m123/m123/125
+#EXTINF:-1 channel-id="14772" radio="false" tvg-chno="237" group-title="UK",Gold HD BACKUP
+http://152.89.62.111:8080/m123/m123/54432
+#EXTINF:-1 channel-id="14773" radio="false" tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" tvg-chno="238" group-title="UK",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
+#EXTINF:-1 channel-id="14774" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Hfmlogo.jpg" tvg-chno="239" group-title="UK",Harborough FM 102.3 [AAC]
+http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
+#EXTINF:-1 channel-id="14775" radio="false" tvg-logo="http://hearme.fm/wp-content/uploads/2016/09/hearme-adjusted-border.jpg" tvg-chno="240" group-title="UK",HearMe.fm - Cool Jazz
+http://78.129.251.150:8181/stream
+#EXTINF:-1 channel-id="14776" radio="false" tvg-logo="http://static.radio.net/images/broadcasts/51/ec/9458/c175.png" tvg-chno="241" group-title="UK",Heart 106.2 FM London
+http://media-sov.musicradio.com:80/HeartLondonMP3
+#EXTINF:-1 channel-id="14777" radio="false" tvg-chno="242" group-title="UK",HGTV (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178025
+#EXTINF:-1 channel-id="14778" radio="false" tvg-chno="243" group-title="UK",HGTV HD
+http://152.89.62.111:8080/m123/m123/170324
+#EXTINF:-1 channel-id="14779" radio="false" tvg-id="HGTV+1 - UK" tvg-chno="244" group-title="UK",HGTV+1
+http://152.89.62.111:8080/m123/m123/161122
+#EXTINF:-1 channel-id="14780" radio="false" tvg-id="Hillsong - UK" tvg-chno="245" group-title="UK",Hillsong
+http://152.89.62.111:8080/m123/m123/180716
+#EXTINF:-1 channel-id="14781" radio="false" tvg-chno="246" group-title="UK",History 2 HD
+http://152.89.62.111:8080/m123/m123/33890
+#EXTINF:-1 channel-id="14782" radio="false" tvg-chno="247" group-title="UK",History 2 HD (BACKUP)
+http://152.89.62.111:8080/m123/m123/144509
+#EXTINF:-1 channel-id="14783" radio="false" tvg-chno="248" group-title="UK",History HD
+http://152.89.62.111:8080/m123/m123/33891
+#EXTINF:-1 channel-id="14784" radio="false" tvg-chno="249" group-title="UK",History HD BACKUP
+http://152.89.62.111:8080/m123/m123/4
+#EXTINF:-1 channel-id="14785" radio="false" tvg-chno="250" group-title="UK",Home & Health +1
+http://152.89.62.111:8080/m123/m123/161139
+#EXTINF:-1 channel-id="14786" radio="false" tvg-chno="251" group-title="UK",Home HD
+http://152.89.62.111:8080/m123/m123/31148
+#EXTINF:-1 channel-id="14787" radio="false" tvg-logo="https://i.imgur.com/CzsBnvf.png" tvg-chno="252" group-title="UK",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 channel-id="14788" radio="false" tvg-chno="253" group-title="UK",HORROR CHANNEL
+http://152.89.62.111:8080/m123/m123/181459
+#EXTINF:-1 channel-id="14789" radio="false" tvg-chno="254" group-title="UK",Horror Channel +1
+http://152.89.62.111:8080/m123/m123/161141
+#EXTINF:-1 channel-id="14790" radio="false" tvg-chno="255" group-title="UK",Horror Channel HD
+http://152.89.62.111:8080/m123/m123/127
+#EXTINF:-1 channel-id="14791" radio="false" tvg-chno="256" group-title="UK",Horse & Country UK
+http://152.89.62.111:8080/m123/m123/156619
+#EXTINF:-1 channel-id="14792" radio="false" tvg-chno="257" group-title="UK",ID (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178024
+#EXTINF:-1 channel-id="14793" radio="false" tvg-chno="258" group-title="UK",ID HD
+http://152.89.62.111:8080/m123/m123/31153
+#EXTINF:-1 channel-id="14794" radio="false" tvg-logo="https://i.imgur.com/PZM20Hh.png" tvg-chno="259" group-title="UK",Ideal World (Opt-1)
+http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
+#EXTINF:-1 channel-id="14795" radio="false" tvg-logo="https://i.imgur.com/PZM20Hh.png" tvg-chno="260" group-title="UK",Ideal World (Opt-2)
+http://live-isd.simplestreamcdn.com/idealworld/1/prog_index.m3u8
+#EXTINF:-1 channel-id="14796" radio="false" tvg-logo="https://i.imgur.com/PZM20Hh.png" tvg-chno="261" group-title="UK",Ideal World (Opt-3)
+http://live-isd.simplestreamcdn.com/idealworld/2/prog_index.m3u8
+#EXTINF:-1 channel-id="14797" radio="false" tvg-chno="262" group-title="UK",Insight TV HD
+http://152.89.62.111:8080/m123/m123/128
+#EXTINF:-1 channel-id="14798" radio="false" tvg-chno="263" group-title="UK",Investigation Discovery +1
+http://152.89.62.111:8080/m123/m123/161143
+#EXTINF:-1 channel-id="14799" radio="false" tvg-logo="http://www.islandfm.com/wp-content/uploads/2015/03/twitter_profile_pic.png" tvg-chno="264" group-title="UK",Island FM 104.7/93.7 Guernsey/Alderney
+http://edge-audio-03-gos2.sharp-stream.com:80/tindleisland.mp3
+#EXTINF:-1 channel-id="14800" radio="false" tvg-id="ITV2+1 - UK" tvg-logo="https://i.imgur.com/zbuuLmm.png" tvg-chno="265" group-title="UK",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 channel-id="14801" radio="false" tvg-chno="266" group-title="UK",ITV 1
+http://152.89.62.111:8080/m123/m123/181461
+#EXTINF:-1 channel-id="14802" radio="false" tvg-chno="267" group-title="UK",ITV 1 ANGLIA EAST
+http://152.89.62.111:8080/m123/m123/65523
+#EXTINF:-1 channel-id="14803" radio="false" tvg-chno="268" group-title="UK",ITV 1 ANGLIA WEST
+http://152.89.62.111:8080/m123/m123/65524
+#EXTINF:-1 channel-id="14804" radio="false" tvg-chno="269" group-title="UK",ITV 1 CENTRAL EAST
+http://152.89.62.111:8080/m123/m123/65526
+#EXTINF:-1 channel-id="14805" radio="false" tvg-chno="270" group-title="UK",ITV 1 CENTRAL WEST
+http://152.89.62.111:8080/m123/m123/65528
+#EXTINF:-1 channel-id="14806" radio="false" tvg-chno="271" group-title="UK",ITV 1 GRANADA
+http://152.89.62.111:8080/m123/m123/65530
+#EXTINF:-1 channel-id="14807" radio="false" tvg-chno="272" group-title="UK",ITV 1 HD
+http://152.89.62.111:8080/m123/m123/90
+#EXTINF:-1 channel-id="14808" radio="false" tvg-chno="273" group-title="UK",ITV 1 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54410
+#EXTINF:-1 channel-id="14809" radio="false" tvg-chno="274" group-title="UK",ITV 1 MERIDIAN EAST
+http://152.89.62.111:8080/m123/m123/65531
+#EXTINF:-1 channel-id="14810" radio="false" tvg-chno="275" group-title="UK",ITV 1 MERIDIAN TV NORTH
+http://152.89.62.111:8080/m123/m123/65533
+#EXTINF:-1 channel-id="14811" radio="false" tvg-chno="276" group-title="UK",ITV 1 MERIDIAN TV SOUTH
+http://152.89.62.111:8080/m123/m123/65535
+#EXTINF:-1 channel-id="14812" radio="false" tvg-chno="277" group-title="UK",ITV 1 TYNE TEES TV NORTH
+http://152.89.62.111:8080/m123/m123/65537
+#EXTINF:-1 channel-id="14813" radio="false" tvg-chno="278" group-title="UK",ITV 1 WALES
+http://152.89.62.111:8080/m123/m123/65539
+#EXTINF:-1 channel-id="14814" radio="false" tvg-chno="279" group-title="UK",ITV 1 WESTCOUNTRY SOUTH WEST
+http://152.89.62.111:8080/m123/m123/65540
+#EXTINF:-1 channel-id="14815" radio="false" tvg-chno="280" group-title="UK",ITV 1 WESTCOUNTRY WEST
+http://152.89.62.111:8080/m123/m123/65542
+#EXTINF:-1 channel-id="14816" radio="false" tvg-chno="281" group-title="UK",ITV 1 YORKSHIRE TV EAST
+http://152.89.62.111:8080/m123/m123/65544
+#EXTINF:-1 channel-id="14817" radio="false" tvg-chno="282" group-title="UK",ITV 1 YORKSHIRE WEST
+http://152.89.62.111:8080/m123/m123/65545
+#EXTINF:-1 channel-id="14818" radio="false" tvg-chno="283" group-title="UK",ITV 2
+http://152.89.62.111:8080/m123/m123/181462
+#EXTINF:-1 channel-id="14819" radio="false" tvg-chno="284" group-title="UK",ITV 2 HD
+http://152.89.62.111:8080/m123/m123/91
+#EXTINF:-1 channel-id="14820" radio="false" tvg-chno="285" group-title="UK",ITV 2 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54411
+#EXTINF:-1 channel-id="14821" radio="false" tvg-chno="286" group-title="UK",ITV 3
+http://152.89.62.111:8080/m123/m123/181463
+#EXTINF:-1 channel-id="14822" radio="false" tvg-chno="287" group-title="UK",ITV 3 HD
+http://152.89.62.111:8080/m123/m123/92
+#EXTINF:-1 channel-id="14823" radio="false" tvg-chno="288" group-title="UK",ITV 3 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54412
+#EXTINF:-1 channel-id="14824" radio="false" tvg-chno="289" group-title="UK",ITV 3+1
+http://152.89.62.111:8080/m123/m123/65591
+#EXTINF:-1 channel-id="14825" radio="false" tvg-chno="290" group-title="UK",ITV 4
+http://152.89.62.111:8080/m123/m123/181464
+#EXTINF:-1 channel-id="14826" radio="false" tvg-chno="291" group-title="UK",ITV 4 HD
+http://152.89.62.111:8080/m123/m123/93
+#EXTINF:-1 channel-id="14827" radio="false" tvg-chno="292" group-title="UK",ITV 4 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54413
+#EXTINF:-1 channel-id="14828" radio="false" tvg-chno="293" group-title="UK",ITV Be
+http://152.89.62.111:8080/m123/m123/181460
+#EXTINF:-1 channel-id="14829" radio="false" tvg-chno="294" group-title="UK",ITV Be HD
+http://152.89.62.111:8080/m123/m123/94
+#EXTINF:-1 channel-id="14830" radio="false" tvg-chno="295" group-title="UK",ITV BE+1
+http://152.89.62.111:8080/m123/m123/65593
+#EXTINF:-1 channel-id="14831" radio="false" tvg-chno="296" group-title="UK",ITV BORDER
+http://152.89.62.111:8080/m123/m123/65547
+#EXTINF:-1 channel-id="14832" radio="false" tvg-chno="297" group-title="UK",ITV TV
+http://152.89.62.111:8080/m123/m123/65549
+#EXTINF:-1 channel-id="14833" radio="false" tvg-chno="298" group-title="UK",ITV WALES
+http://152.89.62.111:8080/m123/m123/65551
+#EXTINF:-1 channel-id="14834" radio="false" tvg-chno="299" group-title="UK",ITV1+1
+http://152.89.62.111:8080/m123/m123/65589
+#EXTINF:-1 channel-id="14835" radio="false" tvg-id="ITV2+1 - UK" tvg-chno="300" group-title="UK",ITV2+1
+http://152.89.62.111:8080/m123/m123/65590
+#EXTINF:-1 channel-id="14836" radio="false" tvg-id="ITV4+1 - UK" tvg-chno="301" group-title="UK",ITV4+1
+http://152.89.62.111:8080/m123/m123/65592
+#EXTINF:-1 channel-id="14837" radio="false" tvg-chno="302" group-title="UK",Keep It Country TV HD
+http://152.89.62.111:8080/m123/m123/31040
+#EXTINF:-1 channel-id="14838" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/1200px-Kiss_Network_logo.svg.png" tvg-chno="303" group-title="UK",Kiss FM 100.0 London
+http://5.63.151.52:7038/stream
+#EXTINF:-1 channel-id="14839" radio="false" tvg-chno="304" group-title="UK",Kiss TV HD
+http://152.89.62.111:8080/m123/m123/45280
+#EXTINF:-1 channel-id="14840" radio="false" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" tvg-chno="305" group-title="UK",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 channel-id="14841" radio="false" tvg-id="Lifetime Movies HDTV [East]" tvg-chno="306" group-title="UK",LIFETIME
+http://152.89.62.111:8080/m123/m123/181465
+#EXTINF:-1 channel-id="14842" radio="false" tvg-chno="307" group-title="UK",Lifetime HD
+http://152.89.62.111:8080/m123/m123/129
+#EXTINF:-1 channel-id="14843" radio="false" tvg-chno="308" group-title="UK",Lifetime HD BACKUP
+http://152.89.62.111:8080/m123/m123/54433
+#EXTINF:-1 channel-id="14844" radio="false" tvg-id="Live 360 - UK" tvg-chno="309" group-title="UK",LIVE 360
+http://152.89.62.111:8080/m123/m123/181477
+#EXTINF:-1 channel-id="14845" radio="false" tvg-logo="http://i.imgur.com/0jitNAo.png" tvg-chno="310" group-title="UK",London (Abbey Road)
+https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
+#EXTINF:-1 channel-id="14846" radio="false" tvg-chno="311" group-title="UK",London Live HD
+http://152.89.62.111:8080/m123/m123/31159
+#EXTINF:-1 channel-id="14847" radio="false" tvg-chno="312" group-title="UK",Magic TV HD
+http://152.89.62.111:8080/m123/m123/31161
+#EXTINF:-1 channel-id="14848" radio="false" tvg-logo="https://www.promolyrics.com/sites/default/files/logosticker.png" tvg-chno="313" group-title="UK",Mondo Bongo Radio
+http://5.63.151.52:7082/stream
+#EXTINF:-1 channel-id="14849" radio="false" tvg-chno="314" group-title="UK",MORE 4
+http://152.89.62.111:8080/m123/m123/181466
+#EXTINF:-1 channel-id="14850" radio="false" tvg-chno="315" group-title="UK",More 4 HD
+http://152.89.62.111:8080/m123/m123/97
+#EXTINF:-1 channel-id="14851" radio="false" tvg-chno="316" group-title="UK",More 4 HD BACKUP
+http://152.89.62.111:8080/m123/m123/54417
+#EXTINF:-1 channel-id="14852" radio="false" tvg-id="More4+1 - UK" tvg-chno="317" group-title="UK",MORE4+1
+http://152.89.62.111:8080/m123/m123/65594
+#EXTINF:-1 channel-id="14853" radio="false" tvg-logo="https://i.imgur.com/XTv8pla.png" tvg-chno="318" group-title="UK",Motorsport TV
+http://45.58.62.92:8084
+#EXTINF:-1 channel-id="14854" radio="false" tvg-chno="319" group-title="UK",MTV 90's
+http://152.89.62.111:8080/m123/m123/157631
+#EXTINF:-1 channel-id="14855" radio="false" tvg-chno="320" group-title="UK",MTV Base HD
+http://152.89.62.111:8080/m123/m123/31165
+#EXTINF:-1 channel-id="14856" radio="false" tvg-chno="321" group-title="UK",MTV Classic HD
+http://152.89.62.111:8080/m123/m123/31167
+#EXTINF:-1 channel-id="14857" radio="false" tvg-id="MTV HD - UK" tvg-chno="322" group-title="UK",MTV HD
+http://152.89.62.111:8080/m123/m123/31163
+#EXTINF:-1 channel-id="14858" radio="false" tvg-chno="323" group-title="UK",MTV Hits HD
+http://152.89.62.111:8080/m123/m123/31169
+#EXTINF:-1 channel-id="14859" radio="false" tvg-chno="324" group-title="UK",MTV Music HD
+http://152.89.62.111:8080/m123/m123/31171
+#EXTINF:-1 channel-id="14860" radio="false" tvg-chno="325" group-title="UK",MTV One HD
+http://152.89.62.111:8080/m123/m123/45292
+#EXTINF:-1 channel-id="14861" radio="false" tvg-chno="326" group-title="UK",MTV Rocks HD
+http://152.89.62.111:8080/m123/m123/31172
+#EXTINF:-1 channel-id="14862" radio="false" tvg-logo="https://i.imgur.com/Wfqt9BS.png" tvg-chno="327" group-title="UK",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
+#EXTINF:-1 channel-id="14863" radio="false" tvg-logo="https://i.imgur.com/h0NNZ2U.png" tvg-chno="328" group-title="UK",Nat Geo Wild (Asia)
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+#EXTINF:-1 channel-id="14864" radio="false" tvg-logo="https://i.imgur.com/h0NNZ2U.png" tvg-chno="329" group-title="UK",Nat Geo Wild (MENA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+#EXTINF:-1 channel-id="14865" radio="false" tvg-chno="330" group-title="UK",Nat Geo Wild HD
+http://152.89.62.111:8080/m123/m123/33893
+#EXTINF:-1 channel-id="14866" radio="false" tvg-chno="331" group-title="UK",Nat Geo Wild HD BACKUP
+http://152.89.62.111:8080/m123/m123/54460
+#EXTINF:-1 channel-id="14867" radio="false" tvg-id="National Geographic US - Eastern" tvg-logo="https://i.imgur.com/bUepAp5.png" tvg-chno="332" group-title="UK",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
+#EXTINF:-1 channel-id="14868" radio="false" tvg-chno="333" group-title="UK",National Geographic HD
+http://152.89.62.111:8080/m123/m123/3
+#EXTINF:-1 channel-id="14869" radio="false" tvg-chno="334" group-title="UK",National Geographic HD BACKUP
+http://152.89.62.111:8080/m123/m123/59548
+#EXTINF:-1 channel-id="14870" radio="false" tvg-chno="335" group-title="UK",Nickelodeon +1
+http://152.89.62.111:8080/m123/m123/161123
+#EXTINF:-1 channel-id="14871" radio="false" tvg-chno="336" group-title="UK",NOW 70's
+http://152.89.62.111:8080/m123/m123/142078
+#EXTINF:-1 channel-id="14872" radio="false" tvg-chno="337" group-title="UK",NOW 80's
+http://152.89.62.111:8080/m123/m123/45299
+#EXTINF:-1 channel-id="14873" radio="false" tvg-chno="338" group-title="UK",Now 90's HD
+http://152.89.62.111:8080/m123/m123/45300
+#EXTINF:-1 channel-id="14874" radio="false" tvg-chno="339" group-title="UK",NOW MUSIC
+http://152.89.62.111:8080/m123/m123/142079
+#EXTINF:-1 channel-id="14875" radio="false" tvg-logo="https://static-media.streema.com/media/cache/eb/ea/ebea699f3147021165e0c5127cee9796.jpg" tvg-chno="340" group-title="UK",Original 106.8 FM Aberdeen
+http://stream4.radiomonitor.com/Original106
+#EXTINF:-1 channel-id="14876" radio="false" tvg-chno="341" group-title="UK",Paramount HD
+http://152.89.62.111:8080/m123/m123/100
+#EXTINF:-1 channel-id="14877" radio="false" tvg-id="Paramount+1 - UK" tvg-chno="342" group-title="UK",PARAMOUNT+1
+http://152.89.62.111:8080/m123/m123/65602
+#EXTINF:-1 channel-id="14878" radio="false" tvg-chno="343" group-title="UK",Pick TV +1
+http://152.89.62.111:8080/m123/m123/161146
+#EXTINF:-1 channel-id="14879" radio="false" tvg-chno="344" group-title="UK",Pick TV HD
+http://152.89.62.111:8080/m123/m123/98
+#EXTINF:-1 channel-id="14880" radio="false" tvg-logo="http://www.pigpenradio.org/listen/pigpen_radio_listen_logo.png" tvg-chno="345" group-title="UK",Pigpen Radio
+http://178.79.158.160:8213/;
+#EXTINF:-1 channel-id="14881" radio="false" tvg-logo="https://cdn-radiotime-logos.tunein.com/s255316d.png" tvg-chno="346" group-title="UK",Pirate Oldies Cornwall
+http://str1.sad.ukrd.com:80/pirateoldies-low
+#EXTINF:-1 channel-id="14882" radio="false" tvg-chno="347" group-title="UK",Pop +1
+http://152.89.62.111:8080/m123/m123/161133
+#EXTINF:-1 channel-id="14883" radio="false" tvg-chno="348" group-title="UK",POP MAX +1
+http://152.89.62.111:8080/m123/m123/161134
+#EXTINF:-1 channel-id="14884" radio="false" tvg-logo="http://www.premierchristianradio.com/var/ezdemo_site/storage/images/media/images/premier-christian-radio2/8520926-1-eng-GB/Premier-Christian-Radio_reference.jpg" tvg-chno="349" group-title="UK",Premier Christian Radio 1332 AM London
+http://icy-e-05-gos.sharp-stream.com/premiernationallow.mp3
+#EXTINF:-1 channel-id="14885" radio="false" tvg-id="QUEST HD - UK" tvg-chno="350" group-title="UK",QUEST
+http://152.89.62.111:8080/m123/m123/181467
+#EXTINF:-1 channel-id="14886" radio="false" tvg-chno="351" group-title="UK",Quest (Discovery +) FHD
+http://152.89.62.111:8080/m123/m123/178017
+#EXTINF:-1 channel-id="14887" radio="false" tvg-chno="352" group-title="UK",Quest +1
+http://152.89.62.111:8080/m123/m123/161138
+#EXTINF:-1 channel-id="14888" radio="false" tvg-id="QUEST HD - UK" tvg-chno="353" group-title="UK",Quest HD
+http://152.89.62.111:8080/m123/m123/101
+#EXTINF:-1 channel-id="14889" radio="false" tvg-chno="354" group-title="UK",QUEST HD(BACKUP)
+http://152.89.62.111:8080/m123/m123/140482
+#EXTINF:-1 channel-id="14890" radio="false" tvg-id="Quest Red - UK" tvg-chno="355" group-title="UK",QUEST RED
+http://152.89.62.111:8080/m123/m123/181468
+#EXTINF:-1 channel-id="14891" radio="false" tvg-chno="356" group-title="UK",Quest Red (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178018
+#EXTINF:-1 channel-id="14892" radio="false" tvg-chno="357" group-title="UK",Quest Red +1
+http://152.89.62.111:8080/m123/m123/161145
+#EXTINF:-1 channel-id="14893" radio="false" tvg-chno="358" group-title="UK",Quest Red HD
+http://152.89.62.111:8080/m123/m123/130
+#EXTINF:-1 channel-id="14894" radio="false" tvg-id="QVC" tvg-logo="https://i.imgur.com/jJhXY0I.png" tvg-chno="359" group-title="UK",QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 channel-id="14895" radio="false" tvg-logo="https://i.imgur.com/jJhXY0I.png" tvg-chno="360" group-title="UK",QVC +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 channel-id="14896" radio="false" tvg-logo="https://i.imgur.com/jJhXY0I.png" tvg-chno="361" group-title="UK",QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 channel-id="14897" radio="false" tvg-chno="362" group-title="UK",QVC Beauty HD
+http://152.89.62.111:8080/m123/m123/31185
+#EXTINF:-1 channel-id="14898" radio="false" tvg-logo="https://i.imgur.com/jJhXY0I.png" tvg-chno="363" group-title="UK",QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 channel-id="14899" radio="false" tvg-chno="364" group-title="UK",QVC Extra HD
+http://152.89.62.111:8080/m123/m123/31186
+#EXTINF:-1 channel-id="14900" radio="false" tvg-id="QVC HD" tvg-chno="365" group-title="UK",QVC HD
+http://152.89.62.111:8080/m123/m123/31184
+#EXTINF:-1 channel-id="14901" radio="false" tvg-logo="https://i.imgur.com/jJhXY0I.png" tvg-chno="366" group-title="UK",QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 channel-id="14902" radio="false" tvg-chno="367" group-title="UK",QVC Style HD
+http://152.89.62.111:8080/m123/m123/31188
+#EXTINF:-1 channel-id="14903" radio="false" tvg-logo="https://i1.sndcdn.com/avatars-000062668653-lkxvyg-t500x500.jpg" tvg-chno="368" group-title="UK",Radio Jahani
+http://shoutcast.wrn.org:8025/vor
+#EXTINF:-1 channel-id="14904" radio="false" tvg-logo="https://cdn-radiotime-logos.tunein.com/s13606d.png" tvg-chno="369" group-title="UK",Radio Paradise
+http://stream-uk1.radioparadise.com/mp3-192
+#EXTINF:-1 channel-id="14905" radio="false" tvg-id="ReallyTV" tvg-chno="370" group-title="UK",REALLY
+http://152.89.62.111:8080/m123/m123/181469
+#EXTINF:-1 channel-id="14906" radio="false" tvg-chno="371" group-title="UK",Really (Discovery +) SD
+http://152.89.62.111:8080/m123/m123/178026
+#EXTINF:-1 channel-id="14907" radio="false" tvg-logo="https://i.imgur.com/b98pyw6.png" tvg-chno="372" group-title="UK",Reel PX Action
+http://1586823379.rsc.cdn77.org/1586823379/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="14908" radio="false" tvg-logo="https://i.imgur.com/wu2uDZm.png" tvg-chno="373" group-title="UK",Reel PX Comedy
+http://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="14909" radio="false" tvg-logo="https://i.imgur.com/kCEQmLH.png" tvg-chno="374" group-title="UK",Reel PX Family
+http://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="14910" radio="false" tvg-logo="https://i.imgur.com/FHZpgMw.png" tvg-chno="375" group-title="UK",Reel PX Unlimited
+http://1002631743.rsc.cdn77.org/1002631743/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="14911" radio="false" tvg-logo="https://i.imgur.com/4Zi4S1H.png" tvg-chno="376" group-title="UK",Reel PX Vintage
+http://1946514655.rsc.cdn77.org/1946514655/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="14912" radio="false" tvg-logo="https://i.imgur.com/oxfXXlb.png" tvg-chno="377" group-title="UK",Reuters
+http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
+#EXTINF:-1 channel-id="14913" radio="false" tvg-chno="378" group-title="UK",RT News HD
+http://152.89.62.111:8080/m123/m123/31120
+#EXTINF:-1 channel-id="14914" radio="false" tvg-chno="379" group-title="UK",RTE 1 HD
+http://152.89.62.111:8080/m123/m123/54502
+#EXTINF:-1 channel-id="14915" radio="false" tvg-chno="380" group-title="UK",RTE 1 HD BACKUP
+http://152.89.62.111:8080/m123/m123/31126
+#EXTINF:-1 channel-id="14916" radio="false" tvg-chno="381" group-title="UK",RTE 2 HD
+http://152.89.62.111:8080/m123/m123/31127
+#EXTINF:-1 channel-id="14917" radio="false" tvg-chno="382" group-title="UK",RTE 2 HD BACKUP
+http://152.89.62.111:8080/m123/m123/118621
+#EXTINF:-1 channel-id="14918" radio="false" tvg-chno="383" group-title="UK",RTE JR HD
+http://152.89.62.111:8080/m123/m123/54503
+#EXTINF:-1 channel-id="14919" radio="false" tvg-chno="384" group-title="UK",RTE News HD
+http://152.89.62.111:8080/m123/m123/23272
+#EXTINF:-1 channel-id="14920" radio="false" tvg-chno="385" group-title="UK",RTE News Now HD
+http://152.89.62.111:8080/m123/m123/54501
+#EXTINF:-1 channel-id="14921" radio="false" tvg-chno="386" group-title="UK",Rte One +1 (down)
+http://152.89.62.111:8080/m123/m123/161125
+#EXTINF:-1 channel-id="14922" radio="false" tvg-id="S4C - UK" tvg-chno="387" group-title="UK",S4C
+http://152.89.62.111:8080/m123/m123/181470
+#EXTINF:-1 channel-id="14923" radio="false" tvg-logo="https://i.imgur.com/jEtKLkp.png" tvg-chno="388" group-title="UK",SciFi (Opt-1)
+http://84.22.33.254/unicast.scifi/index.m3u8
+#EXTINF:-1 channel-id="14924" radio="false" tvg-logo="https://i.imgur.com/IlSYKSK.png" tvg-chno="389" group-title="UK",Sheffield Live! 93.2 FM
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 channel-id="14925" radio="false" tvg-id="Showtime Showcase [East]" tvg-chno="390" group-title="UK",SHOWCASE
+http://152.89.62.111:8080/m123/m123/181471
+#EXTINF:-1 channel-id="14926" radio="false" tvg-logo="http://route2take.co.uk/wp-content/uploads/2014/10/silkBigger1.png" tvg-chno="391" group-title="UK",Silk 106.9 FM
+http://edge-audio-03-gos2.sharp-stream.com:80/tcsilk.mp3
+#EXTINF:-1 channel-id="14927" radio="false" tvg-id="Sky Arts HD - UK" tvg-chno="392" group-title="UK",Sky Arts HD
+http://152.89.62.111:8080/m123/m123/78
+#EXTINF:-1 channel-id="14928" radio="false" tvg-chno="393" group-title="UK",Sky Arts HD Backup
+http://152.89.62.111:8080/m123/m123/54436
+#EXTINF:-1 channel-id="14929" radio="false" tvg-id="Sky Atlantic HD - UK" tvg-chno="394" group-title="UK",Sky Atlantic HD
+http://152.89.62.111:8080/m123/m123/84
+#EXTINF:-1 channel-id="14930" radio="false" tvg-chno="395" group-title="UK",Sky Atlantic HD Backup
+http://152.89.62.111:8080/m123/m123/54441
+#EXTINF:-1 channel-id="14931" radio="false" tvg-chno="396" group-title="UK",Sky Cinema Action HD
+http://152.89.62.111:8080/m123/m123/31
+#EXTINF:-1 channel-id="14932" radio="false" tvg-chno="397" group-title="UK",Sky Cinema Action HD BACKUP
+http://152.89.62.111:8080/m123/m123/54443
+#EXTINF:-1 channel-id="14933" radio="false" tvg-chno="398" group-title="UK",SKY CINEMA ACTION SD
+http://152.89.62.111:8080/m123/m123/105838
+#EXTINF:-1 channel-id="14934" radio="false" tvg-chno="399" group-title="UK",Sky Cinema Animation HD
+http://152.89.62.111:8080/m123/m123/59547
+#EXTINF:-1 channel-id="14935" radio="false" tvg-chno="400" group-title="UK",SKY CINEMA ANIMATION SD
+http://152.89.62.111:8080/m123/m123/136362
+#EXTINF:-1 channel-id="14936" radio="false" tvg-chno="401" group-title="UK",Sky Cinema Comedy HD
+http://152.89.62.111:8080/m123/m123/28
+#EXTINF:-1 channel-id="14937" radio="false" tvg-chno="402" group-title="UK",Sky Cinema Comedy HD BACKUP
+http://152.89.62.111:8080/m123/m123/54444
+#EXTINF:-1 channel-id="14938" radio="false" tvg-chno="403" group-title="UK",SKY CINEMA COMEDY SD
+http://152.89.62.111:8080/m123/m123/105839
+#EXTINF:-1 channel-id="14939" radio="false" tvg-chno="404" group-title="UK",Sky Cinema Drama HD
+http://152.89.62.111:8080/m123/m123/39
+#EXTINF:-1 channel-id="14940" radio="false" tvg-chno="405" group-title="UK",Sky Cinema Drama HD BACKUP
+http://152.89.62.111:8080/m123/m123/54446
+#EXTINF:-1 channel-id="14941" radio="false" tvg-chno="406" group-title="UK",SKY CINEMA DRAMA SD
+http://152.89.62.111:8080/m123/m123/105837
+#EXTINF:-1 channel-id="14942" radio="false" tvg-chno="407" group-title="UK",Sky Cinema Family HD
+http://152.89.62.111:8080/m123/m123/33
+#EXTINF:-1 channel-id="14943" radio="false" tvg-chno="408" group-title="UK",Sky Cinema Family HD BACKUP
+http://152.89.62.111:8080/m123/m123/54447
+#EXTINF:-1 channel-id="14944" radio="false" tvg-chno="409" group-title="UK",SKY CINEMA FAMILY SD
+http://152.89.62.111:8080/m123/m123/105841
+#EXTINF:-1 channel-id="14945" radio="false" tvg-chno="410" group-title="UK",Sky Cinema Greats HD
+http://152.89.62.111:8080/m123/m123/33897
+#EXTINF:-1 channel-id="14946" radio="false" tvg-chno="411" group-title="UK",Sky Cinema Greats HD BACKUP
+http://152.89.62.111:8080/m123/m123/54448
+#EXTINF:-1 channel-id="14947" radio="false" tvg-chno="412" group-title="UK",SKY CINEMA GREATS SD
+http://152.89.62.111:8080/m123/m123/105842
+#EXTINF:-1 channel-id="14948" radio="false" tvg-chno="413" group-title="UK",Sky Cinema Hits HD
+http://152.89.62.111:8080/m123/m123/36901
+#EXTINF:-1 channel-id="14949" radio="false" tvg-chno="414" group-title="UK",Sky Cinema Hits HD BACKUP
+http://152.89.62.111:8080/m123/m123/54442
+#EXTINF:-1 channel-id="14950" radio="false" tvg-chno="415" group-title="UK",SKY CINEMA HITS SD
+http://152.89.62.111:8080/m123/m123/105843
+#EXTINF:-1 channel-id="14951" radio="false" tvg-chno="416" group-title="UK",Sky Cinema Premiere HD
+http://152.89.62.111:8080/m123/m123/33899
+#EXTINF:-1 channel-id="14952" radio="false" tvg-chno="417" group-title="UK",Sky Cinema Premiere HD BACKUP
+http://152.89.62.111:8080/m123/m123/54449
+#EXTINF:-1 channel-id="14953" radio="false" tvg-chno="418" group-title="UK",SKY CINEMA PREMIERE SD
+http://152.89.62.111:8080/m123/m123/105844
+#EXTINF:-1 channel-id="14954" radio="false" tvg-chno="419" group-title="UK",Sky Cinema Sci-Fi & Horror HD
+http://152.89.62.111:8080/m123/m123/33898
+#EXTINF:-1 channel-id="14955" radio="false" tvg-chno="420" group-title="UK",Sky Cinema Sci-Fi & Horror HD BACKUP
+http://152.89.62.111:8080/m123/m123/54450
+#EXTINF:-1 channel-id="14956" radio="false" tvg-chno="421" group-title="UK",SKY CINEMA SCI-FI & HORROR SD
+http://152.89.62.111:8080/m123/m123/105845
+#EXTINF:-1 channel-id="14957" radio="false" tvg-chno="422" group-title="UK",SKY CINEMA SELECT  SD
+http://152.89.62.111:8080/m123/m123/136361
+#EXTINF:-1 channel-id="14958" radio="false" tvg-chno="423" group-title="UK",Sky Cinema Select HD
+http://152.89.62.111:8080/m123/m123/33900
+#EXTINF:-1 channel-id="14959" radio="false" tvg-chno="424" group-title="UK",Sky Cinema Select HD BACKUP
+http://152.89.62.111:8080/m123/m123/54451
+#EXTINF:-1 channel-id="14960" radio="false" tvg-chno="425" group-title="UK",Sky Cinema Thriller HD
+http://152.89.62.111:8080/m123/m123/33901
+#EXTINF:-1 channel-id="14961" radio="false" tvg-chno="426" group-title="UK",Sky Cinema Thriller HD BACKUP
+http://152.89.62.111:8080/m123/m123/54452
+#EXTINF:-1 channel-id="14962" radio="false" tvg-chno="427" group-title="UK",SKY CINEMA THRILLER SD
+http://152.89.62.111:8080/m123/m123/105836
+#EXTINF:-1 channel-id="14963" radio="false" tvg-chno="428" group-title="UK",Sky Comedy FHD
+http://152.89.62.111:8080/m123/m123/141445
+#EXTINF:-1 channel-id="14964" radio="false" tvg-id="Sky Comedy HD - UK" tvg-chno="429" group-title="UK",Sky Comedy HD
+http://152.89.62.111:8080/m123/m123/141444
+#EXTINF:-1 channel-id="14965" radio="false" tvg-id="Sky Crime HD - UK" tvg-chno="430" group-title="UK",Sky Crime HD
+http://152.89.62.111:8080/m123/m123/45232
+#EXTINF:-1 channel-id="14966" radio="false" tvg-chno="431" group-title="UK",Sky Crime HD BACKUP
+http://152.89.62.111:8080/m123/m123/59546
+#EXTINF:-1 channel-id="14967" radio="false" tvg-chno="432" group-title="UK",Sky Documentaries HD
+http://152.89.62.111:8080/m123/m123/49699
+#EXTINF:-1 channel-id="14968" radio="false" tvg-id="Sky Nature HD - UK" tvg-chno="433" group-title="UK",Sky Nature HD
+http://152.89.62.111:8080/m123/m123/43249
+#EXTINF:-1 channel-id="14969" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" tvg-chno="434" group-title="UK",Sky News (HD)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 channel-id="14970" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" tvg-chno="435" group-title="UK",Sky News (Opt-1)
+http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14971" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" tvg-chno="436" group-title="UK",Sky News (Opt-2)
+http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="14972" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" tvg-chno="437" group-title="UK",Sky News (SD)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 channel-id="14973" radio="false" tvg-chno="438" group-title="UK",Sky News Arabia HD
+http://152.89.62.111:8080/m123/m123/31130
+#EXTINF:-1 channel-id="14974" radio="false" tvg-id="Sky News HD - UK" tvg-chno="439" group-title="UK",Sky News HD
+http://152.89.62.111:8080/m123/m123/61
+#EXTINF:-1 channel-id="14975" radio="false" tvg-id="Sky One - UK" tvg-chno="440" group-title="UK",SKY ONE
+http://152.89.62.111:8080/m123/m123/181472
+#EXTINF:-1 channel-id="14976" radio="false" tvg-id="Sky One HD - UK" tvg-chno="441" group-title="UK",Sky One HD
+http://152.89.62.111:8080/m123/m123/76
+#EXTINF:-1 channel-id="14977" radio="false" tvg-chno="442" group-title="UK",Sky One HD Backup
+http://152.89.62.111:8080/m123/m123/101039
+#EXTINF:-1 channel-id="14978" radio="false" tvg-chno="443" group-title="UK",Sky Replay HD
+http://152.89.62.111:8080/m123/m123/77
+#EXTINF:-1 channel-id="14979" radio="false" tvg-chno="444" group-title="UK",Sky Replay HD Backup (Coming Soon)
+http://152.89.62.111:8080/m123/m123/54435
+#EXTINF:-1 channel-id="14980" radio="false" tvg-chno="445" group-title="UK",Sky Witness +1
+http://152.89.62.111:8080/m123/m123/161149
+#EXTINF:-1 channel-id="14981" radio="false" tvg-id="Sky Witness HD - UK" tvg-chno="446" group-title="UK",SKY Witness HD
+http://152.89.62.111:8080/m123/m123/48665
+#EXTINF:-1 channel-id="14982" radio="false" tvg-id="Sky Witness HD - UK" tvg-chno="447" group-title="UK",Sky Witness HD
+http://152.89.62.111:8080/m123/m123/140481
+#EXTINF:-1 channel-id="14983" radio="false" tvg-id="Smithsonian Channel USA" tvg-chno="448" group-title="UK",SMITHSONIAN CHANNEL
+http://152.89.62.111:8080/m123/m123/181453
+#EXTINF:-1 channel-id="14984" radio="false" tvg-chno="449" group-title="UK",Sony Action +1
+http://152.89.62.111:8080/m123/m123/161151
+#EXTINF:-1 channel-id="14985" radio="false" tvg-chno="450" group-title="UK",Sony Channel +1
+http://152.89.62.111:8080/m123/m123/161153
+#EXTINF:-1 channel-id="14986" radio="false" tvg-chno="451" group-title="UK",Sony Classic +1
+http://152.89.62.111:8080/m123/m123/161152
+#EXTINF:-1 channel-id="14987" radio="false" tvg-chno="452" group-title="UK",Sony Movies +1
+http://152.89.62.111:8080/m123/m123/161132
+#EXTINF:-1 channel-id="14988" radio="false" tvg-id="SONY TV HD - UK" tvg-chno="453" group-title="UK",Sony TV HD
+http://152.89.62.111:8080/m123/m123/37682
+#EXTINF:-1 channel-id="14989" radio="false" tvg-chno="454" group-title="UK",Sony TV HD BACKUP
+http://152.89.62.111:8080/m123/m123/54437
+#EXTINF:-1 channel-id="14990" radio="false" tvg-logo="http://images.viaway.com/110834_640.png" tvg-chno="455" group-title="UK",Spectrum Radio 558 AM London
+http://edge-audio-03-gos2.sharp-stream.com:80/spectrum1.mp3
+#EXTINF:-1 channel-id="14991" radio="false" tvg-logo="https://www.foldedwing.co.uk/images/general/Station898fm.jpg" tvg-chno="456" group-title="UK",Station 89.8 FM
+http://station898fm.primcast.com:8998
+#EXTINF:-1 channel-id="14992" radio="false" tvg-id="GINXeSportsTV - UK" tvg-chno="457" group-title="UK",STV
+http://152.89.62.111:8080/m123/m123/101093
+#EXTINF:-1 channel-id="14993" radio="false" tvg-chno="458" group-title="UK",STV CENTRAL WEST
+http://152.89.62.111:8080/m123/m123/101094
+#EXTINF:-1 channel-id="14994" radio="false" tvg-chno="459" group-title="UK",STV NORTH
+http://152.89.62.111:8080/m123/m123/101095
+#EXTINF:-1 channel-id="14995" radio="false" tvg-logo="https://i.imgur.com/8Beeu4z.png" tvg-chno="460" group-title="UK",Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+#EXTINF:-1 channel-id="14996" radio="false" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" tvg-chno="461" group-title="UK",Superyacht TV
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:-1 channel-id="14997" radio="false" tvg-id="Syfy - Eastern Feed" tvg-chno="462" group-title="UK",SYFY
+http://152.89.62.111:8080/m123/m123/181473
+#EXTINF:-1 channel-id="14998" radio="false" tvg-id="Syfy HD - Eastern Feed" tvg-chno="463" group-title="UK",SyFy HD
+http://152.89.62.111:8080/m123/m123/31196
+#EXTINF:-1 channel-id="14999" radio="false" tvg-chno="464" group-title="UK",SyFy HD BACKUP
+http://152.89.62.111:8080/m123/m123/54438
+#EXTINF:-1 channel-id="15000" radio="false" tvg-chno="465" group-title="UK",TALKING PICTURES
+http://152.89.62.111:8080/m123/m123/141552
+#EXTINF:-1 channel-id="15001" radio="false" tvg-id="TCM Movies - UK" tvg-chno="466" group-title="UK",TCM
+http://152.89.62.111:8080/m123/m123/181474
+#EXTINF:-1 channel-id="15002" radio="false" tvg-chno="467" group-title="UK",TCM +1
+http://152.89.62.111:8080/m123/m123/161142
+#EXTINF:-1 channel-id="15003" radio="false" tvg-chno="468" group-title="UK",TCM HD
+http://152.89.62.111:8080/m123/m123/23261
+#EXTINF:-1 channel-id="15004" radio="false" tvg-chno="469" group-title="UK",TCM HD BACKUP
+http://152.89.62.111:8080/m123/m123/54439
+#EXTINF:-1 channel-id="15005" radio="false" tvg-chno="470" group-title="UK",TG4 HD BACKUP
+http://152.89.62.111:8080/m123/m123/37155
+#EXTINF:-1 channel-id="15006" radio="false" tvg-logo="https://i.imgur.com/55vA85a.png" tvg-chno="471" group-title="UK",The Boat Show
+https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
+#EXTINF:-1 channel-id="15007" radio="false" tvg-logo="https://i.imgur.com/gPaTIUd.png" tvg-chno="472" group-title="UK",The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 channel-id="15008" radio="false" tvg-chno="473" group-title="UK",The Box HD
+http://152.89.62.111:8080/m123/m123/45295
+#EXTINF:-1 channel-id="15009" radio="false" tvg-logo="https://www.invubu.com/radio/radio_images/logos/powerstationuk/powerstationuk-logo500.png" tvg-chno="474" group-title="UK",The Power Station
+http://5.63.151.52:7032/stream
+#EXTINF:-1 channel-id="15010" radio="false" tvg-chno="475" group-title="UK",Tiny POP +1
+http://152.89.62.111:8080/m123/m123/161150
+#EXTINF:-1 channel-id="15011" radio="false" tvg-id="TLC USA - Eastern" tvg-chno="476" group-title="UK",TLC
+http://152.89.62.111:8080/m123/m123/181475
+#EXTINF:-1 channel-id="15012" radio="false" tvg-chno="477" group-title="UK",TLC (Discovery +) FHD
+http://152.89.62.111:8080/m123/m123/178019
+#EXTINF:-1 channel-id="15013" radio="false" tvg-id="TLC HD - UK" tvg-chno="478" group-title="UK",TLC HD
+http://152.89.62.111:8080/m123/m123/31202
+#EXTINF:-1 channel-id="15014" radio="false" tvg-chno="479" group-title="UK",TLC HD (BACKUP)
+http://152.89.62.111:8080/m123/m123/140483
+#EXTINF:-1 channel-id="15015" radio="false" tvg-logo="https://i.imgur.com/Reb1RLr.png" tvg-chno="480" group-title="UK",Trace Sports Stars (No-Audio)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
+#EXTINF:-1 channel-id="15016" radio="false" tvg-chno="481" group-title="UK",Trace Vault HD
+http://152.89.62.111:8080/m123/m123/45294
+#EXTINF:-1 channel-id="15017" radio="false" tvg-chno="482" group-title="UK",TRAVEL CHANNEL
+http://152.89.62.111:8080/m123/m123/181476
+#EXTINF:-1 channel-id="15018" radio="false" tvg-chno="483" group-title="UK",Travel Channel HD
+http://152.89.62.111:8080/m123/m123/31204
+#EXTINF:-1 channel-id="15019" radio="false" tvg-chno="484" group-title="UK",Travel Channel HD BACKUP
+http://152.89.62.111:8080/m123/m123/54440
+#EXTINF:-1 channel-id="15020" radio="false" tvg-id="TRT World HD - UK" tvg-chno="485" group-title="UK",TRT WORLD
+http://152.89.62.111:8080/m123/m123/133100
+#EXTINF:-1 channel-id="15021" radio="false" tvg-chno="486" group-title="UK",Universal HD
+http://152.89.62.111:8080/m123/m123/106
+#EXTINF:-1 channel-id="15022" radio="false" tvg-chno="487" group-title="UK",UTV +1
+http://152.89.62.111:8080/m123/m123/161144
+#EXTINF:-1 channel-id="15023" radio="false" tvg-id="MUTV HD - UK" tvg-chno="488" group-title="UK",UTV HD
+http://152.89.62.111:8080/m123/m123/102216
+#EXTINF:-1 channel-id="15024" radio="false" tvg-chno="489" group-title="UK",UTV+1
+http://152.89.62.111:8080/m123/m123/65601
+#EXTINF:-1 channel-id="15025" radio="false" tvg-chno="490" group-title="UK",Virgin Media One HD
+http://152.89.62.111:8080/m123/m123/30312
+#EXTINF:-1 channel-id="15026" radio="false" tvg-chno="491" group-title="UK",Virgin Media ONE HD (Ireland)
+http://152.89.62.111:8080/m123/m123/55418
+#EXTINF:-1 channel-id="15027" radio="false" tvg-chno="492" group-title="UK",Virgin Media Three HD
+http://152.89.62.111:8080/m123/m123/30314
+#EXTINF:-1 channel-id="15028" radio="false" tvg-chno="493" group-title="UK",Virgin Media THREE HD (Ireland)
+http://152.89.62.111:8080/m123/m123/55420
+#EXTINF:-1 channel-id="15029" radio="false" tvg-chno="494" group-title="UK",Virgin Media Two HD
+http://152.89.62.111:8080/m123/m123/37710
+#EXTINF:-1 channel-id="15030" radio="false" tvg-chno="495" group-title="UK",Virgin Media TWO HD (Ireland)
+http://152.89.62.111:8080/m123/m123/55419
+#EXTINF:-1 channel-id="15031" radio="false" tvg-id="Saw" tvg-chno="496" group-title="UK",W
+http://152.89.62.111:8080/m123/m123/181478
+#EXTINF:-1 channel-id="15032" radio="false" tvg-id="W HD - UK" tvg-chno="497" group-title="UK",W HD
+http://152.89.62.111:8080/m123/m123/69
+#EXTINF:-1 channel-id="15033" radio="false" tvg-id="W+1 - UK" tvg-chno="498" group-title="UK",W+1
+http://152.89.62.111:8080/m123/m123/161126
+#EXTINF:-1 channel-id="15034" radio="false" tvg-logo="https://i.imgur.com/oitvOug.png" tvg-chno="499" group-title="UK",World of Free Sports
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 channel-id="15035" radio="false" tvg-id="YESTERDAY - UK" tvg-chno="500" group-title="UK",YESTERDAY
+http://152.89.62.111:8080/m123/m123/181479
+#EXTINF:-1 channel-id="15036" radio="false" tvg-chno="501" group-title="UK",Yesterday +1
+http://152.89.62.111:8080/m123/m123/161136
+#EXTINF:-1 channel-id="15037" radio="false" tvg-chno="502" group-title="UK",Yesterday HD
+http://152.89.62.111:8080/m123/m123/82
+#EXTINF:-1 channel-id="15038" radio="false" tvg-chno="503" group-title="UK",|UK| & Tv
+http://152.89.62.111:8080/m123/m123/110908
+#EXTINF:-1 channel-id="15039" radio="false" tvg-chno="504" group-title="UK",|UK| 92 News
+http://152.89.62.111:8080/m123/m123/110935
+#EXTINF:-1 channel-id="15040" radio="false" tvg-chno="505" group-title="UK",|UK| AajTak News
+http://152.89.62.111:8080/m123/m123/110938
+#EXTINF:-1 channel-id="15041" radio="false" tvg-chno="506" group-title="UK",|UK| Aastha
+http://152.89.62.111:8080/m123/m123/110946
+#EXTINF:-1 channel-id="15042" radio="false" tvg-chno="507" group-title="UK",|UK| Ahlulbayt Tv
+http://152.89.62.111:8080/m123/m123/110945
+#EXTINF:-1 channel-id="15043" radio="false" tvg-chno="508" group-title="UK",|UK| Akaal Tv
+http://152.89.62.111:8080/m123/m123/110924
+#EXTINF:-1 channel-id="15044" radio="false" tvg-chno="509" group-title="UK",|UK| Ary Family
+http://152.89.62.111:8080/m123/m123/110919
+#EXTINF:-1 channel-id="15045" radio="false" tvg-chno="510" group-title="UK",|UK| Ary Qtv
+http://152.89.62.111:8080/m123/m123/110939
+#EXTINF:-1 channel-id="15046" radio="false" tvg-chno="511" group-title="UK",|UK| Ary World
+http://152.89.62.111:8080/m123/m123/110934
+#EXTINF:-1 channel-id="15047" radio="false" tvg-chno="512" group-title="UK",|UK| B4u Movies
+http://152.89.62.111:8080/m123/m123/110914
+#EXTINF:-1 channel-id="15048" radio="false" tvg-chno="513" group-title="UK",|UK| B4u Music
+http://152.89.62.111:8080/m123/m123/110917
+#EXTINF:-1 channel-id="15049" radio="false" tvg-chno="514" group-title="UK",|UK| Brit Asia
+http://152.89.62.111:8080/m123/m123/110918
+#EXTINF:-1 channel-id="15050" radio="false" tvg-chno="515" group-title="UK",|UK| Channel 44
+http://152.89.62.111:8080/m123/m123/110933
+#EXTINF:-1 channel-id="15051" radio="false" tvg-chno="516" group-title="UK",|UK| Color TV
+http://152.89.62.111:8080/m123/m123/110907
+#EXTINF:-1 channel-id="15052" radio="false" tvg-chno="517" group-title="UK",|UK| Colors CinePlex
+http://152.89.62.111:8080/m123/m123/110913
+#EXTINF:-1 channel-id="15053" radio="false" tvg-chno="518" group-title="UK",|UK| Colors Rishtey Europe
+http://152.89.62.111:8080/m123/m123/110909
+#EXTINF:-1 channel-id="15054" radio="false" tvg-chno="519" group-title="UK",|UK| Duniya News
+http://152.89.62.111:8080/m123/m123/110931
+#EXTINF:-1 channel-id="15055" radio="false" tvg-chno="520" group-title="UK",|UK| Geo Kahani
+http://152.89.62.111:8080/m123/m123/110926
+#EXTINF:-1 channel-id="15056" radio="false" tvg-chno="521" group-title="UK",|UK| Geo News
+http://152.89.62.111:8080/m123/m123/110930
+#EXTINF:-1 channel-id="15057" radio="false" tvg-chno="522" group-title="UK",|UK| Geo Tv
+http://152.89.62.111:8080/m123/m123/110925
+#EXTINF:-1 channel-id="15058" radio="false" tvg-chno="523" group-title="UK",|UK| Hidayat Tv
+http://152.89.62.111:8080/m123/m123/110944
+#EXTINF:-1 channel-id="15059" radio="false" tvg-chno="524" group-title="UK",|UK| Hum Masala
+http://152.89.62.111:8080/m123/m123/110928
+#EXTINF:-1 channel-id="15060" radio="false" tvg-chno="525" group-title="UK",|UK| Hum Tv
+http://152.89.62.111:8080/m123/m123/110927
+#EXTINF:-1 channel-id="15061" radio="false" tvg-chno="526" group-title="UK",|UK| KTV
+http://152.89.62.111:8080/m123/m123/110922
+#EXTINF:-1 channel-id="15062" radio="false" tvg-chno="527" group-title="UK",|UK| Madni Channel
+http://152.89.62.111:8080/m123/m123/110941
+#EXTINF:-1 channel-id="15063" radio="false" tvg-chno="528" group-title="UK",|UK| News One PK
+http://152.89.62.111:8080/m123/m123/110911
+#EXTINF:-1 channel-id="15064" radio="false" tvg-chno="529" group-title="UK",|UK| Noor Tv
+http://152.89.62.111:8080/m123/m123/110943
+#EXTINF:-1 channel-id="15065" radio="false" tvg-chno="530" group-title="UK",|UK| Peace Tv Urdu
+http://152.89.62.111:8080/m123/m123/110942
+#EXTINF:-1 channel-id="15066" radio="false" tvg-chno="531" group-title="UK",|UK| Ptc Punjabi
+http://152.89.62.111:8080/m123/m123/110923
+#EXTINF:-1 channel-id="15067" radio="false" tvg-chno="532" group-title="UK",|UK| Ptv Global
+http://152.89.62.111:8080/m123/m123/110929
+#EXTINF:-1 channel-id="15068" radio="false" tvg-chno="533" group-title="UK",|UK| Ptv News
+http://152.89.62.111:8080/m123/m123/110936
+#EXTINF:-1 channel-id="15069" radio="false" tvg-chno="534" group-title="UK",|UK| Samaa News
+http://152.89.62.111:8080/m123/m123/110932
+#EXTINF:-1 channel-id="15070" radio="false" tvg-chno="535" group-title="UK",|UK| Sangat Tv
+http://152.89.62.111:8080/m123/m123/110921
+#EXTINF:-1 channel-id="15071" radio="false" tvg-chno="536" group-title="UK",|UK| Sikh Channel
+http://152.89.62.111:8080/m123/m123/110920
+#EXTINF:-1 channel-id="15072" radio="false" tvg-chno="537" group-title="UK",|UK| Sony Max 2
+http://152.89.62.111:8080/m123/m123/110915
+#EXTINF:-1 channel-id="15073" radio="false" tvg-chno="538" group-title="UK",|UK| Sony Sab
+http://152.89.62.111:8080/m123/m123/110910
+#EXTINF:-1 channel-id="15074" radio="false" tvg-chno="539" group-title="UK",|UK| STAR PLUS
+http://152.89.62.111:8080/m123/m123/110947
+#EXTINF:-1 channel-id="15075" radio="false" tvg-chno="540" group-title="UK",|UK| Takbeer TV
+http://152.89.62.111:8080/m123/m123/110940
+#EXTINF:-1 channel-id="15076" radio="false" tvg-chno="541" group-title="UK",|UK| Zee cinema
+http://152.89.62.111:8080/m123/m123/110912
+#EXTINF:-1 channel-id="15077" radio="false" tvg-chno="542" group-title="UK",|UK| Zee Music
+http://152.89.62.111:8080/m123/m123/110937
+#EXTINF:-1 channel-id="15078" radio="false" tvg-chno="543" group-title="UK",|UK| Zee TV
+http://152.89.62.111:8080/m123/m123/110906
+#EXTINF:-1 channel-id="15079" radio="false" tvg-chno="544" group-title="UK",|UK| Zing Music
+http://152.89.62.111:8080/m123/m123/110916

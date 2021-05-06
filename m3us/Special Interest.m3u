@@ -1,0 +1,27 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="13902" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BigLifeTV_377x377.png?raw=true" tvg-chno="1" group-title="Special Interest",BigLife TV HD
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13903" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CookingPanda_900x900.png?raw=true" tvg-chno="2" group-title="Special Interest",Cooking Panda | Source 1
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:-1 channel-id="13904" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CookingPanda_900x900.png?raw=true" tvg-chno="3" group-title="Special Interest",Cooking Panda | Source 2
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=8f68c53f-f16a-45dd-b3eb-939325b0385a&device_model=Web&device_width=632&device_height=356&us_privacy=0&gdpr=0&device_language=en&is_lat=0
+#EXTINF:-1 channel-id="13905" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OutdoorCookingChannel.png" tvg-chno="4" group-title="Special Interest",Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 channel-id="13906" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThisOldHouse_245x245.png?raw=true" tvg-chno="5" group-title="Special Interest",This Old House HD
+http://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13907" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" tvg-chno="6" group-title="Special Interest",The Design Network HD
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13908" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LivelyPlace_476x476.png?raw=true" tvg-chno="7" group-title="Special Interest",A+E | Lively Place
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13909" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AD_246x246.png?raw=true" tvg-chno="8" group-title="Special Interest",AD | Architectural Digest
+https://dai2.xumo.com/xumocdn/p=roku&rdid=38477a90-292c-585f-9529-4b8a68a221ab&coppa=false&is_roku_lat=1&platform=web&content=6da9bbae6fca51b290bd1dadbbcc33e4&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=conde_nast&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&studio_id=conde_nast&channelstore=us&bmodel=Dbm1&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13910" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAFVFamilyChannel_203x203.png?raw=true" tvg-chno="9" group-title="Special Interest",AFV Family (Viral Videos)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="13911" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" tvg-chno="10" group-title="Special Interest",Relaxing Guitar Music
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="13912" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" tvg-chno="11" group-title="Special Interest",5m Kitchen Hacks
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="13913" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" tvg-chno="12" group-title="Special Interest",5m Quick Crafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="13914" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" tvg-chno="13" group-title="Special Interest",5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8

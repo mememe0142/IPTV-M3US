@@ -1,0 +1,35 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2118" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="1" group-title="Francophone TV",Canada GEO | ICI Tele Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1 channel-id="2119" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" tvg-chno="2" group-title="Francophone TV",Canada GEO | TVA
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1 channel-id="2120" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" tvg-chno="3" group-title="Francophone TV",Canada | Assemblee Nationale
+http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
+#EXTINF:-1 channel-id="2121" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" tvg-chno="4" group-title="Francophone TV",Canada | Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 channel-id="2122" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" tvg-chno="5" group-title="Francophone TV",Canada | CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:-1 channel-id="2123" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" tvg-chno="6" group-title="Francophone TV",Canada | ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 channel-id="2124" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" tvg-chno="7" group-title="Francophone TV",Canada | noovo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1 channel-id="2125" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" tvg-chno="8" group-title="Francophone TV",Canada | Tele-Quebec
+https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
+#EXTINF:-1 channel-id="2126" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-Business_325x325.png?raw=true" tvg-chno="9" group-title="Francophone TV",France | BFM Business
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
+#EXTINF:-1 channel-id="2127" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-TV_225x225.png?raw=true" tvg-chno="10" group-title="Francophone TV",France | BFM TV.
+https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:-1 channel-id="2128" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-Lyon_225x225.png?raw=true" tvg-chno="11" group-title="Francophone TV",France | BFM TV. Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+#EXTINF:-1 channel-id="2129" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/D5TV_246x246.png?raw=true" tvg-chno="12" group-title="Francophone TV",France | D5 TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 channel-id="2130" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" tvg-chno="13" group-title="Francophone TV",France | France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 channel-id="2131" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Francophonie24_275x275.png?raw=true" tvg-chno="14" group-title="Francophone TV",France | Francophonie24
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 channel-id="2132" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" tvg-chno="15" group-title="Francophone TV",France | TV5 Monde Info
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:-1 channel-id="2133" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Pacific_200x200.png?raw=true" tvg-chno="16" group-title="Francophone TV",TV5 Monde Pacific | Eng subs
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
+#EXTINF:-1 channel-id="2134" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Style_225x225.png?raw=true" tvg-chno="17" group-title="Francophone TV",TV5 Monde Style | Eng subs
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/master.m3u8

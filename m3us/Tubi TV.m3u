@@ -1,0 +1,65 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="14453" radio="false" tvg-logo="https://i.imgur.com/I7zhVJj.png" tvg-chno="1" group-title="Tubi TV",Black News Network
+https://lnc-black-news.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14454" radio="false" tvg-logo="https://i.imgur.com/3grms3y.png" tvg-chno="2" group-title="Tubi TV",Bloomberg TV
+https://csm-e-cetubiausw2live101-06ebe33587c16b95b.csm.tubi.video/csm/live/240948717.m3u8
+#EXTINF:-1 channel-id="14455" radio="false" tvg-logo="https://i.imgur.com/MAs6Vv9.png" tvg-chno="3" group-title="Tubi TV",CBC news
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 channel-id="14456" radio="false" tvg-logo="https://i.imgur.com/SYUy0Ci.png" tvg-chno="4" group-title="Tubi TV",Cheddar News
+https://csm-e-cetubiausw2live101-08651e4b1e735af14.csm.tubi.video/csm/live/241515520.m3u8
+#EXTINF:-1 channel-id="14457" radio="false" tvg-logo="https://i.imgur.com/xGqzO4o.jpg" tvg-chno="5" group-title="Tubi TV",Estrella News
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 channel-id="14458" radio="false" tvg-logo="https://i.imgur.com/xFzrnRs.jpg" tvg-chno="6" group-title="Tubi TV",Euronews
+https://csm-e-cetubiausw2live101-0ab2d16d68bb18f13.csm.tubi.video/csm/live/248551385.m3u8
+#EXTINF:-1 channel-id="14459" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="7" group-title="Tubi TV",Fox News rtmp
+https://lnc-fox-news-now-rtmp.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14460" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="8" group-title="Tubi TV",Fox News Now
+https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14461" radio="false" tvg-logo="https://i.imgur.com/YIamDGn.png" tvg-chno="9" group-title="Tubi TV",Fox Soul
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14462" radio="false" tvg-logo="https://i.imgur.com/YIamDGn.png" tvg-chno="10" group-title="Tubi TV",Fox Soul
+https://csm-e-cetubiausw2live101-0f045a640757c30da.csm.tubi.video/csm/live/249707400.m3u8
+#EXTINF:-1 channel-id="14463" radio="false" tvg-logo="https://i.imgur.com/iVLNJgF.png" tvg-chno="11" group-title="Tubi TV",Fubo
+https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/246665421.m3u8
+#EXTINF:-1 channel-id="14464" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="12" group-title="Tubi TV",KCPQ Fox Q13 Seattle
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14465" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="13" group-title="Tubi TV",KDFW Fox 4 Dallas-FT-Worth
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14466" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="14" group-title="Tubi TV",KMSP Fox 9 Minneapolis ST Paul
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14467" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="15" group-title="Tubi TV",KRIV Fox 26 Houston
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14468" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="16" group-title="Tubi TV",KZAS Fox 10 Phoenix
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14469" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="17" group-title="Tubi TV",Ktbc Fox 7 Austin
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14470" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="18" group-title="Tubi TV",KTTV Fox 11 Los Angeles
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14471" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="19" group-title="Tubi TV",KTVU Fox 2 San Francisco
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14472" radio="false" tvg-logo="https://i.imgur.com/DF4Bqg0.jpg" tvg-chno="20" group-title="Tubi TV",NBC News Now
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/244416207.m3u8
+#EXTINF:-1 channel-id="14473" radio="false" tvg-logo="https://i.imgur.com/oCpRBJ8.jpg" tvg-chno="21" group-title="Tubi TV",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14474" radio="false" tvg-logo="https://i.imgur.com/xlsk3c6.png" tvg-chno="22" group-title="Tubi TV",People TV
+https://lnc-people-tv.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14475" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="23" group-title="Tubi TV",WAGA Fox 5 Atlanta
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14476" radio="false" tvg-logo="https://i.imgur.com/Cs6NS8a.jpg" tvg-chno="24" group-title="Tubi TV",Weather Nation
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
+#EXTINF:-1 channel-id="14477" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="25" group-title="Tubi TV",WFLD FOX 32 Chicago
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14478" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="26" group-title="Tubi TV",WITI Fox 6 Milwaukee
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14479" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="27" group-title="Tubi TV",WJBK Fox 2 Detroit
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14480" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="28" group-title="Tubi TV",WYNY Fox 5 New York
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14481" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="29" group-title="Tubi TV",WOFL Fox 35 Orlando
+https://lnc-wofl-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14482" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="30" group-title="Tubi TV",WTTG Fox 5 Washington DC
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14483" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="31" group-title="Tubi TV",WTVT Fox 13 Tampa Bay
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="14484" radio="false" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" tvg-chno="32" group-title="Tubi TV",WTXF Fox 29 Philadelphia
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8

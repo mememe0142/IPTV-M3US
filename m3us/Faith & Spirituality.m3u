@@ -1,0 +1,31 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2075" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_TBN_485x485.png?raw=true" tvg-chno="1" group-title="Faith & Spirituality",TBN US
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
+#EXTINF:-1 channel-id="2076" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Hillsong_360x360.png?raw=true" tvg-chno="2" group-title="Faith & Spirituality",Hillsong
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8?Faith
+#EXTINF:-1 channel-id="2077" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Smile_512x512.png?raw=true" tvg-chno="3" group-title="Faith & Spirituality",Smile
+https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
+#EXTINF:-1 channel-id="2078" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Positiv_520x520.png?raw=true" tvg-chno="4" group-title="Faith & Spirituality",Positiv TV
+https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?Faith
+#EXTINF:-1 channel-id="2079" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" tvg-chno="5" group-title="Faith & Spirituality",WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8?Faith
+#EXTINF:-1 channel-id="2080" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" tvg-chno="6" group-title="Faith & Spirituality",WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8?Faith
+#EXTINF:-1 channel-id="2081" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN_960x960.png?raw=true" tvg-chno="7" group-title="Faith & Spirituality",CBN | CBN Live
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 channel-id="2082" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-News_225x225.png?raw=true" tvg-chno="8" group-title="Faith & Spirituality",CBN | CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+#EXTINF:-1 channel-id="2083" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-Espanol_200x200.png?raw=true" tvg-chno="9" group-title="Faith & Spirituality",CBN | Spanish
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+#EXTINF:-1 channel-id="2084" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN_200x200.png?raw=true" tvg-chno="10" group-title="Faith & Spirituality",3ABN | Live
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
+#EXTINF:-1 channel-id="2085" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN-International_200x200.png?raw=true" tvg-chno="11" group-title="Faith & Spirituality",3ABN | International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 channel-id="2086" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN-Francais_225x225.png?raw=true" tvg-chno="12" group-title="Faith & Spirituality",3ABN | French
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1 channel-id="2087" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" tvg-chno="13" group-title="Faith & Spirituality",EWTN | USA
+https://d3je5q1nueb5wn.cloudfront.net/p/DOME.m3u8
+#EXTINF:-1 channel-id="2088" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" tvg-chno="14" group-title="Faith & Spirituality",EWTN | Canada
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:-1 channel-id="2089" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazingDiscoveries_430x430.png?raw=true" tvg-chno="15" group-title="Faith & Spirituality",Amazing Discoveries
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8

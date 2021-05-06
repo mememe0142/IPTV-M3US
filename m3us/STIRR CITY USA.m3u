@@ -1,0 +1,199 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="14143" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="1" group-title="STIRR CITY USA",Alabama: Birmingham
+https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
+#EXTINF:-1 channel-id="14144" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="2" group-title="STIRR CITY USA",Alabama: Mobile
+https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
+#EXTINF:-1 channel-id="14145" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3" group-title="STIRR CITY USA",Arkansas: Little Rock
+https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
+#EXTINF:-1 channel-id="14146" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="4" group-title="STIRR CITY USA",California: Bakersfield
+https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8
+#EXTINF:-1 channel-id="14147" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="5" group-title="STIRR CITY USA",California: Fresno-Visalia
+https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8
+#EXTINF:-1 channel-id="14148" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="6" group-title="STIRR CITY USA",California: Los Angeles
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
+#EXTINF:-1 channel-id="14149" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="7" group-title="STIRR CITY USA",California: Chico-Redding
+https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8
+#EXTINF:-1 channel-id="14150" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="8" group-title="STIRR CITY USA",District of Columbia: Washington D.C.
+https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
+#EXTINF:-1 channel-id="14151" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="9" group-title="STIRR CITY USA",Florida: Gainesville
+https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
+#EXTINF:-1 channel-id="14152" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="10" group-title="STIRR CITY USA",Florida: Pensacola
+https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
+#EXTINF:-1 channel-id="14153" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="11" group-title="STIRR CITY USA",Florida: West Palm Beach
+https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
+#EXTINF:-1 channel-id="14154" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="12" group-title="STIRR CITY USA",Georgia: Albany
+https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8
+#EXTINF:-1 channel-id="14155" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="13" group-title="STIRR CITY USA",Georgia: Macon
+https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
+#EXTINF:-1 channel-id="14156" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="14" group-title="STIRR CITY USA",Idaho: Boise
+https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8
+#EXTINF:-1 channel-id="14157" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="15" group-title="STIRR CITY USA",Idaho: Lewiston
+https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
+#EXTINF:-1 channel-id="14158" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="16" group-title="STIRR CITY USA",Illinois: Champaign
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 channel-id="14159" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="17" group-title="STIRR CITY USA",Illinois: Huntsville - Decatur
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 channel-id="14160" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="18" group-title="STIRR CITY USA",Illinois: Quincy
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 channel-id="14161" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="19" group-title="STIRR CITY USA",Illinois: Springfield #1
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 channel-id="14162" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="20" group-title="STIRR CITY USA",Illinois: Springfield #2
+https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
+#EXTINF:-1 channel-id="14163" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="21" group-title="STIRR CITY USA",Indiana: South Bend
+https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
+#EXTINF:-1 channel-id="14164" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="22" group-title="STIRR CITY USA",Iowa: Cedar Rapids
+https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8
+#EXTINF:-1 channel-id="14165" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="23" group-title="STIRR CITY USA",Iowa: Keokuk
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 channel-id="14166" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="24" group-title="STIRR CITY USA",Iowa: Ottumwa
+https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
+#EXTINF:-1 channel-id="14167" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="25" group-title="STIRR CITY USA",Iowa: Sioux City
+https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8
+#EXTINF:-1 channel-id="14168" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="26" group-title="STIRR CITY USA",Maine: Portland
+https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8
+#EXTINF:-1 channel-id="14169" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="27" group-title="STIRR CITY USA",Maryland: Baltimore
+https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
+#EXTINF:-1 channel-id="14170" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="28" group-title="STIRR CITY USA",Michigan: Bay City
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 channel-id="14171" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="29" group-title="STIRR CITY USA",Michigan: Cadillac
+https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
+#EXTINF:-1 channel-id="14172" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="30" group-title="STIRR CITY USA",Michigan: Flint
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 channel-id="14173" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="31" group-title="STIRR CITY USA",Michigan: Grand Rapids
+https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8
+#EXTINF:-1 channel-id="14174" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="32" group-title="STIRR CITY USA",Michigan: Saginaw
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 channel-id="14175" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="33" group-title="STIRR CITY USA",Michigan: Traverse City
+https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
+#EXTINF:-1 channel-id="14176" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="34" group-title="STIRR CITY USA",Minnesota: Minneapolis
+https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8
+#EXTINF:-1 channel-id="14177" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="35" group-title="STIRR CITY USA",Missouri: Columbia
+https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
+#EXTINF:-1 channel-id="14178" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="36" group-title="STIRR CITY USA",Missouri: Hannibal
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 channel-id="14179" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="37" group-title="STIRR CITY USA",Missouri: Jefferson City
+https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
+#EXTINF:-1 channel-id="14180" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="38" group-title="STIRR CITY USA",Missouri: Kirksville
+https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
+#EXTINF:-1 channel-id="14181" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="39" group-title="STIRR CITY USA",Missouri: St. Louis
+https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8
+#EXTINF:-1 channel-id="14182" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="40" group-title="STIRR CITY USA",Montana: Missoula
+https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
+#EXTINF:-1 channel-id="14183" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="41" group-title="STIRR CITY USA",Nebraska: Hastings
+https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
+#EXTINF:-1 channel-id="14184" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="42" group-title="STIRR CITY USA",Nevada: Las Vegas
+https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
+#EXTINF:-1 channel-id="14185" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="43" group-title="STIRR CITY USA",Nevada: Reno
+https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8
+#EXTINF:-1 channel-id="14186" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="44" group-title="STIRR CITY USA",New York: Albany
+https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8
+#EXTINF:-1 channel-id="14187" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="45" group-title="STIRR CITY USA",New York: Rochester
+https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8
+#EXTINF:-1 channel-id="14188" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="46" group-title="STIRR CITY USA",New York: Syracuse
+https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8
+#EXTINF:-1 channel-id="14189" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="47" group-title="STIRR CITY USA",North Carolina: Greenville - Asheville
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 channel-id="14190" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="48" group-title="STIRR CITY USA",North Carolina: Greenville - New Bern
+https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
+#EXTINF:-1 channel-id="14191" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="49" group-title="STIRR CITY USA",North Carolina: Raleigh - Durham
+https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
+#EXTINF:-1 channel-id="14192" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="50" group-title="STIRR CITY USA",Ohio: Cincinnati
+https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8
+#EXTINF:-1 channel-id="14193" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="51" group-title="STIRR CITY USA",Ohio: Columbus #1
+https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
+#EXTINF:-1 channel-id="14194" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="52" group-title="STIRR CITY USA",Ohio: Columbus #2
+https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
+#EXTINF:-1 channel-id="14195" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="53" group-title="STIRR CITY USA",Ohio: Dayton
+https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
+#EXTINF:-1 channel-id="14196" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="54" group-title="STIRR CITY USA",Ohio: Toledo
+https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
+#EXTINF:-1 channel-id="14197" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="55" group-title="STIRR CITY USA",Ohio: Wheeling - Steubenville
+https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
+#EXTINF:-1 channel-id="14198" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="56" group-title="STIRR CITY USA",Oklahoma: Oklahoma City
+https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8
+#EXTINF:-1 channel-id="14199" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="57" group-title="STIRR CITY USA",Oklahoma: Tulsa
+https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8
+#EXTINF:-1 channel-id="14200" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="58" group-title="STIRR CITY USA",Oregon: Eugene - Springfield #1
+https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8
+#EXTINF:-1 channel-id="14201" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="59" group-title="STIRR CITY USA",Oregon: Eugene - Springfield #2
+https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8
+#EXTINF:-1 channel-id="14202" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="60" group-title="STIRR CITY USA",Oregon: Medford
+https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8
+#EXTINF:-1 channel-id="14203" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="61" group-title="STIRR CITY USA",Oregon: Portland
+https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8
+#EXTINF:-1 channel-id="14204" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="62" group-title="STIRR CITY USA",Pennsylvania: Harrisburg
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 channel-id="14205" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="63" group-title="STIRR CITY USA",Pennsylvania: Johnstown - Altoona
+https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8
+#EXTINF:-1 channel-id="14206" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="64" group-title="STIRR CITY USA",Pennsylvania: Lancaster
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 channel-id="14207" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="65" group-title="STIRR CITY USA",Pennsylvania: Pittsburgh
+https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8
+#EXTINF:-1 channel-id="14208" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="66" group-title="STIRR CITY USA",Pennsylvania: Wilkes Barre - Scranton
+https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
+#EXTINF:-1 channel-id="14209" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="67" group-title="STIRR CITY USA",Pennsylvania: York
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 channel-id="14210" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="68" group-title="STIRR CITY USA",Rhode Island: Providence
+https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
+#EXTINF:-1 channel-id="14211" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="69" group-title="STIRR CITY USA",South Carolina: Anderson
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 channel-id="14212" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="70" group-title="STIRR CITY USA",South Carolina: Charleston
+https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
+#EXTINF:-1 channel-id="14213" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="71" group-title="STIRR CITY USA",South Carolina: Columbia
+https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
+#EXTINF:-1 channel-id="14214" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="72" group-title="STIRR CITY USA",South Carolina: Florence
+https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
+#EXTINF:-1 channel-id="14215" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="73" group-title="STIRR CITY USA",South Carolina: Greenville - Asheville
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 channel-id="14216" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="74" group-title="STIRR CITY USA",South Carolina: Myrtle Beach
+https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
+#EXTINF:-1 channel-id="14217" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="75" group-title="STIRR CITY USA",Tennessee: Chattanooga
+https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8
+#EXTINF:-1 channel-id="14218" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="76" group-title="STIRR CITY USA",Tennessee: Nashville
+https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8
+#EXTINF:-1 channel-id="14219" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="77" group-title="STIRR CITY USA",Texas: Abilene
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 channel-id="14220" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="78" group-title="STIRR CITY USA",Texas: Amarillo
+https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8
+#EXTINF:-1 channel-id="14221" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="79" group-title="STIRR CITY USA",Texas: Austin
+https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8
+#EXTINF:-1 channel-id="14222" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="80" group-title="STIRR CITY USA",Texas: Beaumont
+https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
+#EXTINF:-1 channel-id="14223" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="81" group-title="STIRR CITY USA",Texas: Beaumont - Port Arthur
+https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8
+#EXTINF:-1 channel-id="14224" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="82" group-title="STIRR CITY USA",Texas: El Paso #1
+https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8
+#EXTINF:-1 channel-id="14225" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="83" group-title="STIRR CITY USA",Texas: El Paso #2
+https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8
+#EXTINF:-1 channel-id="14226" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="84" group-title="STIRR CITY USA",Texas: San Angelo
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 channel-id="14227" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="85" group-title="STIRR CITY USA",Texas: San Antonio
+https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8
+#EXTINF:-1 channel-id="14228" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="86" group-title="STIRR CITY USA",Texas: Sweetwater
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 channel-id="14229" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="87" group-title="STIRR CITY USA",Utah: Salt Lake City
+https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
+#EXTINF:-1 channel-id="14230" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="88" group-title="STIRR CITY USA",Virginia: Lynchburg - Roanoke
+https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
+#EXTINF:-1 channel-id="14231" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="89" group-title="STIRR CITY USA",Virginia: Norfolk - Portsmouth
+https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
+#EXTINF:-1 channel-id="14232" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="90" group-title="STIRR CITY USA",Virginia: Tri-Cities
+https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
+#EXTINF:-1 channel-id="14233" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="91" group-title="STIRR CITY USA",Washington: Seattle
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
+#EXTINF:-1 channel-id="14234" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="92" group-title="STIRR CITY USA",Washington: Spokane
+https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
+#EXTINF:-1 channel-id="14235" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="93" group-title="STIRR CITY USA",Washington: Tacoma
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
+#EXTINF:-1 channel-id="14236" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="94" group-title="STIRR CITY USA",Washington: Yakima - Pasco #1
+https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
+#EXTINF:-1 channel-id="14237" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="95" group-title="STIRR CITY USA",Washington: Yakima - Pasco #2
+https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
+#EXTINF:-1 channel-id="14238" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="96" group-title="STIRR CITY USA",West Virginia: Charleston - Huntington
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+#EXTINF:-1 channel-id="14239" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="97" group-title="STIRR CITY USA",West Virginia: Wheeling
+https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
+#EXTINF:-1 channel-id="14240" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="98" group-title="STIRR CITY USA",Wisconsin: Green Bay
+https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
+#EXTINF:-1 channel-id="14241" radio="false" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="99" group-title="STIRR CITY USA",Wisconsin: Milwaukee
+https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8

@@ -1,0 +1,35 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2135" radio="false" tvg-id="f185b9" tvg-name="Absolute_Reality_by_WEtv" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" tvg-chno="1" group-title="Free2View TV",AMC | Absolute Reality by We TV
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2136" radio="false" tvg-id="f1afa3" tvg-name="AMC_Presents" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" tvg-chno="2" group-title="Free2View TV",AMC | AMC Presents
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2137" radio="false" tvg-id="dbd25a" tvg-name="IFC_Films_Picks" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" tvg-chno="3" group-title="Free2View TV",AMC | IFC Film Picks
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2138" radio="false" tvg-id="729a35" tvg-name="Rush_by_AMC" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" tvg-chno="4" group-title="Free2View TV",AMC | Rush by AMC
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2139" radio="false" tvg-id="ccc7e7" tvg-name="Slightly_Off_by_IFC" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" tvg-chno="5" group-title="Free2View TV",AMC | Slightly Off by IFC
+https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2140" radio="false" tvg-id="externallinearfeed-05-18-2020-05-18-2020" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png" tvg-chno="6" group-title="Free2View TV",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="2141" radio="false" tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png" tvg-chno="7" group-title="Free2View TV",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 channel-id="2142" radio="false" tvg-id="cheddar-wurl-external-10-31-2018" tvg-logo="https://od.lk/s/MF8yMjM5NTUyNDhf/Cheddar_900x900.png" tvg-chno="8" group-title="Free2View TV",Cheddar Business News
+https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cheddar/primary.m3u8
+#EXTINF:-1 channel-id="2143" radio="false" tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTZf/CometTV.png" tvg-chno="9" group-title="Free2View TV",Comet TV
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 channel-id="2144" radio="false" tvg-id="externallinearfeed-01-28-2021-210659535-01-28-2021" tvg-logo="https://od.lk/s/MF8yMjQwMDg3ODhf/ConTV_410x410.png" tvg-chno="10" group-title="Free2View TV",CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 channel-id="2145" radio="false" tvg-id="externallinearfeed-06-29-2020-06-29-2020" tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png" tvg-chno="11" group-title="Free2View TV",Dust
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="2146" radio="false" tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://od.lk/s/MF8yMjM5NTYzNzZf/ElectricEnt_480x480.png" tvg-chno="12" group-title="Free2View TV",Electric Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
+#EXTINF:-1 channel-id="2147" radio="false" tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" tvg-chno="13" group-title="Free2View TV",Midnight Pulp
+https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 channel-id="2148" radio="false" tvg-id="externallinearfeed-07-01-2020-07-01-2020" tvg-logo="https://od.lk/s/MF8yMjQwMDkzNDRf/RetroCrush_576x576.png" tvg-chno="14" group-title="Free2View TV",RetroCrush TV
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 channel-id="2149" radio="false" tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-logo="https://od.lk/s/MF8yMjQwMDg4ODBf/ShoutFactoryTV_310x310.png" tvg-chno="15" group-title="Free2View TV",Shout! Factory TV
+https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
+#EXTINF:-1 channel-id="2150" radio="false" tvg-id="externallinearfeed-11-06-2019-184209249-11-06-2019" tvg-logo="https://od.lk/s/MF8yMjM5NTU2NjFf/TheAsylum_NEW_939x939.png" tvg-chno="16" group-title="Free2View TV",The Asylum Movies
+https://asylum-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="2151" radio="false" tvg-id="externallinearfeed-07-18-2019-07-18-2019" tvg-logo="https://od.lk/s/MF8yMjM5NjA3MTRf/FilmDetective_400x400.png" tvg-chno="17" group-title="Free2View TV",The Film Detective
+https://tfd-distro.amagi.tv/index.m3u8

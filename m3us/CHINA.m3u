@@ -1,0 +1,139 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="1487" radio="false" tvg-logo="https://i.imgur.com/N8YdX6W.png" tvg-chno="1" group-title="CHINA",Aniu TV
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 channel-id="1488" radio="false" tvg-logo="https://i.imgur.com/d7oFIIu.png" tvg-chno="2" group-title="CHINA",Beijing TV (New!)
+http://112.50.243.8/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:-1 channel-id="1489" radio="false" tvg-logo="https://i.imgur.com/R6F6NEb.png" tvg-chno="3" group-title="CHINA",BestTV UHD
+http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
+#EXTINF:-1 channel-id="1490" radio="false" tvg-logo="https://i.imgur.com/R6F6NEb.png" tvg-chno="4" group-title="CHINA",BesTV 4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 channel-id="1491" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1综合.png" tvg-chno="5" group-title="CHINA",CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 channel-id="1492" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" tvg-chno="6" group-title="CHINA",CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 channel-id="1493" radio="false" tvg-logo="https://i.imgur.com/svQpgoL.png" tvg-chno="7" group-title="CHINA",CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 channel-id="1494" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" tvg-chno="8" group-title="CHINA",CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 channel-id="1495" radio="false" tvg-logo="https://i.imgur.com/ksFTF0t.png" tvg-chno="9" group-title="CHINA",CCTV-13 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 channel-id="1496" radio="false" tvg-logo="https://i.imgur.com/ksFTF0t.png" tvg-chno="10" group-title="CHINA",CCTV-13 (Opt-2)
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+#EXTINF:-1 channel-id="1497" radio="false" tvg-logo="https://i.imgur.com/ksFTF0t.png" tvg-chno="11" group-title="CHINA",CCTV-13 (Opt-3)
+rtmp://124.88.36.91:1935/live/cctv
+#EXTINF:-1 channel-id="1498" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14少儿.png" tvg-chno="12" group-title="CHINA",CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 channel-id="1499" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" tvg-chno="13" group-title="CHINA",CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 channel-id="1500" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_财经.svg/1200px-CCTV-2_财经.svg.png" tvg-chno="14" group-title="CHINA",CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 channel-id="1501" radio="false" tvg-logo="https://i.imgur.com/FiTPyCa.png" tvg-chno="15" group-title="CHINA",CCTV-3 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1 channel-id="1502" radio="false" tvg-logo="https://i.imgur.com/FiTPyCa.png" tvg-chno="16" group-title="CHINA",CCTV-3 (Opt-2)
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 channel-id="1503" radio="false" tvg-logo="https://i.imgur.com/Ox1hX8q.png" tvg-chno="17" group-title="CHINA",CCTV-4 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 channel-id="1504" radio="false" tvg-logo="https://i.imgur.com/Ox1hX8q.png" tvg-chno="18" group-title="CHINA",CCTV-4 (Opt-2)
+http://45.126.83.51/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 channel-id="1505" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" tvg-chno="19" group-title="CHINA",CCTV-5
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
+#EXTINF:-1 channel-id="1506" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6电影.png" tvg-chno="20" group-title="CHINA",CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 channel-id="1507" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7军事农业.png" tvg-chno="21" group-title="CHINA",CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 channel-id="1508" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8电视剧.png" tvg-chno="22" group-title="CHINA",CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 channel-id="1509" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9纪录.png" tvg-chno="23" group-title="CHINA",CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 channel-id="1510" radio="false" tvg-logo="http://i.imgur.com/sHp0xSm.png" tvg-chno="24" group-title="CHINA",Chengdu (Panda Reserve)
+http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
+#EXTINF:-1 channel-id="1511" radio="false" tvg-logo="https://i.imgur.com/fWVXqKc.png" tvg-chno="25" group-title="CHINA",China Business Network (Opt-1)
+http://w1.livecache.yicai.com/hls/live/CBN_sd/live.m3u8
+#EXTINF:-1 channel-id="1512" radio="false" tvg-logo="https://i.imgur.com/fWVXqKc.png" tvg-chno="26" group-title="CHINA",China Business Network (Opt-2)
+http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
+#EXTINF:-1 channel-id="1513" radio="false" tvg-logo="https://i.imgur.com/fWVXqKc.png" tvg-chno="27" group-title="CHINA",China Business Network (Opt-3)
+https://w1live.livecdn.yicai.com/live/cbn.m3u8
+#EXTINF:-1 channel-id="1514" radio="false" tvg-logo="https://i.imgur.com/7flJQne.png" tvg-chno="28" group-title="CHINA",China CTV 1
+http://stream.chinactv.com/ctv1/sd/live.m3u8
+#EXTINF:-1 channel-id="1515" radio="false" tvg-logo="https://i.imgur.com/7flJQne.png" tvg-chno="29" group-title="CHINA",China CTV 2
+http://stream.chinactv.com/ctv2/sd/live.m3u8
+#EXTINF:-1 channel-id="1516" radio="false" tvg-logo="https://i.imgur.com/7flJQne.png" tvg-chno="30" group-title="CHINA",China CTV 3
+http://stream.chinactv.com/ctv3/sd/live.m3u8
+#EXTINF:-1 channel-id="1517" radio="false" tvg-logo="https://i.imgur.com/7flJQne.png" tvg-chno="31" group-title="CHINA",China CTV 4
+http://stream.chinactv.com/ctv4/sd/live.m3u8
+#EXTINF:-1 channel-id="1518" radio="false" tvg-logo="https://i.imgur.com/7flJQne.png" tvg-chno="32" group-title="CHINA",China CTV 5
+http://stream.chinactv.com/ctv5/sd/live.m3u8
+#EXTINF:-1 channel-id="1519" radio="false" tvg-logo="https://i.imgur.com/aaviUTw.png" tvg-chno="33" group-title="CHINA",Dragon Television
+http://45.126.83.51/qwr9ew/s/s29/index.m3u8
+#EXTINF:-1 channel-id="1520" radio="false" tvg-logo="https://i.imgur.com/PD5aLJH.png" tvg-chno="34" group-title="CHINA",Hebei TV
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 channel-id="1521" radio="false" tvg-logo="https://i.imgur.com/tUuspxt.png" tvg-chno="35" group-title="CHINA",Hezhou TV
+http://nsul01u0.live2.danghongyun.com/live/hls/1e9f8ba8fc9c4f4e960b48a480087f73/20a6d959c051443d83e97a3cd5ff4292.m3u8
+#EXTINF:-1 channel-id="1522" radio="false" tvg-logo="https://i.imgur.com/yZ8P6Ox.jpg" tvg-chno="36" group-title="CHINA",HNN TV
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+#EXTINF:-1 channel-id="1523" radio="false" tvg-logo="https://i.imgur.com/r74eFsa.png" tvg-chno="37" group-title="CHINA",Int'l Channel Shanghai
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
+#EXTINF:-1 channel-id="1524" radio="false" tvg-logo="https://i.imgur.com/eURZSs4.png" tvg-chno="38" group-title="CHINA",JLE TV Jilin (Opt-1)
+http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_500k_flv
+#EXTINF:-1 channel-id="1525" radio="false" tvg-logo="https://i.imgur.com/eURZSs4.png" tvg-chno="39" group-title="CHINA",JLE TV Jilin (Opt-2)
+http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_800k_flv
+#EXTINF:-1 channel-id="1526" radio="false" tvg-logo="https://i.imgur.com/zZqXfgb.png" tvg-chno="40" group-title="CHINA",Kaku Kids TV (New!)
+http://223.110.242.130:6610/cntv/live1/kakukaton/index.m3u8
+#EXTINF:-1 channel-id="1527" radio="false" tvg-logo="https://i.imgur.com/kEcxOLc.png" tvg-chno="41" group-title="CHINA",Max Financial Media
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+#EXTINF:-1 channel-id="1528" radio="false" tvg-logo="https://i.imgur.com/ZpSb5PD.png" tvg-chno="42" group-title="CHINA",NewTV Blockbusters
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1 channel-id="1529" radio="false" tvg-logo="https://i.imgur.com/ZpSb5PD.png" tvg-chno="43" group-title="CHINA",NewTV Comedy
+http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1 channel-id="1530" radio="false" tvg-logo="https://i.imgur.com/ZpSb5PD.png" tvg-chno="44" group-title="CHINA",NewTV Movies (Opt-1)
+http://183.251.61.198/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 channel-id="1531" radio="false" tvg-logo="https://i.imgur.com/ZpSb5PD.png" tvg-chno="45" group-title="CHINA",NewTV Movies (Opt-2)
+http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 channel-id="1532" radio="false" tvg-logo="https://i.imgur.com/ZpSb5PD.png" tvg-chno="46" group-title="CHINA",NewTV Sports
+http://183.251.61.198/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 channel-id="1533" radio="false" tvg-logo="https://i.imgur.com/ZpSb5PD.png" tvg-chno="47" group-title="CHINA",NewTV Suspense
+http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1 channel-id="1534" radio="false" tvg-logo="http://m3u-iptv.ru/wp-content/uploads/2016/11/tv-300x294.png" tvg-chno="48" group-title="CHINA",Nongan News
+http://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1 channel-id="1535" radio="false" tvg-logo="https://i.imgur.com/2KOTdBH.png" tvg-chno="49" group-title="CHINA",Oriental Financial Pudong (Opt-1)
+http://w1.livecache.yicai.com/hls/live/dftv_sd/live.m3u8
+#EXTINF:-1 channel-id="1536" radio="false" tvg-logo="https://i.imgur.com/2KOTdBH.png" tvg-chno="50" group-title="CHINA",Oriental Financial Pudong (Opt-2)
+http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
+#EXTINF:-1 channel-id="1537" radio="false" tvg-logo="https://i.imgur.com/eAvf1cK.png" tvg-chno="51" group-title="CHINA",Qinghai TV (New!)
+http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 channel-id="1538" radio="false" tvg-logo="http://i.imgur.com/UkTalha.png" tvg-chno="52" group-title="CHINA",Shanghai (Skyline)
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:-1 channel-id="1539" radio="false" tvg-logo="https://i.imgur.com/XeeAdF4.png" tvg-chno="53" group-title="CHINA",Sichuan Kangba (New!)
+http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 channel-id="1540" radio="false" tvg-logo="https://i.imgur.com/3ZcRy1Q.png" tvg-chno="54" group-title="CHINA",Sichuan Movie Channel
+http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+#EXTINF:-1 channel-id="1541" radio="false" tvg-logo="https://static.simpsonswiki.com/images/4/4b/Xing_Kong.png" tvg-chno="55" group-title="CHINA",Star TV
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 channel-id="1542" radio="false" tvg-logo="https://i.imgur.com/aM6u55u.png" tvg-chno="56" group-title="CHINA",Tonghua TV 1 Jilin
+http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 channel-id="1543" radio="false" tvg-logo="https://i.imgur.com/YojAv3d.png" tvg-chno="57" group-title="CHINA",Toon Max TV (Opt-1)
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 channel-id="1544" radio="false" tvg-logo="https://i.imgur.com/YojAv3d.png" tvg-chno="58" group-title="CHINA",Toon Max TV (Opt-2)
+http://45.126.83.51/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 channel-id="1545" radio="false" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-chno="59" group-title="CHINA",Xuzhou TV 1 Shanghai (Opt-1)
+http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 channel-id="1546" radio="false" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-chno="60" group-title="CHINA",Xuzhou TV 1 Shanghai (Opt-2)
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 channel-id="1547" radio="false" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-chno="61" group-title="CHINA",Xuzhou TV 2 Shanghai
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 channel-id="1548" radio="false" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-chno="62" group-title="CHINA",Xuzhou TV 3 Shanghai
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 channel-id="1549" radio="false" tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-chno="63" group-title="CHINA",Xuzhou TV 4 Shanghai
+http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 channel-id="1550" radio="false" tvg-logo="https://i.imgur.com/co6VgvJ.png" tvg-chno="64" group-title="CHINA",Yanbian TV 1 Jilin
+http://live.ybtvyun.com/video/s10016-ybtv1-sd/index.m3u8
+#EXTINF:-1 channel-id="1551" radio="false" tvg-logo="https://i.imgur.com/wD4jLTK.png" tvg-chno="65" group-title="CHINA",Yanbian TV 2 Jilin
+http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
+#EXTINF:-1 channel-id="1552" radio="false" tvg-logo="https://i.imgur.com/xagdGLo.png" tvg-chno="66" group-title="CHINA",Yanbian TV Jilin
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 channel-id="1553" radio="false" tvg-logo="https://i.imgur.com/PDzWK3L.png" tvg-chno="67" group-title="CHINA",Yushu TV Jilin (Opt-1)
+http://stream.zhystv.com/yset/sd/live.m3u8
+#EXTINF:-1 channel-id="1554" radio="false" tvg-logo="https://i.imgur.com/PDzWK3L.png" tvg-chno="68" group-title="CHINA",Yushu TV Jilin (Opt-2)
+http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1 channel-id="1555" radio="false" tvg-logo="https://i.imgur.com/9RQubjO.png" tvg-chno="69" group-title="CHINA",Zhejiang TV (New!)
+http://112.50.243.8/PLTV/88888888/224/3221225934/index.m3u8

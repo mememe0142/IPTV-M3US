@@ -1,0 +1,27 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="3013" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="1" group-title="NBC News Networks",NBC News Now | Source 1
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
+#EXTINF:-1 channel-id="3014" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="2" group-title="NBC News Networks",NBC News Now | Source 2
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
+#EXTINF:-1 channel-id="3015" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3" group-title="NBC News Networks",NBC News Now Event 1
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+#EXTINF:-1 channel-id="3016" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="4" group-title="NBC News Networks",NBC News Now Event 2
+https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
+#EXTINF:-1 channel-id="3017" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="5" group-title="NBC News Networks",NBC News Now Event 3
+https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
+#EXTINF:-1 channel-id="3018" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="6" group-title="NBC News Networks",NBC News Now Event 4
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
+#EXTINF:-1 channel-id="3019" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="7" group-title="NBC News Networks",NBC News Now Event 5
+https://nbcnews-lh.akamaihd.net/i/nbc_live21@183428/master.m3u8
+#EXTINF:-1 channel-id="3020" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" tvg-chno="8" group-title="NBC News Networks",NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+#EXTINF:-1 channel-id="3021" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BlackSquare.png?raw=true" tvg-chno="9" group-title="NBC News Networks",** NBC News Networks Radio **
+https://od.lk/s/MF8yMjIyMjc1MjZf/GenericAudioWPP.mp4
+#EXTINF:-1 channel-id="3022" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_NBCNews_200x200.png?raw=true" tvg-chno="10" group-title="NBC News Networks",NBC News Radio
+https://stream.revma.ihrhls.com/zc6043/hls.m3u8
+#EXTINF:-1 channel-id="3023" radio="true" tvg-logo="https://od.lk/s/MF8yMjM3MTMzMzdf/MSNBC.png" tvg-chno="11" group-title="NBC News Networks",MSNBC (Audio Only) | Sc.1
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
+#EXTINF:-1 channel-id="3024" radio="true" tvg-logo="https://od.lk/s/MF8yMjM3MTMzMzdf/MSNBC.png" tvg-chno="12" group-title="NBC News Networks",MSNBC (Audio Only) | Sc.2
+https://wrau.streamguys1.com/msnbc-free
+#EXTINF:-1 channel-id="3025" radio="true" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" tvg-chno="13" group-title="NBC News Networks",CNBC (Audio)
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/cnbcfree/master.m3u8

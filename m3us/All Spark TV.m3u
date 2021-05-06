@@ -1,0 +1,23 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="304" radio="false" tvg-logo="https://allsprk.tv/img/poster.png" tvg-chno="1" group-title="All Spark TV",allsprk.tv (Series Movies Animes)
+https://stream.allsprk.tv/live/test/index.m3u8
+#EXTINF:-1 channel-id="305" radio="false" tvg-logo="https://stream.allsprk.tv/0.png" tvg-chno="2" group-title="All Spark TV",Channel-0
+https://stream.allsprk.tv/live/0/index.m3u8
+#EXTINF:-1 channel-id="306" radio="false" tvg-logo="https://i.imgur.com/xrVAJh5.png" tvg-chno="3" group-title="All Spark TV",Channel-1
+https://stream.allsprk.tv/live/1/index.m3u8
+#EXTINF:-1 channel-id="307" radio="false" tvg-logo="https://stream.allsprk.tv/2.png" tvg-chno="4" group-title="All Spark TV",Channel-2
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1 channel-id="308" radio="false" tvg-logo="https://stream.allsprk.tv/3.png" tvg-chno="5" group-title="All Spark TV",Channel-3
+https://stream.allsprk.tv/live/3/index.m3u8
+#EXTINF:-1 channel-id="309" radio="false" tvg-logo="https://stream.allsprk.tv/4.png" tvg-chno="6" group-title="All Spark TV",Channel-4
+https://stream.allsprk.tv/live/4/index.m3u8
+#EXTINF:-1 channel-id="310" radio="false" tvg-logo="https://stream.allsprk.tv/5.png" tvg-chno="7" group-title="All Spark TV",Channel-5
+https://stream.allsprk.tv/live/5/index.m3u8
+#EXTINF:-1 channel-id="311" radio="false" tvg-logo="https://stream.allsprk.tv/6.png" tvg-chno="8" group-title="All Spark TV",Channel-6
+https://stream.allsprk.tv/live/6/index.m3u8
+#EXTINF:-1 channel-id="312" radio="false" tvg-logo="https://stream.allsprk.tv/7.png" tvg-chno="9" group-title="All Spark TV",Channel-7
+https://stream.allsprk.tv/live/7/index.m3u8
+#EXTINF:-1 channel-id="313" radio="false" tvg-logo="https://stream.allsprk.tv/8.png" tvg-chno="10" group-title="All Spark TV",Channel-8
+https://stream.allsprk.tv/live/8/index.m3u8
+#EXTINF:-1 channel-id="314" radio="false" tvg-logo="https://stream.allsprk.tv/9.png" tvg-chno="11" group-title="All Spark TV",Channel-9
+https://stream.allsprk.tv/live/9/index.m3u8

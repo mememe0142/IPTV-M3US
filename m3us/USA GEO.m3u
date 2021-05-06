@@ -1,0 +1,33 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="17789" radio="false" tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" tvg-chno="1" group-title="USA GEO",CBS Sports HQ (Geo)
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+#EXTINF:-1 channel-id="17790" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" tvg-chno="2" group-title="USA GEO",Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 channel-id="17791" radio="false" tvg-logo="https://i.imgur.com/ZIZZG8v.png" tvg-chno="3" group-title="USA GEO",Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 channel-id="17792" radio="false" tvg-logo="https://i.imgur.com/nGIOiF6.png" tvg-chno="4" group-title="USA GEO",Discovery Velocity (Geo)
+http://195.181.169.148/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="17793" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" tvg-chno="5" group-title="USA GEO",Food Network (Geo)
+http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="17794" radio="false" tvg-logo="https://i.imgur.com/dfaJpw4.png" tvg-chno="6" group-title="USA GEO",Hallmark Movies & Mysteries (Geo)
+http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
+#EXTINF:-1 channel-id="17795" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" tvg-chno="7" group-title="USA GEO",Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
+#EXTINF:-1 channel-id="17796" radio="false" tvg-logo="http://golikemariana.com/wp-content/uploads/2017/08/msnbc-blanco-1.png" tvg-chno="8" group-title="USA GEO",MSNBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/fluxustv.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="17797" radio="false" tvg-logo="https://i.imgur.com/gjBAU2S.png" tvg-chno="9" group-title="USA GEO",NFL Now (Geo)
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 channel-id="17798" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" tvg-chno="10" group-title="USA GEO",Oprah Winfrey Network (Opt-1) (Geo)
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
+#EXTINF:-1 channel-id="17799" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" tvg-chno="11" group-title="USA GEO",Oprah Winfrey Network (Opt-2) (Geo)
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+#EXTINF:-1 channel-id="17800" radio="false" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-chno="12" group-title="USA GEO",PBS Kids (EST) (Geo)
+http://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:-1 channel-id="17801" radio="false" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-chno="13" group-title="USA GEO",PBS Kids (Geo)
+http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
+#EXTINF:-1 channel-id="17802" radio="false" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-chno="14" group-title="USA GEO",PBS Kids (PST) (Geo)
+http://live-cdn.pbskids.org/out/u/pst.m3u8
+#EXTINF:-1 channel-id="17803" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" tvg-chno="15" group-title="USA GEO",Sony Movie Channel (Geo)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+#EXTINF:-1 channel-id="17804" radio="false" tvg-logo="http://www.scribblrs.com/wp-content/uploads/2017/07/tbs.png" tvg-chno="16" group-title="USA GEO",TBS (Geo)
+http://195.181.169.148/TBS_Eng/tracks-v1a1/mono.m3u8

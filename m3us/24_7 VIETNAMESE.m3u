@@ -1,0 +1,65 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="177" radio="false" tvg-logo="https://i.imgur.com/tq4j6cN.png" tvg-chno="1" group-title="24/7 VIETNAMESE",Boruto (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+#EXTINF:-1 channel-id="178" radio="false" tvg-logo="https://i.imgur.com/tq4j6cN.png" tvg-chno="2" group-title="24/7 VIETNAMESE",Boruto (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.m3u8
+#EXTINF:-1 channel-id="179" radio="false" tvg-logo="https://i.imgur.com/mxHeAK4.png" tvg-chno="3" group-title="24/7 VIETNAMESE",Captain Tsubasa (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+#EXTINF:-1 channel-id="180" radio="false" tvg-logo="https://i.imgur.com/mxHeAK4.png" tvg-chno="4" group-title="24/7 VIETNAMESE",Captain Tsubasa (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.m3u8
+#EXTINF:-1 channel-id="181" radio="false" tvg-logo="https://i.imgur.com/BmkgmH5.png" tvg-chno="5" group-title="24/7 VIETNAMESE",Detective Conan 1 (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+#EXTINF:-1 channel-id="182" radio="false" tvg-logo="https://i.imgur.com/BmkgmH5.png" tvg-chno="6" group-title="24/7 VIETNAMESE",Detective Conan 1 (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.m3u8
+#EXTINF:-1 channel-id="183" radio="false" tvg-logo="https://i.imgur.com/BmkgmH5.png" tvg-chno="7" group-title="24/7 VIETNAMESE",Detective Conan 2 (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+#EXTINF:-1 channel-id="184" radio="false" tvg-logo="https://i.imgur.com/BmkgmH5.png" tvg-chno="8" group-title="24/7 VIETNAMESE",Detective Conan 2 (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.m3u8
+#EXTINF:-1 channel-id="185" radio="false" tvg-logo="https://i.imgur.com/BmkgmH5.png" tvg-chno="9" group-title="24/7 VIETNAMESE",Detective Conan 3 (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+#EXTINF:-1 channel-id="186" radio="false" tvg-logo="https://i.imgur.com/BmkgmH5.png" tvg-chno="10" group-title="24/7 VIETNAMESE",Detective Conan 3 (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.m3u8
+#EXTINF:-1 channel-id="187" radio="false" tvg-logo="https://i.imgur.com/8nQpvLs.png" tvg-chno="11" group-title="24/7 VIETNAMESE",Doraemon (Opt-1)
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
+#EXTINF:-1 channel-id="188" radio="false" tvg-logo="https://i.imgur.com/8nQpvLs.png" tvg-chno="12" group-title="24/7 VIETNAMESE",Doraemon (Opt-2)
+https://ws.hls.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.m3u8
+#EXTINF:-1 channel-id="189" radio="false" tvg-logo="https://i.imgur.com/XoD6RAN.png" tvg-chno="13" group-title="24/7 VIETNAMESE",Dragon Ball Z (Opt-1)
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
+#EXTINF:-1 channel-id="190" radio="false" tvg-logo="https://i.imgur.com/XoD6RAN.png" tvg-chno="14" group-title="24/7 VIETNAMESE",Dragon Ball Z (Opt-2)
+https://ws.hls.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.m3u8
+#EXTINF:-1 channel-id="191" radio="false" tvg-logo="https://i.imgur.com/s5cIS2c.png" tvg-chno="15" group-title="24/7 VIETNAMESE",Dragon Ball Z Kai (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+#EXTINF:-1 channel-id="192" radio="false" tvg-logo="https://i.imgur.com/s5cIS2c.png" tvg-chno="16" group-title="24/7 VIETNAMESE",Dragon Ball Z Kai (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.m3u8
+#EXTINF:-1 channel-id="193" radio="false" tvg-logo="https://i.imgur.com/GHjn9XV.png" tvg-chno="17" group-title="24/7 VIETNAMESE",Hunter × Hunter (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+#EXTINF:-1 channel-id="194" radio="false" tvg-logo="https://i.imgur.com/GHjn9XV.png" tvg-chno="18" group-title="24/7 VIETNAMESE",Hunter × Hunter (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.m3u8
+#EXTINF:-1 channel-id="195" radio="false" tvg-logo="https://i.imgur.com/tI914QG.png" tvg-chno="19" group-title="24/7 VIETNAMESE",Inuyasha (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+#EXTINF:-1 channel-id="196" radio="false" tvg-logo="https://i.imgur.com/tI914QG.png" tvg-chno="20" group-title="24/7 VIETNAMESE",Inuyasha (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.m3u8
+#EXTINF:-1 channel-id="197" radio="false" tvg-logo="https://i.imgur.com/nZtopDs.png" tvg-chno="21" group-title="24/7 VIETNAMESE",Larva (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:-1 channel-id="198" radio="false" tvg-logo="https://i.imgur.com/nZtopDs.png" tvg-chno="22" group-title="24/7 VIETNAMESE",Larva (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.m3u8
+#EXTINF:-1 channel-id="199" radio="false" tvg-logo="https://i.imgur.com/fkgnugT.png" tvg-chno="23" group-title="24/7 VIETNAMESE",One Piece (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+#EXTINF:-1 channel-id="200" radio="false" tvg-logo="https://i.imgur.com/fkgnugT.png" tvg-chno="24" group-title="24/7 VIETNAMESE",One Piece (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.m3u8
+#EXTINF:-1 channel-id="201" radio="false" tvg-logo="https://i.imgur.com/xGHJrqX.png" tvg-chno="25" group-title="24/7 VIETNAMESE",One-Punch Man (Opt-1)
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+#EXTINF:-1 channel-id="202" radio="false" tvg-logo="https://i.imgur.com/xGHJrqX.png" tvg-chno="26" group-title="24/7 VIETNAMESE",One-Punch Man (Opt-2)
+http://ws.hls.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.m3u8
+#EXTINF:-1 channel-id="203" radio="false" tvg-logo="https://i.imgur.com/9OwQuDE.png" tvg-chno="27" group-title="24/7 VIETNAMESE",Tom & Jerry (Opt-1)
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1 channel-id="204" radio="false" tvg-logo="https://i.imgur.com/9OwQuDE.png" tvg-chno="28" group-title="24/7 VIETNAMESE",Tom & Jerry (Opt-2)
+https://ws.hls.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.m3u8
+#EXTINF:-1 channel-id="205" radio="false" tvg-logo="https://i.imgur.com/PdLjy8k.png" tvg-chno="29" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-1)
+https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8
+#EXTINF:-1 channel-id="206" radio="false" tvg-logo="https://i.imgur.com/PdLjy8k.png" tvg-chno="30" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-2)
+https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
+#EXTINF:-1 channel-id="207" radio="false" tvg-logo="https://i.imgur.com/3A3NQFo.png" tvg-chno="31" group-title="24/7 VIETNAMESE",Totally Spies! (Opt-1)
+https://ws.hls.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="208" radio="false" tvg-logo="https://i.imgur.com/3A3NQFo.png" tvg-chno="32" group-title="24/7 VIETNAMESE",Totally Spies! (Opt-2)
+https://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv

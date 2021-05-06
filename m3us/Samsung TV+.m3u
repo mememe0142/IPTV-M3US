@@ -1,0 +1,531 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="13637" radio="false" tvg-chno="1" group-title="Samsung TV+",Absolute Reality WETV
+https://amc-absolutereality-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13638" radio="false" tvg-chno="2" group-title="Samsung TV+",ACC Digital Network wrong source
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13639" radio="false" tvg-chno="3" group-title="Samsung TV+",Action Hollywood Movies (Australia)
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13640" radio="false" tvg-chno="4" group-title="Samsung TV+",All Drama (England)
+https://endemol-alldrama-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13641" radio="false" tvg-chno="5" group-title="Samsung TV+",AMC Presents
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13642" radio="false" tvg-chno="6" group-title="Samsung TV+",Asiancrush
+https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13643" radio="false" tvg-chno="7" group-title="Samsung TV+",Aus Biz TV (Australia)
+https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13644" radio="false" tvg-chno="8" group-title="Samsung TV+",BCC gaming
+https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13645" radio="false" tvg-chno="9" group-title="Samsung TV+",BCC Gaming (Mexico)
+https://arcade-cloud-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13646" radio="false" tvg-chno="10" group-title="Samsung TV+",Beano TV (England)
+https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13647" radio="false" tvg-chno="11" group-title="Samsung TV+",Bein Sport Xtra (Canada)
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13648" radio="false" tvg-chno="12" group-title="Samsung TV+",Bein Sports XTRA GEO
+https://bein-xtra-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13649" radio="false" tvg-chno="13" group-title="Samsung TV+",Big Name (England)
+https://alchimie-big-names-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13650" radio="false" tvg-chno="14" group-title="Samsung TV+",Black News Channel not correct source
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13651" radio="false" tvg-chno="15" group-title="Samsung TV+",Bloomberg Quicktake (Australia)
+https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13652" radio="false" tvg-chno="16" group-title="Samsung TV+",Bloomberg Television (Mexico)
+https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13653" radio="false" tvg-chno="17" group-title="Samsung TV+",BLOOMBERG TV (Australia)
+https://bloomberg-bloomberg-2-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13654" radio="false" tvg-chno="18" group-title="Samsung TV+",Bloomberg TV Quicktake
+https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13655" radio="false" tvg-chno="19" group-title="Samsung TV+",Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13656" radio="false" tvg-chno="20" group-title="Samsung TV+",Bloomberg+ 4K (England)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13657" radio="false" tvg-chno="21" group-title="Samsung TV+",Bon Appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13658" radio="false" tvg-chno="22" group-title="Samsung TV+",Bounty Plus (Australia)
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13659" radio="false" tvg-chno="23" group-title="Samsung TV+",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13660" radio="false" tvg-chno="24" group-title="Samsung TV+",Buzzr
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13661" radio="false" tvg-chno="25" group-title="Samsung TV+",Cheddar
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13662" radio="false" tvg-chno="26" group-title="Samsung TV+",Chiquilines might not be working  (Mexico)
+https://chiquilines-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13663" radio="false" tvg-chno="27" group-title="Samsung TV+",Cine Romantico
+https://sony-novelas-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13664" radio="false" tvg-chno="28" group-title="Samsung TV+",Cine Sureño might not be working  (Mexico)
+https://cinesureno-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13665" radio="false" tvg-chno="29" group-title="Samsung TV+",Circle
+https://circle-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13666" radio="false" tvg-chno="30" group-title="Samsung TV+",Clubbing TV (England)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13667" radio="false" tvg-chno="31" group-title="Samsung TV+",CNN International (England)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13668" radio="false" tvg-chno="32" group-title="Samsung TV+",Cocoro
+https://dmr-cocoro-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13669" radio="false" tvg-chno="33" group-title="Samsung TV+",Comedy Dynamics
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
+#EXTINF:-1 channel-id="13670" radio="false" tvg-chno="34" group-title="Samsung TV+",ConTV
+https://contv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13671" radio="false" tvg-chno="35" group-title="Samsung TV+",Crime 360
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1 channel-id="13672" radio="false" tvg-chno="36" group-title="Samsung TV+",Danger TV
+https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13673" radio="false" tvg-chno="37" group-title="Samsung TV+",Deal or No Deal
+https://endemol-dealornodeal-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13674" radio="false" tvg-chno="38" group-title="Samsung TV+",Deal or no Deal (Canada)
+https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13675" radio="false" tvg-chno="39" group-title="Samsung TV+",Demand Africa (Mexico)
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13676" radio="false" tvg-chno="40" group-title="Samsung TV+",Discover Film (England)
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13677" radio="false" tvg-chno="41" group-title="Samsung TV+",Diy Daily (England)
+https://endemol-restore-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13678" radio="false" tvg-chno="42" group-title="Samsung TV+",Docurama
+https://docurama.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13679" radio="false" tvg-chno="43" group-title="Samsung TV+",Dove channel
+https://dovenow.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13680" radio="false" tvg-chno="44" group-title="Samsung TV+",Dry Bar Comedy (Australia)
+https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13681" radio="false" tvg-chno="45" group-title="Samsung TV+",DryBar Comedy
+https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13682" radio="false" tvg-chno="46" group-title="Samsung TV+",DryBar Comedy (Canada)
+https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13683" radio="false" tvg-chno="47" group-title="Samsung TV+",Dust
+https://dust.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13684" radio="false" tvg-chno="48" group-title="Samsung TV+",Dust (Canada)
+https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13685" radio="false" tvg-chno="49" group-title="Samsung TV+",Dust (England)
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13686" radio="false" tvg-chno="50" group-title="Samsung TV+",Dust ANTHOLOGY (Australia)
+https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13687" radio="false" tvg-chno="51" group-title="Samsung TV+",Edge Sport
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13688" radio="false" tvg-chno="52" group-title="Samsung TV+",Edge Sport (England)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13689" radio="false" tvg-chno="53" group-title="Samsung TV+",ESR Esports 24x7
+https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13690" radio="false" tvg-chno="54" group-title="Samsung TV+",Estrella News
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13691" radio="false" tvg-chno="55" group-title="Samsung TV+",Estrella TV
+http://estrellatv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13692" radio="false" tvg-chno="56" group-title="Samsung TV+",Estv Esports Television GEO
+https://estv-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13693" radio="false" tvg-chno="57" group-title="Samsung TV+",ET Live not samsung source dai.google.com
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal 
+#EXTINF:-1 channel-id="13694" radio="false" tvg-chno="58" group-title="Samsung TV+",Euronews (Australia)
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13695" radio="false" tvg-chno="59" group-title="Samsung TV+",Euronews (England)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13696" radio="false" tvg-chno="60" group-title="Samsung TV+",Euronews (Mexico)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13697" radio="false" tvg-chno="61" group-title="Samsung TV+",Euronews via Alchimie (England)
+https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13698" radio="false" tvg-chno="62" group-title="Samsung TV+",Fail Army Internatioanl (Mexico)
+https://failarmy-international-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13699" radio="false" tvg-chno="63" group-title="Samsung TV+",FailArmy
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13700" radio="false" tvg-chno="64" group-title="Samsung TV+",Failarmy (Australia)
+https://failarmy-international-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13701" radio="false" tvg-chno="65" group-title="Samsung TV+",FailArmy (Canada)
+https://failarmy-international-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13702" radio="false" tvg-chno="66" group-title="Samsung TV+",Failarmy (England)
+https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13703" radio="false" tvg-chno="67" group-title="Samsung TV+",Fashion TV (England)
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13704" radio="false" tvg-chno="68" group-title="Samsung TV+",Filmstream (Australia)
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13705" radio="false" tvg-chno="69" group-title="Samsung TV+",Filmstream (England)
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13706" radio="false" tvg-chno="70" group-title="Samsung TV+",Filmzie (England)
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13707" radio="false" tvg-chno="71" group-title="Samsung TV+",Flash TV might not be working  (Mexico)
+https://flash-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13708" radio="false" tvg-chno="72" group-title="Samsung TV+",Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13709" radio="false" tvg-chno="73" group-title="Samsung TV+",Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13710" radio="false" tvg-chno="74" group-title="Samsung TV+",FTF (Canada)
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13711" radio="false" tvg-chno="75" group-title="Samsung TV+",FTF For the fans
+https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13712" radio="false" tvg-chno="76" group-title="Samsung TV+",FTF For the fans (England)
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13713" radio="false" tvg-chno="77" group-title="Samsung TV+",Fuel TV
+https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13714" radio="false" tvg-chno="78" group-title="Samsung TV+",Fuel TV (Australia)
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13715" radio="false" tvg-chno="79" group-title="Samsung TV+",Fuel TV (Canada)
+https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13716" radio="false" tvg-chno="80" group-title="Samsung TV+",Fuel TV (England)
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13717" radio="false" tvg-chno="81" group-title="Samsung TV+",Game Show Central
+https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13718" radio="false" tvg-chno="82" group-title="Samsung TV+",Go USA (England)
+https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13719" radio="false" tvg-chno="83" group-title="Samsung TV+",Gravitas Movies
+https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13720" radio="false" tvg-chno="84" group-title="Samsung TV+",Gusto TV
+https://gustotv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13721" radio="false" tvg-chno="85" group-title="Samsung TV+",Gusto TV (Australia)
+https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13722" radio="false" tvg-chno="86" group-title="Samsung TV+",GustoTV (England)
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13723" radio="false" tvg-chno="87" group-title="Samsung TV+",Hollywire
+https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13724" radio="false" tvg-chno="88" group-title="Samsung TV+",HollyWire (Canada)
+https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13725" radio="false" tvg-chno="89" group-title="Samsung TV+",Hollywire (Canada)
+https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13726" radio="false" tvg-chno="90" group-title="Samsung TV+",Horse and Country (Australia)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13727" radio="false" tvg-chno="91" group-title="Samsung TV+",Horse and Country Free (England)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13728" radio="false" tvg-chno="92" group-title="Samsung TV+",HSN
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13729" radio="false" tvg-chno="93" group-title="Samsung TV+",Humanity (England)
+https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13730" radio="false" tvg-chno="94" group-title="Samsung TV+",Hungry
+https://food.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13731" radio="false" tvg-chno="95" group-title="Samsung TV+",IGN
+https://ign-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13732" radio="false" tvg-chno="96" group-title="Samsung TV+",Insight TV
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13733" radio="false" tvg-chno="97" group-title="Samsung TV+",Insight tv (Australia)
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13734" radio="false" tvg-chno="98" group-title="Samsung TV+",Insight TV (Canada)
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13735" radio="false" tvg-chno="99" group-title="Samsung TV+",Insight TV (England)
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13736" radio="false" tvg-chno="100" group-title="Samsung TV+",Insight TV (Mexico)
+https://insighttv-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13737" radio="false" tvg-chno="101" group-title="Samsung TV+",Introuble (Australia)
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13738" radio="false" tvg-chno="102" group-title="Samsung TV+",Introuble (England)
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13739" radio="false" tvg-chno="103" group-title="Samsung TV+",Inwild (Australia)
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13740" radio="false" tvg-chno="104" group-title="Samsung TV+",Inwild (England)
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13741" radio="false" tvg-chno="105" group-title="Samsung TV+",Inwonder
+https://inwonder-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13742" radio="false" tvg-chno="106" group-title="Samsung TV+",Inwonder (Australia)
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13743" radio="false" tvg-chno="107" group-title="Samsung TV+",Inwonder (Canada)
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13744" radio="false" tvg-chno="108" group-title="Samsung TV+",Inwonder (England)
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13745" radio="false" tvg-chno="109" group-title="Samsung TV+",InWonder (Mexico)
+https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13746" radio="false" tvg-chno="110" group-title="Samsung TV+",Ion Plus
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13747" radio="false" tvg-chno="111" group-title="Samsung TV+",Journy
+https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+#EXTINF:-1 channel-id="13748" radio="false" tvg-chno="112" group-title="Samsung TV+",Kid Gamer TV (England)
+https://studio71-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13749" radio="false" tvg-chno="113" group-title="Samsung TV+",Kidoodle
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13750" radio="false" tvg-chno="114" group-title="Samsung TV+",Kidoodle TV (Canada)
+https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13751" radio="false" tvg-chno="115" group-title="Samsung TV+",Kidoodle TV (England)
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13752" radio="false" tvg-chno="116" group-title="Samsung TV+",Kitchen Nightmares
+https://kitchennightmares-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13753" radio="false" tvg-chno="117" group-title="Samsung TV+",Kmtv
+https://kmtvnow-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13754" radio="false" tvg-chno="118" group-title="Samsung TV+",Latido Music
+https://vidaprimo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13755" radio="false" tvg-chno="119" group-title="Samsung TV+",Law and Crime Trial Network
+https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13756" radio="false" tvg-chno="120" group-title="Samsung TV+",Lego channel temp source
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13757" radio="false" tvg-chno="121" group-title="Samsung TV+",Livelyplace
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13758" radio="false" tvg-chno="122" group-title="Samsung TV+",Luxe TV (England)
+https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13759" radio="false" tvg-chno="123" group-title="Samsung TV+",Made in Hollywood (Australia) (not correct source)
+https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13760" radio="false" tvg-chno="124" group-title="Samsung TV+",Magellan TV Now
+https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13761" radio="false" tvg-chno="125" group-title="Samsung TV+",Masters of Food (England)
+https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13762" radio="false" tvg-chno="126" group-title="Samsung TV+",Mav TV (Canada)
+https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13763" radio="false" tvg-chno="127" group-title="Samsung TV+",Mav TV Select
+https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13764" radio="false" tvg-chno="128" group-title="Samsung TV+",Maverick Black Cinema
+https://maverick-maverick-black-cinema-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13765" radio="false" tvg-chno="129" group-title="Samsung TV+",MAVTV Motor Sports (Australia)
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13766" radio="false" tvg-chno="130" group-title="Samsung TV+",MHZ (Canada)
+https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13767" radio="false" tvg-chno="131" group-title="Samsung TV+",MHZ Now
+https://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13768" radio="false" tvg-chno="132" group-title="Samsung TV+",Midnight Pulp
+https://midnightpulp-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13769" radio="false" tvg-chno="133" group-title="Samsung TV+",MMA TV (England)
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13770" radio="false" tvg-chno="134" group-title="Samsung TV+",Moonbug (Canada) geo?
+https://moonbug-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13771" radio="false" tvg-chno="135" group-title="Samsung TV+",Moonbug Kids GEO
+https://moonbug-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13772" radio="false" tvg-chno="136" group-title="Samsung TV+",Moonbug Kids not geo via roku
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13773" radio="false" tvg-chno="137" group-title="Samsung TV+",MovieMix
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13774" radio="false" tvg-chno="138" group-title="Samsung TV+",Movies Central (England)
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13775" radio="false" tvg-chno="139" group-title="Samsung TV+",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13776" radio="false" tvg-chno="140" group-title="Samsung TV+",MyTime Movie Network (Mexico)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13777" radio="false" tvg-chno="141" group-title="Samsung TV+",Naturescape (may not be correct source)
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13778" radio="false" tvg-chno="142" group-title="Samsung TV+",New K-ID
+https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13779" radio="false" tvg-chno="143" group-title="Samsung TV+",Newsy
+https://newsy.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13780" radio="false" tvg-chno="144" group-title="Samsung TV+",Nosey
+https://nosey-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13781" radio="false" tvg-chno="145" group-title="Samsung TV+",Outdoor America
+https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13782" radio="false" tvg-chno="146" group-title="Samsung TV+",Outdoor Channel (Australia)
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13783" radio="false" tvg-chno="147" group-title="Samsung TV+",Outside TV (Canada)
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13784" radio="false" tvg-chno="148" group-title="Samsung TV+",Outside TV+
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13785" radio="false" tvg-chno="149" group-title="Samsung TV+",Pac12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13786" radio="false" tvg-chno="150" group-title="Samsung TV+",PBS America (England)
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13787" radio="false" tvg-chno="151" group-title="Samsung TV+",People are Awesome
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13788" radio="false" tvg-chno="152" group-title="Samsung TV+",People Are Awesome (Australia)
+https://jukin-peopleareawesome-2-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13789" radio="false" tvg-chno="153" group-title="Samsung TV+",People are Awesome (Canada)
+https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13790" radio="false" tvg-chno="154" group-title="Samsung TV+",People are Awesome (England)
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13791" radio="false" tvg-chno="155" group-title="Samsung TV+",People are Awesome (Mexico)
+https://jukin-peopleareawesome-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13792" radio="false" tvg-chno="156" group-title="Samsung TV+",People TV
+https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
+#EXTINF:-1 channel-id="13793" radio="false" tvg-chno="157" group-title="Samsung TV+",Planet Knowledge (England)
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13794" radio="false" tvg-chno="158" group-title="Samsung TV+",Players TV
+https://playerstv-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13795" radio="false" tvg-chno="159" group-title="Samsung TV+",Players TV (Canada)
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13796" radio="false" tvg-chno="160" group-title="Samsung TV+",Players TV (England)
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13797" radio="false" tvg-chno="161" group-title="Samsung TV+",Pocket watch
+https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13798" radio="false" tvg-chno="162" group-title="Samsung TV+",PocketWatch
+https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13799" radio="false" tvg-chno="163" group-title="Samsung TV+",PowerNation (Canada)
+https://rtmtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13800" radio="false" tvg-chno="164" group-title="Samsung TV+",Pulse TV (Australia)
+https://lightning-pulse-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13801" radio="false" tvg-chno="165" group-title="Samsung TV+",Pursuit Up
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13802" radio="false" tvg-chno="166" group-title="Samsung TV+",Qello Concerts by Stingray
+https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13803" radio="false" tvg-chno="167" group-title="Samsung TV+",Qello Stingray
+https://samsung.ott-channels.stingray.com/qello/master.m3u8
+#EXTINF:-1 channel-id="13804" radio="false" tvg-chno="168" group-title="Samsung TV+",Qubo
+https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13805" radio="false" tvg-chno="169" group-title="Samsung TV+",QVC
+https://qvc.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13806" radio="false" tvg-chno="170" group-title="Samsung TV+",Qwest Jazz (Mexico)
+https://qwest-jazz-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13807" radio="false" tvg-chno="171" group-title="Samsung TV+",Qwest Jazz and Beyond  (Australia)
+https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13808" radio="false" tvg-chno="172" group-title="Samsung TV+",Qwest Jazz and Beyond (England)
+https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13809" radio="false" tvg-chno="173" group-title="Samsung TV+",Qwest TV Classical (Australia)
+https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13810" radio="false" tvg-chno="174" group-title="Samsung TV+",Qwest TV Classical (England)
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13811" radio="false" tvg-chno="175" group-title="Samsung TV+",Qwest TV MIX (Australia)
+https://qwestmix-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13812" radio="false" tvg-chno="176" group-title="Samsung TV+",Qwest TV MIX (England)
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13813" radio="false" tvg-chno="177" group-title="Samsung TV+",Rakuten Action Movies (England)
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13814" radio="false" tvg-chno="178" group-title="Samsung TV+",Rakuten Comedy Movies (England)
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13815" radio="false" tvg-chno="179" group-title="Samsung TV+",Rakuten Drama (England)
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13816" radio="false" tvg-chno="180" group-title="Samsung TV+",Rakuten Spotlight (England)
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13817" radio="false" tvg-chno="181" group-title="Samsung TV+",Real Stories (Australia)
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13818" radio="false" tvg-chno="182" group-title="Samsung TV+",Real Stories (England)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13819" radio="false" tvg-chno="183" group-title="Samsung TV+",Reel Truth (England)
+https://endemol-reeltruth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13820" radio="false" tvg-chno="184" group-title="Samsung TV+",Rialto (Australia)
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13821" radio="false" tvg-chno="185" group-title="Samsung TV+",RiffTrax
+https://rifftrax.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13822" radio="false" tvg-chno="186" group-title="Samsung TV+",Runtime (Mexico)
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13823" radio="false" tvg-chno="187" group-title="Samsung TV+",Ryan and Friends (Australia)
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13824" radio="false" tvg-chno="188" group-title="Samsung TV+",Saber Más might not be working  (Mexico)
+https://sabermas-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13825" radio="false" tvg-chno="189" group-title="Samsung TV+",Samsung Comedy Channel (England)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13826" radio="false" tvg-chno="190" group-title="Samsung TV+",Shout Factory TV
+https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13827" radio="false" tvg-chno="191" group-title="Samsung TV+",Skills and Thrills
+https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13828" radio="false" tvg-chno="192" group-title="Samsung TV+",Smithsonian Channel (Australia)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13829" radio="false" tvg-chno="193" group-title="Samsung TV+",Sofy.TV (England)
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13830" radio="false" tvg-chno="194" group-title="Samsung TV+",Sony Canal Comedias
+https://sony-comedias-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13831" radio="false" tvg-chno="195" group-title="Samsung TV+",Sony Canal Competencias
+https://sony-competencias-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13832" radio="false" tvg-chno="196" group-title="Samsung TV+",Sony Canal Novelas
+https://sony-novelas-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13833" radio="false" tvg-chno="197" group-title="Samsung TV+",Sports Channel Network (England)
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13834" radio="false" tvg-chno="198" group-title="Samsung TV+",SportsGrid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13835" radio="false" tvg-chno="199" group-title="Samsung TV+",Stadium
+https://stadium.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13836" radio="false" tvg-chno="200" group-title="Samsung TV+",Sterling Drama
+https://endemol-sterlingdrama-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13837" radio="false" tvg-chno="201" group-title="Samsung TV+",Stingray Karaoke (England)
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13838" radio="false" tvg-chno="202" group-title="Samsung TV+",Stingray Karaoke (may not be correct source)
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13839" radio="false" tvg-chno="203" group-title="Samsung TV+",Stingray Naturescape
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13840" radio="false" tvg-chno="204" group-title="Samsung TV+",Stingray Naturescape (Canada)
+https://stingray-naturescape-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13841" radio="false" tvg-chno="205" group-title="Samsung TV+",Stingray Naturescape (may not be correct source)
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13842" radio="false" tvg-chno="206" group-title="Samsung TV+",Supertoons TV (England)
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13843" radio="false" tvg-chno="207" group-title="Samsung TV+",Surf Now TV
+https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13844" radio="false" tvg-chno="208" group-title="Samsung TV+",Tastemade
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13845" radio="false" tvg-chno="209" group-title="Samsung TV+",Tastemade (Canada)
+https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13846" radio="false" tvg-chno="210" group-title="Samsung TV+",Tastemade (England)
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13847" radio="false" tvg-chno="211" group-title="Samsung TV+",TasteMade (Mexico)
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13848" radio="false" tvg-chno="212" group-title="Samsung TV+",Tastemade En Espanol
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13849" radio="false" tvg-chno="213" group-title="Samsung TV+",Tastemade International (Australia)
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13850" radio="false" tvg-chno="214" group-title="Samsung TV+",Teletubbies (England)
+https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13851" radio="false" tvg-chno="215" group-title="Samsung TV+",TG Junior
+https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13852" radio="false" tvg-chno="216" group-title="Samsung TV+",The Asylum (may not be correct source)
+https://asylum-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13853" radio="false" tvg-chno="217" group-title="Samsung TV+",The Boat Show (England)
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13854" radio="false" tvg-chno="218" group-title="Samsung TV+",The Bob Ross Channel
+https://bobross-wurl.cinedigm.com/playlist.m3u8
+#EXTINF:-1 channel-id="13855" radio="false" tvg-chno="219" group-title="Samsung TV+",The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13856" radio="false" tvg-chno="220" group-title="Samsung TV+",The Design Network (Canada)
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13857" radio="false" tvg-chno="221" group-title="Samsung TV+",The Movie Hub
+https://themoviehub-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13858" radio="false" tvg-chno="222" group-title="Samsung TV+",The Pet Collective
+https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13859" radio="false" tvg-chno="223" group-title="Samsung TV+",The Pet Collective (Australia)
+https://the-pet-collective-international-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13860" radio="false" tvg-chno="224" group-title="Samsung TV+",The Pet Collective (Canada)
+https://the-pet-collective-international-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13861" radio="false" tvg-chno="225" group-title="Samsung TV+",The Pet Collective (England)
+https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13862" radio="false" tvg-chno="226" group-title="Samsung TV+",The Pet Collective (Mexico)
+https://the-pet-collective-international-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13863" radio="false" tvg-chno="227" group-title="Samsung TV+",The Preview Channel
+https://previewchannel-previewchannel-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13864" radio="false" tvg-chno="228" group-title="Samsung TV+",The Preview Channel (Canada) GEO
+https://previewchannel-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13865" radio="false" tvg-chno="229" group-title="Samsung TV+",The Tennis Channel International (England)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13866" radio="false" tvg-chno="230" group-title="Samsung TV+",This Old House
+https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13867" radio="false" tvg-chno="231" group-title="Samsung TV+",Time Line (Australia)
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13868" radio="false" tvg-chno="232" group-title="Samsung TV+",Time Line (England)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13869" radio="false" tvg-chno="233" group-title="Samsung TV+",Tiny House Nation
+https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13870" radio="false" tvg-chno="234" group-title="Samsung TV+",Toon Goggles
+https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13871" radio="false" tvg-chno="235" group-title="Samsung TV+",Toon Goggles (Australia)
+https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13872" radio="false" tvg-chno="236" group-title="Samsung TV+",Toongoggles (England)
+https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13873" radio="false" tvg-chno="237" group-title="Samsung TV+",Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13874" radio="false" tvg-chno="238" group-title="Samsung TV+",Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13875" radio="false" tvg-chno="239" group-title="Samsung TV+",Travel XP (Australia)
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13876" radio="false" tvg-chno="240" group-title="Samsung TV+",Travel XP (England)
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13877" radio="false" tvg-chno="241" group-title="Samsung TV+",Truly (England)
+https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13878" radio="false" tvg-chno="242" group-title="Samsung TV+",Tu Cine might not be working (Mexico)
+https://tucine-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13879" radio="false" tvg-chno="243" group-title="Samsung TV+",TYT
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13880" radio="false" tvg-chno="244" group-title="Samsung TV+",Unbeaten (England)
+https://alchimie-unbeaten-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13881" radio="false" tvg-chno="245" group-title="Samsung TV+",Unindentified (temp)
+https://studio1091-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13882" radio="false" tvg-chno="246" group-title="Samsung TV+",VENN (Australia)
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13883" radio="false" tvg-chno="247" group-title="Samsung TV+",Venn TV
+https://venntv-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13884" radio="false" tvg-chno="248" group-title="Samsung TV+",Waypoint Outdoors
+https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13885" radio="false" tvg-chno="249" group-title="Samsung TV+",Waypoint TV (Canada)
+https://waypointtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13886" radio="false" tvg-chno="250" group-title="Samsung TV+",Weather Spy (Australia)
+https://jukin-weatherspy-2-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13887" radio="false" tvg-chno="251" group-title="Samsung TV+",WeatherNation
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13888" radio="false" tvg-chno="252" group-title="Samsung TV+",WeatherSpy
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13889" radio="false" tvg-chno="253" group-title="Samsung TV+",Weatherspy (Canada)
+https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13890" radio="false" tvg-chno="254" group-title="Samsung TV+",WeatherSpy (Mexico)
+https://jukin-weatherspy-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13891" radio="false" tvg-chno="255" group-title="Samsung TV+",Whistle TV
+https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13892" radio="false" tvg-chno="256" group-title="Samsung TV+",Wipeout Xtra
+https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13893" radio="false" tvg-chno="257" group-title="Samsung TV+",Wonder (Australia)
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13894" radio="false" tvg-chno="258" group-title="Samsung TV+",Wonder (England)
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13895" radio="false" tvg-chno="259" group-title="Samsung TV+",World Poker Tour
+https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13896" radio="false" tvg-chno="260" group-title="Samsung TV+",World Poker Tour (Canada)
+https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13897" radio="false" tvg-chno="261" group-title="Samsung TV+",Xplore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13898" radio="false" tvg-chno="262" group-title="Samsung TV+",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13899" radio="false" tvg-chno="263" group-title="Samsung TV+",Yuyu
+https://yuyu-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="13900" radio="false" tvg-chno="264" group-title="Samsung TV+",Zoo Moo (Australia)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="13901" radio="false" tvg-chno="265" group-title="Samsung TV+",ZooMoo
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8

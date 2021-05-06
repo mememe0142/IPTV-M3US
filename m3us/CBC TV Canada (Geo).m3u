@@ -1,0 +1,31 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="1458" radio="false" tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="1" group-title="CBC TV Canada (Geo)",CBC Calgary
+https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+#EXTINF:-1 channel-id="1459" radio="false" tvg-id="I109.72884.zap2it.com" tvg-name="109 CBCTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="2" group-title="CBC TV Canada (Geo)",CBC Charlottetown
+https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
+#EXTINF:-1 channel-id="1460" radio="false" tvg-id="I192.71733.zap2it.com" tvg-name="192 CBXTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="3" group-title="CBC TV Canada (Geo)",CBC Edmonton
+https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
+#EXTINF:-1 channel-id="1461" radio="false" tvg-id="I106.72767.zap2it.com" tvg-name="106 CBATDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="4" group-title="CBC TV Canada (Geo)",CBC Fredericton
+https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
+#EXTINF:-1 channel-id="1462" radio="false" tvg-id="I102.72723.zap2it.com" tvg-name="102 CBHTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="5" group-title="CBC TV Canada (Geo)",CBC Halifax
+https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+#EXTINF:-1 channel-id="1463" radio="false" tvg-id="I122.53502.zap2it.com" tvg-name="122 CBMTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="6" group-title="CBC TV Canada (Geo)",CBC Montreal
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1 channel-id="1464" radio="false" tvg-id="I144.58494.zap2it.com" tvg-name="144 CBOTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="7" group-title="CBC TV Canada (Geo)",CBC Ottawa
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 channel-id="1465" radio="false" tvg-id="I172.72795.zap2it.com" tvg-name="172 CBKTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="8" group-title="CBC TV Canada (Geo)",CBC Regina
+https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
+#EXTINF:-1 channel-id="1466" radio="false" tvg-id="I111.72797.zap2it.com" tvg-name="111 CBNTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="9" group-title="CBC TV Canada (Geo)",CBC St Johns
+https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
+#EXTINF:-1 channel-id="1467" radio="false" tvg-id="I132.46245.zap2it.com" tvg-name="132 CBLTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="10" group-title="CBC TV Canada (Geo)",CBC Toronto
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:-1 channel-id="1468" radio="false" tvg-id="I213.51981.zap2it.com" tvg-name="213 CBUTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="11" group-title="CBC TV Canada (Geo)",CBC Vancouver
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+#EXTINF:-1 channel-id="1469" radio="false" tvg-id="I136.72772.zap2it.com" tvg-name="136 CBETDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="12" group-title="CBC TV Canada (Geo)",CBC Windsor
+https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
+#EXTINF:-1 channel-id="1470" radio="false" tvg-id="I162.72940.zap2it.com" tvg-name="162 CBWTDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="13" group-title="CBC TV Canada (Geo)",CBC Winnipeg
+https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
+#EXTINF:-1 channel-id="1471" radio="false" tvg-id="I225.72816.zap2it.com" tvg-name="225 CFYKDT" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="14" group-title="CBC TV Canada (Geo)",CBC Yellowknife
+https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+#EXTINF:-1 channel-id="1472" radio="false" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" tvg-chno="15" group-title="CBC TV Canada (Geo)",CBC Sports (Event)
+https://cbcsportshd3-lh.akamaihd.net/i/cbcsportsworld2_1@537302/index_2500_av-p.m3u8

@@ -1,0 +1,27 @@
+﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
+#EXTINF:-1 channel-id="2300" radio="false" tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="1" group-title="ICI Tele Canada (Geo)",ICI Tele Acadie
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
+#EXTINF:-1 channel-id="2301" radio="false" tvg-id="ICIalberta" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="2" group-title="ICI Tele Canada (Geo)",ICI Tele Alberta
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
+#EXTINF:-1 channel-id="2302" radio="false" tvg-id="ICIcbyukon" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="3" group-title="ICI Tele Canada (Geo)",ICI Tele CB-Yukon
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
+#EXTINF:-1 channel-id="2303" radio="false" tvg-id="ICIestquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="4" group-title="ICI Tele Canada (Geo)",ICI Tele Est-Quebec
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
+#EXTINF:-1 channel-id="2304" radio="false" tvg-id="ICIestrie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="5" group-title="ICI Tele Canada (Geo)",ICI Tele Estrie
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
+#EXTINF:-1 channel-id="2305" radio="false" tvg-id="ICImanitoba" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="6" group-title="ICI Tele Canada (Geo)",ICI Tele Manitoba
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
+#EXTINF:-1 channel-id="2306" radio="false" tvg-id="ICImauricie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="7" group-title="ICI Tele Canada (Geo)",ICI Tele Mauricie
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
+#EXTINF:-1 channel-id="2307" radio="false" tvg-id="ICImontreal" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="8" group-title="ICI Tele Canada (Geo)",ICI Tele Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1 channel-id="2308" radio="false" tvg-id="ICIontario" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="9" group-title="ICI Tele Canada (Geo)",ICI Tele Ontario
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
+#EXTINF:-1 channel-id="2309" radio="false" tvg-id="ICIottawagatineau" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="10" group-title="ICI Tele Canada (Geo)",ICI Tele Ottawa-Gatineau
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
+#EXTINF:-1 channel-id="2310" radio="false" tvg-id="ICIquebec" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="11" group-title="ICI Tele Canada (Geo)",ICI Tele Quebec
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
+#EXTINF:-1 channel-id="2311" radio="false" tvg-id="ICIsaguenay" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="12" group-title="ICI Tele Canada (Geo)",ICI Tele Saguenay
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
+#EXTINF:-1 channel-id="2312" radio="false" tvg-id="ICIsaskatchewan" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" tvg-chno="13" group-title="ICI Tele Canada (Geo)",ICI Tele Saskatchewan
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
