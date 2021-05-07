@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 channel-id="2456" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/gHBvHes.jpg" tvg-chno="1" group-title="Movies Plus",& Flix HD
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/FlixHD.m3u
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 channel-id="2457" radio="false" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" tvg-chno="2" group-title="Movies Plus",& Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 channel-id="2458" radio="false" tvg-id="FLIX - Eastern" tvg-logo="https://i.imgur.com/UkcgDgO.jpg" tvg-chno="3" group-title="Movies Plus",&Flix
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/FlixHD.m3u
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 radio="false" tvg-name="24 Box TV" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" group-title="Movies Plus",24 Box TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 channel-id="2459" radio="false" tvg-logo="https://i.imgur.com/bPQkvtO.jpg" tvg-chno="4" group-title="Movies Plus",24 Box TV
@@ -216,7 +216,7 @@ https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-country="GR" group-title="Movies Plus",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 radio="false" tvg-name="Hallmark" tvg-logo="http://allvectorlogo.com/img/2016/07/hallmark-channel-logo.png" group-title="Movies Plus",Hallmark
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/Hallmark.m3u
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 channel-id="2545" radio="false" tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" tvg-chno="90" group-title="Movies Plus",Hallmark Movies & More | HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 channel-id="2546" radio="false" tvg-id="Hallmark Movies &amp; Mysteries - Eastern" tvg-logo="https://i.imgur.com/dfaJpw4.png" tvg-chno="91" group-title="Movies Plus",Hallmark Movies & Mysteries (Geo)
@@ -753,3 +753,5 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 #EXTINF:-1 radio="false" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" tvg-country="CN" group-title="Movies Plus",黑莓电影 (Backup)
 http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 channel-id="2456" radio="false" tvg-id="TMZ - Eastern" tvg-logo="" tvg-chno="1" group-title="Movies Plus",TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8?p=roku&rdid=4e4cbcc4-0688-50cb-bc25-6e3bb686406d&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=f0abcf35f14759eaac2cbade2af04776&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=tmz&channelStore=us&tags=ROKU_CONTENT_TAGS
