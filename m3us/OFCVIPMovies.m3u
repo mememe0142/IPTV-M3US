@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 radio="false" group-title="** OFC VIP Movies **",Stay (2021)
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/Stay.m3u8
+#EXTINF:-1 radio="false" group-title="** OFC VIP Movies **",without remorse (2021)
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/without%20remorse.m3u8
+#EXTINF:-1 radio="false" group-title="** OFC VIP Movies **",Locked In (2021)
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/Locked%20In.m3u8
+#EXTINF:-1 radio="false" group-title="** OFC VIP Movies **",The Mitchells vs the Machines (2021)
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/m3us/The%20Mitchells%20vs%20the%20Machines.m3u8
 #EXTINF:-1 radio="false" group-title="** OFC VIP Movies **",101 Dalmatians (1961)
 http://www.deadlyblogger.com/NewRelease/dal1.mp4
 #EXTINF:-1 radio="false" group-title="** OFC VIP Movies **",12 Years a Slave (2013)
