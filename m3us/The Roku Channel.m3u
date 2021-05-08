@@ -1,149 +1,377 @@
-﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
-#EXTINF:-1 channel-id="14365" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="1" group-title="The Roku Channel",A+E Crime 360
-https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14366" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="2" group-title="The Roku Channel",ABC News
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="14367" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="3" group-title="The Roku Channel",beIN Sports XTRA
-https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14368" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="4" group-title="The Roku Channel",Bloody Disgusting (1)
-https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8?Roku1
-#EXTINF:-1 channel-id="14369" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="5" group-title="The Roku Channel",Bloody Disgusting (2)
-https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8?Roku2
-#EXTINF:-1 channel-id="14370" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="6" group-title="The Roku Channel",Cine Sureno
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 channel-id="14371" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="7" group-title="The Roku Channel",Circle
-https://circle-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14372" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="8" group-title="The Roku Channel",Cocoro
-https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14373" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="9" group-title="The Roku Channel",CONtv Anime
-https://contvanime-roku-ingest.cinedigm.com/master.m3u8
-#EXTINF:-1 channel-id="14374" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="10" group-title="The Roku Channel",Deal Or No Deal
-https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14375" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="11" group-title="The Roku Channel",Dove Channel
-https://dovenow-roku-ingest.cinedigm.com/master.m3u8
-#EXTINF:-1 channel-id="14376" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="12" group-title="The Roku Channel",Dust
-https://dustx-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14377" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="13" group-title="The Roku Channel",Electric Now
-https://stream.ads.ottera.tv/playlist.m3u8?&network_id=276&app_bundle=151908&value_1=ROKU_ADS_CONTENT_RATING&value_2=livefeed&coppa=false&device=OTT_DEVICE_MODEL&value_3=ROKU_ADS_CONTENT_GENRE&value_4=OTT_ID_TYPE&is_lat=1&value_8=OTT_CONTENT_LENGTH&value_5=OTT_ADS_TRACKING_ID&content_dist_name=web&position=POD_POSITION&did=ba755927-be4b-5494-9fc5-831a2be230ce&value_6=ROKU_ADS_SEASON_ID&value_7=ROKU_ADS_SERIES_ID&content_producer_id=electric_now&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36+OPR%2F72.0.3815.320&value_9=channelstore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm1%26device_lang%3DROKU_ADS_LOCALE%26unlocked%3DUNLOCKED&content_type=livefeed&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&bmodel=bm1&studio_id=electric_now&channel_id=151908&content=5134fb06b5a35b388a94c148866e99a9&platform=web&channelStore=us&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 channel-id="14378" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="14" group-title="The Roku Channel",Estrella News
-https://estrellanews-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14379" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="15" group-title="The Roku Channel",Estrella TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14380" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="16" group-title="The Roku Channel",Euronews | ENG
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14381" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="17" group-title="The Roku Channel",Euronews | ES
-https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14382" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="18" group-title="The Roku Channel",Family Feud
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="14383" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="19" group-title="The Roku Channel",FilmRise Cooking (1)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=filmrise&channelStore=us&tags=ROKU_CONTENT_TAGS?Roku1
-#EXTINF:-1 channel-id="14384" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="20" group-title="The Roku Channel",FilmRise Cooking (2)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=filmrise&channelStore=us&tags=ROKU_CONTENT_TAGS?Roku2
-#EXTINF:-1 channel-id="14385" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="21" group-title="The Roku Channel",Filmrise Mysteries
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=false&is_roku_lat=1&platform=web&content=6f07ced251e05c418b6e5a9c772c4425&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=filmrise&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="14386" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="22" group-title="The Roku Channel",FilmRise Sci-Fi
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
-#EXTINF:-1 channel-id="14387" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="23" group-title="The Roku Channel",Filmrise Western
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=false&is_roku_lat=1&platform=web&content=842187656e39547a903ff0c1939a5e69&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=filmrise&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="14388" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="24" group-title="The Roku Channel",Fireman Sam
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=a00c105ace6a51b291823a9bced29e2e&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="14389" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="25" group-title="The Roku Channel",Fox Soul
-https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14390" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="26" group-title="The Roku Channel",FTF (For the Fans)
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14391" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="27" group-title="The Roku Channel",Game Show Central
-https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14392" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="28" group-title="The Roku Channel",Global Got Talent
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="14393" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="29" group-title="The Roku Channel",Gusto TV
-https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14394" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="30" group-title="The Roku Channel",HappyKids.tv
-https://happykids-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14395" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="31" group-title="The Roku Channel",Hi-YAH!
-https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
-#EXTINF:-1 channel-id="14396" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="32" group-title="The Roku Channel",Horrify
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:-1 channel-id="14397" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="33" group-title="The Roku Channel",iFood.tv
-https://ft-ifood-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14398" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="34" group-title="The Roku Channel",Juntos
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:-1 channel-id="14399" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="35" group-title="The Roku Channel",Just For Laughs Gags
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 channel-id="14400" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="36" group-title="The Roku Channel",Ketchup TV
-https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14401" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="37" group-title="The Roku Channel",Made in Hollywood
-https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14402" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="38" group-title="The Roku Channel",Maverick Black Cinema
-https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14403" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="39" group-title="The Roku Channel",Midnight Pulp
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14404" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="40" group-title="The Roku Channel",Midnight Pulp
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14405" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="41" group-title="The Roku Channel",Moviesphere
-https://moviesphere-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14406" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="42" group-title="The Roku Channel",MST3K
-https://mst3k-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14407" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="43" group-title="The Roku Channel",MST3K
-https://mst3k-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14408" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="44" group-title="The Roku Channel",MyTime
-https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 channel-id="14409" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="45" group-title="The Roku Channel",NBC News Now
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_roku_lat=1&platform=web&content=fc509fc922805196b5930e519de58fc8&genre=news&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=nbc&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
-#EXTINF:-1 channel-id="14410" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="46" group-title="The Roku Channel",Newsy
-https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8?ad=therokuchannel
-#EXTINF:-1 channel-id="14411" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="47" group-title="The Roku Channel",nosey
-https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14412" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="48" group-title="The Roku Channel",Pac-12: Pac-12 Insider
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14413" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="49" group-title="The Roku Channel",Players.tv
-https://playerstv-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14414" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="50" group-title="The Roku Channel",Pluto TV CMT
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=0adc72cd87e45d3491f8e47e54bbcc98&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
-#EXTINF:-1 channel-id="14415" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="51" group-title="The Roku Channel",real nosey
-https://nosey-realnosey-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14416" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="52" group-title="The Roku Channel",Retro Crush
-https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14417" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="53" group-title="The Roku Channel",RunTime Espanol
-https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14418" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="54" group-title="The Roku Channel",Samuel Goldwyn Channel
-https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14419" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="55" group-title="The Roku Channel",Samul Goldwyn Classics
-https://samuelgoldwyn-classic-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14420" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="56" group-title="The Roku Channel",Skills + Thrills
-https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14421" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="57" group-title="The Roku Channel",Sony Canal Comedias
-https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14422" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="58" group-title="The Roku Channel",Sony Canal Novelas
-https://sony-novelas-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14423" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="59" group-title="The Roku Channel",Sony Competencias
-https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14424" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="60" group-title="The Roku Channel",Tastemade En Espanol
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14425" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="61" group-title="The Roku Channel",The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="14426" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="62" group-title="The Roku Channel",The Carol Burnett Show
-https://carolburnett-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14427" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="63" group-title="The Roku Channel",The Craftistry
-https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14428" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="64" group-title="The Roku Channel",The Design Network
-https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14429" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="65" group-title="The Roku Channel",The LEGO Channel
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14430" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="66" group-title="The Roku Channel",Top Cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 channel-id="14431" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="67" group-title="The Roku Channel",Unbeaten
-https://unbeaten-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14432" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="68" group-title="The Roku Channel",VENN
-https://venntv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14433" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="69" group-title="The Roku Channel",Weather Nation
+﻿#EXTM3U
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="The Roku Channel",** Category updated 4/29/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** NEWS **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?news
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | ABC News Live
+https://abcnewslive-roku.akamaized.net/midroll/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | NBC News Now
+https://nbcnewsxumo.akamaized.net/hls/live/2026070/nnn_live2/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Black News Channel
+https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | WeatherNation
 https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14434" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="70" group-title="The Roku Channel",WeatherSpy
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8
-#EXTINF:-1 channel-id="14435" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="71" group-title="The Roku Channel",WhistleTV
-https://whistletv-roku-ingest.cinedigm.com/master.m3u8
-#EXTINF:-1 channel-id="14436" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="72" group-title="The Roku Channel",Wipeout Xtra
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Bloomberg Quicktake
+https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Reuters
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Cheddar News
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | TYT GO
+https://tyt-roku-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | One America (OAN)
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | NewsMax TV
+https://newsmax-roku-us.amagi.tv/hls/amagi_hls_data_newsmaxAA-newsmax/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Euronews (English)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Euronews (Español)
+https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Estrella News
+https://estrellanews-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellanews-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** MOVIES & TV **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?moviesTV
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Nashville
+https://lgpopup-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Xumo Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Reelz
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Revry
+https://linear-45.frequency.stream/dist/roku/45/hls/master/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Redbox Free Movies
+https://spotlight-rokuus.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Cinevault Westerns
+https://gsn-cinevault-westerns-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Kocowa Classic
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Xumo Free Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Moviesphere
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Maverick Black Cinema
+https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Hiyaahh
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Skills + Thrills
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | The Carol Burnett Show
+https://carolburnett-roku.amagi.tv/hls/amagi_hls_data_shoutfact-carolburnett-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | CONtv Anime
+https://contvanime-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-contv-anime-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Dove Channel
+https://dovenow-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-dovenow-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | MyTime Movie network
+https://mytime-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-mytime-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | RetroCrush
+https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Samuel Goldwyn Channel
+https://samuelgoldwyn-films-roku.amagi.tv/hls/amagi_hls_data_samuelgol-sgfilms-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Samuel Goldwyn Classics
+https://samuelgoldwyn-classic-roku.amagi.tv/hls/amagi_hls_data_samuelgol-sgclassics-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Xplore
+https://xplore-roku.amagi.tv/hls/amagi_hls_data_littonAAA-xplore-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Filmrise Classic tV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Filmrise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Filmrise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Filmrise Mystery
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Filmrise Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** HORROR & SCIENCE-FICTION **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?horrorSciFi
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Filmrise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | The Asylum
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Dust
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudust/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Bloody Disgusting
+https://bloodydisgusting-roku-us.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bloodydisgusting/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | MST3K
+https://mst3k-roku.amagi.tv/hls/amagi_hls_data_shoutfact-mst3k-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Midnight Pulp
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Haunt TV (CANADA)
+https://haunttv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** CRIME TV **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?crime
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Filmrise Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Real Truth Crime
+https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | True Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Crime Time (CANADA)
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** ENTERTAINMENT FROM PLUTO **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?plutotv
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | MTV Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13b6dd7ec3510009e032d0/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | BET Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150978589c0700095f97ae/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Comedy Cental Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | MTV Yo!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | CMT Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** GAME SHOWS **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?gameshows
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Game Show Central
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Buzzr
+https://buzzr-roku-us.amagi.tv/hls/amagi_hls_data_buzzrAAAA-buzzr/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Deal or No deal
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Family Feud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="14437" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="73" group-title="The Roku Channel",Xplore
-https://xplore-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="14438" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" tvg-chno="74" group-title="The Roku Channel",Yo Gabba Gabba
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=cb1fd62048065a46bb57d1ccd52c14df&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** SPORTS **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?sports
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | SportsGrid (Geo-USA)
+https://sportsgrid-roku-us.amagi.tv/hls/amagi_hls_data_sportsgri-roku-sportsgridA/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | MavTV Select
+https://mavtv-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Power Nation
+https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Stadium
+https://stadium.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Bein Sports Xtra (Geo-USA)
+https://bein-xtra-roku-us.amagi.tv/hls/amagi_hls_data_beinAAAAA-beinxtra/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | ASN Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Edge Sports
+https://edgesports-roku.amagi.tv/hls/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | ACCDN
+https://120sports-accdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Outside Tv
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | FTF (For the Fans)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Pac-12 Insider
+https://pac12-roku-us.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac-12-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Players.tv
+https://playerstv-roku-us.amagi.tv/hls/amagi_hls_data_playerstv-playerstv-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Unbeaten
+https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Whistle TV
+https://whistletv-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-whistlesports-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | ESTV
+https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** SCIENCE & NATURE **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?nature
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuwired/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Love Nature
+https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Weatherspy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Magellan TV Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** FOOD & LIFESTYLE **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?foodlifestyle
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Conde Naste Traveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Architectual Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | The Design Network
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | This Old House
+https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | DIY Daily
+https://endemol-restore-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | The Craftistry
+https://studio71-craftistry-roku.amagi.tv/hls/amagi_hls_data_studio71A-craftistry-rokuA/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Filmrise Cooking
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | iFood
+https://ft-ifood-roku.amagi.tv/hls/amagi_hls_data_futuretod-ifood-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Bon Appetit
+https://bonappetit-roku-us.amagi.tv/hls/amagi_hls_data_condenast-bonappetitroku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Gusto TV
+https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | TasteMade
+https://tastemade-roku-us.amagi.tv/hls/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Tastemade Espanol
+https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** FASHION **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?fashion
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuglamour/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvogue/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** REALITY **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?reality
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Lively Place
+https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | The Bob Ross Channel
+https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** MUSIC **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?music
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Circle
+https://circle-roku.amagi.tv/hls/amagi_hls_data_circleAAA-circle-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | New K-ID
+https://newidco-newkid-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Hottest Loop
+https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Hip Hop Loop
+https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Country Loop
+https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | 80's Loop
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | 90's Loop
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Party Loop
+https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** TALK SHOWS **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?talkshows
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Nosey
+https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Real Nosey
+https://nosey-realnosey-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Fox Soul
+https://fox-foxsoul-roku.amagi.tv/hls/amagi_hls_data_foxAAAAAA-foxsoul-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** ENTERTAINMENT NEWS **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?entNews
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | People TV
+https://peopletv-roku-us.akamaized.net/midroll/amagi_hls_data_peopletvA-peopletvtrc/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Made in Hollywood
+https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvanityfair/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Venn TV
+https://venntv-roku.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** COMEDY **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?comedy
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Comedy Dynamics
+https://comedydynamics-roku-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-comedydynamicsroku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Funny or Die
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | AFV Family
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | College Humour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucollegehumor/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** KIDS & FAMILY **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?kidsfamily
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | BratTV
+https://brat-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | People are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Fido TV
+https://fidotv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Kid Gamer TV
+https://studio71-roku-us.amagi.tv/hls/amagi_hls_data_studio71A-studio71roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Pocket Watch
+https://pocketwatch.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | MoonBug
+https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Ameba
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Kartoon Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukidgenius/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Rev and Roll
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Kidz Bop
+https://kidzbop-rokuus.amagi.tv/hls/amagi_hls_data_kidzbopAA-kidzbop-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Rainbow Ruby
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Teletubbies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Zoo Moo
+https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Ryan and Friends
+https://pocketwatch-ryanandfriends-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | kiDoodle TV
+https://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Cocoro
+https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Fireman Sam
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Ketchup TV
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Yo Gabba Gabba
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Baby Shark TV
+https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",** TV EN ESPANOL **
+https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?espanoltv
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Latido Music
+https://vidaprimo-roku-us.amagi.tv/hls/amagi_hls_data_vidaprimo-rokuvidaprimo/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Sony Canal Novelas
+https://sony-novelas-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Sony Canal Comedias
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Sony Canal Competencias
+https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Americateve
+https://americateve-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Pong Lo Novela Club
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Love Nature Espanol
+https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | AFV Family En Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Movie Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Estrella TV
+https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Cine Sureño
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Horrify
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-horrify-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Juntos
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Runtime Español
+https://runtime-espanol-roku.amagi.tv/hls/amagi_hls_data_ammoAAAAA-runtime-espanol-roku/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="The Roku Channel",Roku | Cine Romantico
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8?p=roku

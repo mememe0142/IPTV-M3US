@@ -1,99 +1,99 @@
-﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
-#EXTINF:-1 channel-id="18119" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="1" group-title="Xumo Live TV",123 NBC News Now
+﻿#EXTM3U
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 123 NBC News Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 channel-id="18120" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="2" group-title="Xumo Live TV",124 ABC News
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 124 ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-#EXTINF:-1 channel-id="18121" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3" group-title="Xumo Live TV",125 CBS News
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 125 CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 channel-id="18122" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="4" group-title="Xumo Live TV",137 Law & Crime
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 137 Law & Crime
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 channel-id="18123" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="5" group-title="Xumo Live TV",138 NewsMax
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 138 NewsMax
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18124" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="6" group-title="Xumo Live TV",142 TYT Network
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 142 TYT Network
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18125" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="7" group-title="Xumo Live TV",145 Black News Channel
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 145 Black News Channel
 https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18126" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="8" group-title="Xumo Live TV",146 Cheddar Live
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 146 Cheddar Live
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
-#EXTINF:-1 channel-id="18127" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="9" group-title="Xumo Live TV",211 Comedy Dynamics
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 211 Comedy Dynamics
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
-#EXTINF:-1 channel-id="18128" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="10" group-title="Xumo Live TV",261 Docurama
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 261 Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 channel-id="18129" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="11" group-title="Xumo Live TV",262 ConTV
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 262 ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 channel-id="18130" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="12" group-title="Xumo Live TV",265 Shout! Factory TV
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 265 Shout! Factory TV
 https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
-#EXTINF:-1 channel-id="18131" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="13" group-title="Xumo Live TV",275 CineLife
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 275 CineLife
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18132" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="14" group-title="Xumo Live TV",278 Circle
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 278 Circle
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-circle/CDN/master.m3u8
-#EXTINF:-1 channel-id="18133" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="15" group-title="Xumo Live TV",280 Qello Concerts
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 280 Qello Concerts
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
-#EXTINF:-1 channel-id="18134" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="16" group-title="Xumo Live TV",283 Stingray Karaoke
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 283 Stingray Karaoke
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
-#EXTINF:-1 channel-id="18135" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="17" group-title="Xumo Live TV",288 Latido Music
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 288 Latido Music
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8
-#EXTINF:-1 channel-id="18136" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="18" group-title="Xumo Live TV",302 MobCrush
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 302 MobCrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1 channel-id="18137" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="19" group-title="Xumo Live TV",304 VENN
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 304 VENN
 https://venntv-xumous.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18138" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="20" group-title="Xumo Live TV",315 Electric Now
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 315 Electric Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
-#EXTINF:-1 channel-id="18139" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="21" group-title="Xumo Live TV",316 Unidentified TV
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 316 Unidentified TV
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18140" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="22" group-title="Xumo Live TV",319 Dust
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 319 Dust
 https://dustx-xumous.amagi.tv/hls/amagi_hls_data_gunpowder-dustx-xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18141" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="23" group-title="Xumo Live TV",321 People TV
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 321 People TV
 https://peopletvssai.akamaized.net/amagi_hls_data_peopletvA-peopletvxumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18142" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="24" group-title="Xumo Live TV",367 Bob Ross
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 367 Bob Ross
 https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18143" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="25" group-title="Xumo Live TV",406 Tastemade
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 406 Tastemade
 https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18144" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="26" group-title="Xumo Live TV",412 So Yummy!
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 412 So Yummy!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18145" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="27" group-title="Xumo Live TV",451 Naturescape
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 451 Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
-#EXTINF:-1 channel-id="18146" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="28" group-title="Xumo Live TV",455 QVC
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 455 QVC
 https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
-#EXTINF:-1 channel-id="18147" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="29" group-title="Xumo Live TV",457 HSN
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 457 HSN
 https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
-#EXTINF:-1 channel-id="18148" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="30" group-title="Xumo Live TV",461 JTV
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 461 JTV
 https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/ccddaf02_1_1728/chunklist.m3u8
-#EXTINF:-1 channel-id="18149" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="31" group-title="Xumo Live TV",463 Revry
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 463 Revry
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18150" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="32" group-title="Xumo Live TV",469 ShopLC
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 469 ShopLC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
-#EXTINF:-1 channel-id="18151" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="33" group-title="Xumo Live TV",515 Demand Africa
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 515 Demand Africa
 https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18152" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="34" group-title="Xumo Live TV",560 Dove Channel
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 560 Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1 channel-id="18153" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="35" group-title="Xumo Live TV",710 PlayersTV
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 710 PlayersTV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:-1 channel-id="18154" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="36" group-title="Xumo Live TV",711 FTF | For The Fans
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 711 FTF | For The Fans
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-elevensports/CDN/master.m3u8
-#EXTINF:-1 channel-id="18155" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="37" group-title="Xumo Live TV",719 SportsGrid
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 719 SportsGrid
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:-1 channel-id="18156" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="38" group-title="Xumo Live TV",721 Outside TV+
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 721 Outside TV+
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18157" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="39" group-title="Xumo Live TV",722 EDGEsport
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 722 EDGEsport
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18158" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="40" group-title="Xumo Live TV",728 InsightTV
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 728 InsightTV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-insighttv/CDN/master.m3u8
-#EXTINF:-1 channel-id="18159" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="41" group-title="Xumo Live TV",732 CombatGO
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 732 CombatGO
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8
-#EXTINF:-1 channel-id="18160" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="42" group-title="Xumo Live TV",742 fubo Sports Netw'k
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 742 fubo Sports Netw'k
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-#EXTINF:-1 channel-id="18161" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="43" group-title="Xumo Live TV",745 Stadium
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 745 Stadium
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1 channel-id="18162" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="44" group-title="Xumo Live TV",746 beIN Sports Xtra
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 746 beIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
-#EXTINF:-1 channel-id="18163" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="45" group-title="Xumo Live TV",810 Stingray Hitlist
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 810 Stingray Hitlist
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
-#EXTINF:-1 channel-id="18164" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="46" group-title="Xumo Live TV",811 S'Ray Greatest Hits
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 811 S'Ray Greatest Hits
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
-#EXTINF:-1 channel-id="18165" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="47" group-title="Xumo Live TV",812 S'Ray Hot Country
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 812 S'Ray Hot Country
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
-#EXTINF:-1 channel-id="18166" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="48" group-title="Xumo Live TV",813 S'Ray Classic Rock
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 813 S'Ray Classic Rock
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
-#EXTINF:-1 channel-id="18167" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="49" group-title="Xumo Live TV",814 Stingray Soul Storm
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Xumo | Live TV",Xumo | 814 Stingray Soul Storm
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8

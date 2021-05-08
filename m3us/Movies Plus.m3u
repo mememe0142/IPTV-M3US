@@ -755,3 +755,5 @@ http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 channel-id="2456" radio="false" tvg-id="TMZ - Eastern" tvg-logo="" tvg-chno="1" group-title="Movies Plus",TMZ
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8?p=roku&rdid=4e4cbcc4-0688-50cb-bc25-6e3bb686406d&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=f0abcf35f14759eaac2cbade2af04776&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=tmz&channelStore=us&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 radio="false" tvg-id="dbd25a" tvg-name="IFC_Films_Picks" tvg-logo="https://i.imgur.com/XJaSjhm.png" tvg-chno="449",IFC Films Picks
+https://amc-ifc-films-picks-1.plex.wurl.com/manifest/playlist.m3u8

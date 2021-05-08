@@ -1,29 +1,29 @@
-﻿#EXTM3U x-tvg-url="https://github.com/bitsbb01/IPTV-M3US/raw/master/main.xml.gz"
-#EXTINF:-1 channel-id="14006" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="1" group-title="Stingray Music",404 Stingray Greatest Hits
+﻿#EXTM3U
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",404 Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:-1 channel-id="14007" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="2" group-title="Stingray Music",405 Stingray Hit List
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",405 Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:-1 channel-id="14008" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="3" group-title="Stingray Music",406 Stingray Classic Rock
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",406 Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:-1 channel-id="14009" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="4" group-title="Stingray Music",407 Stingray Rock Alternative
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",407 Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:-1 channel-id="14010" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="5" group-title="Stingray Music",408 Stingray Pop Adult
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",408 Stingray Pop Adult
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:-1 channel-id="14011" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="6" group-title="Stingray Music",409 Stingray Urban Beat
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",409 Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:-1 channel-id="14012" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="7" group-title="Stingray Music",410 Stingray Hot Country
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",410 Stingray Hot Country
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-#EXTINF:-1 channel-id="14013" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="8" group-title="Stingray Music",411 Stingray Flashback 70s
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",411 Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 channel-id="14014" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="9" group-title="Stingray Music",412 Stingray Everything 80s
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",412 Stingray Everything 80s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:-1 channel-id="14015" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="10" group-title="Stingray Music",413 Stingray Today's Latin Pop
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",413 Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#EXTINF:-1 channel-id="14016" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="11" group-title="Stingray Music",BONUS Stingray Soul Storm
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Soul Storm
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
-#EXTINF:-1 channel-id="14017" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="12" group-title="Stingray Music",BONUS Stingray Qello Concerts
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Qello Concerts
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
-#EXTINF:-1 channel-id="14018" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="13" group-title="Stingray Music",BONUS Stingray Karaoke
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Karaoke
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
-#EXTINF:-1 channel-id="14019" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" tvg-chno="14" group-title="Stingray Music",BONUS Stingray Naturescape
+#EXTINF:-1 radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
