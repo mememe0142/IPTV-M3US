@@ -23,3 +23,19 @@ https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/0
 https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="WebCams",Rio Copacabana Beach WebCam
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+#EXTINF:-1 channel-id="3005" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="1" group-title="Nature Cams",Black Footed Ferret Cam
+https://nzp-ms05.si.edu/live_edge_bff/bff_1080_all.smil/playlist.m3u8
+#EXTINF:-1 channel-id="3006" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="2" group-title="Nature Cams",Cheetah Cub Cam
+https://nzp-ms05.si.edu/live_edge_cheetah/cheetah_y14_1080_all.smil/playlist.m3u8
+#EXTINF:-1 channel-id="3007" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="3" group-title="Nature Cams",Elephant Cam
+https://nzp-ms06.si.edu/live_edge_elephant/elephant01_all.smil/playlist.m3u8
+#EXTINF:-1 channel-id="3008" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="4" group-title="Nature Cams",Giant Panda Cam
+https://nzp-ms06.si.edu/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:-1 channel-id="3009" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="5" group-title="Nature Cams",Giant Panda Cam 2
+https://nzp-ms06.si.edu/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1 channel-id="3010" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="6" group-title="Nature Cams",Lion Cam
+https://nzp-ms05.si.edu/live_edge_lion/smil:lion01_all.smil/playlist.m3u8
+#EXTINF:-1 channel-id="3011" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="7" group-title="Nature Cams",Naked Mole-rat Cam 1
+https://nzp-ms04.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
+#EXTINF:-1 channel-id="3012" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SmithsonianZoo_876x876.png?raw=true" tvg-chno="8" group-title="Nature Cams",Naked Mole-rat Cam 2
+https://nzp-ms06.si.edu/live_edge_nmr_02/nmr_02_1080_all.smil/playlist.m3u8
