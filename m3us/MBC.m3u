@@ -1,0 +1,15 @@
+﻿#EXTM3U
+#EXTINF:-1 radio="false" group-title="MBC",Wannasah
+http://teledunet.com:8080/live/tdn/2043965929/10099.m3u8
+#EXTINF:-1 radio="false" group-title="MBC",MBC 1
+http://arabictv.teledunet.com:8080/live/tdn/2043965918/10088.m3u8
+#EXTINF:-1 radio="false" group-title="MBC",MBC 2
+http://arabictv.teledunet.com:8080/live/tdn/2043965920/10090.m3u8
+#EXTINF:-1 radio="false" group-title="MBC",MBC 3
+http://arabictv.teledunet.com:8080/live/tdn/2043965921/10091.m3u8
+#EXTINF:-1 radio="false" group-title="MBC",MBC 4
+http://arabictv.teledunet.com:8080/live/tdn/2043965922/10092.m3u8
+#EXTINF:-1 radio="false" group-title="MBC",MBC 5
+http://arabictv.teledunet.com:8080/live/tdn/2043965917/10087.m3u8
+#EXTINF:-1 radio="false" group-title="MBC",MBC Action
+http://arabictv.teledunet.com:8080/live/tdn/2043965923/10093.m3u8
