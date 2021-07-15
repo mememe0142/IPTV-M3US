@@ -1,0 +1,17 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjQ4ODlf/Baywatch_512x512.png" tvg-chno="664" group-title="** BINGE 24/7 **",Baywatch (Remastered) | HD
+https://d3vdwtqqboxhm9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjUyOTZf/JackHanna_370x370.png" tvg-chno="665" group-title="** BINGE 24/7 **",The Jack Hanna Channel | HD
+https://littonjackhannah-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjU0Mjhf/NashvilleChannel_800x800.png" tvg-chno="666" group-title="** BINGE 24/7 **",Nashville | HD
+https://lgpopup-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" tvg-chno="667" group-title="** BINGE 24/7 **",nosey | Jerry Springer
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e7f848f1ff2e1d2555a2_all/playlist.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" tvg-chno="668" group-title="** BINGE 24/7 **",nosey | Maury
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e88458ad7801fa2cfc2e_all/playlist.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" tvg-chno="669" group-title="** BINGE 24/7 **",nosey | Steve Wilkos
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e84c95ee0253b97679d7_all//playlist.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" tvg-chno="670" group-title="** BINGE 24/7 **",nosey | Divorce Court
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" tvg-chno="671" group-title="** BINGE 24/7 **",nosey | Judge Karen's Court
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8

@@ -1,0 +1,81 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 radio="false" tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87004_dark_360w_270h.png" tvg-chno="4829" group-title="** US **",A&E
+http://stream.tvtap.live:8081/live/us-ae.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I396.20453.schedulesdirect.org" tvg-name="ABC" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s20453_dark_360w_270h.png" tvg-chno="4830" group-title="** US **",ABC
+http://stream.tvtap.live:8081/live/us-abc.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I264.18332.schedulesdirect.org" tvg-name="BBC America" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18332_dark_360w_270h.png" tvg-chno="4831" group-title="** US **",BBC America
+http://stream.tvtap.live:8081/live/us-bbc-america.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I329.63236.schedulesdirect.org" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s63236_dark_360w_270h.png" tvg-chno="4832" group-title="** US **",BET
+http://stream.tvtap.live:8081/live/bet.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I298.21883.schedulesdirect.org" tvg-name="Boomerang" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s21883_dark_360w_270h.png" tvg-chno="4833" group-title="** US **",Boomerang
+http://stream.tvtap.live:8081/live/us-boomerang.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I112.12631.schedulesdirect.org" tvg-name="Cartoon Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60048_dark_360w_270h.png" tvg-chno="4834" group-title="** US **",Cartoon Network
+http://stream.tvtap.live:8081/live/cn.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="** US **",CBS
+http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I135.16794.schedulesdirect.org" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" tvg-chno="4836" group-title="** US **",Cinemax
+http://stream.tvtap.live:8081/live/us-cinemax.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I169.25788.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="** US **",Discovery
+http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I186.79589.schedulesdirect.org" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4838" group-title="** US **",Disney
+http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I189.70506.schedulesdirect.org" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s70506_dark_360w_270h.png" tvg-chno="4839" group-title="** US **",Disney JR
+http://hls.123tv.live/ch/wgHoy2mEfKrC3JNgTtmMyw/1624926978/disneyjr.m3u8
+#EXTINF:-1 radio="false" tvg-id="I190.110962.schedulesdirect.org" tvg-name="Disney XD" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110962_dark_360w_270h.png" tvg-chno="4840" group-title="** US **",Disney XD
+http://stream.tvtap.live:8081/live/us-disneyxd.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I206.10179.schedulesdirect.org" tvg-name="ESPN" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10179_dark_360w_270h.png" tvg-chno="4841" group-title="** US **",ESPN
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1 radio="false" tvg-id="I280.87056.schedulesdirect.org" tvg-name="Fox" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87056_dark_360w_270h.png" tvg-chno="4842" group-title="** US **",Fox
+http://stream.tvtap.live:8081/live/us-fox.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I219.82541.schedulesdirect.org" tvg-name="Fox Sports 1" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82541_dark_360w_270h.png" tvg-chno="4843" group-title="** US **",Fox Sports 1
+http://stream.tvtap.live:8081/live/foxsports1.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I618.33178.schedulesdirect.org" tvg-name="Fox Sports 2" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s33178_dark_360w_270h.png" tvg-chno="4844" group-title="** US **",Fox Sports 2
+http://stream.tvtap.live:8081/live/foxsports2.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I311.10093.schedulesdirect.org" tvg-name="Freeform" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10093_dark_360w_270h.png" tvg-chno="4845" group-title="** US **",Freeform
+http://stream.tvtap.live:8081/live/us-freeform.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I306.77617.schedulesdirect.org" tvg-name="FX" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s77617_dark_360w_270h.png" tvg-chno="4846" group-title="** US **",FX
+http://stream.tvtap.live:8081/live/us-fx.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I259.17927.schedulesdirect.org" tvg-name="FXX" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png" tvg-chno="4847" group-title="** US **",FXX
+http://stream.tvtap.live:8081/live/us-fxx.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I312.11221.schedulesdirect.org" tvg-name="Hallmark" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66268_dark_360w_270h.png" tvg-chno="4848" group-title="** US **",Hallmark
+http://stream.tvtap.live:8081/live/us-hallmark.stream/chunks.m3u8
+#EXTINF:-1 channel-id="74" radio="false" tvg-id="I565.46710.schedulesdirect.org" tvg-name="Hallmark Movies & More" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-chno="4849" tvg-country="US" group-title="** US **",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="79" radio="false" tvg-id="I565.46710.schedulesdirect.org" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://i.imgur.com/dfaJpw4.png" tvg-chno="4850" group-title="** US **",Hallmark Movies & Mysteries
+http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
+#EXTINF:-1 radio="false" tvg-id="I501.10240.schedulesdirect.org" tvg-name="HBO" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10240_dark_360w_270h.png" tvg-chno="4851" group-title="** US **",HBO
+http://stream.tvtap.live:8081/live/us-hbo.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I507.16585.schedulesdirect.org" tvg-name="HBO Family" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16585_dark_360w_270h.png" tvg-chno="4852" group-title="** US **",HBO Family
+http://stream.tvtap.live:8081/live/us-hbofamily.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I501.19548.schedulesdirect.org" tvg-name="HBO HD" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19548_dark_360w_270h.png" tvg-chno="4853" group-title="** US **",HBO HD
+http://stream.tvtap.live:8081/live/us-hbo.stream/chunks.m3u8
+#EXTINF:-1 channel-id="91" radio="false" tvg-id="I503.10243.schedulesdirect.org" tvg-name="HBO Signature" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10243_dark_360w_270h.png" tvg-chno="4854" group-title="** US **",HBO Signature
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8?Live-TV™
+#EXTINF:-1 radio="false" tvg-id="I352.111077.schedulesdirect.org" tvg-name="HGTV" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s111077_dark_360w_270h.png" tvg-chno="4855" group-title="** US **",HGTV
+http://stream.tvtap.live:8081/live/us-hgtv.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I387.106095.schedulesdirect.org" tvg-name="Lifetime" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s106095_dark_360w_270h.png" tvg-chno="4856" group-title="** US **",Lifetime
+http://stream.tvtap.live:8081/live/us-lifetime.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I253.18480.schedulesdirect.org" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18480_dark_360w_270h.png" tvg-chno="4857" group-title="** US **",LMN
+http://stream.tvtap.live:8081/live/us-lmn.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I299.11006.schedulesdirect.org" tvg-name="Nickelodeon" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11006_dark_360w_270h.png" tvg-chno="4858" group-title="** US **",Nickelodeon
+http://stream.tvtap.live:8081/live/us-nick.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I302.30420.schedulesdirect.org" tvg-name="Nicktoons" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30420_dark_360w_270h.png" tvg-chno="4859" group-title="** US **",Nicktoons
+http://stream.tvtap.live:8081/live/nicktoons.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I279.70387.schedulesdirect.org" tvg-name="Oprah Winfrey Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s70387_dark_360w_270h.png" tvg-chno="4860" group-title="** US **",OWN
+http://stream.tvtap.live:8081/live/own.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I460.91029.schedulesdirect.org" tvg-name="Paramount Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91029_dark_360w_270h.png" tvg-chno="4861" group-title="** US **",Paramount
+http://stream.tvtap.live:8081/live/us-paramount.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I546.11117.schedulesdirect.org" tvg-name="Showtime" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11117_dark_360w_270h.png" tvg-chno="4862" group-title="** US **",Showtime
+http://stream.tvtap.live:8081/live/us-espn.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I545.11115.schedulesdirect.org" tvg-name="Showtime" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11115_dark_360w_270h.png" tvg-chno="4863" group-title="** US **",Showtime
+http://stream.tvtap.live:8081/live/us-showtime.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I525.12719.schedulesdirect.org" tvg-name="Starz" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12719_dark_360w_270h.png" tvg-chno="4864" group-title="** US **",Starz
+http://stream.tvtap.live:8081/live/us-starz.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I535.10178.schedulesdirect.org" tvg-name="Starz Encore" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10178_dark_360w_270h.png" tvg-chno="4865" group-title="** US **",Starz Encore
+http://stream.tvtap.live:8081/live/us-starzencore.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81pBet6QKTL._RI_.jpg" tvg-chno="4866" group-title="** US **",Super Geeks
+https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_540p.m3u8
+#EXTINF:-1 radio="false" tvg-id="I122.11097.schedulesdirect.org" tvg-name="SyFy" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11097_dark_360w_270h.png" tvg-chno="4867" group-title="** US **",SyFy
+http://stream.tvtap.live:8081/live/us-syfy.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I645.89899.schedulesdirect.org" tvg-name="TNT" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s89899_dark_360w_270h.png" tvg-chno="4868" group-title="** US **",TNT
+http://stream.tvtap.live:8081/live/us-tnt.stream/chunks.m3u8

@@ -1,0 +1,33 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3121" group-title="** FILMRISE **",FilmRise Classic TV on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3122" group-title="** FILMRISE **",FilmRise Family on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMjQ5NTRf/FilmRise_Horror2_500x500.png" tvg-chno="3123" group-title="** FILMRISE **",FilmRise Horror on Vizio
+https://hls.xumo.com/channel-hls/v1/c69269ddcc1f4b9f/9993049/master.m3u8?l1br3FH0501
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3124" group-title="** FILMRISE **",FilmRise Movies on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3125" group-title="** FILMRISE **",FilmRise Sci-Fi on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMjM0NDRf/FilmRise_Action_500x500.png" tvg-chno="3126" group-title="** FILMRISE **",FilmRise | Action
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMjQ1NDNf/FilmRise_Heartland_332x332.png" tvg-chno="3127" group-title="** FILMRISE **",FilmRise | CBC's Heartland
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuheartland/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMTM2OTNf/FilmRise_Classic-TV_300x300.png" tvg-chno="3128" group-title="** FILMRISE **",FilmRise | Classic TV
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMTM4NzVf/FilmRise_Family_355x355.png" tvg-chno="3129" group-title="** FILMRISE **",FilmRise | Family
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMjQ3ODVf/FilmRise_Westerns_500x500.png" tvg-chno="3130" group-title="** FILMRISE **",FilmRise | FilmRise Westerns
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMjQwOTBf/FilmRise_ForensicFiles_398x398.png" tvg-chno="3131" group-title="** FILMRISE **",FilmRise | Forensic Files
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMTM2ODJf/FilmRise_Free-Movies_300x300.png" tvg-chno="3132" group-title="** FILMRISE **",FilmRise | Free Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMjM2MDJf/FilmRise_HellsKitchen_500x500.png" tvg-chno="3133" group-title="** FILMRISE **",FilmRise | Hell's Kitchen
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMjQ2OTBf/FilmRise_Mysteries_500x500.png" tvg-chno="3134" group-title="** FILMRISE **",FilmRise | Mysteries
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://od.lk/s/MF8yMzUyOTMzMDFf/FilmRise_Sci-Fi_355x355.png" tvg-chno="3135" group-title="** FILMRISE **",FilmRise | Sci-Fi
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://od.lk/s/MF8yMzYwMjM5NTJf/Filmrise_UnsMys_900x900.png" tvg-chno="3136" group-title="** FILMRISE **",FilmRise | Unsolved Mysteries
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8

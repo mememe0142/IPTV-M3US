@@ -1,0 +1,425 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="KOTR-LD.us" tvg-name="11 MyTV (KOTR-LD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Kotrlp.jpg" tvg-chno="3167" tvg-country="US" group-title="** LOCAL **",11 MyTV (KOTR-LD) (480i)
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_hq4vlk40/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="KEROTV.us" tvg-name="23 ABC (KERO)" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" tvg-chno="3168" tvg-country="US" group-title="** LOCAL **",23 ABC (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show" tvg-logo="https://i.imgur.com/0j5Aget.png" tvg-chno="3169" tvg-country="US" group-title="** LOCAL **",30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-id="30ATV.us" tvg-name="30A TV" tvg-logo="https://i.imgur.com/4TEMhxH.png" tvg-chno="3170" tvg-country="US" group-title="** LOCAL **",30A TV (720p)
+https://30a-tv.com/my999.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="KNBC.us" tvg-name="4 NBC (KNBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/1280px-KNBC_%282011_-_Flat%29.svg.png" tvg-chno="3171" tvg-country="US" group-title="** LOCAL **",4 NBC (KNBC) (1080p)
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_61e7x33e/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-id="KNSD.us" tvg-name="KNSD-DT1" tvg-logo="https://media.nbcsandiego.com/2021/04/San-Diego.png" tvg-chno="3172" tvg-country="US" group-title="** LOCAL **",7 NBC San Diego (KNSD-DT1)
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/knsd-dt1.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-id="WHDH.us" tvg-name="7News Boston (WHDH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" tvg-chno="3173" tvg-country="US" group-title="** LOCAL **",7News Boston (WHDH) (540p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-id="KNXVTV.us" tvg-name="ABC 15" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" tvg-chno="3174" tvg-country="US" group-title="** LOCAL **",ABC 15 (720p)
+https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-id="WBRZHD.us" tvg-name="ABC 2 Baton Rouge LA (WBRZ-HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" tvg-chno="3175" tvg-country="US" group-title="** LOCAL **",ABC 2 Baton Rouge LA (WBRZ-HD) (720p)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-id="KGO.us" tvg-name="ABC7 (KGO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/KGOTVABC7.png" tvg-chno="3176" tvg-country="US" group-title="** LOCAL **",ABC 7 (KGO)
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kgo-dt1.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-id="KMGHTV.us" tvg-name="ABC 7 Denver (KMGH)" tvg-logo="https://i.imgur.com/JExsI09.png" tvg-chno="3177" tvg-country="US" group-title="** LOCAL **",ABC 7 Denver (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-id="WXYZTV.us" tvg-name="ABC 7 Detroit (WXYZ-TV)" tvg-logo="https://i.imgur.com/8sQ5mfL.png" tvg-chno="3178" tvg-country="US" group-title="** LOCAL **",ABC 7 Detroit (WXYZ-TV) (720p)
+https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live
+#EXTINF:-1 channel-id="13" radio="false" tvg-id="WWSB.us" tvg-name="ABC 7 Sarasota FL (WWSB)" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg" tvg-chno="3179" tvg-country="US" group-title="** LOCAL **",ABC 7 Sarasota FL (WWSB) (720p)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-id="WFTVHD.us" tvg-name="ABC 9 Orlando FL (WFTV-HD)" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg" tvg-chno="3180" tvg-country="US" group-title="** LOCAL **",ABC 9 Orlando FL (WFTV-HD)
+https://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+#EXTINF:-1 channel-id="15" radio="false" tvg-id="Akaku53Hawaii.us" tvg-name="Akaku 53 (Hawaii)" tvg-logo="https://i.imgur.com/MQET539.jpg" tvg-chno="3181" tvg-country="US" group-title="** LOCAL **",Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-id="Akaku54Hawaii.us" tvg-name="Akaku 54 (Hawaii)" tvg-logo="https://i.imgur.com/MQET539.jpg" tvg-chno="3182" tvg-country="US" group-title="** LOCAL **",Akaku 54 (Hawaii)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-id="Akaku55Hawaii.us" tvg-name="Akaku 55 (Hawaii)" tvg-logo="https://i.imgur.com/MQET539.jpg" tvg-chno="3183" tvg-country="US" group-title="** LOCAL **",Akaku 55 (Hawaii)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-id="AlabamaBirminghamSTIRR.us" tvg-name="Alabama: Birmingham (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3184" tvg-country="US" group-title="** LOCAL **",Alabama: Birmingham (STIRR) (720p)
+https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-id="AlabamaMobileSTIRR.us" tvg-name="Alabama: Mobile (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3185" tvg-country="US" group-title="** LOCAL **",Alabama: Mobile (STIRR) (720p)
+https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-id="WRGB.us" tvg-name="Albany | CBS 6 WRGB" tvg-logo="https://i.imgur.com/ByPFQGp.png" tvg-chno="3186" tvg-country="US" group-title="** LOCAL **",Albany | CBS 6 WRGB (720p)
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:-1 channel-id="21" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjA5NzZf/AMGTV_290x290.png" tvg-chno="3187" group-title="** LOCAL **",AMG-TV Network
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-id="ArkansasLittleRockSTIRR.us" tvg-name="Arkansas: Little Rock (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3188" tvg-country="US" group-title="** LOCAL **",Arkansas: Little Rock (STIRR) (720p)
+https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-id="AtlantaChannel.us" tvg-name="Atlanta Channel" tvg-logo="https://i.imgur.com/zVCz4rY.png" tvg-chno="3189" tvg-country="US" group-title="** LOCAL **",Atlanta Channel (720p)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
+#EXTINF:-1 channel-id="24" radio="false" tvg-id="KNTV.us" tvg-name="Bay Area NBC (KNTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1920px-KNTV_11_NBC_Bay_Area.svg.png" tvg-chno="3190" tvg-country="US" group-title="** LOCAL **",Bay Area NBC (KNTV)
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kntv-dt1.m3u8
+#EXTINF:-1 channel-id="25" radio="false" tvg-id="BeachTV30A.us" tvg-name="Beach TV (30A)" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" tvg-chno="3191" tvg-country="US" group-title="** LOCAL **",Beach TV (30A) (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="26" radio="false" tvg-id="BeachTVPanamaCity.us" tvg-name="Beach TV (Panama City)" tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png" tvg-chno="3192" tvg-country="US" group-title="** LOCAL **",Beach TV (Panama City) (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-id="BeachTVPawleysIsland.us" tvg-name="Beach TV (Pawleys Island)" tvg-logo="https://i.imgur.com/tHopHL9.png" tvg-chno="3193" tvg-country="US" group-title="** LOCAL **",Beach TV (Pawleys Island) (720p)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="28" radio="false" tvg-id="BeachTVFloridaAlabama.us" tvg-name="Beach TV - Florida - Alabama" tvg-logo="https://i.imgur.com/qjzj4TJ.png" tvg-chno="3194" tvg-country="US" group-title="** LOCAL **",Beach TV - Florida - Alabama (720p)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="29" radio="false" tvg-id="BeachTVKeyWestFloridaKeys.us" tvg-name="Beach TV - Key West - Florida Keys" tvg-logo="https://i.imgur.com/p2YKsil.png" tvg-chno="3195" tvg-country="US" group-title="** LOCAL **",Beach TV - Key West - Florida Keys (720p)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="30" radio="false" tvg-id="BeachTVMyrtleBeachGrandStrand.us" tvg-name="Beach TV - Myrtle Beach - Grand Strand" tvg-logo="https://i.imgur.com/LddMCWt.png" tvg-chno="3196" tvg-country="US" group-title="** LOCAL **",Beach TV - Myrtle Beach - Grand Strand (720p)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="31" radio="false" tvg-id="BeachTVPanamaCity.us" tvg-name="Beach TV - Panama City" tvg-logo="https://i.imgur.com/GaUcUCZ.png" tvg-chno="3197" tvg-country="US" group-title="** LOCAL **",Beach TV - Panama City (720p)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="32" radio="false" tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" tvg-chno="3198" tvg-country="US" group-title="** LOCAL **",Boston 25 News (WFXT)
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+#EXTINF:-1 channel-id="33" radio="false" tvg-id="BowieTV.us" tvg-name="Bowie TV" tvg-chno="3199" tvg-country="US" group-title="** LOCAL **",Bowie TV (720p)
+https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 channel-id="34" radio="false" tvg-id="BuffaloTV.us" tvg-name="Buffalo TV" tvg-chno="3200" tvg-country="US" group-title="** LOCAL **",Buffalo TV (360p)
+https://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 channel-id="35" radio="false" tvg-id="BUTV10BostonUniversity.us" tvg-name="BUTV10 (Boston University)" tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" tvg-chno="3201" tvg-country="US" group-title="** LOCAL **",BUTV10 (Boston University)
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 channel-id="36" radio="false" tvg-id="CaliforniaBakersfieldSTIRR.us" tvg-name="California: Bakersfield (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3202" tvg-country="US" group-title="** LOCAL **",California: Bakersfield (STIRR) (720p)
+https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8
+#EXTINF:-1 channel-id="37" radio="false" tvg-id="CaliforniaChicoReddingSTIRR.us" tvg-name="California: Chico-Redding (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3203" tvg-country="US" group-title="** LOCAL **",California: Chico-Redding (STIRR) (720p)
+https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8
+#EXTINF:-1 channel-id="38" radio="false" tvg-id="CaliforniaFresnoVisaliaSTIRR.us" tvg-name="California: Fresno-Visalia (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3204" tvg-country="US" group-title="** LOCAL **",California: Fresno-Visalia (STIRR) (720p)
+https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8
+#EXTINF:-1 channel-id="39" radio="false" tvg-id="CaliforniaLosAngelesSTIRR.us" tvg-name="California: Los Angeles (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3205" tvg-country="US" group-title="** LOCAL **",California: Los Angeles (STIRR) (720p)
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
+#EXTINF:-1 channel-id="40" radio="false" tvg-id="CapitalCityConnectionMontgomery.us" tvg-name="Capital City Connection Montgomery" tvg-logo="https://i.imgur.com/8w3N2k3.png" tvg-chno="3206" tvg-country="US" group-title="** LOCAL **",Capital City Connection Montgomery (360p)
+https://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1 channel-id="41" radio="false" tvg-id="CBS9WashingtonDCWUSAHD.us" tvg-name="CBS 9 Washington DC (WUSA-HD)" tvg-logo="https://i.imgur.com/Ekt1an0.png" tvg-chno="3207" tvg-country="US" group-title="** LOCAL **",CBS 9 Washington DC (WUSA-HD) (720p)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 channel-id="42" radio="false" tvg-id="CBSDallasKTVT.us" tvg-name="CBS Dallas (KTVT)" tvg-chno="3208" tvg-country="US" group-title="** LOCAL **",CBS Dallas (KTVT) (180p)
+https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_6.m3u8
+#EXTINF:-1 channel-id="43" radio="false" tvg-id="CBSDallasKTVT.us" tvg-name="CBS Dallas (KTVT)" tvg-chno="3209" tvg-country="US" group-title="** LOCAL **",CBS Dallas (KTVT) (720p)
+https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 channel-id="44" radio="false" tvg-id="CBS46WGCLTV.us" tvg-name="CBS46 (WGCL-TV)" tvg-chno="3210" tvg-country="US" group-title="** LOCAL **",CBS46 (WGCL-TV) (720p)
+https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
+#EXTINF:-1 channel-id="45" radio="false" tvg-id="CBSNBayArea.us" tvg-name="CBSN Bay Area" tvg-logo="https://i.imgur.com/PNrkhuf.jpg" tvg-chno="3211" tvg-country="US" group-title="** LOCAL **",CBSN Bay Area (720p)
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:-1 channel-id="46" radio="false" tvg-id="CBSNMinnesota.us" tvg-name="CBSN Minnesota" tvg-logo="https://i.imgur.com/BxwGweD.jpg" tvg-chno="3212" tvg-country="US" group-title="** LOCAL **",CBSN Minnesota (720p)
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:-1 channel-id="47" radio="false" tvg-id="CBSNNewYork.us" tvg-name="CBSN New York" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" tvg-chno="3213" tvg-country="US" group-title="** LOCAL **",CBSN New York (720p)
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 channel-id="48" radio="false" tvg-id="CBSNPhilly.us" tvg-name="CBSN Philly" tvg-logo="https://i.imgur.com/BjO1ABv.jpg" tvg-chno="3214" tvg-country="US" group-title="** LOCAL **",CBSN Philly (720p)
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 channel-id="49" radio="false" tvg-id="CCTV.us" tvg-name="CC-TV" tvg-logo="https://www.charlottecountyfl.gov/cctv/PublishingImages/CC-TV-color-logo.jpg" tvg-chno="3215" tvg-country="US" group-title="** LOCAL **",CC-TV
+https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 channel-id="50" radio="false" tvg-id="CCX1.us" tvg-name="CCX1" tvg-logo="https://i.imgur.com/SC5nyyL.png" tvg-chno="3216" tvg-country="US" group-title="** LOCAL **",CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 channel-id="51" radio="false" tvg-id="CerritosTV3.us" tvg-name="Cerritos TV3" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" tvg-chno="3217" tvg-country="US" group-title="** LOCAL **",Cerritos TV3
+https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+#EXTINF:-1 channel-id="52" radio="false" tvg-id="ConnecticutNetwork.us" tvg-name="Connecticut Network" tvg-logo="https://i.imgur.com/UxEzPeX.png" tvg-chno="3218" tvg-country="US" group-title="** LOCAL **",Connecticut Network (720p)
+http://video.ct-n.com/live/ctnstream/playlist.m3u8
+#EXTINF:-1 channel-id="53" radio="false" tvg-id="Cozi16WZTS.us" tvg-name="Cozi 16 WZTS" tvg-logo="https://i.imgur.com/6xlSsOY.png" tvg-chno="3219" tvg-country="US" group-title="** LOCAL **",Cozi 16 WZTS (480p)
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+#EXTINF:-1 channel-id="54" radio="false" tvg-id="CTNCourtFeed.us" tvg-name="CT-N Court Feed" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" tvg-chno="3220" tvg-country="US" group-title="** LOCAL **",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
+#EXTINF:-1 channel-id="55" radio="false" tvg-id="CTNLiveStream2.us" tvg-name="CT-N Live Stream 2" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" tvg-chno="3221" tvg-country="US" group-title="** LOCAL **",CT-N Live Stream 2 (360p)
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+#EXTINF:-1 channel-id="56" radio="false" tvg-id="CTNTVConneticut.us" tvg-name="CT-N TV  - Conneticut" tvg-logo="https://i.imgur.com/pb0TFQt.jpg" tvg-chno="3222" tvg-country="US" group-title="** LOCAL **",CT-N TV  - Conneticut
+http://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
+#EXTINF:-1 channel-id="57" radio="false" tvg-id="CTN.us" tvg-name="CTN" tvg-logo="https://i.imgur.com/Bj37ZMY.png" tvg-chno="3223" tvg-country="US" group-title="** LOCAL **",CTN
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+#EXTINF:-1 channel-id="58" radio="false" tvg-id="CTN.us" tvg-name="CTN" tvg-logo="https://i.imgur.com/Bj37ZMY.png" tvg-chno="3224" tvg-country="US" group-title="** LOCAL **",CTN
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
+#EXTINF:-1 channel-id="59" radio="false" tvg-id="CTN.us" tvg-name="CTN" tvg-logo="https://i.imgur.com/Bj37ZMY.png" tvg-chno="3225" tvg-country="US" group-title="** LOCAL **",CTN (404p)
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+#EXTINF:-1 channel-id="60" radio="false" tvg-id="Denver8TV.us" tvg-name="Denver 8 TV" tvg-logo="https://i.imgur.com/q66RMSc.png" tvg-chno="3226" tvg-country="US" group-title="** LOCAL **",Denver 8 TV
+https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 channel-id="61" radio="false" tvg-id="DistrictofColumbiaWashingtonDCSTIRR.us" tvg-name="District of Columbia: Washington D.C. (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3227" tvg-country="US" group-title="** LOCAL **",District of Columbia: Washington D.C. (STIRR) (720p)
+https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
+#EXTINF:-1 channel-id="62" radio="false" tvg-id="FloridaGainesvilleSTIRR.us" tvg-name="Florida: Gainesville (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3228" tvg-country="US" group-title="** LOCAL **",Florida: Gainesville (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
+#EXTINF:-1 channel-id="63" radio="false" tvg-id="FloridaPensacolaSTIRR.us" tvg-name="Florida: Pensacola (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3229" tvg-country="US" group-title="** LOCAL **",Florida: Pensacola (STIRR) (720p)
+https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
+#EXTINF:-1 channel-id="64" radio="false" tvg-id="FloridaWestPalmBeachSTIRR.us" tvg-name="Florida: West Palm Beach (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3230" tvg-country="US" group-title="** LOCAL **",Florida: West Palm Beach (STIRR) (720p)
+https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
+#EXTINF:-1 channel-id="65" radio="false" tvg-id="GalvestonCountyTV.us" tvg-name="Galveston County TV" tvg-logo="https://img.new.livestream.com/accounts/000000000141794a/1769dc58-4a38-4815-9cb7-feb1140db5ec_170x170.png" tvg-chno="3231" tvg-country="US" group-title="** LOCAL **",Galveston County TV (720p)
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+#EXTINF:-1 channel-id="66" radio="false" tvg-id="GeorgiaAlbanySTIRR.us" tvg-name="Georgia: Albany (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3232" tvg-country="US" group-title="** LOCAL **",Georgia: Albany (STIRR) (720p)
+https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8
+#EXTINF:-1 channel-id="67" radio="false" tvg-id="GeorgiaMaconSTIRR.us" tvg-name="Georgia: Macon (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3233" tvg-country="US" group-title="** LOCAL **",Georgia: Macon (STIRR) (720p)
+https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
+#EXTINF:-1 channel-id="68" radio="false" tvg-id="Glendale11.us" tvg-name="Glendale 11" tvg-logo="https://www.glendaleaz.com/images/City-Logo-Text.png" tvg-chno="3234" tvg-country="US" group-title="** LOCAL **",Glendale 11 (360p)
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 channel-id="69" radio="false" tvg-id="GreensboroTV.us" tvg-name="Greensboro TV" tvg-logo="https://i.imgur.com/wHb9BLd.png" tvg-chno="3235" tvg-country="US" group-title="** LOCAL **",Greensboro TV
+https://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 channel-id="70" radio="false" tvg-id="HartfordWVIT30News.us" tvg-name="Hartford - WVIT 30 News" tvg-logo="https://i.imgur.com/3czIO1P.png" tvg-chno="3236" tvg-country="US" group-title="** LOCAL **",Hartford - WVIT 30 News (720p)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 channel-id="71" radio="false" tvg-id="HTV1HoustonTelevision.us" tvg-name="HTV 1 - Houston Television" tvg-logo="https://i.imgur.com/zvj1boM.jpg" tvg-chno="3237" tvg-country="US" group-title="** LOCAL **",HTV 1 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1 channel-id="72" radio="false" tvg-id="HTV2HoustonTelevision.us" tvg-name="HTV 2 - Houston Television" tvg-logo="https://i.imgur.com/zvj1boM.jpg" tvg-chno="3238" tvg-country="US" group-title="** LOCAL **",HTV 2 - Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 channel-id="73" radio="false" tvg-id="IdahoBoiseSTIRR.us" tvg-name="Idaho: Boise (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3239" tvg-country="US" group-title="** LOCAL **",Idaho: Boise (STIRR) (720p)
+https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8
+#EXTINF:-1 channel-id="74" radio="false" tvg-id="IdahoLewistonSTIRR.us" tvg-name="Idaho: Lewiston (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3240" tvg-country="US" group-title="** LOCAL **",Idaho: Lewiston (STIRR) (720p)
+https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
+#EXTINF:-1 channel-id="75" radio="false" tvg-id="IllinoisChampaignSTIRR.us" tvg-name="Illinois: Champaign (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3241" tvg-country="US" group-title="** LOCAL **",Illinois: Champaign (STIRR) (720p)
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 channel-id="76" radio="false" tvg-id="IllinoisQuincySTIRR.us" tvg-name="Illinois: Quincy (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3242" tvg-country="US" group-title="** LOCAL **",Illinois: Quincy (STIRR) (720p)
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 channel-id="77" radio="false" tvg-id="IllinoisSpringfield2STIRR.us" tvg-name="Illinois: Springfield #2 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3243" tvg-country="US" group-title="** LOCAL **",Illinois: Springfield #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
+#EXTINF:-1 channel-id="78" radio="false" tvg-id="IndianaSouthBendSTIRR.us" tvg-name="Indiana: South Bend (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3244" tvg-country="US" group-title="** LOCAL **",Indiana: South Bend (STIRR) (720p)
+https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
+#EXTINF:-1 channel-id="79" radio="false" tvg-id="Ion8ChristianstedVIWSVITV.us" tvg-name="Ion 8 Christiansted VI (WSVI-TV)" tvg-logo="https://i.imgur.com/gTmNrk6.png" tvg-chno="3245" tvg-country="US" group-title="** LOCAL **",Ion 8 Christiansted VI (WSVI-TV) (300p)
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 channel-id="80" radio="false" tvg-id="KKPX.us" tvg-name="ion TV (KKPX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" tvg-chno="3246" tvg-country="US" group-title="** LOCAL **",ion TV (KKPX)
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kkpx-dt1.m3u8
+#EXTINF:-1 channel-id="81" radio="false" tvg-id="IowaCedarRapidsSTIRR.us" tvg-name="Iowa: Cedar Rapids (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3247" tvg-country="US" group-title="** LOCAL **",Iowa: Cedar Rapids (STIRR) (720p)
+https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8
+#EXTINF:-1 channel-id="82" radio="false" tvg-id="IowaOttumwaSTIRR.us" tvg-name="Iowa: Ottumwa (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3248" tvg-country="US" group-title="** LOCAL **",Iowa: Ottumwa (STIRR) (720p)
+https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
+#EXTINF:-1 channel-id="83" radio="false" tvg-id="IowaSiouxCitySTIRR.us" tvg-name="Iowa: Sioux City (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3249" tvg-country="US" group-title="** LOCAL **",Iowa: Sioux City (STIRR) (720p)
+https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8
+#EXTINF:-1 channel-id="84" radio="false" tvg-id="KCAL9KCALTV.us" tvg-name="KCAL 9 (KCAL-TV)" tvg-chno="3250" tvg-country="US" group-title="** LOCAL **",KCAL 9 (KCAL-TV) (180p)
+https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_6.m3u8
+#EXTINF:-1 channel-id="85" radio="false" tvg-id="KCAL9KCALTV.us" tvg-name="KCAL 9 (KCAL-TV)" tvg-chno="3251" tvg-country="US" group-title="** LOCAL **",KCAL 9 (KCAL-TV) (720p)
+https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 channel-id="86" radio="false" tvg-id="KeyTV.us" tvg-name="Key TV" tvg-logo="https://i.imgur.com/fEjPBk3.png" tvg-chno="3252" tvg-country="US" group-title="** LOCAL **",Key TV (720p)
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="87" radio="false" tvg-id="KIRO7NewsKIROTV.us" tvg-name="KIRO 7 News (KIRO-TV)" tvg-logo="https://mediaweb.kirotv.com/photo/2018/09/24/kiro7_header_logo_152x60_13118164_ver1.0.png" tvg-chno="3253" tvg-country="US" group-title="** LOCAL **",KIRO 7 News (KIRO-TV)
+https://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:-1 channel-id="88" radio="false" tvg-logo="https://od.lk/s/MF8yMjU3OTE2ODhf/CitiCable_225x225.png" tvg-chno="3254" group-title="** LOCAL **",KNET-CD 25.2 | Local Access
+http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
+#EXTINF:-1 channel-id="89" radio="false" tvg-id="KOFY.us" tvg-name="KOFY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/KOFY_TV20_logo_2019.png" tvg-chno="3255" tvg-country="US" group-title="** LOCAL **",KOFY-TV
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kofy-dt1.m3u8
+#EXTINF:-1 channel-id="90" radio="false" tvg-id="FOX23TulsaOKKOKITV.us" tvg-name="FOX 23 Tulsa OK (KOKI-TV)" tvg-logo="https://i.imgur.com/pRKEMb1.jpg" tvg-chno="3256" tvg-country="US" group-title="** LOCAL **",KOKI-TV FOX 23 Tulsa OK (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+#EXTINF:-1 channel-id="91" radio="false" tvg-id="KOMONewsKOMOTV.us" tvg-name="KOMO News (KOMO-TV)" tvg-chno="3257" tvg-country="US" group-title="** LOCAL **",KOMO News (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 channel-id="92" radio="false" tvg-id="KPBS.us" tvg-name="KPBS-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/New_KPBS_logo_2019_%282%29.png" tvg-chno="3258" tvg-country="US" group-title="** LOCAL **",KPBS-DT1
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt1.m3u8
+#EXTINF:-1 channel-id="93" radio="false" tvg-id="KPBS.us" tvg-name="KPBS-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/New_KPBS_logo_2019_%282%29.png" tvg-chno="3259" tvg-country="US" group-title="** LOCAL **",KPBS-DT2
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt2.m3u8
+#EXTINF:-1 channel-id="94" radio="false" tvg-id="KTLA5.us" tvg-name="KTLA 5" tvg-chno="3260" tvg-country="US" group-title="** LOCAL **",KTLA 5 (720p)
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1 channel-id="95" radio="false" tvg-id="KTLA5.us" tvg-name="KTLA 5" tvg-logo="https://i.imgur.com/JH99Psi.jpg" tvg-chno="3261" tvg-country="US" group-title="** LOCAL **",KTLA 5 (Los Angeles) (720p)
+https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
+#EXTINF:-1 channel-id="96" radio="false" tvg-id="KUSI.us" tvg-name="KUSI-DT1" tvg-logo="https://yt3.ggpht.com/58o6dSeIv5j0byajnK95NeR_FPMY7G1QXXD1FBeV8z_pl4xJqgVz_YvEO0ZSJc1jdza4WJvNow" tvg-chno="3262" tvg-country="US" group-title="** LOCAL **",KUSI-DT1
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kusi-dt1.m3u8
+#EXTINF:-1 channel-id="97" radio="false" tvg-id="KVVBTV33.us" tvg-name="KVVB-TV 33" tvg-logo="https://i.imgur.com/FzxuNhl.png" tvg-chno="3263" tvg-country="US" group-title="** LOCAL **",KVVB-TV 33 (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 channel-id="98" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjEwMzhf/K36JH-36-1_241x241.png" tvg-chno="3264" group-title="** LOCAL **",KVVB-TV 33.1 Victorville CA
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 channel-id="99" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjEwODlf/KVVB-33_NewsNet.png" tvg-chno="3265" group-title="** LOCAL **",KVVB-TV 33.3 NewsNet
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 channel-id="100" radio="false" tvg-id="LakeHavasuCity4.us" tvg-name="Lake Havasu City 4" tvg-logo="https://i.imgur.com/REqqKQ9.png" tvg-chno="3266" tvg-country="US" group-title="** LOCAL **",Lake Havasu City 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:-1 channel-id="101" radio="false" tvg-id="LasVegas13ActionNews.us" tvg-name="Las Vegas - 13 Action News" tvg-logo="https://i.imgur.com/QbkW7zY.png" tvg-chno="3267" tvg-country="US" group-title="** LOCAL **",Las Vegas - 13 Action News (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
+#EXTINF:-1 channel-id="102" radio="false" tvg-id="LeominsterTVEducational.us" tvg-name="Leominster TV Educational" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" tvg-chno="3268" tvg-country="US" group-title="** LOCAL **",Leominster TV Educational (1080p)
+http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
+#EXTINF:-1 channel-id="103" radio="false" tvg-id="LeominsterTVGovernment.us" tvg-name="Leominster TV Government" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" tvg-chno="3269" tvg-country="US" group-title="** LOCAL **",Leominster TV Government (1080p)
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:-1 channel-id="104" radio="false" tvg-id="LeominsterTVPublic.us" tvg-name="Leominster TV Public" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png" tvg-chno="3270" tvg-country="US" group-title="** LOCAL **",Leominster TV Public (1080p)
+http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+#EXTINF:-1 channel-id="105" radio="false" tvg-id="LexTV.us" tvg-name="Lex TV" tvg-chno="3271" tvg-country="US" group-title="** LOCAL **",Lex TV (720p)
+https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+#EXTINF:-1 channel-id="106" radio="false" tvg-id="MainePortlandSTIRR.us" tvg-name="Maine: Portland (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3272" tvg-country="US" group-title="** LOCAL **",Maine: Portland (STIRR) (720p)
+https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8
+#EXTINF:-1 channel-id="107" radio="false" tvg-id="MarylandBaltimoreSTIRR.us" tvg-name="Maryland: Baltimore (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3273" tvg-country="US" group-title="** LOCAL **",Maryland: Baltimore (STIRR) (720p)
+https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
+#EXTINF:-1 channel-id="108" radio="false" tvg-id="MiamiCityTV.us" tvg-name="Miami City TV" tvg-logo="https://i.imgur.com/HJohrzO.png" tvg-chno="3274" tvg-country="US" group-title="** LOCAL **",Miami City TV (360p)
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
+#EXTINF:-1 channel-id="109" radio="false" tvg-id="MichiganBayCitySTIRR.us" tvg-name="Michigan: Bay City (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3275" tvg-country="US" group-title="** LOCAL **",Michigan: Bay City (STIRR) (720p)
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 channel-id="110" radio="false" tvg-id="MichiganCadillacSTIRR.us" tvg-name="Michigan: Cadillac (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3276" tvg-country="US" group-title="** LOCAL **",Michigan: Cadillac (STIRR) (720p)
+https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
+#EXTINF:-1 channel-id="111" radio="false" tvg-id="MichiganGrandRapidsSTIRR.us" tvg-name="Michigan: Grand Rapids (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3277" tvg-country="US" group-title="** LOCAL **",Michigan: Grand Rapids (STIRR) (720p)
+https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8
+#EXTINF:-1 channel-id="112" radio="false" tvg-id="MinnesotaMinneapolisSTIRR.us" tvg-name="Minnesota: Minneapolis (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3278" tvg-country="US" group-title="** LOCAL **",Minnesota: Minneapolis (STIRR) (720p)
+https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8
+#EXTINF:-1 channel-id="113" radio="false" tvg-id="MissouriColumbia.us" tvg-name="Missouri: Columbia" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3279" tvg-country="US" group-title="** LOCAL **",Missouri: Columbia (720p)
+https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
+#EXTINF:-1 channel-id="114" radio="false" tvg-id="MissouriStLouis.us" tvg-name="Missouri: St. Louis" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3280" tvg-country="US" group-title="** LOCAL **",Missouri: St. Louis (720p)
+https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8
+#EXTINF:-1 channel-id="115" radio="false" tvg-id="MontanaMissoulaSTIRR.us" tvg-name="Montana: Missoula (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3281" tvg-country="US" group-title="** LOCAL **",Montana: Missoula (STIRR) (720p)
+https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
+#EXTINF:-1 channel-id="116" radio="false" tvg-id="KRON.us" tvg-name="myTV (KRON)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/KRON_4_Main_Logo.svg/1920px-KRON_4_Main_Logo.svg.png" tvg-chno="3282" tvg-country="US" group-title="** LOCAL **",myTV (KRON)
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kron-dt1.m3u8
+#EXTINF:-1 channel-id="117" radio="false" tvg-id="WPHL.us" tvg-name="myTV 17 (WPHL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/WPHL_2018_logo.png" tvg-chno="3283" tvg-country="US" group-title="** LOCAL **",myTV 17 (WPHL)
+https://streams.the6tv.duckdns.org:2443/locals/Philadelphia/wphl-dt1.m3u8
+#EXTINF:-1 channel-id="118" radio="false" tvg-id="NBC11PittsburghPAWPXIHD.us" tvg-name="NBC 11 Pittsburgh PA (WPXI-HD)" tvg-chno="3284" tvg-country="US" group-title="** LOCAL **",NBC 11 Pittsburgh PA (WPXI-HD)
+https://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 channel-id="119" radio="false" tvg-id="NBC15MadisonWIWMTVNBC.us" tvg-name="NBC 15 Madison WI (WMTVNBC)" tvg-logo="https://i.imgur.com/qOO32m6.png" tvg-chno="3285" tvg-country="US" group-title="** LOCAL **",NBC 15 Madison WI (WMTVNBC) (720p)
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 channel-id="120" radio="false" tvg-id="NBC26WGBA.us" tvg-name="NBC 26 (WGBA)" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/31cd86c/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F09%2F30%2F6709482a41ef96f6ba6259d6ae66%2Fwgba-geographic-locator-600x200.png" tvg-chno="3286" tvg-country="US" group-title="** LOCAL **",NBC 26 (WGBA) (720p)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 channel-id="121" radio="false" tvg-id="NBCSanJoseCAKNTV.us" tvg-name="NBC San Jose CA (KNTV)" tvg-logo="https://i.imgur.com/jrWg5qE.jpg" tvg-chno="3287" tvg-country="US" group-title="** LOCAL **",NBC San Jose CA (KNTV) (240p)
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:-1 channel-id="122" radio="false" tvg-id="NBCSanJoseCAKNTV.us" tvg-name="NBC San Jose CA (KNTV)" tvg-logo="https://i.imgur.com/jrWg5qE.jpg" tvg-chno="3288" tvg-country="US" group-title="** LOCAL **",NBC San Jose CA (KNTV) (416p)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1 channel-id="123" radio="false" tvg-id="NebraskaHastingsSTIRR.us" tvg-name="Nebraska: Hastings (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3289" tvg-country="US" group-title="** LOCAL **",Nebraska: Hastings (STIRR) (720p)
+https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
+#EXTINF:-1 channel-id="124" radio="false" tvg-id="NevadaLasVegasSTIRR.us" tvg-name="Nevada: Las Vegas (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3290" tvg-country="US" group-title="** LOCAL **",Nevada: Las Vegas (STIRR) (720p)
+https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
+#EXTINF:-1 channel-id="125" radio="false" tvg-id="NevadaRenoSTIRR.us" tvg-name="Nevada: Reno (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3291" tvg-country="US" group-title="** LOCAL **",Nevada: Reno (STIRR) (720p)
+https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8
+#EXTINF:-1 channel-id="126" radio="false" tvg-id="NewOrleansTV.us" tvg-name="New Orleans TV" tvg-logo="https://i.imgur.com/tf3KGP4.jpg" tvg-chno="3292" tvg-country="US" group-title="** LOCAL **",New Orleans TV (720p)
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 channel-id="127" radio="false" tvg-id="NewYorkAlbanySTIRR.us" tvg-name="New York: Albany (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3293" tvg-country="US" group-title="** LOCAL **",New York: Albany (STIRR) (720p)
+https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8
+#EXTINF:-1 channel-id="128" radio="false" tvg-id="NewYorkRochesterSTIRR.us" tvg-name="New York: Rochester (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3294" tvg-country="US" group-title="** LOCAL **",New York: Rochester (STIRR) (720p)
+https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8
+#EXTINF:-1 channel-id="129" radio="false" tvg-id="NewYorkSyracuseSTIRR.us" tvg-name="New York: Syracuse (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3295" tvg-country="US" group-title="** LOCAL **",New York: Syracuse (STIRR) (720p)
+https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8
+#EXTINF:-1 channel-id="130" radio="false" tvg-id="NEWSNET.us" tvg-name="NEWS NET" tvg-chno="3296" tvg-country="US" group-title="** LOCAL **",NEWS NET (480p)
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 channel-id="131" radio="false" tvg-logo="https://od.lk/s/MF8yMjY2MjI1OTlf/NewsNet.png" tvg-chno="3297" group-title="** LOCAL **",NewsNet | Webstream
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
+#EXTINF:-1 channel-id="132" radio="false" tvg-id="NorthCarolinaGreenvilleAshevilleSTIRR.us" tvg-name="North Carolina: Greenville - Asheville (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3298" tvg-country="US" group-title="** LOCAL **",North Carolina: Greenville - Asheville (STIRR) (720p)
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 channel-id="133" radio="false" tvg-id="NorthCarolinaGreenvilleNewBernSTIRR.us" tvg-name="North Carolina: Greenville - New Bern (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3299" tvg-country="US" group-title="** LOCAL **",North Carolina: Greenville - New Bern (STIRR) (720p)
+https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
+#EXTINF:-1 channel-id="134" radio="false" tvg-id="NorthCarolinaRaleighDurhamSTIRR.us" tvg-name="North Carolina: Raleigh - Durham (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3300" tvg-country="US" group-title="** LOCAL **",North Carolina: Raleigh - Durham (STIRR) (720p)
+https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
+#EXTINF:-1 channel-id="135" radio="false" tvg-id="NothingScripted.us" tvg-name="Nothing Scripted" tvg-logo="https://i.imgur.com/QSH4Z4p.png" tvg-chno="3301" tvg-country="US" group-title="** LOCAL **",Nothing Scripted (720p)
+https://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 channel-id="136" radio="false" tvg-id="OhioCincinnatiSTIRR.us" tvg-name="Ohio: Cincinnati (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3302" tvg-country="US" group-title="** LOCAL **",Ohio: Cincinnati (STIRR) (720p)
+https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8
+#EXTINF:-1 channel-id="137" radio="false" tvg-id="OhioColumbus1STIRR.us" tvg-name="Ohio: Columbus #1 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3303" tvg-country="US" group-title="** LOCAL **",Ohio: Columbus #1 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
+#EXTINF:-1 channel-id="138" radio="false" tvg-id="OhioColumbus2STIRR.us" tvg-name="Ohio: Columbus #2 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3304" tvg-country="US" group-title="** LOCAL **",Ohio: Columbus #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
+#EXTINF:-1 channel-id="139" radio="false" tvg-id="OhioDaytonSTIRR.us" tvg-name="Ohio: Dayton (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3305" tvg-country="US" group-title="** LOCAL **",Ohio: Dayton (STIRR) (720p)
+https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
+#EXTINF:-1 channel-id="140" radio="false" tvg-id="OhioToledoSTIRR.us" tvg-name="Ohio: Toledo (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3306" tvg-country="US" group-title="** LOCAL **",Ohio: Toledo (STIRR) (720p)
+https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
+#EXTINF:-1 channel-id="141" radio="false" tvg-id="OhioWheelingSteubenvilleSTIRR.us" tvg-name="Ohio: Wheeling - Steubenville (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3307" tvg-country="US" group-title="** LOCAL **",Ohio: Wheeling - Steubenville (STIRR) (720p)
+https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
+#EXTINF:-1 channel-id="142" radio="false" tvg-id="OklahomaOklahomaCitySTIRR.us" tvg-name="Oklahoma: Oklahoma City (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3308" tvg-country="US" group-title="** LOCAL **",Oklahoma: Oklahoma City (STIRR) (720p)
+https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8
+#EXTINF:-1 channel-id="143" radio="false" tvg-id="OklahomaTulsaSTIRR.us" tvg-name="Oklahoma: Tulsa (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3309" tvg-country="US" group-title="** LOCAL **",Oklahoma: Tulsa (STIRR) (720p)
+https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8
+#EXTINF:-1 channel-id="144" radio="false" tvg-id="Olelo54.us" tvg-name="Olelo 54" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" tvg-chno="3310" tvg-country="US" group-title="** LOCAL **",Olelo 54
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 channel-id="145" radio="false" tvg-id="Olelo55.us" tvg-name="Olelo 55" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" tvg-chno="3311" tvg-country="US" group-title="** LOCAL **",Olelo 55
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 channel-id="146" radio="false" tvg-id="OrangeTV.us" tvg-name="Orange TV" tvg-chno="3312" tvg-country="US" group-title="** LOCAL **",Orange TV (720p)
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 channel-id="147" radio="false" tvg-id="OregonEugeneSpringfield1STIRR.us" tvg-name="Oregon: Eugene - Springfield #1 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3313" tvg-country="US" group-title="** LOCAL **",Oregon: Eugene - Springfield #1 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8
+#EXTINF:-1 channel-id="148" radio="false" tvg-id="OregonEugeneSpringfield2STIRR.us" tvg-name="Oregon: Eugene - Springfield #2 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3314" tvg-country="US" group-title="** LOCAL **",Oregon: Eugene - Springfield #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8
+#EXTINF:-1 channel-id="149" radio="false" tvg-id="OregonMedfordSTIRR.us" tvg-name="Oregon: Medford (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3315" tvg-country="US" group-title="** LOCAL **",Oregon: Medford (STIRR) (720p)
+https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8
+#EXTINF:-1 channel-id="150" radio="false" tvg-id="OregonPortlandSTIRR.us" tvg-name="Oregon: Portland (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3316" tvg-country="US" group-title="** LOCAL **",Oregon: Portland (STIRR) (720p)
+https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8
+#EXTINF:-1 channel-id="151" radio="false" tvg-id="PBSKET.us" tvg-name="PBS KET" tvg-logo="https://i.imgur.com/ocMGZM6.png" tvg-chno="3317" tvg-country="US" group-title="** LOCAL **",PBS KET (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+#EXTINF:-1 channel-id="152" radio="false" tvg-id="PCCTVPinellasCountyFlorida.us" tvg-name="PCC-TV - Pinellas County Florida" tvg-logo="https://i.imgur.com/9PEAPwY.png" tvg-chno="3318" tvg-country="US" group-title="** LOCAL **",PCC-TV - Pinellas County Florida (480p)
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+#EXTINF:-1 channel-id="153" radio="false" tvg-id="PennsylvaniaHarrisburgSTIRR.us" tvg-name="Pennsylvania: Harrisburg (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3319" tvg-country="US" group-title="** LOCAL **",Pennsylvania: Harrisburg (STIRR) (720p)
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 channel-id="154" radio="false" tvg-id="PennsylvaniaJohnstownAltoonaSTIRR.us" tvg-name="Pennsylvania: Johnstown - Altoona (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3320" tvg-country="US" group-title="** LOCAL **",Pennsylvania: Johnstown - Altoona (STIRR) (720p)
+https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8
+#EXTINF:-1 channel-id="155" radio="false" tvg-id="PennsylvaniaPittsburghSTIRR.us" tvg-name="Pennsylvania: Pittsburgh (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3321" tvg-country="US" group-title="** LOCAL **",Pennsylvania: Pittsburgh (STIRR) (720p)
+https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8
+#EXTINF:-1 channel-id="156" radio="false" tvg-id="PennsylvaniaWilkesBarreScrantonSTIRR.us" tvg-name="Pennsylvania: Wilkes Barre - Scranton (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3322" tvg-country="US" group-title="** LOCAL **",Pennsylvania: Wilkes Barre - Scranton (STIRR) (720p)
+https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
+#EXTINF:-1 channel-id="157" radio="false" tvg-id="PIX11NewYork.us" tvg-name="PIX11 (New York)" tvg-chno="3323" tvg-country="US" group-title="** LOCAL **",PIX11 (New York) (720p)
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 channel-id="158" radio="false" tvg-id="RadioTeleBoston.us" tvg-name="Radio Tele Boston" tvg-logo="https://i.imgur.com/HFyrVaS.png" tvg-chno="3324" tvg-country="HT" group-title="** LOCAL **",Radio Tele Boston (480p)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 channel-id="159" radio="false" tvg-id="RadioyTelevisionMarti.us" tvg-name="Radio y Televisión Martí" tvg-logo="https://i.imgur.com/B6C0FyM.png" tvg-chno="3325" tvg-country="US" group-title="** LOCAL **",Radio y Televisión Martí (480p)
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 channel-id="160" radio="false" tvg-logo="https://od.lk/s/MF8yMzI1NDE0MTFf/RetroTV_v2_281x281.png" tvg-chno="3326" group-title="** LOCAL **",Retro TV | Webstream
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8?l1br3RO0525
+#EXTINF:-1 channel-id="161" radio="false" tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjRf/Revn_375x375.png" tvg-chno="3327" group-title="** LOCAL **",Rev'n | Webstream
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8?l1br3RO0525
+#EXTINF:-1 channel-id="162" radio="false" tvg-id="RhodeIslandProvidenceSTIRR.us" tvg-name="Rhode Island: Providence (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3328" tvg-country="US" group-title="** LOCAL **",Rhode Island: Providence (STIRR) (720p)
+https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
+#EXTINF:-1 channel-id="163" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjE0MDJf/RNTV_460x460.png" tvg-chno="3329" group-title="** LOCAL **",Right Now Television
+https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
+#EXTINF:-1 channel-id="164" radio="false" tvg-id="SeattleChannelWashingtonSTIRR.us" tvg-name="Seattle Channel - Washington (STIRR)" tvg-logo="https://i.imgur.com/NfE5jtp.png" tvg-chno="3330" tvg-country="US" group-title="** LOCAL **",Seattle Channel - Washington (STIRR) (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
+#EXTINF:-1 channel-id="165" radio="false" tvg-id="SouthCarolinaCharlestonSTIRR.us" tvg-name="South Carolina: Charleston (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3331" tvg-country="US" group-title="** LOCAL **",South Carolina: Charleston (STIRR) (720p)
+https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
+#EXTINF:-1 channel-id="166" radio="false" tvg-id="SouthCarolinaColumbiaSTIRR.us" tvg-name="South Carolina: Columbia (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3332" tvg-country="US" group-title="** LOCAL **",South Carolina: Columbia (STIRR) (720p)
+https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
+#EXTINF:-1 channel-id="167" radio="false" tvg-id="SouthCarolinaFlorenceSTIRR.us" tvg-name="South Carolina: Florence (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3333" tvg-country="US" group-title="** LOCAL **",South Carolina: Florence (STIRR) (720p)
+https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
+#EXTINF:-1 channel-id="168" radio="false" tvg-id="Tempe11.us" tvg-name="Tempe 11" tvg-logo="https://i.imgur.com/2XKjSpy.gif" tvg-chno="3334" tvg-country="US" group-title="** LOCAL **",Tempe 11
+https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1 channel-id="169" radio="false" tvg-id="TennesseeChattanoogaSTIRR.us" tvg-name="Tennessee: Chattanooga (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3335" tvg-country="US" group-title="** LOCAL **",Tennessee: Chattanooga (STIRR) (720p)
+https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8
+#EXTINF:-1 channel-id="170" radio="false" tvg-id="TennesseeNashvilleSTIRR.us" tvg-name="Tennessee: Nashville (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3336" tvg-country="US" group-title="** LOCAL **",Tennessee: Nashville (STIRR) (720p)
+https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8
+#EXTINF:-1 channel-id="171" radio="false" tvg-id="TexasAbileneSTIRR.us" tvg-name="Texas: Abilene (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3337" tvg-country="US" group-title="** LOCAL **",Texas: Abilene (STIRR) (720p)
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 channel-id="172" radio="false" tvg-id="TexasAmarilloSTIRR.us" tvg-name="Texas: Amarillo (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3338" tvg-country="US" group-title="** LOCAL **",Texas: Amarillo (STIRR) (720p)
+https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8
+#EXTINF:-1 channel-id="173" radio="false" tvg-id="TexasAustinSTIRR.us" tvg-name="Texas: Austin (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3339" tvg-country="US" group-title="** LOCAL **",Texas: Austin (STIRR) (720p)
+https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8
+#EXTINF:-1 channel-id="174" radio="false" tvg-id="TexasBeaumontSTIRR.us" tvg-name="Texas: Beaumont (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3340" tvg-country="US" group-title="** LOCAL **",Texas: Beaumont (STIRR) (720p)
+https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
+#EXTINF:-1 channel-id="175" radio="false" tvg-id="TexasBeaumontPortArthurSTIRR.us" tvg-name="Texas: Beaumont - Port Arthur (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3341" tvg-country="US" group-title="** LOCAL **",Texas: Beaumont - Port Arthur (STIRR) (720p)
+https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8
+#EXTINF:-1 channel-id="176" radio="false" tvg-id="TexasElPaso1STIRR.us" tvg-name="Texas: El Paso #1 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3342" tvg-country="US" group-title="** LOCAL **",Texas: El Paso #1 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8
+#EXTINF:-1 channel-id="177" radio="false" tvg-id="TexasElPaso2STIRR.us" tvg-name="Texas: El Paso #2 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3343" tvg-country="US" group-title="** LOCAL **",Texas: El Paso #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8
+#EXTINF:-1 channel-id="178" radio="false" tvg-id="TexasSanAntonioSTIRR.us" tvg-name="Texas: San Antonio (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3344" tvg-country="US" group-title="** LOCAL **",Texas: San Antonio (STIRR) (720p)
+https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8
+#EXTINF:-1 channel-id="179" radio="false" tvg-id="TheFloridaChannel.us" tvg-name="The Florida Channel" tvg-logo="https://thefloridachannel.org/wp-content/uploads/logo-primary-1.png" tvg-chno="3345" tvg-country="US" group-title="** LOCAL **",The Florida Channel (480p)
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+#EXTINF:-1 channel-id="180" radio="false" tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjJf/Heartland_720x720.png" tvg-chno="3346" group-title="** LOCAL **",The Heartland Network
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8?l1br3RO0525 | Webstream
+#EXTINF:-1 channel-id="181" radio="false" tvg-id="TheSoutheasternChannel.us" tvg-name="The Southeastern Channel" tvg-chno="3347" tvg-country="US" group-title="** LOCAL **",The Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 channel-id="182" radio="false" tvg-id="GINXeSportsTV - UK" tvg-name="TSTV" tvg-chno="3348" tvg-country="US" group-title="** LOCAL **",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 channel-id="183" radio="false" tvg-id="UALRTV.us" tvg-name="UALR TV" tvg-chno="3349" tvg-country="US" group-title="** LOCAL **",UALR TV (720p)
+https://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:-1 channel-id="184" radio="false" tvg-id="KFSF.us" tvg-name="UniMas (KFSF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png" tvg-chno="3350" tvg-country="US" group-title="** LOCAL **",UniMas (KFSF)
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
+#EXTINF:-1 channel-id="185" radio="false" tvg-id="KDTV.us" tvg-name="Univision (KDTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" tvg-chno="3351" tvg-country="US" group-title="** LOCAL **",Univision (KDTV)
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+#EXTINF:-1 channel-id="186" radio="false" tvg-id="UtahSaltLakeCitySTIRR.us" tvg-name="Utah: Salt Lake City (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3352" tvg-country="US" group-title="** LOCAL **",Utah: Salt Lake City (STIRR) (720p)
+https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
+#EXTINF:-1 channel-id="187" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjEyMThf/VicValley_LMG-TV.png" tvg-chno="3353" group-title="** LOCAL **",Victor Valley LMG-TV 24.4
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1 channel-id="188" radio="false" tvg-id="VirginiaLynchburgRoanokeSTIRR.us" tvg-name="Virginia: Lynchburg - Roanoke (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3354" tvg-country="US" group-title="** LOCAL **",Virginia: Lynchburg - Roanoke (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
+#EXTINF:-1 channel-id="189" radio="false" tvg-id="VirginiaNorfolkPortsmouthSTIRR.us" tvg-name="Virginia: Norfolk - Portsmouth (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3355" tvg-country="US" group-title="** LOCAL **",Virginia: Norfolk - Portsmouth (STIRR) (720p)
+https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
+#EXTINF:-1 channel-id="190" radio="false" tvg-id="VirginiaTriCitiesSTIRR.us" tvg-name="Virginia: Tri-Cities (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3356" tvg-country="US" group-title="** LOCAL **",Virginia: Tri-Cities (STIRR) (720p)
+https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
+#EXTINF:-1 channel-id="191" radio="false" tvg-id="WABI5BangorMaineSTIRR.us" tvg-name="WABI 5 - Bangor - Maine (STIRR)" tvg-logo="https://i.imgur.com/D8uMAuV.png" tvg-chno="3357" tvg-country="US" group-title="** LOCAL **",WABI 5 - Bangor - Maine (STIRR)
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwL (STIRR)CJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
+#EXTINF:-1 channel-id="192" radio="false" tvg-id="WashingtonSeattleSTIRR.us" tvg-name="Washington: Seattle (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3358" tvg-country="US" group-title="** LOCAL **",Washington: Seattle (STIRR) (720p)
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
+#EXTINF:-1 channel-id="193" radio="false" tvg-id="WashingtonYakimaPasco1STIRR.us" tvg-name="Washington: Yakima - Pasco #1 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3359" tvg-country="US" group-title="** LOCAL **",Washington: Yakima - Pasco #1 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
+#EXTINF:-1 channel-id="194" radio="false" tvg-id="WashingtonYakimaPasco2STIRR.us" tvg-name="Washington: Yakima - Pasco #2 (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3360" tvg-country="US" group-title="** LOCAL **",Washington: Yakima - Pasco #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
+#EXTINF:-1 channel-id="195" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjEzMDhf/WATC_390x390.png" tvg-chno="3361" group-title="** LOCAL **",WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 channel-id="196" radio="false" tvg-logo="https://od.lk/s/MF8yMzcyNjEzMDhf/WATC_390x390.png" tvg-chno="3362" group-title="** LOCAL **",WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1 channel-id="197" radio="false" tvg-id="WCCATVWorcester.us" tvg-name="WCCA-TV (Worcester)" tvg-logo="https://worcester.vod.castus.tv/wccalive.png" tvg-chno="3363" tvg-country="US" group-title="** LOCAL **",WCCA-TV (Worcester)
+https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 channel-id="198" radio="false" tvg-id="WestVirginiaCharlestonHuntingtonSTIRR.us" tvg-name="West Virginia: Charleston - Huntington (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3364" tvg-country="US" group-title="** LOCAL **",West Virginia: Charleston - Huntington (STIRR) (720p)
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+#EXTINF:-1 channel-id="199" radio="false" tvg-id="WFTVChannel9FloridaOrlando.us" tvg-name="WFTV Channel 9 - Florida - Orlando" tvg-logo="https://i.imgur.com/S3fqmWY.png" tvg-chno="3365" tvg-country="US" group-title="** LOCAL **",WFTV Channel 9 - Florida - Orlando (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
+#EXTINF:-1 channel-id="200" radio="false" tvg-id="WHIO.us" tvg-name="WHIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/WHIO-TV_Logo.png/285px-WHIO-TV_Logo.png" tvg-chno="3366" tvg-country="US" group-title="** LOCAL **",WHIO
+https://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:-1 channel-id="201" radio="false" tvg-id="WhitePlainsCommunityMedia.us" tvg-name="White Plains Community Media" tvg-logo="https://i.imgur.com/hhjrOB1.png" tvg-chno="3367" tvg-country="US" group-title="** LOCAL **",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 channel-id="202" radio="false" tvg-id="WhitePlainsCommunityMedia.us" tvg-name="White Plains Community Media" tvg-logo="http://wpcommunitymedia.org/images/city-of-white-plains.png" tvg-chno="3368" tvg-country="US" group-title="** LOCAL **",White Plains Community Media (360p)
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 channel-id="203" radio="false" tvg-id="WHOHTVHastingsOnHudsonNY.us" tvg-name="WHOH TV - Hastings-On-Hudson - NY" tvg-logo="https://i.imgur.com/oua9m6O.jpg" tvg-chno="3369" tvg-country="US" group-title="** LOCAL **",WHOH TV - Hastings-On-Hudson - NY (360p)
+http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 channel-id="204" radio="false" tvg-id="WHPR.us" tvg-name="WHPR" tvg-logo="http://313watkins.com/images/logo.png" tvg-chno="3370" tvg-country="US" group-title="** LOCAL **",WHPR (720p)
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1 channel-id="205" radio="false" tvg-id="WisconsinGreenBaySTIRR.us" tvg-name="Wisconsin: Green Bay (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3371" tvg-country="US" group-title="** LOCAL **",Wisconsin: Green Bay (STIRR) (720p)
+https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
+#EXTINF:-1 channel-id="206" radio="false" tvg-id="WisconsinMilwaukeeSTIRR.us" tvg-name="Wisconsin: Milwaukee (STIRR)" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-chno="3372" tvg-country="US" group-title="** LOCAL **",Wisconsin: Milwaukee (STIRR) (720p)
+https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8
+#EXTINF:-1 channel-id="207" radio="false" tvg-id="WJAXActionNewsJacksonville.us" tvg-name="WJAX Action News - Jacksonville" tvg-logo="https://i.imgur.com/LW3Dfbt.png" tvg-chno="3373" tvg-country="US" group-title="** LOCAL **",WJAX Action News - Jacksonville (720p)
+https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754
+#EXTINF:-1 channel-id="208" radio="false" tvg-id="WMFD.us" tvg-name="WMFD" tvg-logo="https://wmfd.com/images/logo.png" tvg-chno="3374" tvg-country="US" group-title="** LOCAL **",WMFD (720p) [Not 24/7]
+https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
+#EXTINF:-1 channel-id="209" radio="false" tvg-id="WPECCBS12News.us" tvg-name="WPEC CBS12 News" tvg-chno="3375" tvg-country="US" group-title="** LOCAL **",WPEC CBS12 News (720p)
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:-1 channel-id="210" radio="false" tvg-id="WSVNFOX7Florida.us" tvg-name="WSVN FOX 7 (Florida)" tvg-logo="https://i.imgur.com/zQlK5ux.png" tvg-chno="3376" tvg-country="US" group-title="** LOCAL **",WSVN FOX 7 (Florida) (720p)
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
+#EXTINF:-1 channel-id="211" radio="false" tvg-id="FOX28SavannahGAWTGS.us" tvg-name="FOX 28 Savannah GA (WTGS)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" tvg-chno="3377" tvg-country="US" group-title="** LOCAL **",WTGS FOX 28 Savannah GA (720p)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 channel-id="212" radio="false" tvg-logo="https://od.lk/s/MF8yMzA5ODU0NjFf/ZLiving_290x290.png" tvg-chno="3378" group-title="** LOCAL **",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8?OTATV

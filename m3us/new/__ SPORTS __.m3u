@@ -1,0 +1,145 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-chno="4045" tvg-country="US" group-title="** SPORTS **",Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="AdventureSportsTV.us" tvg-name="Adventure Sports TV" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-chno="4046" tvg-country="US" group-title="** SPORTS **",Adventure Sports TV (360p)
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" tvg-chno="4047" group-title="** SPORTS **",beIN Sports Xtra | HD
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-id="BekSportsEast.us" tvg-name="Bek Sports East" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-chno="4048" tvg-country="US" group-title="** SPORTS **",Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="BekSportsWest.us" tvg-name="Bek Sports West" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-chno="4049" tvg-country="US" group-title="** SPORTS **",Bek Sports West (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" tvg-chno="4050" group-title="** SPORTS **",CBS Sports HQ (Geo-USA)
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:-1 channel-id="7" radio="false" tvg-id="CycleWorld.us" tvg-name="Cycle World" tvg-logo="https://i.imgur.com/RZE3Pwf.png" tvg-chno="4051" tvg-country="US" group-title="** SPORTS **",Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-id="EdgeSport.us" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/AjRCYwR.png" tvg-chno="4052" tvg-country="US" group-title="** SPORTS **",Edge Sport (1080p)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-id="EdgeSportUS.us" tvg-name="Edge Sport (US)" tvg-logo="https://i.imgur.com/AjRCYwR.png" tvg-chno="4053" tvg-country="US" group-title="** SPORTS **",Edge Sport (US) (720p)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-id="EDGE Sport" tvg-name="Edge Sports" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" tvg-chno="4054" tvg-country="US" group-title="** SPORTS **",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-id="EdgeSports.us" tvg-name="Edge Sports" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-chno="4055" tvg-country="US" group-title="** SPORTS **",Edge Sports (1080p)
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-id="ESPN.us" tvg-name="ESPN" tvg-chno="4056" tvg-country="US" group-title="** SPORTS **",ESPN (720p)
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-chno="4057" tvg-country="US" group-title="** SPORTS **",ESPN 2 (720p)
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-id="ESPNNews.us" tvg-name="ESPN News" tvg-chno="4058" tvg-country="US" group-title="** SPORTS **",ESPN News (720p)
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 channel-id="15" radio="false" tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-chno="4059" tvg-country="US" group-title="** SPORTS **",ESPN U (720p)
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-id="FightBox.us" tvg-name="Fight Box" tvg-logo="https://i0.pngocean.com/files/812/462/345/filmbox-hd-high-definition-television-set-top-box-broadcasting-fightbox.jpg" tvg-chno="4060" tvg-country="US" group-title="** SPORTS **",Fight Box (480p)
+
+#EXTINF:-1 channel-id="17" radio="false" tvg-id="FightSports.us" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-chno="4061" tvg-country="US" group-title="** SPORTS **",Fight Sports (576p)
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-id="FightSports.us" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-chno="4062" tvg-country="US" group-title="** SPORTS **",Fight Sports (576p)
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-id="FoxSports2Asia.us" tvg-name="Fox Sports 2 Asia" tvg-chno="4063" tvg-country="US" group-title="** SPORTS **",Fox Sports 2 Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-id="FoxSports3Asia.us" tvg-name="Fox Sports 3 Asia" tvg-chno="4064" tvg-country="US" group-title="** SPORTS **",Fox Sports 3 Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 channel-id="21" radio="false" tvg-id="FoxSportsAsia.us" tvg-name="Fox Sports Asia" tvg-chno="4065" tvg-country="US" group-title="** SPORTS **",Fox Sports Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-chno="4066" tvg-country="US" group-title="** SPORTS **",FOX Sports HD 1 (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" tvg-chno="4067" group-title="** SPORTS **",FTF Next | FTF (Geo-USA)
+https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
+#EXTINF:-1 channel-id="24" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" tvg-chno="4068" group-title="** SPORTS **",FTF Next | LSN (Geo-USA)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 channel-id="25" radio="false" tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsNetwork_844x844.png" tvg-chno="4069" group-title="** SPORTS **",Fubo Sports Network | Source 2
+https://playout.fubo.tv/plex/master.m3u8
+#EXTINF:-1 channel-id="26" radio="false" tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsNetwork_844x844.png" tvg-chno="4070" group-title="** SPORTS **",Fubo Sports Network | Webstream
+https://playout.fubo.tv/fsn/master.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" tvg-chno="4071" group-title="** SPORTS **",Harley Davidson Racing TV
+https://hdtv.prod2.ioio.tv/broker/play/797c5c1c-160c-4c17-a149-e31a0467ab62.m3u8
+#EXTINF:-1 channel-id="28" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" tvg-chno="4072" group-title="** SPORTS **",Harley Davidson TV
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
+#EXTINF:-1 channel-id="29" radio="false" tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-logo="https://i.imgur.com/2msWdzQ.jpg" tvg-chno="4073" tvg-country="US" group-title="** SPORTS **",Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 channel-id="30" radio="false" tvg-id="KBPSPORTS.us" tvg-name="KBP SPORTS" tvg-chno="4074" tvg-country="US" group-title="** SPORTS **",KBP SPORTS (720p)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 channel-id="31" radio="false" tvg-logo="https://od.lk/s/MF8yMjgzNzU2MTNf/MAVTVSelect_1060x1060.png" tvg-chno="4075" group-title="** SPORTS **",MAV TV Select
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="32" radio="false" tvg-id="MavTV.us" tvg-name="MavTV" tvg-logo="https://i.imgur.com/CqAhL91.png" tvg-chno="4076" tvg-country="US;AU" group-title="** SPORTS **",MavTV (720p)
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="33" radio="false" tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/oDOpMph.png" tvg-chno="4077" tvg-country="US" group-title="** SPORTS **",MLB Network
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 channel-id="34" radio="false" tvg-id="MMAJunkie.us" tvg-name="MMA Junkie" tvg-logo="https://i.imgur.com/s5NcNef.png" tvg-chno="4078" tvg-country="US" group-title="** SPORTS **",MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 channel-id="35" radio="false" tvg-id="MMN.us" tvg-name="MMN" tvg-chno="4079" tvg-country="US" group-title="** SPORTS **",MMN
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 channel-id="36" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" tvg-chno="4080" group-title="** SPORTS **",Olympic Ch. (Geo-CA) | 1080p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
+#EXTINF:-1 channel-id="37" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" tvg-chno="4081" group-title="** SPORTS **",Olympic Ch. (Geo-CA) | 192p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_5.m3u8
+#EXTINF:-1 channel-id="38" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" tvg-chno="4082" group-title="** SPORTS **",Olympic Ch. (Geo-CA) | 288p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_4.m3u8
+#EXTINF:-1 channel-id="39" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" tvg-chno="4083" group-title="** SPORTS **",Olympic Ch. (Geo-CA) | 432p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
+#EXTINF:-1 channel-id="40" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" tvg-chno="4084" group-title="** SPORTS **",Olympic Ch. (Geo-CA) | 720p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_2.m3u8
+#EXTINF:-1 channel-id="41" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" tvg-chno="4085" group-title="** SPORTS **",Outside TV | HD
+https://outsidetvplus-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="42" radio="false" tvg-id="FoxSportspluto.us" tvg-name="Fox Sports pluto" tvg-logo="https://i.imgur.com/X491SzR.gif" tvg-chno="4086" tvg-country="US" group-title="** SPORTS **",Pluto TV Fox Sports pluto (720p)
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 channel-id="43" radio="false" tvg-id="MLS" tvg-name="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png" tvg-chno="4087" tvg-country="US" group-title="** SPORTS **",Pluto TV MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 channel-id="44" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PNIA_900x900.png?raw=true" tvg-chno="4088" group-title="** SPORTS **",Poker Night In America
+https://pokernight-rushstreet-glewedtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="45" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" tvg-chno="4089" group-title="** SPORTS **",Red Bull TV | HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 channel-id="46" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" tvg-chno="4090" group-title="** SPORTS **",Ring of Honor Wrestling | HD
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="47" radio="false" tvg-logo="https://od.lk/s/MF8yMjY2NzM2NzBf/Generic_WatchLive_500x500.png" tvg-chno="4091" group-title="** SPORTS **",Snowy Mountains Television
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:-1 channel-id="48" radio="false" tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" tvg-chno="4092" tvg-country="US" group-title="** SPORTS **",Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 channel-id="49" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SportsGrid_512x512.png?raw=true" tvg-chno="4093" group-title="** SPORTS **",SportsGrid Network
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
+#EXTINF:-1 channel-id="50" radio="false" tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-chno="4094" tvg-country="US" group-title="** SPORTS **",Stadium (720p)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 channel-id="51" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" tvg-chno="4095" group-title="** SPORTS **",Stadium | Live HD
+https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/f3d8696d886f4c3b9612132643061743/playlist_ssaiM.m3u8
+#EXTINF:-1 channel-id="52" radio="false" tvg-id="STIRRSports.us" tvg-name="STIRR Sports" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-chno="4096" tvg-country="US" group-title="** SPORTS **",STIRR Sports (720p)
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#EXTINF:-1 channel-id="53" radio="false" tvg-logo="https://od.lk/s/MF8yMjYwOTU2NjBf/SupercarBlondie_300x300.png" tvg-chno="4097" group-title="** SPORTS **",Supercar Blondie
+https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="54" radio="false" tvg-id="The Tennis Channel" tvg-name="The Tennis Channel" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" tvg-chno="4098" tvg-country="US" group-title="** SPORTS **",The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 channel-id="55" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" tvg-chno="4099" group-title="** SPORTS **",The Tennis Channel | Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:-1 channel-id="56" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" tvg-chno="4100" group-title="** SPORTS **",The Tennis Channel | Plus 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
+#EXTINF:-1 channel-id="57" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" tvg-chno="4101" group-title="** SPORTS **",The Tennis Channel | Plus 3
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+#EXTINF:-1 channel-id="58" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" tvg-chno="4102" group-title="** SPORTS **",The Tennis Channel | Plus 4
+https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
+#EXTINF:-1 channel-id="59" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" tvg-chno="4103" group-title="** SPORTS **",The Tennis Channel | The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 channel-id="60" radio="false" tvg-id="TNTSports2Brasil.us" tvg-name="TNT Sports 2 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-chno="4104" tvg-country="BR" group-title="** SPORTS **",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 channel-id="61" radio="false" tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-chno="4105" tvg-country="BR" group-title="** SPORTS **",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 channel-id="62" radio="false" tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-chno="4106" tvg-country="BR" group-title="** SPORTS **",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 channel-id="63" radio="false" tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-chno="4107" tvg-country="BR" group-title="** SPORTS **",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 channel-id="64" radio="false" tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-chno="4108" tvg-country="US" group-title="** SPORTS **",TVS Boxing (720p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 channel-id="65" radio="false" tvg-id="TVSClassicSports.us" tvg-name="TVS Classic Sports" tvg-logo="https://i.imgur.com/ui099xQ.jpg" tvg-chno="4109" tvg-country="US" group-title="** SPORTS **",TVS Classic Sports (720p)
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 channel-id="66" radio="false" tvg-id="TVSSports.us" tvg-name="TVS Sports" tvg-logo="https://i.imgur.com/OFO86K5.jpg" tvg-chno="4110" tvg-country="US" group-title="** SPORTS **",TVS Sports (960p)
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 channel-id="67" radio="false" tvg-id="TVSWomenSports.us" tvg-name="TVS Women Sports" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" tvg-chno="4111" tvg-country="US" group-title="** SPORTS **",TVS Women Sports (480p)
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 channel-id="68" radio="false" tvg-id="USSPORTTennisPlus1.us" tvg-name="US SPORT Tennis Plus 1" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" tvg-chno="4112" tvg-country="US" group-title="** SPORTS **",US SPORT Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 channel-id="69" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VSiN_400x400.png?raw=true" tvg-chno="4113" group-title="** SPORTS **",VSiN | Webstream
+https://stream.rcncdn.com/live/vsinproxy.m3u8
+#EXTINF:-1 channel-id="70" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" tvg-chno="4114" group-title="** SPORTS **",Whistle TV | HD
+https://whistle-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="71" radio="false" tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-logo="https://i.imgur.com/Nus9e8M.jpg" tvg-chno="4115" tvg-country="US" group-title="** SPORTS **",World Poker Tour (1080p)
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 channel-id="72" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true" tvg-chno="4116" group-title="** SPORTS **",WPT | World Poker Tour
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8

@@ -1,0 +1,153 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="3ABN.us" tvg-name="3ABN" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-chno="3045" tvg-country="US" group-title="** FAITH **",3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="3ABNDaretoDream.us" tvg-name="3ABN Dare to Dream" tvg-logo="https://i.imgur.com/zI6jr9L.png" tvg-chno="3046" tvg-country="US" group-title="** FAITH **",3ABN Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="3ABNFrancais.us" tvg-name="3ABN Français" tvg-logo="https://i.imgur.com/V6bL5MJ.png" tvg-chno="3047" tvg-country="US" group-title="** FAITH **",3ABN Français
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-logo="https://i.imgur.com/vhb8zvB.png" tvg-chno="3048" tvg-country="US" group-title="** FAITH **",3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-chno="3049" tvg-country="US" group-title="** FAITH **",3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-chno="3050" tvg-country="US" group-title="** FAITH **",3ABN Kids (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/DrGJhG3.png" tvg-chno="3051" tvg-country="US" group-title="** FAITH **",3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/4ydVVIA.png" tvg-chno="3052" tvg-country="US" group-title="** FAITH **",3ABN Latino (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-id="3ABNPraiseHimMusicChannel.us" tvg-name="3ABN Praise Him Music Channel" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-chno="3053" tvg-country="US" group-title="** FAITH **",3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-id="3ABNProclaim.us" tvg-name="3ABN Proclaim!" tvg-logo="https://i.imgur.com/KiMtKUL.png" tvg-chno="3054" tvg-country="US" group-title="** FAITH **",3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-id="3ABNRussia.us" tvg-name="3ABN Russia" tvg-logo="https://i.imgur.com/8fKWpo3.png" tvg-chno="3055" tvg-country="US" group-title="** FAITH **",3ABN Russia
+https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN-Francais_225x225.png?raw=true" tvg-chno="3056" group-title="** FAITH **",3ABN | French
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN-International_200x200.png?raw=true" tvg-chno="3057" group-title="** FAITH **",3ABN | International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN_200x200.png?raw=true" tvg-chno="3058" group-title="** FAITH **",3ABN | Live
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
+#EXTINF:-1 channel-id="15" radio="false" tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-chno="3059" tvg-country="US" group-title="** FAITH **",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-logo="https://i.imgur.com/VCfZB73.png" tvg-chno="3060" tvg-country="US" group-title="** FAITH **",Al Horreya TV (1080p)
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-id="AlientoVision.us" tvg-name="Aliento Vision" tvg-logo="https://i.imgur.com/0qwmBEm.png" tvg-chno="3061" tvg-country="US" group-title="** FAITH **",Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-id="AlkarmaTVAustralia.us" tvg-name="Alkarma TV Australia" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-AU.png" tvg-chno="3062" tvg-country="US" group-title="** FAITH **",Alkarma TV Australia (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-id="AlkarmaTVFamily.us" tvg-name="Alkarma TV Family" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Family.png" tvg-chno="3063" tvg-country="US" group-title="** FAITH **",Alkarma TV Family (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-id="AlkarmaTVMiddleEast.us" tvg-name="Alkarma TV Middle East" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-ME.png" tvg-chno="3064" tvg-country="US" group-title="** FAITH **",Alkarma TV Middle East (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 channel-id="21" radio="false" tvg-id="AlkarmaTVNorthAmericaCanada.us" tvg-name="Alkarma TV North America & Canada" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-NA.png" tvg-chno="3065" tvg-country="US" group-title="** FAITH **",Alkarma TV North America & Canada (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-id="AlkarmaTVPraise.us" tvg-name="Alkarma TV Praise" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Praise.png" tvg-chno="3066" tvg-country="US" group-title="** FAITH **",Alkarma TV Praise (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-id="AlkarmaTVTalmazaDiscipleship.us" tvg-name="Alkarma TV Talmaza (Discipleship)" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Talmaza.png" tvg-chno="3067" tvg-country="US" group-title="** FAITH **",Alkarma TV Talmaza (Discipleship) (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 channel-id="24" radio="false" tvg-id="AlkarmaTVYouthEnglish.us" tvg-name="Alkarma TV Youth & English" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/11/Logo-US-1024x576-1.png" tvg-chno="3068" tvg-country="US" group-title="** FAITH **",Alkarma TV Youth & English (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 channel-id="25" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazingDiscoveries_430x430.png?raw=true" tvg-chno="3069" group-title="** FAITH **",Amazing Discoveries
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 channel-id="26" radio="false" tvg-id="BibleExplorations.us" tvg-name="Bible Explorations" tvg-logo="https://i.imgur.com/wwUtlBi.png" tvg-chno="3070" tvg-country="US" group-title="** FAITH **",Bible Explorations (480p)
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-id="CatholicTV.us" tvg-name="Catholic TV" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" tvg-chno="3071" tvg-country="US" group-title="** FAITH **",Catholic TV (720p)
+https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 channel-id="28" radio="false" tvg-id="CBN.us" tvg-name="CBN" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-chno="3072" tvg-country="US" group-title="** FAITH **",CBN (1080p)
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 channel-id="29" radio="false" tvg-id="CBN.us" tvg-name="CBN" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-chno="3073" tvg-country="US" group-title="** FAITH **",CBN (1080p)
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+#EXTINF:-1 channel-id="30" radio="false" tvg-id="CBNEspanol.us" tvg-name="CBN Español" tvg-chno="3074" tvg-country="US" group-title="** FAITH **",CBN Español (1080p)
+https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 channel-id="31" radio="false" tvg-id="CBNFamily.us" tvg-name="CBN Family" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-chno="3075" tvg-country="US" group-title="** FAITH **",CBN Family (1080p)
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 channel-id="32" radio="false" tvg-id="CBNFamily.us" tvg-name="CBN Family" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-chno="3076" tvg-country="US" group-title="** FAITH **",CBN Family (1080p)
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 channel-id="33" radio="false" tvg-id="CBNNews.us" tvg-name="CBN News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png" tvg-chno="3077" tvg-country="US" group-title="** FAITH **",CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
+#EXTINF:-1 channel-id="34" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN_960x960.png?raw=true" tvg-chno="3078" group-title="** FAITH **",CBN | CBN Live
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 channel-id="35" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-News_225x225.png?raw=true" tvg-chno="3079" group-title="** FAITH **",CBN | CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+#EXTINF:-1 channel-id="36" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-Espanol_200x200.png?raw=true" tvg-chno="3080" group-title="** FAITH **",CBN | Spanish
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+#EXTINF:-1 channel-id="37" radio="false" tvg-id="ChristianYouthChannel.us" tvg-name="Christian Youth Channel" tvg-logo="https://i.imgur.com/J1w8bAW.png" tvg-chno="3081" tvg-country="US" group-title="** FAITH **",Christian Youth Channel (720p)
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:-1 channel-id="38" radio="false" tvg-id="CornerstoneTV.us" tvg-name="Cornerstone TV" tvg-logo="https://i.imgur.com/cV8FKR9.png" tvg-chno="3082" tvg-country="US" group-title="** FAITH **",Cornerstone TV (720p)
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8
+#EXTINF:-1 channel-id="39" radio="false" tvg-id="CSatTV.us" tvg-name="CSat TV" tvg-logo="https://i.imgur.com/cigpFzt.png" tvg-chno="3083" tvg-country="US" group-title="** FAITH **",CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 channel-id="40" radio="false" tvg-id="DivineVision.us" tvg-name="Divine Vision" tvg-logo="https://i.imgur.com/wjCFvLR.png" tvg-chno="3084" tvg-country="US" group-title="** FAITH **",Divine Vision (480p)
+https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1 channel-id="41" radio="false" tvg-id="DrGeneScott.us" tvg-name="Dr. Gene Scott" tvg-logo="https://i.imgur.com/FppLahc.jpg" tvg-chno="3085" tvg-country="US" group-title="** FAITH **",Dr. Gene Scott (480p)
+https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:-1 channel-id="42" radio="false" tvg-id="ElbesharaTv.us" tvg-name="Elbeshara Tv" tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" tvg-chno="3086" tvg-country="US;EG" group-title="** FAITH **",Elbeshara Tv
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 channel-id="43" radio="false" tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="https://i.imgur.com/fGdHIGy.png" tvg-chno="3087" tvg-country="US" group-title="** FAITH **",ESNE TV (1080p)
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:-1 channel-id="44" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" tvg-chno="3088" group-title="** FAITH **",EWTN | Canada
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:-1 channel-id="45" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" tvg-chno="3089" group-title="** FAITH **",EWTN | USA
+https://d3je5q1nueb5wn.cloudfront.net/p/DOME.m3u8
+#EXTINF:-1 channel-id="46" radio="false" tvg-id="FaithLifeTV.us" tvg-name="Faith & Life TV" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" tvg-chno="3090" tvg-country="US" group-title="** FAITH **",Faith & Life TV (720p)
+https://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+#EXTINF:-1 channel-id="47" radio="false" tvg-id="GenesisTV.us" tvg-name="Genesis TV" tvg-logo="https://i2.wp.com/alfamedianetwork.com/wp-content/uploads/2018/08/genesistelevisionlogo.png" tvg-chno="3091" tvg-country="US" group-title="** FAITH **",Genesis TV (720p)
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+#EXTINF:-1 channel-id="48" radio="false" tvg-id="GODTV.us" tvg-name="GOD TV" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png" tvg-chno="3092" tvg-country="US" group-title="** FAITH **",GOD TV (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 channel-id="49" radio="false" tvg-id="GospelTruthTV.us" tvg-name="Gospel Truth TV" tvg-logo="https://i.imgur.com/7vQrPvk.png" tvg-chno="3093" tvg-country="US" group-title="** FAITH **",Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:-1 channel-id="50" radio="false" tvg-id="Hillsong - UK" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Hillsong_360x360.png?raw=true" tvg-chno="3094" group-title="** FAITH **",Hillsong
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8?Faith
+#EXTINF:-1 channel-id="51" radio="false" tvg-id="ImpactTelevisionNetwork.us" tvg-name="Impact Television Network" tvg-chno="3095" tvg-country="RU" group-title="** FAITH **",Impact Television Network (480p)
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:-1 channel-id="52" radio="false" tvg-id="InspirationTV.us" tvg-name="Inspiration TV" tvg-logo="https://i.imgur.com/CQnD7yU.png" tvg-chno="3096" tvg-country="US" group-title="** FAITH **",Inspiration TV (360p)
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:-1 channel-id="53" radio="false" tvg-id="ISN.us" tvg-name="ISN" tvg-logo="https://i.imgur.com/pmqYFk9.jpg" tvg-chno="3097" tvg-country="US" group-title="** FAITH **",ISN (1080p)
+https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:-1 channel-id="54" radio="false" tvg-id="JBS.us" tvg-name="JBS" tvg-logo="https://i.imgur.com/pHJm3I0.png" tvg-chno="3098" tvg-country="US" group-title="** FAITH **",JBS
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 channel-id="55" radio="false" tvg-id="JewishLifeTV.us" tvg-name="Jewish Life TV" tvg-logo="https://i.imgur.com/VEoLKzb.png" tvg-chno="3099" tvg-country="US" group-title="** FAITH **",Jewish Life TV (480p)
+https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1 channel-id="56" radio="false" tvg-id="LifevisionTV.us" tvg-name="LifevisionTV" tvg-chno="3100" tvg-country="US" group-title="** FAITH **",LifevisionTV (720p)
+https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 channel-id="57" radio="false" tvg-id="LoveWorldUSA.us" tvg-name="LoveWorld USA" tvg-logo="https://i.imgur.com/YnOZtNm.png" tvg-chno="3101" tvg-country="US" group-title="** FAITH **",LoveWorld USA (1080p)
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:-1 channel-id="58" radio="false" tvg-id="MissionTV.us" tvg-name="Mission TV" tvg-logo="https://i.imgur.com/1qJkLDZ.png" tvg-chno="3102" tvg-country="US" group-title="** FAITH **",Mission TV
+http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8
+#EXTINF:-1 channel-id="59" radio="false" tvg-id="NRBTV.us" tvg-name="NRBTV" tvg-chno="3103" tvg-country="US" group-title="** FAITH **",NRBTV (480p)
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 channel-id="60" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Positiv_520x520.png?raw=true" tvg-chno="3104" group-title="** FAITH **",Positiv TV
+https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?Faith
+#EXTINF:-1 channel-id="61" radio="false" tvg-id="PTLTVNetwork.us" tvg-name="PTL TV Network" tvg-logo="https://i.imgur.com/EhISpCd.png" tvg-chno="3105" tvg-country="US" group-title="** FAITH **",PTL TV Network (720p)
+https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8
+#EXTINF:-1 channel-id="62" radio="false" tvg-id="RevelationTV.us" tvg-name="Revelation TV" tvg-logo="https://i.imgur.com/sOVdYJZ.png" tvg-chno="3106" tvg-country="US" group-title="** FAITH **",Revelation TV (720p)
+https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 channel-id="63" radio="false" tvg-id="SafeTV.us" tvg-name="SafeTV" tvg-logo="https://i.imgur.com/sDGZCpL.png" tvg-chno="3107" tvg-country="US" group-title="** FAITH **",SafeTV (1080p)
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 channel-id="64" radio="false" tvg-id="SBN.us" tvg-name="SBN" tvg-logo="http://sonlifetv.com/images/logo.png" tvg-chno="3108" tvg-country="US" group-title="** FAITH **",SBN
+https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch51/ch51.m3u8
+#EXTINF:-1 channel-id="65" radio="false" tvg-id="SBN.us" tvg-name="SBN" tvg-chno="3109" tvg-country="US" group-title="** FAITH **",SBN
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+#EXTINF:-1 channel-id="66" radio="false" tvg-id="SBNGlobal.us" tvg-name="SBN Global" tvg-chno="3110" tvg-country="US" group-title="** FAITH **",SBN Global
+https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+#EXTINF:-1 channel-id="67" radio="false" tvg-id="ShalomTV.us" tvg-name="Shalom TV" tvg-logo="https://i3.wp.com/unored.tv/wp-content/uploads/2018/10/Shalom-TV-logo-oficial.jpg" tvg-chno="3111" tvg-country="INT" group-title="** FAITH **",Shalom TV
+https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1625794902.m3u8
+#EXTINF:-1 channel-id="68" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Smile_512x512.png?raw=true" tvg-chno="3112" group-title="** FAITH **",Smile
+https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
+#EXTINF:-1 channel-id="69" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_TBN_485x485.png?raw=true" tvg-chno="3113" group-title="** FAITH **",TBN US
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
+#EXTINF:-1 channel-id="70" radio="false" tvg-id="TCT.us" tvg-name="TCT" tvg-logo="https://i.imgur.com/TV29g3L.png" tvg-chno="3114" tvg-country="US" group-title="** FAITH **",TCT
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
+#EXTINF:-1 channel-id="71" radio="false" tvg-id="TheNowNetwork.us" tvg-name="The Now Network" tvg-logo="https://channels.roku.com/images/be4667a16b1e483b8c7746156192b5ba-hd.jpg" tvg-chno="3115" tvg-country="US" group-title="** FAITH **",The Now Network (480p)
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+#EXTINF:-1 channel-id="72" radio="false" tvg-id="TrinityChannel.us" tvg-name="Trinity Channel" tvg-logo="https://i.ytimg.com/vi/_Jt1yB1y-MM/hqdefault.jpg" tvg-chno="3116" tvg-country="US" group-title="** FAITH **",Trinity Channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:-1 channel-id="73" radio="false" tvg-id="VictoryTelevisionNetwork.us" tvg-name="Victory Television Network" tvg-chno="3117" tvg-country="US" group-title="** FAITH **",Victory Television Network (240p)
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:-1 channel-id="74" radio="false" tvg-id="VivaCristoTV.us" tvg-name="Viva Cristo TV" tvg-logo="https://i.imgur.com/vkDryWT.png" tvg-chno="3118" tvg-country="US" group-title="** FAITH **",Viva Cristo TV (720p)
+http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
+#EXTINF:-1 channel-id="75" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" tvg-chno="3119" group-title="** FAITH **",WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8?Faith
+#EXTINF:-1 channel-id="76" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" tvg-chno="3120" group-title="** FAITH **",WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8?Faith

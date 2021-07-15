@@ -1,0 +1,1719 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/1061CHEZ_newlogo.jpg/250px-1061CHEZ_newlogo.jpg" tvg-chno="672" group-title="** CANADA RADIO **",106.1 CHEZ
+https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
+#EXTINF:-1 channel-id="2" radio="true" tvg-logo="http://www.247themix.com/resources/the_mix/mix1.jpg" tvg-chno="673" group-title="** CANADA RADIO **",24.7 The Mix - Sudbury, ON
+http://46.105.126.68:7304/;stream.mp3
+#EXTINF:-1 channel-id="3" radio="true" tvg-logo="https://www.2ks-dance-radio.eu///images/images/logo600_square.jpg" tvg-chno="674" group-title="** CANADA RADIO **",2KS Dance Radio
+https://hazel.torontocast.com:1285/greezvag/1/itunes.pls
+#EXTINF:-1 channel-id="4" radio="true" tvg-logo="https://www.2ks-dance-radio.eu/images/logo600_square.jpg" tvg-chno="675" group-title="** CANADA RADIO **",2ks dance radio | Eurodance & Italodance
+http://hazel.torontocast.com:1295/stream
+#EXTINF:-1 channel-id="5" radio="true" tvg-chno="676" group-title="** CANADA RADIO **",620 CKCM
+https://nyc-edge1-entry1.leanstream-hd.com:2113/CKCMAM
+#EXTINF:-1 channel-id="6" radio="true" tvg-chno="677" group-title="** CANADA RADIO **",650 CKGA
+https://nyc-edge1-entry1.leanstream-hd.com:2113/CKGAAM
+#EXTINF:-1 channel-id="7" radio="true" tvg-logo="https://www.680news.com/wp-content/blogs.dir/sites/2/2020/01/16/cropped-680news_nav-1-270x270.png" tvg-chno="678" group-title="** CANADA RADIO **",680 News Toronto
+https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
+#EXTINF:-1 channel-id="8" radio="true" tvg-chno="679" group-title="** CANADA RADIO **",840 CFSX
+https://nyc-edge1-entry1.leanstream-hd.com:2113/CFSXAM
+#EXTINF:-1 channel-id="9" radio="true" tvg-chno="680" group-title="** CANADA RADIO **",97.7 Outlaw Radio FM
+http://stream.radiojar.com/t4vut7ce8yzuv
+#EXTINF:-1 channel-id="10" radio="true" tvg-chno="681" group-title="** CANADA RADIO **",98,5 Montréal (CHMP-FM)
+https://985-lh.akamaihd.net/i/studioaudio_1@393647/master.m3u8
+#EXTINF:-1 channel-id="11" radio="true" tvg-logo="https://media.socastsrm.com/uploads/station/1859/home_screen_logo-5faed59b67d60.png" tvg-chno="682" group-title="** CANADA RADIO **",98.5 CKWR Real Community Radio
+https://s7.myradiostream.com:59221/listen.mp3
+#EXTINF:-1 channel-id="12" radio="true" tvg-chno="683" group-title="** CANADA RADIO **",A-Bomb Radio
+https://maggie.torontocast.com:8060/stream
+#EXTINF:-1 channel-id="13" radio="true" tvg-logo="http://a9radio.com/wp-content/uploads/2016/11/cropped-A9Logo-1200x12002-32x32.jpg" tvg-chno="684" group-title="** CANADA RADIO **",A9 Radio.com
+http://195.154.217.103:8175/stream
+#EXTINF:-1 channel-id="14" radio="true" tvg-logo="https://radio-addictive-50s.eu/images/logo175.jpg" tvg-chno="685" group-title="** CANADA RADIO **",Addictive-50's
+https://hazel.torontocast.com:3055/stream
+#EXTINF:-1 channel-id="15" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/jn3ryqkmfbgq.png" tvg-chno="686" group-title="** CANADA RADIO **",All Hit Remixes
+http://jenny.torontocast.com:8134/stream
+#EXTINF:-1 channel-id="16" radio="true" tvg-logo="http://alltimehitsradio.com/wp-content/uploads/2013/09/logo_web.png" tvg-chno="687" group-title="** CANADA RADIO **",All Time Hits Radio
+http://centova.radioservers.biz:2199/tunein/alltimehitsradio.pls
+#EXTINF:-1 channel-id="17" radio="true" tvg-chno="688" group-title="** CANADA RADIO **",Alt Rock Radio
+https://cjkpdb.com/radio/8000/desktop?1596291486
+#EXTINF:-1 channel-id="18" radio="true" tvg-chno="689" group-title="** CANADA RADIO **",AM 800 (CKLW, 800 kHz AM, Windsor, ON)
+http://20263.live.streamtheworld.com/CKLWAMAAC.aac
+#EXTINF:-1 channel-id="19" radio="true" tvg-chno="690" group-title="** CANADA RADIO **",Amazing Discoveries TV
+http://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w817917838.m3u8
+#EXTINF:-1 channel-id="20" radio="true" tvg-chno="691" group-title="** CANADA RADIO **",Ambient
+http://prem4.radiotunes.com/rtambient_hi?b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="21" radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/94/c6/36419/c175.png" tvg-chno="692" group-title="** CANADA RADIO **",American Roots
+https://igor.torontocast.com:1945/stream
+#EXTINF:-1 channel-id="22" radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ab/6b/6602/c300.png" tvg-chno="693" group-title="** CANADA RADIO **",Ancient FM
+https://mediaserv73.live-streams.nl:18058/stream
+#EXTINF:-1 channel-id="23" radio="true" tvg-chno="694" group-title="** CANADA RADIO **",Antenna VOX 80s
+http://servidor26.brlogic.com:7330/live?type=.mp3
+#EXTINF:-1 channel-id="24" radio="true" tvg-logo="http://beachbooster.com///uploads/favicon.png" tvg-chno="695" group-title="** CANADA RADIO **",Beach Booster Radio - Wasaga Beach, ON
+http://us3.streamingpulse.com:8082/stream
+#EXTINF:-1 channel-id="25" radio="true" tvg-logo="http://crucialvelocity.ca/BlownLogo.jpg" tvg-chno="696" group-title="** CANADA RADIO **",Blown
+http://crucialvelocity.ca/blown128.m3u
+#EXTINF:-1 channel-id="26" radio="true" tvg-chno="697" group-title="** CANADA RADIO **",Blues and Roots Radio
+https://streaming.radio.co/sf8db342c1/listen
+#EXTINF:-1 channel-id="27" radio="true" tvg-logo="https://d2f0ora2gkri0g.cloudfront.net/98/77/98774893-e154-474b-9170-3f93e8e9141e.png" tvg-chno="698" group-title="** CANADA RADIO **",Blues Music 4 Ever radio
+http://radio.streemlion.com:1240/stream
+#EXTINF:-1 channel-id="28" radio="true" tvg-chno="699" group-title="** CANADA RADIO **",BOB FM
+http://stream.zeno.fm/na2b1z0g9s8uv.m3u
+#EXTINF:-1 channel-id="29" radio="true" tvg-logo="http://boir.ca/wp-content/uploads/2015/04/boirprofile1-50x50.png" tvg-chno="700" group-title="** CANADA RADIO **",BOIR - Bay of Islands Radio - Corner Brook, NL
+http://142.4.217.133:8458/stream
+#EXTINF:-1 channel-id="30" radio="true" tvg-logo="http://www.bnn.ca//img/bnn/icons/apple-touch-icon.png" tvg-chno="701" group-title="** CANADA RADIO **",Business News Network Audio Channel
+http://provisioning.streamtheworld.com/pls/TV_BNNAAC.pls
+#EXTINF:-1 channel-id="31" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/135/5811f156-b3d6-4f94-8f42-866a1497e291.jpg" tvg-chno="702" group-title="** CANADA RADIO **",Calm Radio - Bach
+http://streams.calmradio.com:6828/stream
+#EXTINF:-1 channel-id="32" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/c6640d0b-f094-45fb-8de5-83a2af18557d.jpg" tvg-chno="703" group-title="** CANADA RADIO **",Calm Radio - Baroque
+http://streams.calmradio.com:3328/stream
+#EXTINF:-1 channel-id="33" radio="true" tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" tvg-chno="704" group-title="** CANADA RADIO **",Calm Radio - Blues
+http://streams.calmradio.com:3728/;
+#EXTINF:-1 channel-id="34" radio="true" tvg-logo="https://calmradio.com/templates/calmradio/favicons/favicon-32x32.png" tvg-chno="705" group-title="** CANADA RADIO **",Calm Radio - Brahms - Sampler
+http://streams.calmradio.com/api/287/128/stream/;
+#EXTINF:-1 channel-id="35" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/091/4a395ad3-b1c9-4579-8a0f-57ac57b04114.jpg" tvg-chno="706" group-title="** CANADA RADIO **",Calm Radio - Cello
+http://streams.calmradio.com:4628/stream
+#EXTINF:-1 channel-id="36" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/149/d50f2977-d576-46b7-bddd-c4a2292719fd.jpg" tvg-chno="707" group-title="** CANADA RADIO **",Calm Radio - Chamber Music
+http://streams.calmradio.com:7528/stream
+#EXTINF:-1 channel-id="37" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/057/7d602ddc-8dc6-4d9a-a229-0f21f0684961.jpg" tvg-chno="708" group-title="** CANADA RADIO **",Calm Radio - Chorale
+http://streams.calmradio.com:2928/stream
+#EXTINF:-1 channel-id="38" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/430/7f20f708-a347-438d-8c7a-cc80b6351bcc.jpg" tvg-chno="709" group-title="** CANADA RADIO **",Calm Radio - Cocktail Jazz
+http://streams.calmradio.com:21228/
+#EXTINF:-1 channel-id="39" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/203/673621af-cbc4-4e24-823c-b7f03ad59436.jpg" tvg-chno="710" group-title="** CANADA RADIO **",Calm Radio - Debussy
+http://streams.calmradio.com:10228/stream
+#EXTINF:-1 channel-id="40" radio="true" tvg-logo="https://static.radio.fr/images/broadcasts/c1/6a/35220/c175.png" tvg-chno="711" group-title="** CANADA RADIO **",Calm Radio - Early Baroque
+http://streams.calmradio.com:14328/stream/1/
+#EXTINF:-1 channel-id="41" radio="true" tvg-logo="https://calmradio.com/images/logo/Calm-LOGO%202015.png" tvg-chno="712" group-title="** CANADA RADIO **",Calm Radio - Flute
+http://streams.calmradio.com:4828/;
+#EXTINF:-1 channel-id="42" radio="true" tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" tvg-chno="713" group-title="** CANADA RADIO **",Calm Radio - Gregorian
+http://streams.calmradio.com/api/103/128/stream
+#EXTINF:-1 channel-id="43" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/165/b0d08a83-500c-4ab9-913d-bd1dffa6644c.jpg" tvg-chno="714" group-title="** CANADA RADIO **",Calm Radio - Johann Strauss II
+http://streams.calmradio.com:8328/stream
+#EXTINF:-1 channel-id="44" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/145/01d8b03a-b4d6-4d22-b305-3ff7f90173ac.jpg" tvg-chno="715" group-title="** CANADA RADIO **",Calm Radio - Mozart
+http://streams.calmradio.com:7328/stream
+#EXTINF:-1 channel-id="45" radio="true" tvg-logo="https://calmradio.com/templates/calmradio/favicons/favicon-32x32.png" tvg-chno="716" group-title="** CANADA RADIO **",Calm Radio - Oboe
+http://streams.calmradio.com:25028/stream/1/Calm%20Radio
+#EXTINF:-1 channel-id="46" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/357/b0fc1fd6-fa44-48c4-8460-41d0ca44bbfb.jpg" tvg-chno="717" group-title="** CANADA RADIO **",Calm Radio - Prokofiev
+http://streams.calmradio.com:16928/stream
+#EXTINF:-1 channel-id="47" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/257/4c8b91de-943d-42bb-97ef-9b52c16af324.jpg" tvg-chno="718" group-title="** CANADA RADIO **",Calm Radio - Puccini
+http://streams.calmradio.com:13028/stream
+#EXTINF:-1 channel-id="48" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/390/561ed2f8-0d29-46f5-8c12-16a90d607b42.jpg" tvg-chno="719" group-title="** CANADA RADIO **",Calm Radio - Richard Strauss
+http://streams.calmradio.com:19328/stream
+#EXTINF:-1 channel-id="49" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/163/c64ce924-4016-42ba-a196-de00b970cf3b.jpg" tvg-chno="720" group-title="** CANADA RADIO **",Calm Radio - Schubert
+http://streams.calmradio.com:8228/stream
+#EXTINF:-1 channel-id="50" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/035/f6534e60-10b5-4eee-a294-7119716144eb.png" tvg-chno="721" group-title="** CANADA RADIO **",Calm Radio - Solo Piano
+http://streams.calmradio.com:1228/
+#EXTINF:-1 channel-id="51" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/031/2e623ac6-2ff5-46a4-a831-f0e0b5e26762.jpg" tvg-chno="722" group-title="** CANADA RADIO **",Calm Radio - Symphony
+http://streams.calmradio.com:1028/stream
+#EXTINF:-1 channel-id="52" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/173/077e45d5-3af5-4922-8952-b0c6b59b078c.jpg" tvg-chno="723" group-title="** CANADA RADIO **",Calm Radio - Tchaikovsky
+http://streams.calmradio.com:8728/stream
+#EXTINF:-1 channel-id="53" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/089/1cc230bb-e917-4df5-84db-ee140040ffcb.jpg" tvg-chno="724" group-title="** CANADA RADIO **",Calm Radio - Violin
+http://streams.calmradio.com:4528/stream
+#EXTINF:-1 channel-id="54" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/177/7af296f2-813d-4a67-945e-b2478db0aef8.jpg" tvg-chno="725" group-title="** CANADA RADIO **",Calm Radio - Vivaldi
+http://streams.calmradio.com:8928/stream
+#EXTINF:-1 channel-id="55" radio="true" tvg-logo="https://arts.calmradio.com//Y2hhbm5lbF9wYWlyL2ltYWdl/000/000/000/000/000/227/f3a3d655-a249-4400-b3d4-27271e4eb1e6.jpg" tvg-chno="726" group-title="** CANADA RADIO **",Calm Radio - Wagner
+http://streams.calmradio.com:11428/stream
+#EXTINF:-1 channel-id="56" radio="true" tvg-chno="727" group-title="** CANADA RADIO **",Calm Radio-Opera
+http://streams.calmradio.com/api/59/128/stream
+#EXTINF:-1 channel-id="57" radio="true" tvg-logo="https://camoesradio.com/wp-content/uploads/2018/07/camoesradio-com-icon-300x300.png" tvg-chno="728" group-title="** CANADA RADIO **",CamoesRadio.com - Toronto, ON
+http://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3
+#EXTINF:-1 channel-id="58" radio="true" tvg-logo="https://ccradio.ca/wp-content/uploads/2019/11/logo-03.png" tvg-chno="729" group-title="** CANADA RADIO **",Canadian Chinese Radio
+http://streams.radiomast.io/76388412-6892-4387-bd53-80444383904f
+#EXTINF:-1 channel-id="59" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Canal_M_logo.svg/962px-Canal_M_logo.svg.png" tvg-chno="730" group-title="** CANADA RADIO **",Canal M
+http://s4.streammonster.com/tunein.php/ysenecha/playlist.pls
+#EXTINF:-1 channel-id="60" radio="true" tvg-chno="731" group-title="** CANADA RADIO **",Capital Rock Abitivi
+http://cogecomedia.leanstream.co/CJGOFM-MP3
+#EXTINF:-1 channel-id="61" radio="true" tvg-logo="https://i.cbc.ca/1.4481543.1557930358%21/fileImage/httpImage/cbc-music-logo.jpg" tvg-chno="732" group-title="** CANADA RADIO **",CBC Music Eastern (formerly CBC Radio 2 Toronto)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor
+#EXTINF:-1 channel-id="62" radio="true" tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" tvg-chno="733" group-title="** CANADA RADIO **",CBC Music Edmonton
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8
+#EXTINF:-1 channel-id="63" radio="true" tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" tvg-chno="734" group-title="** CANADA RADIO **",CBC Music Halifax
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
+#EXTINF:-1 channel-id="64" radio="true" tvg-logo="http://www.cbc.ca/mediacentre/content/images/CBC_Music_press_release.jpg" tvg-chno="735" group-title="** CANADA RADIO **",CBC Music Pacific (Vancouver, BC, CBU-FM, 105.7 MHz, formerly CBC Radio 2)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr
+#EXTINF:-1 channel-id="65" radio="true" tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" tvg-chno="736" group-title="** CANADA RADIO **",CBC Music Toronto
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:-1 channel-id="66" radio="true" tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" tvg-chno="737" group-title="** CANADA RADIO **",CBC Music Vancouver
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
+#EXTINF:-1 channel-id="67" radio="true" tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" tvg-chno="738" group-title="** CANADA RADIO **",CBC Music Winnipeg
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8
+#EXTINF:-1 channel-id="68" radio="true" tvg-chno="739" group-title="** CANADA RADIO **",CBC Québec
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu
+#EXTINF:-1 channel-id="69" radio="true" tvg-chno="740" group-title="** CANADA RADIO **",CBC Radio 1 (Sudbury)
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8
+#EXTINF:-1 channel-id="70" radio="true" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581433263108-cbc-radio-one.png" tvg-chno="741" group-title="** CANADA RADIO **",CBC Radio 1 (Winnipeg
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WPG@384111/master.m3u8
+#EXTINF:-1 channel-id="71" radio="true" tvg-chno="742" group-title="** CANADA RADIO **",CBC Radio 1 Edmonton AB
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8
+#EXTINF:-1 channel-id="72" radio="true" tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" tvg-chno="743" group-title="** CANADA RADIO **",CBC Radio 1 Kelowna (CBTK-FM, 88.9 MHz)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_kel
+#EXTINF:-1 channel-id="73" radio="true" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" tvg-chno="744" group-title="** CANADA RADIO **",CBC Radio 1 Moncton NB
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8
+#EXTINF:-1 channel-id="74" radio="true" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" tvg-chno="745" group-title="** CANADA RADIO **",CBC Radio 1 Ottawa
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:-1 channel-id="75" radio="true" tvg-logo="https://images.radiovolna.net/_files/uploads/posts/2016-06/0236978a951bd7a34d675c2f68e44911.png" tvg-chno="746" group-title="** CANADA RADIO **",CBC Radio 1 Vancouver (88.1 FM, 690 AM)
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8
+#EXTINF:-1 channel-id="76" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Cbc_radio_one_paris.svg/640px-Cbc_radio_one_paris.svg.png" tvg-chno="747" group-title="** CANADA RADIO **",CBC Radio One Kitchener-Waterloo (CBLA-FM-2 89.1)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ekw
+#EXTINF:-1 channel-id="77" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Cbc_radio_one_windsor.svg/1024px-Cbc_radio_one_windsor.svg.png" tvg-chno="748" group-title="** CANADA RADIO **",CBC Radio One Windsor (CBEW-FM, 97.5 MHz FM, Windsor, ON)
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WDR@324611/master.m3u8
+#EXTINF:-1 channel-id="78" radio="true" tvg-logo="http://images.cbcmusic.ca/v1/cbc-music/programs/1x1/default-share.png" tvg-chno="749" group-title="** CANADA RADIO **",CBC Raio 1 Montreal
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8
+#EXTINF:-1 channel-id="79" radio="true" tvg-chno="750" group-title="** CANADA RADIO **",CBC Toronto (updated)
+http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:-1 channel-id="80" radio="true" tvg-logo="https://www.icimusique.ca//Content/_images/icon/ici-musique/asset-icon-apple-touch-60.png" tvg-chno="751" group-title="** CANADA RADIO **",CBUX-FM Ici Musique Vancouver
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/adaptive_128/chunklist.m3u8
+#EXTINF:-1 channel-id="81" radio="true" tvg-logo="http://www.celticsongstressradio.torontocast.stream/images/CelticSongstressRadioLogo.png" tvg-chno="752" group-title="** CANADA RADIO **",Celtic Songstress Radio
+http://hazel.torontocast.com:2920/;
+#EXTINF:-1 channel-id="82" radio="true" tvg-chno="753" group-title="** CANADA RADIO **",CFAC "Sportsnet 960" Calgary, AB
+https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1 channel-id="83" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/CFAK_88.3FM_logo.png" tvg-chno="754" group-title="** CANADA RADIO **",CFAK 88.3 Universite de Sherbrooke, QC
+http://streamer01.sti.usherbrooke.ca:8000/cfak.mp3
+#EXTINF:-1 channel-id="84" radio="true" tvg-logo="http://993theriver.com/wp-content/uploads/sites/19/2017/07/CFAN_LOGO.png" tvg-chno="755" group-title="** CANADA RADIO **",CFAN "99.3 The River" Miramichi, NB
+http://mbsradio.leanstream.co/CFANFM-MP3
+#EXTINF:-1 channel-id="85" radio="true" tvg-logo="http://flinflononline.com/images/fb_icon.jpg" tvg-chno="756" group-title="** CANADA RADIO **",CFAR 102.9 - Flin Flon, MB
+http://173.193.205.96:7088/stream
+#EXTINF:-1 channel-id="86" radio="true" tvg-chno="757" group-title="** CANADA RADIO **",CFAX 1070 (Victoria, BC)
+http://provisioning.streamtheworld.com/pls/CFAXAMAAC.pls
+#EXTINF:-1 channel-id="87" radio="true" tvg-logo="http://www.mymuskokanow.com/wp-content/themes/presso-child/vista/_img/station/CFBG.png" tvg-chno="758" group-title="** CANADA RADIO **",CFBG 99.5 "Moose FM" Bracebridge, ON
+http://s1.hotdogradio.com/CFBG
+#EXTINF:-1 channel-id="88" radio="true" tvg-logo="http://www.mymuskokanow.com/wp-content/themes/presso-child/vista/_img/station/CFBK.png" tvg-chno="759" group-title="** CANADA RADIO **",CFBK 105.5 "Moose FM" Huntsville, ON
+http://s1.hotdogradio.com/CFBK
+#EXTINF:-1 channel-id="89" radio="true" tvg-chno="760" group-title="** CANADA RADIO **",CFBU 103.7 Brock University, St. Catharines, ON
+http://www.cfbu.ca/listen.m3u
+#EXTINF:-1 channel-id="90" radio="true" tvg-logo="http://www.mybulkleylakesnow.com/wp-content/themes/presso-child/vista/_img/station/CFBV.png" tvg-chno="761" group-title="** CANADA RADIO **",CFBV 870 "The Moose" Smithers, BC
+http://s1.hotdogradio.com/CFBV
+#EXTINF:-1 channel-id="91" radio="true" tvg-chno="762" group-title="** CANADA RADIO **",CFBW "BWR 91.3" Hanover, ON
+http://s41.myradiostream.com:29922/listen.mp3
+#EXTINF:-1 channel-id="92" radio="true" tvg-chno="763" group-title="** CANADA RADIO **",CFBX 92.5 "The X" Thompson Rivers University - Kamloops, BC
+http://198.162.21.84:8002/;
+#EXTINF:-1 channel-id="93" radio="true" tvg-logo="http://newcap.leanplayer.com/assets/uploads/CFCBAM/logo.png" tvg-chno="764" group-title="** CANADA RADIO **",CFCB 570 Corner Brook, NL
+http://newcap.leanstream.co/CFCBAM
+#EXTINF:-1 channel-id="94" radio="true" tvg-logo="http://country929.com/files/2016/02/929.jpg" tvg-chno="765" group-title="** CANADA RADIO **",CFCO "Country 92.9 & 630" - Chatham, ON
+http://live.leanstream.co/CFCOFM
+#EXTINF:-1 channel-id="95" radio="true" tvg-logo="http://www.mycomoxvalleynow.com/wp-content/themes/presso-child/vista/_img/station/CFCP.png" tvg-chno="766" group-title="** CANADA RADIO **",CFCP "98.9 The Goat" Courtenay, BC
+http://s1.hotdogradio.com/CFCP
+#EXTINF:-1 channel-id="96" radio="true" tvg-chno="767" group-title="** CANADA RADIO **",CFCW  "840 CFCW" Edmonton / Camrose AB
+http://newcap.leanstream.co/CFCWAM
+#EXTINF:-1 channel-id="97" radio="true" tvg-logo="http://newcountry981.ca/wp-content/uploads/2017/11/New-Country-Hero-Logo-1.png" tvg-chno="768" group-title="** CANADA RADIO **",CFCW "New Country 98.1" Camrose, AB
+http://newcap.leanstream.co/CFCWFM
+#EXTINF:-1 channel-id="98" radio="true" tvg-logo="http://cfcy.fm/wp-content/uploads/sites/5/2016/08/CFCY-2.png" tvg-chno="769" group-title="** CANADA RADIO **",CFCY 95.1 Charlottetown, PE
+http://mbsradio.leanstream.co/CFCYFM-MP3
+#EXTINF:-1 channel-id="99" radio="true" tvg-chno="770" group-title="** CANADA RADIO **",CFEL 102.1 "BLVD FM"  Levis, QC
+http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3
+#EXTINF:-1 channel-id="100" radio="true" tvg-logo="http://www.seasidefm.com/wp-content/uploads/2017/11/seasidelittle.png" tvg-chno="771" group-title="** CANADA RADIO **",CFEP 105.9 "Seaside FM" - Eastern Passage, NS
+http://cassini.shoutca.st:8215/stream
+#EXTINF:-1 channel-id="101" radio="true" tvg-logo="http://media.socastsrm.com/uploads/station/286/home_screen_logo-569ff379f185e.jpg" tvg-chno="772" group-title="** CANADA RADIO **",CFEX "X 92.9" Calgary, AB
+http://cfex.streamon.fm/stream/CFEX-64k.aac
+#EXTINF:-1 channel-id="102" radio="true" tvg-chno="773" group-title="** CANADA RADIO **",CFFB CBC Radio One Iqaluit
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_iqa
+#EXTINF:-1 channel-id="103" radio="true" tvg-chno="774" group-title="** CANADA RADIO **",CFFF 92.7 Trent Radio Peterborough, ON
+http://trentradio.ca:8800/hi-fi.m3u
+#EXTINF:-1 channel-id="104" radio="true" tvg-logo="http://www.mycariboonow.com/wp-content/themes/presso-child/vista/_img/station/CFFM.png" tvg-chno="775" group-title="** CANADA RADIO **",CFFM 94.9 "The Goat" Williams Lake, BC
+http://s1.hotdogradio.com/CFFM
+#EXTINF:-1 channel-id="105" radio="true" tvg-chno="776" group-title="** CANADA RADIO **",CFFR "660 News" Calgary, AB
+https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
+#EXTINF:-1 channel-id="106" radio="true" tvg-chno="777" group-title="** CANADA RADIO **",CFGE "Rythme Estrie 93.7 & 98.1" Sherbrooke, QC
+http://rythmeest-lh.akamaihd.net/i/studioaudio_1@393684/master.m3u8
+#EXTINF:-1 channel-id="107" radio="true" tvg-chno="778" group-title="** CANADA RADIO **",CFGL "Rythme Montreal 105.7" Laval, QC
+http://rythmemtl-lh.akamaihd.net/i/studioaudio_1@393689/master.m3u8
+#EXTINF:-1 channel-id="108" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1325749918259159040/Qx6dC5QJ_400x400.jpg" tvg-chno="779" group-title="** CANADA RADIO **",CFGLFM 105.7 RythmeFM Laval
+https://cogecomedia.leanstream.co/CFGLFM-MP3
+#EXTINF:-1 channel-id="109" radio="true" tvg-chno="780" group-title="** CANADA RADIO **",CFGO "TSN 1200" Ottawa, ON
+http://provisioning.streamtheworld.com/pls/CFGOAMAAC.pls
+#EXTINF:-1 channel-id="110" radio="true" tvg-logo="https://www.977rock.ca/wp-content/uploads/sites/38/2016/08/cropped-977_ROCK_logo-270x270.png" tvg-chno="781" group-title="** CANADA RADIO **",CFGP "97.7 Rock" Grande Prairie, AB
+https://rogers-hls.leanstream.co/rogers/gra977.stream/playlist.m3u8
+#EXTINF:-1 channel-id="111" radio="true" tvg-chno="782" group-title="** CANADA RADIO **",CFGQ 107.3 "Q107" Calgary, AB
+http://live.leanstream.co/CFGQFM-MP3
+#EXTINF:-1 channel-id="112" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Planete1045.jpg" tvg-chno="783" group-title="** CANADA RADIO **",CFGT Planète 104,5 Alma
+https://cogecomedia.leanstream.co/CFGTFM-MP3
+#EXTINF:-1 channel-id="113" radio="true" tvg-chno="784" group-title="** CANADA RADIO **",CFGW 94.1 "Fox FM" Yorkton, SK
+http://cfgw.streamon.fm/stream/CFGW-64k.aac
+#EXTINF:-1 channel-id="114" radio="true" tvg-logo="http://foxfm.com/files/2013/06/fox-favicon.png" tvg-chno="785" group-title="** CANADA RADIO **",CFGX 99.9 Sarnia, ON
+http://live.leanstream.co/CFGXFM
+#EXTINF:-1 channel-id="115" radio="true" tvg-logo="https://media.socastsrm.com/uploads/station/1970/home_screen_logo-5c9a3ee795ef3.png" tvg-chno="786" group-title="** CANADA RADIO **",CFHI "Boom 104.9" Hinton, AB
+https://newcap.leanstream.co/CFHIFM
+#EXTINF:-1 channel-id="116" radio="true" tvg-chno="787" group-title="** CANADA RADIO **",CFHK 103.1 "Fresh Radio" St. Thomas, ON
+http://live.leanstream.co/CFHKFM-MP3?args=web_02
+#EXTINF:-1 channel-id="117" radio="true" tvg-logo="http://www.radio-acton.com/1037/wp-content/uploads/2015/09/cropped-logo-radio-acton-dégradé_petit-300x300.jpg" tvg-chno="788" group-title="** CANADA RADIO **",CFID 103.7 "Radio Acton" Acton Vale, QC
+http://stream02.ustream.ca:8000/cfid128.mp3
+#EXTINF:-1 channel-id="118" radio="true" tvg-logo="http://cfim.ca/wp-content/uploads/2017/11/logo-cfim-site-2017-No%C3%ABl-branche3.png" tvg-chno="789" group-title="** CANADA RADIO **",CFIM 92.7 Cap-Aux-Meules, QC
+http://stream02.ustream.ca:8000/cfim128.mp3
+#EXTINF:-1 channel-id="119" radio="true" tvg-logo="http://passion-fm.com/img/layout/logo-passionfm.jpg" tvg-chno="790" group-title="** CANADA RADIO **",CFIN 100.5 "Passion FM" Lac-Etchemin, QC
+http://streaming.cloudmjs.com:8002/cfin.mp3
+#EXTINF:-1 channel-id="120" radio="true" tvg-logo="http://hot1005fm.com/wp-content/uploads/Hot100_WebLogo.png" tvg-chno="791" group-title="** CANADA RADIO **",CFJL "Hot 100.5" Winnipeg, MB
+http://ice41.securenetsystems.net/CFJL
+#EXTINF:-1 channel-id="121" radio="true" tvg-logo="http://www.o973.ca/Images/ico-101.5.png" tvg-chno="792" group-title="** CANADA RADIO **",CFJO "O 97.3" Thetford MInes, QC
+http://stream.statsradio.com:8012/stream
+#EXTINF:-1 channel-id="122" radio="true" tvg-logo="http://www.cfjufm.com//sites/default/files/favicons/mstile-144x144.png" tvg-chno="793" group-title="** CANADA RADIO **",CFJU 90.1 "Route 17" Kedgewick, NB
+http://stream2.statsradio.com:8040/stream
+#EXTINF:-1 channel-id="123" radio="true" tvg-chno="794" group-title="** CANADA RADIO **",CFLG 104.5 "Fresh Radio" Cornwall, ON
+http://live.leanstream.co/CFLGFM-MP3
+#EXTINF:-1 channel-id="124" radio="true" tvg-logo="http://www.fm971.ca/wp-content/uploads/2015/09/cropped-FM-32x32.png" tvg-chno="795" group-title="** CANADA RADIO **",CFLM 97.1 La Tuque, QC
+http://stream.statsradio.com:8018/stream
+#EXTINF:-1 channel-id="125" radio="true" tvg-logo="http://www.bigland.fm/images/logo.jpg" tvg-chno="796" group-title="** CANADA RADIO **",CFLN 97.9 "Big Land - Labrador's FM" Happy Valley-Goose Bay, NL
+http://newcap.leanstream.co/CFLNFM
+#EXTINF:-1 channel-id="126" radio="true" tvg-logo="https://www.jack929.com/wp-content/uploads/sites/20/2017/04/logo-jack929.png" tvg-chno="797" group-title="** CANADA RADIO **",CFLT "Jack 92.9" Dartmouth, NS
+https://rogers-hls.leanstream.co/rogers/hal929.stream/playlist.m3u8
+#EXTINF:-1 channel-id="127" radio="true" tvg-logo="https://cfmbradio.com//wp-content/uploads/2016/04/favicon.png" tvg-chno="798" group-title="** CANADA RADIO **",CFMB 1280 "Multilingue" Montreal, QC
+http://ice41.securenetsystems.net/CFMB
+#EXTINF:-1 channel-id="128" radio="true" tvg-chno="799" group-title="** CANADA RADIO **",CFMC 95.1 "C95" Saskatoon, SK  -AAC
+http://rawlco.leanstream.co/CFMCFM
+#EXTINF:-1 channel-id="129" radio="true" tvg-chno="800" group-title="** CANADA RADIO **",CFMC 95.1 "C95" Saskatoon, SK -MP3
+http://rawlco.leanstream.co/CFMCFM-MP3
+#EXTINF:-1 channel-id="130" radio="true" tvg-logo="https://cfmf.rocks/wp-content/uploads/2016/11/favicon.png" tvg-chno="801" group-title="** CANADA RADIO **",CFMF 103.1 Fermont, QC
+http://stream.statsradio.com:8068/stream
+#EXTINF:-1 channel-id="131" radio="true" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/4/1/5/7/4157832/4157832_local_online_badge_1285164021,192x192,r:1.jpg" tvg-chno="802" group-title="** CANADA RADIO **",CFMH "Local 107.3" Saint John, NB
+http://cfmh-listen.unbsj.ca:8000/;.mp3
+#EXTINF:-1 channel-id="132" radio="true" tvg-chno="803" group-title="** CANADA RADIO **",CFMI 101.1 "Rock 101" New Westminster, BC
+http://live.leanstream.co/CFMIFM-MP3
+#EXTINF:-1 channel-id="133" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s31152/images/logoq.png" tvg-chno="804" group-title="** CANADA RADIO **",CFMJ
+https://live.leanstream.co/CFMJAM-MP3?type=.mp3&playertype=dplayer
+#EXTINF:-1 channel-id="134" radio="true" tvg-chno="805" group-title="** CANADA RADIO **",CFMJ "Talk Radio 640" Toronto, ON
+http://live.leanstream.co/CFMJAM-MP3
+#EXTINF:-1 channel-id="135" radio="true" tvg-chno="806" group-title="** CANADA RADIO **",CFMK "Big 96.3" Kingston, ON
+http://live.leanstream.co/CFMKFM-MP3
+#EXTINF:-1 channel-id="136" radio="true" tvg-logo="https://commons.bcit.ca/evolution1079/wp-content/themes/evolution/images/evo_logo.png" tvg-chno="807" group-title="** CANADA RADIO **",CFML "Evolution 107.9" Burnaby, BC
+http://cfml.streamon.fm:8000/CFML-64k.aac
+#EXTINF:-1 channel-id="137" radio="true" tvg-chno="808" group-title="** CANADA RADIO **",CFMP "Oldies 107.7" Arnprior, ON
+http://ice64.securenetsystems.net/CHMYF1
+#EXTINF:-1 channel-id="138" radio="true" tvg-logo="https://static.wixstatic.com/media/3db9f8_f28c819fe95e4303b62ae35cdf9685d9~mv2.png/v1/fill/w_374,h_190,al_c,usm_0.66_1.00_0.01/3db9f8_f28c819fe95e4303b62ae35cdf9685d9~mv2.png" tvg-chno="809" group-title="** CANADA RADIO **",CFMS 105.9 "The Region" Markham, ON
+http://s9.voscast.com:8708/stream
+#EXTINF:-1 channel-id="139" radio="true" tvg-logo="http://bleufm.navigue2.com/wp-content/uploads/2015/11/logo_bleu_96_3.png" tvg-chno="810" group-title="** CANADA RADIO **",CFMV 96.3 "Bleu FM" Chandler, QC
+http://xltrax.com:8100/;
+#EXTINF:-1 channel-id="140" radio="true" tvg-logo="https://www.mylakelandnow.com/wp-content/themes/presso-child/vista/_img/station/CFNA.png" tvg-chno="811" group-title="** CANADA RADIO **",CFNA 99.7 "Country 99" Bonnyville, AB
+http://listenlive.vistaradio.ca/CFNA
+#EXTINF:-1 channel-id="141" radio="true" tvg-chno="812" group-title="** CANADA RADIO **",CFNJ
+http://cfnjzp.mine.nu:9700/listen.pls
+#EXTINF:-1 channel-id="142" radio="true" tvg-logo="http://cfnj.net/cfnjlive.jpg" tvg-chno="813" group-title="** CANADA RADIO **",CFNJ 99,1 Saint-Gabriel-de-Brandon, QC
+http://66.70.178.194:9700/stream
+#EXTINF:-1 channel-id="143" radio="true" tvg-logo="http://cfnj.net/cfnjlive.jpg" tvg-chno="814" group-title="** CANADA RADIO **",CFNJ 99.1 Saint-Gabriel-de-Brandon, QC
+http://cfnjzp.mine.nu:9700/
+#EXTINF:-1 channel-id="144" radio="true" tvg-logo="http://www.cfno.fm/universal/CFNO2009.jpg" tvg-chno="815" group-title="** CANADA RADIO **",CFNO 93.1 Marathon, ON
+http://cfno.streamon.fm:8000/CFNO-32k.aac
+#EXTINF:-1 channel-id="145" radio="true" tvg-logo="http://cfnrfm.ca/wp-content/uploads/2014/04/default4.jpg" tvg-chno="816" group-title="** CANADA RADIO **",CFNR 92.1 Terrace, BC
+http://nnb.leanstream.co/CFNRFM
+#EXTINF:-1 channel-id="146" radio="true" tvg-chno="817" group-title="** CANADA RADIO **",CFNY 102.1 "The Edge" Toronto, ON (MP3)
+http://live.leanstream.co/CFNYFM-MP3
+#EXTINF:-1 channel-id="147" radio="true" tvg-chno="818" group-title="** CANADA RADIO **",CFNY 102.1 Toronto, ON (AAC+)
+http://live.leanstream.co/CFNYFM
+#EXTINF:-1 channel-id="148" radio="true" tvg-logo="http://www.931theborder.ca/sites/all/themes/theborder/logo.png" tvg-chno="819" group-title="** CANADA RADIO **",CFOB "93.1 The Border" Fort Frances, ON
+http://cfob.streamon.fm:8000/CFOB-48k.aac
+#EXTINF:-1 channel-id="149" radio="true" tvg-chno="820" group-title="** CANADA RADIO **",CFOI-FM
+http://cfoi.sermon.net/20591220/controller/link/action/playhls/type/live/id/100500/.m3u8
+#EXTINF:-1 channel-id="150" radio="true" tvg-chno="821" group-title="** CANADA RADIO **",CFOM "M FM 102.9" Quebec City, QC
+http://mfm-lh.akamaihd.net/i/studioaudio_1@393667/master.m3u8
+#EXTINF:-1 channel-id="151" radio="true" tvg-logo="http://www.560cfos.ca/images/siteimages/station_logo.png" tvg-chno="822" group-title="** CANADA RADIO **",CFOS 560 Owen Sound, ON
+http://bayshore.leanstream.co/CFOSAM
+#EXTINF:-1 channel-id="152" radio="true" tvg-chno="823" group-title="** CANADA RADIO **",CFOX 99.3 Vancouver, BC
+http://live.leanstream.co/CFOXFM-MP3
+#EXTINF:-1 channel-id="153" radio="true" tvg-chno="824" group-title="** CANADA RADIO **",CFPL-AM 980 London, ON
+http://live.leanstream.co/CFPLAM-MP3
+#EXTINF:-1 channel-id="154" radio="true" tvg-chno="825" group-title="** CANADA RADIO **",CFPL-FM 95.9 "FM96" London, ON
+http://live.leanstream.co/CFPLFM-MP3
+#EXTINF:-1 channel-id="155" radio="true" tvg-chno="826" group-title="** CANADA RADIO **",CFPS 97.9 "98 The Beach" Port Elgin, ON
+http://bayshore.leanstream.co/CFPSFM
+#EXTINF:-1 channel-id="156" radio="true" tvg-logo="http://www.mypowellrivernow.com/wp-content/themes/presso-child/vista/_img/station/CFPW.png" tvg-chno="827" group-title="** CANADA RADIO **",CFPW 95.7 Powell River, BC
+http://s1.hotdogradio.com/CFPW
+#EXTINF:-1 channel-id="157" radio="true" tvg-logo="http://www.energyfm.fm/images/EnergyLogo.png" tvg-chno="828" group-title="** CANADA RADIO **",CFQK 104.5 "Energy 103 & 104" Kaministiquia, ON
+http://cfqk.streamon.fm/stream/CFQK-32k.aac
+#EXTINF:-1 channel-id="158" radio="true" tvg-logo="http://1039maxfm.com/wp-content/uploads/sites/8/2016/08/logo.png" tvg-chno="829" group-title="** CANADA RADIO **",CFQM 103.9 "MAX FM" Moncton, NB
+http://mbsradio.leanstream.co/CFQMFM-MP3
+#EXTINF:-1 channel-id="159" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" tvg-chno="830" group-title="** CANADA RADIO **",CFRB News/Talk 1010 (Toronto, ON)
+http://provisioning.streamtheworld.com/pls/CFRBAMAAC.pls
+#EXTINF:-1 channel-id="160" radio="true" tvg-chno="831" group-title="** CANADA RADIO **",CFRC 101.9 Queen's University Kingston, ON
+http://audio.cfrc.ca:8000/;.mp3
+#EXTINF:-1 channel-id="161" radio="true" tvg-chno="832" group-title="** CANADA RADIO **",CFRH 88.1 & 106.7 Penetanguishene, ON
+http://stream2.statsradio.com:8030/stream
+#EXTINF:-1 channel-id="162" radio="true" tvg-logo="http://www.mygrandeprairienow.com/wp-content/themes/presso-child/vista/_img/station/CFRI.png" tvg-chno="833" group-title="** CANADA RADIO **",CFRI 104.7 "2Day FM" Grande Prairie
+http://s1.hotdogradio.com/CFRI
+#EXTINF:-1 channel-id="163" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1453/files/2017/10/nc923hero_logo_v003.png" tvg-chno="834" group-title="** CANADA RADIO **",CFRK "New Country 92.3" Fredericton, NB
+http://newcap.leanstream.co/CFRKFM
+#EXTINF:-1 channel-id="164" radio="true" tvg-logo="http://glow100.com/wp-content/uploads/2017/08/Logo-e1504036600693.png" tvg-chno="835" group-title="** CANADA RADIO **",CFRM 100.7 "Glow 100" LIttle Current, ON
+http://142.4.217.133:8847/
+#EXTINF:-1 channel-id="165" radio="true" tvg-logo="http://coopradio.org/sites/default/files/coop_logo_facebook.png" tvg-chno="836" group-title="** CANADA RADIO **",CFRO Vancouver Cooperative Radio
+https://listen-coopradio.sharp-stream.com/coopradio.mp3
+#EXTINF:-1 channel-id="166" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/891/files/2017/05/148_primary_image.png" tvg-chno="837" group-title="** CANADA RADIO **",CFRQ 104.3 "Q104" Halifax,NS
+http://newcap.leanstream.co/CFRQFM
+#EXTINF:-1 channel-id="167" radio="true" tvg-chno="838" group-title="** CANADA RADIO **",CFRW "TSN 1290" Winnipeg, MB
+http://provisioning.streamtheworld.com/pls/CFRWAMAAC.pls
+#EXTINF:-1 channel-id="168" radio="true" tvg-logo="http://www.mywestnipissingnow.com/wp-content/themes/presso-child/vista/_img/station/CFSF.png" tvg-chno="839" group-title="** CANADA RADIO **",CFSF 99.3 "Moose FM" Sturgeon Falls, ON
+http://s1.hotdogradio.com/CFSF
+#EXTINF:-1 channel-id="169" radio="true" tvg-logo="http://cftafm.com/site/wp-content/uploads/2013/07/LogoTrans.png" tvg-chno="840" group-title="** CANADA RADIO **",CFTA 107.9 Tantramar FM  Amherst, NS
+http://176.31.118.39:14808/;.mp3
+#EXTINF:-1 channel-id="170" radio="true" tvg-chno="841" group-title="** CANADA RADIO **",CFTE 1410 TSN Vancouver
+http://provisioning.streamtheworld.com/pls/CFTEAMAAC.pls
+#EXTINF:-1 channel-id="171" radio="true" tvg-logo="https://s3musictemplates.rncm.ca/cftx/logo-pop965-500px.png" tvg-chno="842" group-title="** CANADA RADIO **",CFTX "Pop 96.5" Gatineau, QC
+http://icecast-cftx.rncm.ca/cftx.mp3
+#EXTINF:-1 channel-id="172" radio="true" tvg-chno="843" group-title="** CANADA RADIO **",CFUR 88.7 FM (Prince George)
+http://142.207.50.9:8000/live.mp3
+#EXTINF:-1 channel-id="173" radio="true" tvg-logo="http://cfuv.uvic.ca/cms/wp-content/uploads/2014/01/CFUVLogo.jpg" tvg-chno="844" group-title="** CANADA RADIO **",CFUV 101.9 University of Victoria, BC
+http://cfuv.streamon.fm:8000/CFUV-64k.aac
+#EXTINF:-1 channel-id="174" radio="true" tvg-logo="http://www.peachcityradio.org/images/pcr.jpg" tvg-chno="845" group-title="** CANADA RADIO **",CFUZ 92.9 "Peach City Radio" Penticton, BC
+http://www.peachcityradio.org/stream/PeachCityRadioStream.pls
+#EXTINF:-1 channel-id="175" radio="true" tvg-chno="846" group-title="** CANADA RADIO **",CFVR "Mix 103.7" Fort McMurray, AB
+http://cfvr.streamon.fm/stream/CFVR-64k.aac
+#EXTINF:-1 channel-id="176" radio="true" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/285/home_screen_logo-56a1135ac4580.png" tvg-chno="847" group-title="** CANADA RADIO **",CFWD 96.3 "CRUZ FM" Saskatoon, SK
+http://cfwd.streamon.fm/stream/CFWD-64k.aac
+#EXTINF:-1 channel-id="177" radio="true" tvg-logo="http://a.gmstatic.net/cfwe/logo.png" tvg-chno="848" group-title="** CANADA RADIO **",CFWE 98.5 Edmonton, AB
+http://live.leanstream.co/CFWEFM
+#EXTINF:-1 channel-id="178" radio="true" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/288/home_screen_logo-56afbf945fdd5.jpg" tvg-chno="849" group-title="** CANADA RADIO **",CFWF 104.9 "The Wolf" Regina, SK
+http://cfwf.streamon.fm/stream/CFWF-64k.aac
+#EXTINF:-1 channel-id="179" radio="true" tvg-logo="https://static1.squarespace.com/static/58a510ccdb29d6a992d21dad/t/5a204514e2c48389be3411a7/1512064285987/small_transparent.png" tvg-chno="850" group-title="** CANADA RADIO **",CFWN "Northumberland 89.7" Cobourg, ON
+http://northumberland.serverroom.net:8850/;
+#EXTINF:-1 channel-id="180" radio="true" tvg-logo="http://realcountrywest.ca/wp-content/uploads/2017/06/SouthWest-RealCountry-1.png" tvg-chno="851" group-title="** CANADA RADIO **",CFXE 94.3 "Real Country West" Edson, AB
+http://newcap.leanstream.co/CFXEFM
+#EXTINF:-1 channel-id="181" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/903/files/2017/11/Move-Nov2017-HeroLogo600x300.png" tvg-chno="852" group-title="** CANADA RADIO **",CFXJ "93.5 The Move" Toronto, ON
+http://newcap.leanstream.co/CFXJFM
+#EXTINF:-1 channel-id="182" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1299/files/2017/07/xl103logo_422x300.png" tvg-chno="853" group-title="** CANADA RADIO **",CFXL 103.1 "XL103" Calgary, AB
+http://newcap.leanstream.co/CFXLFM-MP3
+#EXTINF:-1 channel-id="183" radio="true" tvg-chno="854" group-title="** CANADA RADIO **",CFXM 104.9 "M 105" Granby, QC
+http://provisioning.streamtheworld.com/pls/CFXMFMAAC.pls
+#EXTINF:-1 channel-id="184" radio="true" tvg-logo="http://www.mynorthbaynow.com/wp-content/themes/presso-child/vista/_img/station/CFXN.png" tvg-chno="855" group-title="** CANADA RADIO **",CFXN "106.3 Moose FM" North Bay, ON
+http://s1.hotdogradio.com/CFXN
+#EXTINF:-1 channel-id="185" radio="true" tvg-logo="http://radiocfxu.ca/wp-content/uploads/2015/01/1966683_10152286329678308_1876891234_n-320x320.jpg" tvg-chno="856" group-title="** CANADA RADIO **",CFXU 93.3 "The Fox" Antigonish, NS
+http://141.109.15.225:8000/;
+#EXTINF:-1 channel-id="186" radio="true" tvg-logo="http://boom967.com/wp-content/uploads/2017/06/BOOM_967.png" tvg-chno="857" group-title="** CANADA RADIO **",CFXW "Boom 96.7" Whitecourt, AB
+http://newcap.leanstream.co/CFXWFM
+#EXTINF:-1 channel-id="187" radio="true" tvg-logo="http://www.myhaliburtonnow.com/wp-content/themes/presso-child/vista/_img/station/CFZN.png" tvg-chno="858" group-title="** CANADA RADIO **",CFZN "93.5 The Moose" Haliburton, ON
+http://s1.hotdogradio.com/CFZN
+#EXTINF:-1 channel-id="188" radio="true" tvg-logo="http://www.1019fm.net/new/wp-content/uploads/2019/04/logo200.jpg" tvg-chno="859" group-title="** CANADA RADIO **",CHAI 101.9 Chateauguay, QC
+http://stream.statsradio.com:8078/stream
+#EXTINF:-1 channel-id="189" radio="true" tvg-chno="860" group-title="** CANADA RADIO **",CHAY 93.1 "Fresh Radio" Barrie, ON
+http://live.leanstream.co/CHAYFM-MP3
+#EXTINF:-1 channel-id="190" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/906/files/2017/05/boomlogo-White_Socast3.png" tvg-chno="861" group-title="** CANADA RADIO **",CHBM "Boom 97.3" Toronto, ON
+http://newcap.leanstream.co/CHBMFM
+#EXTINF:-1 channel-id="191" radio="true" tvg-logo="http://www.mybarrysbaynow.com/wp-content/themes/presso-child/vista/_img/station/CHBY.png" tvg-chno="862" group-title="** CANADA RADIO **",CHBY 106.5 "Moose FM" Barry's Bay, ON
+http://s1.hotdogradio.com/CHBY
+#EXTINF:-1 channel-id="192" radio="true" tvg-logo="http://cool100.ca/themes/site_themes/site/img/cool-thumbnail.jpg" tvg-chno="863" group-title="** CANADA RADIO **",CHCQ "Cool 100.1" Belleville, ON
+http://provisioning.streamtheworld.com/pls/COOLAAC.pls
+#EXTINF:-1 channel-id="193" radio="true" tvg-logo="http://www.chcr.org/images/chcr-logo.jpg" tvg-chno="864" group-title="** CANADA RADIO **",CHCR 102.9 KIllaloe, ON
+http://www.chcr.org/chcr.m3u
+#EXTINF:-1 channel-id="194" radio="true" tvg-logo="https://www.sonic1029.com/wp-content/uploads/sites/3/2016/03/cropped-sonic1029_favicon_2-270x270.png" tvg-chno="865" group-title="** CANADA RADIO **",CHDI "Sonic 102.9" Edmonton, AB
+http://rogers-hls.leanstream.co:8000/rogers/edm1029.stream/48k/playlist.m3u8
+#EXTINF:-1 channel-id="195" radio="true" tvg-chno="866" group-title="** CANADA RADIO **",CHDP - Radio Dilon Punjabi
+https://cp3.shoutcheap.com:18247/stream
+#EXTINF:-1 channel-id="196" radio="true" tvg-chno="867" group-title="** CANADA RADIO **",CHED 630 (Edmonton, AB)
+http://live.leanstream.co/CHEDAM
+#EXTINF:-1 channel-id="197" radio="true" tvg-chno="868" group-title="** CANADA RADIO **",CHEQ "O 101.5" Sainte-Marie, QC
+http://stream.statsradio.com:8016/stream
+#EXTINF:-1 channel-id="198" radio="true" tvg-logo="http://983maxfm.com/wp-content/uploads/sites/11/2018/05/new-max-98-logo-inverse.png" tvg-chno="869" group-title="** CANADA RADIO **",CHER 98.3 "MAX FM" Sydney, NS
+http://mbsradio.leanstream.co/CHERFM-MP3
+#EXTINF:-1 channel-id="199" radio="true" tvg-logo="https://static.wixstatic.com/media/dd31e6_23b129ebb50046a299120347141b26f7~mv2.jpg/v1/fill/w_189,h_153,al_c,q_80,usm_0.66_1.00_0.01/dd31e6_23b129ebb50046a299120347141b26f7~mv2.jpg" tvg-chno="870" group-title="** CANADA RADIO **",CHES 91.7 Erin Radio, ON
+http://streaming.radio.co/saa34f11f4/listen
+#EXTINF:-1 channel-id="200" radio="true" tvg-chno="871" group-title="** CANADA RADIO **",Chez 106
+https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8?listeningSessionID=5ec8c47d2e6bde0a_4711966_jhiwhcb8_ODguOTkuMTc3LjM2OjgwMDA!_00000005ceX&downloadSessionID=0&listenerid=3250c066c3f2cd3cd6dd4e7caab54f8b&awparams=companionAds%3Atrue
+#EXTINF:-1 channel-id="201" radio="true" tvg-chno="872" group-title="** CANADA RADIO **",CHFG 101.1 "Cree Radio" Chisasibi,QC
+https://ais-sa1.streamon.fm/7175_24k.aac/playlist.m3u8
+#EXTINF:-1 channel-id="202" radio="true" tvg-chno="873" group-title="** CANADA RADIO **",CHFI 98.1-Toronto
+https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8
+#EXTINF:-1 channel-id="203" radio="true" tvg-logo="https://www.959chfm.com/wp-content/uploads/sites/12/2017/12/chfm-logo.png" tvg-chno="874" group-title="** CANADA RADIO **",CHFM 95.9 Calgary, AB
+https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8
+#EXTINF:-1 channel-id="204" radio="true" tvg-chno="875" group-title="** CANADA RADIO **",CHFT "100.5 CRUZ FM" Fort McMurray, AB
+http://chft.streamon.fm/stream/CHFT-64k.aac
+#EXTINF:-1 channel-id="205" radio="true" tvg-logo="http://fx1019.ca/wp-content/uploads/sites/3/2016/07/FX_NOSwipe.png" tvg-chno="876" group-title="** CANADA RADIO **",CHFX "FX 101.9" Halifax, NS
+http://mbsradio.leanstream.co/CHFXFM-MP3
+#EXTINF:-1 channel-id="206" radio="true" tvg-logo="http://www.chga.fm/wp-content/uploads/2014/12/logo-chga-120.png" tvg-chno="877" group-title="** CANADA RADIO **",CHGA 97.3 Maniwaki, QC
+http://stream02.ustream.ca/chga128.mp3
+#EXTINF:-1 channel-id="207" radio="true" tvg-chno="878" group-title="** CANADA RADIO **",CHGB 97.7 "The Beach" Wasaga Beach, ON
+http://bayshore.leanstream.co/CHGBFM
+#EXTINF:-1 channel-id="208" radio="true" tvg-logo="http://www.mystratfordnow.com/wp-content/themes/presso-child/vista/_img/station/CHGK.png" tvg-chno="879" group-title="** CANADA RADIO **",CHGK 107.7 "2DayFM" Stratford, ON
+http://s1.hotdogradio.com/CHGK
+#EXTINF:-1 channel-id="209" radio="true" tvg-logo="http://chha1610am.ca/wp-content/themes/goodnews5/apple-touch-icon-precomposed.png" tvg-chno="880" group-title="** CANADA RADIO **",CHHA 1610 "Voces Latinas" Toronto, ON
+http://72.139.27.130:100/broadwave.mp3?src=1&rate=1
+#EXTINF:-1 channel-id="210" radio="true" tvg-logo="http://radio.959sunfm.com/assets/img/nologo.jpg" tvg-chno="881" group-title="** CANADA RADIO **",CHHI "95.9 Sun FM" Miramichi, NB
+http://newcap.leanstream.co/CHHIFM
+#EXTINF:-1 channel-id="211" radio="true" tvg-logo="http://www.1031fm.ca/Content/Images/img_partage.jpg" tvg-chno="882" group-title="** CANADA RADIO **",CHHO 103.1 "CH2o" Louiseville, QC
+http://www.ch2ofm.ca:85/broadwave.mp3
+#EXTINF:-1 channel-id="212" radio="true" tvg-logo="http://www.cnv.ca/images/CNV-MiniLogoEntete%20copy.png" tvg-chno="883" group-title="** CANADA RADIO **",Chil 365
+http://xlnetwork.info:9998/;stream/1
+#EXTINF:-1 channel-id="213" radio="true" tvg-chno="884" group-title="** CANADA RADIO **",Chillout Dreams
+https://listen.di.fm/premium_high/chilloutdreams.pls?listen_key=b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="214" radio="true" tvg-logo="https://www.chinradio.com/images/logo.png" tvg-chno="885" group-title="** CANADA RADIO **",CHIN-AM 1540 Toronto, ON
+http://ice7.securenetsystems.net/CHINAM
+#EXTINF:-1 channel-id="215" radio="true" tvg-logo="https://www.chinradio.com/images/logo.png" tvg-chno="886" group-title="** CANADA RADIO **",CHIN-FM 100.7 Toronto, ON
+http://ice7.securenetsystems.net/CHINFM
+#EXTINF:-1 channel-id="216" radio="true" tvg-chno="887" group-title="** CANADA RADIO **",CHIP 101.7 Fort Coulonge, QC
+http://stream02.ustream.ca/chip128.mp3
+#EXTINF:-1 channel-id="217" radio="true" tvg-logo="http://www.chir.com/chir_logo_2014.jpg" tvg-chno="888" group-title="** CANADA RADIO **",CHIR.com Greek Radio - Toronto, ON
+http://198.178.121.76:8007/stream
+#EXTINF:-1 channel-id="218" radio="true" tvg-chno="889" group-title="** CANADA RADIO **",CHKF "FM 94.7" Calgary, AB (correction)
+https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8
+#EXTINF:-1 channel-id="219" radio="true" tvg-chno="890" group-title="** CANADA RADIO **",CHKG "FM 96.1 Fairchild Radio" Vancouver, BC
+https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+#EXTINF:-1 channel-id="220" radio="true" tvg-logo="http://k106fm.com/files/2013/06/k106-favicon.png" tvg-chno="891" group-title="** CANADA RADIO **",CHKS "K-106.3" Sarnia, ON
+http://live.leanstream.co/CHKSFM
+#EXTINF:-1 channel-id="221" radio="true" tvg-chno="892" group-title="** CANADA RADIO **",CHKT AM1430 FairChild
+https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
+#EXTINF:-1 channel-id="222" radio="true" tvg-logo="http://www.kx947.fm/img/logo.jpg" tvg-chno="893" group-title="** CANADA RADIO **",CHKX "KX-94.7" Hamilton, ON
+http://provisioning.streamtheworld.com/pls/CHKXFMAAC.pls
+#EXTINF:-1 channel-id="223" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/868/files/2017/09/lg-splash-logo2.png" tvg-chno="894" group-title="** CANADA RADIO **",CHLG 104.3 "LG104" Vancouver, BC
+http://newcap.leanstream.co/CHLGFM
+#EXTINF:-1 channel-id="224" radio="true" tvg-logo="http://lake88.ca/wp-content/uploads/2012/07/lake88.png" tvg-chno="895" group-title="** CANADA RADIO **",CHLK "Lake 88.1"  Perth, ON
+http://provisioning.streamtheworld.com/pls/CHLKFMAAC.pls
+#EXTINF:-1 channel-id="225" radio="true" tvg-logo="http://q93.fm/wp-content/uploads/sites/6/2016/08/Q93_NewLogo-stroke.png" tvg-chno="896" group-title="** CANADA RADIO **",CHLQ 93.1 "Q93" Charlottetown, PE
+http://mbsradio.leanstream.co/CHLQFM-MP3
+#EXTINF:-1 channel-id="226" radio="true" tvg-logo="http://www.thebear931.com//ms-icon-144x144.png" tvg-chno="897" group-title="** CANADA RADIO **",CHLW 93.1 "The Bear" Barriere, BC
+https://ice10.securenetsystems.net/CHLW
+#EXTINF:-1 channel-id="227" radio="true" tvg-logo="https://s3musictemplates.rncm.ca/chlx/LogoWowChlx1000.png" tvg-chno="898" group-title="** CANADA RADIO **",CHLX "WOW 97.1 Gatineau, QC (AAC)
+http://icecast-chlx.rncm.ca/chlx.aac
+#EXTINF:-1 channel-id="228" radio="true" tvg-logo="https://s3musictemplates.rncm.ca/chlx/LogoWowChlx1000.png" tvg-chno="899" group-title="** CANADA RADIO **",CHLX "WOW 97.1 Gatineau, QC (MP3)
+http://icecast-chlx.rncm.ca/chlx.mp3
+#EXTINF:-1 channel-id="229" radio="true" tvg-chno="900" group-title="** CANADA RADIO **",CHLY 101.7 Vancouver Island University - Nanaimo, BC
+http://184.69.114.194:8000/stream.mp3
+#EXTINF:-1 channel-id="230" radio="true" tvg-chno="901" group-title="** CANADA RADIO **",CHME 94.9 "Rock Ma Vie" Les Escoumins, QC
+http://chme949.com:8670/;audio.mp3
+#EXTINF:-1 channel-id="231" radio="true" tvg-chno="902" group-title="** CANADA RADIO **",CHMJ 730 Vanvouver, BC
+http://live.leanstream.co/CHMJAM
+#EXTINF:-1 channel-id="232" radio="true" tvg-chno="903" group-title="** CANADA RADIO **",CHML 900 Hamilton, ON
+http://live.leanstream.co/CHMLAM-MP3
+#EXTINF:-1 channel-id="233" radio="true" tvg-logo="https://www.mountainfm.ca/wp-content/uploads/sites/31/2016/07/cropped-icon-270x270.png" tvg-chno="904" group-title="** CANADA RADIO **",CHMN 106.5 "Mountain FM" Canmore, AB
+https://rogers-hls.leanstream.co/rogers/can1065.stream/playlist.m3u8
+#EXTINF:-1 channel-id="234" radio="true" tvg-chno="905" group-title="** CANADA RADIO **",CHMP - 98.5FM Montréal
+http://cogecomedia.leanstream.co/CHMPFM-MP3
+#EXTINF:-1 channel-id="235" radio="true" tvg-chno="906" group-title="** CANADA RADIO **",CHMP-FM 98,5 MHz FM, Montréal
+http://985-lh.akamaihd.net/i/studioaudio_1@393647/master.m3u8
+#EXTINF:-1 channel-id="236" radio="true" tvg-logo="http://www.mybancroftnow.com/wp-content/themes/presso-child/vista/_img/station/CHMS.png" tvg-chno="907" group-title="** CANADA RADIO **",CHMS "97.7 Moose FM" Bancroft, ON
+http://s1.hotdogradio.com/CHMS
+#EXTINF:-1 channel-id="237" radio="true" tvg-logo="http://www.mytimminsnow.com/wp-content/themes/presso-child/vista/_img/station/CHMT.png" tvg-chno="908" group-title="** CANADA RADIO **",CHMT 93.1 "Moose FM" Timmins, ON
+http://s1.hotdogradio.com/CHMT
+#EXTINF:-1 channel-id="238" radio="true" tvg-chno="909" group-title="** CANADA RADIO **",CHMX "My 92.1" Regina. SK
+http://chmx.streamon.fm/stream/CHMX-64k.aac
+#EXTINF:-1 channel-id="239" radio="true" tvg-logo="https://img1.wsimg.com/isteam/ip/185eb3c7-aba9-4bbc-8068-bd00d0222e06/dcb34d58-260e-4d64-aaf9-5615319244ee.jpg" tvg-chno="910" group-title="** CANADA RADIO **",CHMZ 98.9 "Tuff City Radio" Tofino, BC
+http://stream.tuffcityradio.rocks/chmz
+#EXTINF:-1 channel-id="240" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1455/files/2017/10/119030_660355_Mainlogo.png" tvg-chno="911" group-title="** CANADA RADIO **",CHNI "Rock 88.9" Saint John, NB
+http://newcap.leanstream.co/CHNIFM
+#EXTINF:-1 channel-id="241" radio="true" tvg-logo="http://www.radionl.com/wp-content/uploads/sites/9/2015/08/site-logo-chnl.png" tvg-chno="912" group-title="** CANADA RADIO **",CHNL 610 "Radio NL" Kamloops, BC
+http://newcap.leanstream.co/CHNLAM
+#EXTINF:-1 channel-id="242" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1383/files/2017/08/REWIND-LOGO731-300.png" tvg-chno="913" group-title="** CANADA RADIO **",CHNO "Rewind 103.9"  Sudbury, ON
+http://newcap.leanstream.co/CHNOFM
+#EXTINF:-1 channel-id="243" radio="true" tvg-logo="http://899thewave.fm/wp-content/uploads/sites/4/2018/11/wave-facebook.jpg" tvg-chno="914" group-title="** CANADA RADIO **",CHNS 89.9 "The Wave" Halifax, NS
+http://mbsradio.leanstream.co/CHNSFM-MP3
+#EXTINF:-1 channel-id="244" radio="true" tvg-logo="http://www.mynelsonnow.com/wp-content/themes/presso-child/vista/_img/station/CHNV.png" tvg-chno="915" group-title="** CANADA RADIO **",CHNV 103.5 "Juice FM" Nelson, BC
+http://s1.hotdogradio.com/CHNV
+#EXTINF:-1 channel-id="245" radio="true" tvg-logo="https://www.fm921.ca/upload/design/5c9bbca66daff4.34114020.png" tvg-chno="916" group-title="** CANADA RADIO **",CHOD "FM 92.1 Cornwall, ON
+http://stream2.statsradio.com:8032/live
+#EXTINF:-1 channel-id="246" radio="true" tvg-logo="http://www.o953.ca/wp-content/themes/public/images/radio.png" tvg-chno="917" group-title="** CANADA RADIO **",CHOE "O 95.3" Matane, QC
+http://stream.statsradio.com:8026/stream
+#EXTINF:-1 channel-id="247" radio="true" tvg-logo="https://radiox.com//assets/images/favicons/ms-icon-144x144.png" tvg-chno="918" group-title="** CANADA RADIO **",CHOI 98.1 "Radio X" Quebec City, QC
+http://icecast-choi.rncm.ca/choi.mp3
+#EXTINF:-1 channel-id="248" radio="true" tvg-logo="https://radiox.com//assets/images/favicons/ms-icon-144x144.png" tvg-chno="919" group-title="** CANADA RADIO **",CHOI 98.1 "Radio X" Quebec City, QC
+http://icecast-choi.rncm.ca/choi.aac
+#EXTINF:-1 channel-id="249" radio="true" tvg-chno="920" group-title="** CANADA RADIO **",Choice Classic Rock
+https://streamer.radio.co/s66f2626b4/listen
+#EXTINF:-1 channel-id="250" radio="true" tvg-logo="http://chok.com/files/2013/06/chok-favicon.png" tvg-chno="921" group-title="** CANADA RADIO **",CHOK 1070 & 103.9 Sarnia, ON
+http://live.leanstream.co/CHOKAM
+#EXTINF:-1 channel-id="251" radio="true" tvg-chno="922" group-title="** CANADA RADIO **",CHON 98.1 Northern Native Broadcasting - Whitehorse, YT
+http://stream.nnby.ca:8042/stream
+#EXTINF:-1 channel-id="252" radio="true" tvg-logo="http://www.choq.ca/images/default_SEO.jpg" tvg-chno="923" group-title="** CANADA RADIO **",CHOQ Electro
+http://radio.servlinks.com:8350/choqelectro
+#EXTINF:-1 channel-id="253" radio="true" tvg-logo="http://www.choq.ca/images/default_SEO.jpg" tvg-chno="924" group-title="** CANADA RADIO **",CHOQ Franco
+http://radio.servlinks.com:8350/choqfranco
+#EXTINF:-1 channel-id="254" radio="true" tvg-logo="http://www.choq.ca/images/default_SEO.jpg" tvg-chno="925" group-title="** CANADA RADIO **",CHOQ HipHop
+http://radio.servlinks.com:8350/choqhiphop
+#EXTINF:-1 channel-id="255" radio="true" tvg-logo="http://www.choq.ca/images/default_SEO.jpg" tvg-chno="926" group-title="** CANADA RADIO **",CHOQ IndiePop
+http://radio.servlinks.com:8350/choqindiepop
+#EXTINF:-1 channel-id="256" radio="true" tvg-logo="http://www.choq.ca/images/default_SEO.jpg" tvg-chno="927" group-title="** CANADA RADIO **",CHOQ Rock
+http://radio.servlinks.com:8350/choqrock
+#EXTINF:-1 channel-id="257" radio="true" tvg-logo="http://choqfm.ca/wp-content/uploads/2016/05/choq-300x162.png" tvg-chno="928" group-title="** CANADA RADIO **",CHOQ-FM 105,1 Toronto, ON
+http://ice9.securenetsystems.net/CHOQ
+#EXTINF:-1 channel-id="258" radio="true" tvg-logo="http://www.radioboreale.com/wordpress/wp-content/uploads/2016/11/cropped-FaviconRB1053-192x192.png" tvg-chno="929" group-title="** CANADA RADIO **",CHOW 105.3 "Radio Boreale" Amos, QC
+http://stream.statsradio.com:8022/stream
+#EXTINF:-1 channel-id="259" radio="true" tvg-chno="930" group-title="** CANADA RADIO **",CHOX-FM
+http://stream.statsradio.com:8052/stream1576615837897
+#EXTINF:-1 channel-id="260" radio="true" tvg-logo="http://sites.mbsradio.com/choix99/wp-content/uploads/sites/16/2017/03/Choix.png" tvg-chno="931" group-title="** CANADA RADIO **",CHOY 99.9 "Choix FM" Moncton, NB
+http://mbsradio.leanstream.co/CHOYFM-MP3
+#EXTINF:-1 channel-id="261" radio="true" tvg-logo="http://www.mycochranenow.com/wp-content/themes/presso-child/vista/_img/station/CHPB.png" tvg-chno="932" group-title="** CANADA RADIO **",CHPB 98.1 "Moose FM" Cochrane, ON
+http://s1.hotdogradio.com/CHPB
+#EXTINF:-1 channel-id="262" radio="true" tvg-chno="933" group-title="** CANADA RADIO **",CHQR 770 (Calgary, AB)
+http://live.leanstream.co/CHQRAM
+#EXTINF:-1 channel-id="263" radio="true" tvg-logo="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" tvg-chno="934" group-title="** CANADA RADIO **",CHQR 770 Global News Radio - Calgary, AB
+https://live.leanstream.co/CHQRAM-MP3
+#EXTINF:-1 channel-id="264" radio="true" tvg-chno="935" group-title="** CANADA RADIO **",CHQT iNews 880 (Edmonton, AB)
+http://live.leanstream.co/CHQTAM
+#EXTINF:-1 channel-id="265" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/988/files/2017/10/159_primary_image.png" tvg-chno="936" group-title="** CANADA RADIO **",CHRK "Giant 101.9" Sydney, NS
+http://newcap.leanstream.co/CHRKFM
+#EXTINF:-1 channel-id="266" radio="true" tvg-logo="http://www.plaisir1053.com/wp-content/themes/public/images/logo.png" tvg-chno="937" group-title="** CANADA RADIO **",CHRM "Plaisir 105.3" Matane, QC
+http://stream.statsradio.com:8028/stream
+#EXTINF:-1 channel-id="267" radio="true" tvg-logo="http://www.radiohumsafar.com/wp-content/uploads/2016/10/logo_03.png" tvg-chno="938" group-title="** CANADA RADIO **",CHRN 1610 "Radio Humsafar" Montreal. QC
+http://ice2.securenetsystems.net/HUMSAFAR
+#EXTINF:-1 channel-id="268" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/41ddc629-2b86-431d-b3fd-8953e114fa1c.png" tvg-chno="939" group-title="** CANADA RADIO **",ChroniX Radio
+http://listen.radionomy.com/chronixradio-.m3u
+#EXTINF:-1 channel-id="269" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/68260adb-baa0-41e9-a372-6e6fbe472bd3.jpg" tvg-chno="940" group-title="** CANADA RADIO **",ChroniX Radio Aggression
+http://usa17.fastcast4u.com:5784/listen.pls
+#EXTINF:-1 channel-id="270" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/15d0c73e-221c-402e-9be4-b57af39f9d94.png" tvg-chno="941" group-title="** CANADA RADIO **",ChroniX Radio Metalcore
+http://usa17.fastcast4u.com:5508/listen.pls
+#EXTINF:-1 channel-id="271" radio="true" tvg-logo="https://chrwradio.ca/sites/all/themes/thirtyfour/logo-small.png" tvg-chno="942" group-title="** CANADA RADIO **",CHRW 94.9  "Radio Western" London, ON
+http://129.100.145.33:8000/stream
+#EXTINF:-1 channel-id="272" radio="true" tvg-logo="https://www.vibe105to.com/uploads/1/0/7/4/107458669/vibe105-main-png_1.png" tvg-chno="943" group-title="** CANADA RADIO **",CHRY "Vibe 105.5" York University Toronto, ON
+http://ice7.securenetsystems.net/CHRY
+#EXTINF:-1 channel-id="273" radio="true" tvg-logo="http://www.country94.ca/sites/all/themes/country94/logo.png" tvg-chno="944" group-title="** CANADA RADIO **",CHSJ "Country 94.1" Saint John, NB
+http://chsj.streamon.fm:8000/CHSJ-48k.aac
+#EXTINF:-1 channel-id="274" radio="true" tvg-logo="http://www.realcountrystpaul.ca/assets/img/ms-touch-icon-144x144-precomposed.png" tvg-chno="945" group-title="** CANADA RADIO **",CHSP "Real Country 97.7"  St. Paul, AB
+http://newcap.leanstream.co/CHSPFM
+#EXTINF:-1 channel-id="275" radio="true" tvg-chno="946" group-title="** CANADA RADIO **",CHSR-FM 97.9
+http://opml.radiotime.com/Tune.ashx?id=s24750
+#EXTINF:-1 channel-id="276" radio="true" tvg-logo="http://jewel1067.com/wp-content/uploads/logo-2.png" tvg-chno="947" group-title="** CANADA RADIO **",CHSV Jewel 106.7
+http://ice10.securenetsystems.net/CHSV
+#EXTINF:-1 channel-id="277" radio="true" tvg-logo="http://www.thetide.ca/sites/all/themes/thetide/logo.png" tvg-chno="948" group-title="** CANADA RADIO **",CHTD "The Tide 98.1"  - St. Stephen, NB
+http://chtd.streamon.fm:8000/CHTD-48k.aac
+#EXTINF:-1 channel-id="278" radio="true" tvg-logo="http://thompsononline.ca/images/fb_icon.jpg" tvg-chno="949" group-title="** CANADA RADIO **",CHTM 610 & 102.9 Thompson, MB
+http://173.193.205.96:7100/stream
+#EXTINF:-1 channel-id="279" radio="true" tvg-logo="http://media.socastsrm.com/uploads/station/760/home_screen_logo-592ef5c500309.jpg" tvg-chno="950" group-title="** CANADA RADIO **",CHTN 100.3 "Ocean 100" Charlottetown, PE
+http://newcap.leanstream.co/CHTNFM
+#EXTINF:-1 channel-id="280" radio="true" tvg-logo="http://am1690.ca/enhome/wp-content/uploads/2015/10/cropped-cropped-CHTOAM1690_Logo_306.png" tvg-chno="951" group-title="** CANADA RADIO **",CHTO 1690 AM Toronto, ON
+http://sc8.spacialnet.com:25868/;
+#EXTINF:-1 channel-id="281" radio="true" tvg-logo="https://www.kiss1031.ca/wp-content/uploads/sites/43/2016/04/cropped-kiss1031-512x512-270x270.png" tvg-chno="952" group-title="** CANADA RADIO **",CHTT "KISS 103.1" Victoria, BC
+https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
+#EXTINF:-1 channel-id="282" radio="true" tvg-logo="https://static.wixstatic.com/media/eac042_745e21371b03466080fd6b723fc874ad%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/eac042_745e21371b03466080fd6b723fc874ad%7Emv2.png" tvg-chno="953" group-title="** CANADA RADIO **",CHUC "Classic Rock 107.9" Cobourg, ON
+http://ice64.securenetsystems.net/CHUC
+#EXTINF:-1 channel-id="283" radio="true" tvg-chno="954" group-title="** CANADA RADIO **",CHUN-FM
+http://stream.zoneplus.ca:9954/
+#EXTINF:-1 channel-id="284" radio="true" tvg-logo="http://media.socastsrm.com/uploads/station/677/home_screen_logo-589213db253f9.jpg" tvg-chno="955" group-title="** CANADA RADIO **",CHUP "Soft Rock 97.7" Calgary, AB
+http://rawlco.leanstream.co/CHUPFM-MP3
+#EXTINF:-1 channel-id="285" radio="true" tvg-logo="http://www.kixxcountry.ca/assets/img/listenlive-1039-carbonear.png" tvg-chno="956" group-title="** CANADA RADIO **",CHVO 103.9 "KIXX Country" Carbonear, NL
+http://newcap.leanstream.co/CHVOFM
+#EXTINF:-1 channel-id="286" radio="true" tvg-logo="http://www.1049thebeach.ca/images/siteimages/station_logo.png" tvg-chno="957" group-title="** CANADA RADIO **",CHWC "104.9 The Beach" Goderich, ON
+http://bayshore.leanstream.co/CHWCFM
+#EXTINF:-1 channel-id="287" radio="true" tvg-chno="958" group-title="** CANADA RADIO **",CHWE 106.9 "Energy 106" Winnipeg, MB
+http://ice41.securenetsystems.net/CHWE
+#EXTINF:-1 channel-id="288" radio="true" tvg-logo="http://rock1009.ca/standalone/rock1009/assets/img/logo-rock1009.png" tvg-chno="959" group-title="** CANADA RADIO **",CHXX 100.9 "Rock 100.9" Donnaconna, QC
+http://icecast-chxx.rncm.ca/chxx.mp3
+#EXTINF:-1 channel-id="289" radio="true" tvg-logo="http://mix967.ca/files/2015/09/Screen-shot-2015-09-15-at-9.18.47-AM1.png" tvg-chno="960" group-title="** CANADA RADIO **",CHYR "MIX 96.7" Leamington, ON
+http://live.leanstream.co/CHYRFM
+#EXTINF:-1 channel-id="290" radio="true" tvg-logo="http://media.chyz.ca/wp-content/uploads/2015/02/chyz_gros_signature.jpg" tvg-chno="961" group-title="** CANADA RADIO **",CHYZ 94.3 Universite Laval - Quebec City, QC
+http://ecoutez.chyz.ca:8000/;
+#EXTINF:-1 channel-id="291" radio="true" tvg-chno="962" group-title="** CANADA RADIO **",CIAO 530 AM Brampton, ON
+http://ice2.securenetsystems.net/CIAO
+#EXTINF:-1 channel-id="292" radio="true" tvg-logo="https://transitron.com/CIAU/wp-content/uploads/2017/07/cropped-CIAULogo1.jpg" tvg-chno="963" group-title="** CANADA RADIO **",CIAU 103,1 Radisson, QC
+http://stream02.ustream.ca:8000/ciau128.mp3.m3u
+#EXTINF:-1 channel-id="293" radio="true" tvg-chno="964" group-title="** CANADA RADIO **",CIBL Montreal
+http://stream02.ustream.ca:8000/cibl128.mp3
+#EXTINF:-1 channel-id="294" radio="true" tvg-logo="http://www.realcountrybrooks.ca/thumbnails/550519_CIBQ-FM.png" tvg-chno="965" group-title="** CANADA RADIO **",CIBQ 105.7 "Real Country" Brooks, AB
+http://newcap.leanstream.co/CIBQFM-MP3
+#EXTINF:-1 channel-id="295" radio="true" tvg-logo="http://classicrock945.ca/files/2016/07/cropped-Classic-Rock-270x270.png" tvg-chno="966" group-title="** CANADA RADIO **",CIBU "Classic Rock 94.5" Wingham, ON
+http://live.leanstream.co/CIBUFM
+#EXTINF:-1 channel-id="296" radio="true" tvg-chno="967" group-title="** CANADA RADIO **",CICK 93.9 Smithers, BC
+http://usa13.fastcast4u.com:5148/;
+#EXTINF:-1 channel-id="297" radio="true" tvg-logo="http://thegrand101.com/favicon.png" tvg-chno="968" group-title="** CANADA RADIO **",CICW 101.1 "The Grand" Centre Wellington, ON
+http://s45.myradiostream.com:8056/listen.mp3
+#EXTINF:-1 channel-id="298" radio="true" tvg-logo="http://whitebearfirstnation.ca/res/img/new-logo.png" tvg-chno="969" group-title="** CANADA RADIO **",CIDD 97.7 Carlyle Lake, SK
+https://ais-sa1.streamon.fm/7176_32k.aac/playlist.m3u8
+#EXTINF:-1 channel-id="299" radio="true" tvg-logo="http://cidi991.com/upload/design/595e4399ce65e1.32497529.jpeg" tvg-chno="970" group-title="** CANADA RADIO **",CIDI 99.1 Brome Lake, QC
+http://s2.radioservers.biz:9998/;stream
+#EXTINF:-1 channel-id="300" radio="true" tvg-logo="http://www.ciel103.com/ciel/images/logo_ciel.png" tvg-chno="971" group-title="** CANADA RADIO **",CIEL 103.7 Riviere du Loup, QC
+http://podcast.servlinks.com:8409/;stream/1
+#EXTINF:-1 channel-id="301" radio="true" tvg-logo="http://www.cieufm.com/images/logo-cieu-fm-fb2.jpg" tvg-chno="972" group-title="** CANADA RADIO **",CIEU 94.9 Carlton-sur-Mer, QC
+http://stream.statsradio.com:8074/stream
+#EXTINF:-1 channel-id="302" radio="true" tvg-logo="http://www.mix97.com//assets/favicon/mstile-144x144.png" tvg-chno="973" group-title="** CANADA RADIO **",CIGL 97.1 "MIX 97" Belleville, ON
+http://live.leanstream.co/CIGLFM-MP3
+#EXTINF:-1 channel-id="303" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/873/files/2017/08/hotherologo935.png" tvg-chno="974" group-title="** CANADA RADIO **",CIGM "Hot 93.5" Sudbury, ON
+http://newcap.leanstream.co/CIGMFM
+#EXTINF:-1 channel-id="304" radio="true" tvg-logo="http://cignfm.ca/wp-content/themes/cign/img/cign-logo-400x200.png" tvg-chno="975" group-title="** CANADA RADIO **",CIGN 96,7 Coaticook, QC
+http://stream02.ustream.ca:8000/cignfm128.mp3.m3u
+#EXTINF:-1 channel-id="305" radio="true" tvg-chno="976" group-title="** CANADA RADIO **",CIGO 101.5 "The Hawk" Port Hawkesbury, NS
+https://live.wostreaming.net/manifest/thehawk-khkkfmaac-hlsc1.m3u8
+#EXTINF:-1 channel-id="306" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/899/files/2017/09/New-Country-1007-Home-Logo260x300.png" tvg-chno="977" group-title="** CANADA RADIO **",CIGV "New Country 100.7" Penticton, BC
+http://newcap.leanstream.co/CIGVFM
+#EXTINF:-1 channel-id="307" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/881/files/2017/10/uplogo_hero_v003.png" tvg-chno="978" group-title="** CANADA RADIO **",CIHI "Up 93.1" Fredericton, NB
+http://newcap.leanstream.co/CIHIFM
+#EXTINF:-1 channel-id="308" radio="true" tvg-chno="979" group-title="** CANADA RADIO **",CIHO "Charlevoix 96.3" Saint-Hilarion, QC
+http://stream.cloudmjs.com:8000/ciho.mp3
+#EXTINF:-1 channel-id="309" radio="true" tvg-logo="http://mm.aiircdn.com/122/318909.png" tvg-chno="980" group-title="** CANADA RADIO **",CIHR 104.7 "Heart FM" Woodstock, ON
+http://cihrfm.streamon.fm:8000/CIHRFM-48k.aac
+#EXTINF:-1 channel-id="310" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/981/files/2017/04/hotherologov003.png" tvg-chno="981" group-title="** CANADA RADIO **",CIHT "Hot 89.9" Ottawa, ON
+http://newcap.leanstream.co/CIHTFM
+#EXTINF:-1 channel-id="311" radio="true" tvg-logo="http://www.krock893.com/assets/img/nologo.jpg" tvg-chno="982" group-title="** CANADA RADIO **",CIJK 89.3 "K-Rock" Kentville, NS
+http://newcap.leanstream.co/CIJKFM
+#EXTINF:-1 channel-id="312" radio="true" tvg-logo="http://boom1035.com/wp-content/uploads/2017/08/cropped-BOOM_1035.png" tvg-chno="983" group-title="** CANADA RADIO **",CILB "Boom 103.5" Lac La Biche, AB
+http://newcap.leanstream.co/CILBFM-MP3
+#EXTINF:-1 channel-id="313" radio="true" tvg-logo="http://www.cilemf.com/images/item_image/IMG-ITEM-0016.png" tvg-chno="984" group-title="** CANADA RADIO **",CILE 95.1 Havre-Saint-Pierre, QC
+http://stream02.ustream.ca:8000/cile128.mp3
+#EXTINF:-1 channel-id="314" radio="true" tvg-chno="985" group-title="** CANADA RADIO **",CILQ 107.1 "Q107" Toronto
+http://live.leanstream.co/CILQFM
+#EXTINF:-1 channel-id="315" radio="true" tvg-logo="https://radiovictoria.ca/wp-content/uploads/2019/02/cropped-logo-radiovictoria-option2-bw-270x270.png" tvg-chno="986" group-title="** CANADA RADIO **",CILS 107.9 "Radio Victoria" Victoria, BC
+http://stream2.statsradio.com:8012/stream
+#EXTINF:-1 channel-id="316" radio="true" tvg-chno="987" group-title="** CANADA RADIO **",CIMA 92.1 "MyFM" Alliston-New Tecumseth, ON
+http://ice23.securenetsystems.net/CIMAFM
+#EXTINF:-1 channel-id="317" radio="true" tvg-chno="988" group-title="** CANADA RADIO **",CIME 101.3
+https://cogecomedia.leanstream.co/cogecomedia/CIMEFM.stream/playlist.m3u8
+#EXTINF:-1 channel-id="318" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1296130090842165250/DyqAA43P_400x400.jpg" tvg-chno="989" group-title="** CANADA RADIO **",CIME 103.9 St-Jerome
+https://cogecomedia.leanstream.co/CIMEFM-MP3
+#EXTINF:-1 channel-id="319" radio="true" tvg-chno="990" group-title="** CANADA RADIO **",CIME 103.9 St-Jerome, QC
+http://cime-lh.akamaihd.net/i/studioaudio_1@393664/master.m3u8
+#EXTINF:-1 channel-id="320" radio="true" tvg-chno="991" group-title="** CANADA RADIO **",CIMJ 106.1 "Magic 106" Guelph, ON
+http://live.leanstream.co/CIMJFM-MP3
+#EXTINF:-1 channel-id="321" radio="true" tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/myFM%20Logo%20Border1.png" tvg-chno="992" group-title="** CANADA RADIO **",CIMY 104.9 "myFM" Pembroke, ON
+http://ice23.securenetsystems.net/CIMY
+#EXTINF:-1 channel-id="322" radio="true" tvg-logo="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/632/2014/10/22215120/logo6.png" tvg-chno="993" group-title="** CANADA RADIO **",CINA 1650 AM Mississauga, ON
+http://ice8.securenetsystems.net/CINA
+#EXTINF:-1 channel-id="323" radio="true" tvg-logo="http://www.ncifm.com/wp-content/uploads/2014/01/logo-web.png" tvg-chno="994" group-title="** CANADA RADIO **",CINC 105.5 "NCI-FM" Winnipeg, MB
+http://180.obj.netromedia.com/NCIFM1/NCIFM1/playlist.m3u8
+#EXTINF:-1 channel-id="324" radio="true" tvg-logo="http://static.radio.pl/images/broadcasts/73/f9/5344/c175.png" tvg-chno="995" group-title="** CANADA RADIO **",Cinemix
+http://listen.cinemix.fr/
+#EXTINF:-1 channel-id="325" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/70/files/2016/07/fresh-player-100x1001.png" tvg-chno="996" group-title="** CANADA RADIO **",CING 95.3 "Fresh Radio" Hamilton, ON
+http://live.leanstream.co/CINGFM-MP3
+#EXTINF:-1 channel-id="326" radio="true" tvg-logo="http://radiocentreville.com/wp/wp-content/uploads/2014/12/logorcv_transparent_icone1-549201f0v1_site_icon-16x16.png" tvg-chno="997" group-title="** CANADA RADIO **",CINQ 102.3 "Radio Centre-Ville" Montreal, QC
+http://mediacast.b2b2c.ca:8010/
+#EXTINF:-1 channel-id="327" radio="true" tvg-logo="https://www.ocean985.com/wp-content/uploads/sites/18/2018/02/cropped-985OCEAN-600x600-270x270.png" tvg-chno="998" group-title="** CANADA RADIO **",CIOC "Ocean 98.5" Victoria, BC
+https://rogers-hls.leanstream.co/rogers/vic985.stream/playlist.m3u8
+#EXTINF:-1 channel-id="328" radio="true" tvg-chno="999" group-title="** CANADA RADIO **",CIOI 101.5 The Hawk FM (Hamilton)
+https://hawkstream.mohawkcollege.ca/1/
+#EXTINF:-1 channel-id="329" radio="true" tvg-logo="http://k100.ca/wp-content/uploads/sites/9/2016/08/cropped-K100_NewLogo-270x270.png" tvg-chno="1000" group-title="** CANADA RADIO **",CIOK 100.5 "K-100" Saint John, NB
+http://mbsradio.leanstream.co/CIOKFM-MP3
+#EXTINF:-1 channel-id="330" radio="true" tvg-chno="1001" group-title="** CANADA RADIO **",CION 90.9 "Radio Galilée" Quebec, QC
+http://www.surfmusic.de/m3u/cion-radio-galilee-90-9-fm,15700.m3u
+#EXTINF:-1 channel-id="331" radio="true" tvg-chno="1002" group-title="** CANADA RADIO **",CIPC "O 99.1" Port Cartier, QC
+http://stream.statsradio.com:8020/stream
+#EXTINF:-1 channel-id="332" radio="true" tvg-chno="1003" group-title="** CANADA RADIO **",CIQB "Big 101.1" Barrie, ON
+http://live.leanstream.co/CIQBFM-MP3
+#EXTINF:-1 channel-id="333" radio="true" tvg-logo="http://www.mycampbellrivernow.com/wp-content/themes/presso-child/vista/_img/station/CIQC.png" tvg-chno="1004" group-title="** CANADA RADIO **",CIQC 99.7 "2DayFM" Campbell River, BC
+http://s1.hotdogradio.com/CIQC
+#EXTINF:-1 channel-id="334" radio="true" tvg-chno="1005" group-title="** CANADA RADIO **",CIQI
+http://stream.statsradio.com:8044/stream
+#EXTINF:-1 channel-id="335" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/888/files/2017/07/k97logo326x300.png" tvg-chno="1006" group-title="** CANADA RADIO **",CIRK 97.3 "K-97" Edmonton, AB
+http://newcap.leanstream.co/CIRKFM
+#EXTINF:-1 channel-id="336" radio="true" tvg-chno="1007" group-title="** CANADA RADIO **",CIRV 88.9 Toronto, ON
+http://ice5.securenetsystems.net/CIRV
+#EXTINF:-1 channel-id="337" radio="true" tvg-logo="http://www.myprincegeorgenow.com/wp-content/themes/presso-child/vista/_img/station/CIRX.png" tvg-chno="1008" group-title="** CANADA RADIO **",CIRX 94.3 "The Goat" Prince George, BC
+http://s1.hotdogradio.com/CIRX
+#EXTINF:-1 channel-id="338" radio="true" tvg-logo="http://www.pulsefm.ca/wp-content/uploads/2017/11/PulseLogo-home5.png" tvg-chno="1009" group-title="** CANADA RADIO **",CISF 107.7 "Pulse FM" Surrey, BC
+http://cisffm.streamon.fm/stream/CISFFM-48k.aac
+#EXTINF:-1 channel-id="339" radio="true" tvg-chno="1010" group-title="** CANADA RADIO **",CISL "Sportsnet 650" Richmond, BC
+http://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8
+#EXTINF:-1 channel-id="340" radio="true" tvg-logo="http://cism893.ca/public/default/images/placeholders/cism-5.png" tvg-chno="1011" group-title="** CANADA RADIO **",CISM 89,3 MHz FM Université de Montréal, QC
+http://stream03.ustream.ca/cism128.mp3
+#EXTINF:-1 channel-id="341" radio="true" tvg-chno="1012" group-title="** CANADA RADIO **",CISN "Country 103.9" Edmonton, AB
+http://live.leanstream.co/CISNFM-MP3
+#EXTINF:-1 channel-id="342" radio="true" tvg-logo="https://www.mountainfm.com/wp-content/uploads/sites/33/2016/05/cropped-mountainfm-logo-frequency-270x270.png" tvg-chno="1013" group-title="** CANADA RADIO **",CISQ 107.1 "Mountain FM" Squamish, BC
+https://rogers-hls.leanstream.co/rogers/squ1071.stream/playlist.m3u8
+#EXTINF:-1 channel-id="343" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/CISS-FM_logo.png" tvg-chno="1014" group-title="** CANADA RADIO **",CISS - Kiss FM 105.3 Ottawa
+http://www.surfmusic.de/m3u/ciss-kiss-fm-105-3-fm,15573.m3u
+#EXTINF:-1 channel-id="344" radio="true" tvg-logo="https://www.921citi.ca/wp-content/uploads/sites/22/2016/05/cropped-92.1CITI_tm_RGB-270x270.png" tvg-chno="1015" group-title="** CANADA RADIO **",CITI 92.1
+https://rogers-hls.leanstream.co/rogers/win921.stream/playlist.m3u8
+#EXTINF:-1 channel-id="345" radio="true" tvg-chno="1016" group-title="** CANADA RADIO **",CITR 101.9 University of British Columbia, Vancouver, BC
+http://live.citr.ca:8000/live.mp3
+#EXTINF:-1 channel-id="346" radio="true" tvg-logo="http://www.ciut.fm/wp-content/uploads/2013/01/CIUTlogo_med.jpg" tvg-chno="1017" group-title="** CANADA RADIO **",CIUT 89.5 University of Toronto
+http://128.100.197.46/
+#EXTINF:-1 channel-id="347" radio="true" tvg-logo="http://www.mynechakovalleynow.com/wp-content/themes/presso-child/vista/_img/station/CIVH.png" tvg-chno="1018" group-title="** CANADA RADIO **",CIVH 1340 "Valley Country"  Vanderhoof, BC
+http://s1.hotdogradio.com/CIVH
+#EXTINF:-1 channel-id="348" radio="true" tvg-chno="1019" group-title="** CANADA RADIO **",CIWW CityNews Ottawa
+https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
+#EXTINF:-1 channel-id="349" radio="true" tvg-logo="http://boom1011.com/wp-content/uploads/2017/06/BOOM_1011.png" tvg-chno="1020" group-title="** CANADA RADIO **",CIXF "Boom 101,1" Brooks, AB
+http://newcap.leanstream.co/CIXFFM
+#EXTINF:-1 channel-id="350" radio="true" tvg-chno="1021" group-title="** CANADA RADIO **",CIXK "MIX 106.5" Owen Sound, ON
+http://bayshore.leanstream.co/CIXKFM
+#EXTINF:-1 channel-id="351" radio="true" tvg-chno="1022" group-title="** CANADA RADIO **",CIYM "Oldies 100.9" Brighton, ON
+http://ice23.securenetsystems.net/CIYM
+#EXTINF:-1 channel-id="352" radio="true" tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/Kincardine%201.png" tvg-chno="1023" group-title="** CANADA RADIO **",CIYN 95.5 & 99.7 "myFM" Kincardine, ON
+http://ice23.securenetsystems.net/CIYN
+#EXTINF:-1 channel-id="353" radio="true" tvg-logo="http://media.socastsrm.com/uploads/station/674/home_screen_logo-586d102d70ca6.png" tvg-chno="1024" group-title="** CANADA RADIO **",CIZL 98.9 "Z99" Regina, SK
+http://rawlco.leanstream.co/CIZLFM
+#EXTINF:-1 channel-id="354" radio="true" tvg-chno="1025" group-title="** CANADA RADIO **",CIZZ "Z 98.9" Red Deer, AB
+http://newcap.leanstream.co/CIZZFM
+#EXTINF:-1 channel-id="355" radio="true" tvg-chno="1026" group-title="** CANADA RADIO **",CJAD 800 Montreal, QC
+http://provisioning.streamtheworld.com/pls/CJADAMAAC.pls
+#EXTINF:-1 channel-id="356" radio="true" tvg-chno="1027" group-title="** CANADA RADIO **",CJAD Montreal
+https://17413.live.streamtheworld.com/CJADAMAAC.aac
+#EXTINF:-1 channel-id="357" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/CJAI_92.1FM_logo.jpg" tvg-chno="1028" group-title="** CANADA RADIO **",CJAI 92.1 Amherst Island, ON
+http://peridot.streamguys.com:5040/live.m3u
+#EXTINF:-1 channel-id="358" radio="true" tvg-chno="1029" group-title="** CANADA RADIO **",CJAM 99.1 FM
+http://stream.cjam.ca/CJAM-live-256k.mp3.m3u
+#EXTINF:-1 channel-id="359" radio="true" tvg-logo="https://www.jack969.ca/wp-content/uploads/sites/11/2017/02/logo-jack969.png" tvg-chno="1030" group-title="** CANADA RADIO **",CJAQ "Jack 96.9" Calgary, AB
+https://rogers-hls.leanstream.co/rogers/cal969.stream/playlist.m3u8
+#EXTINF:-1 channel-id="360" radio="true" tvg-logo="https://www.jack969.com/wp-content/uploads/sites/13/2017/02/logo-jack969.png" tvg-chno="1031" group-title="** CANADA RADIO **",CJAX "Jack 96.9"  Vancouver, BC
+https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
+#EXTINF:-1 channel-id="361" radio="true" tvg-logo="https://1031thetrain.com/wp-content/uploads/2018/11/cropped-logo_512x512.png" tvg-chno="1032" group-title="** CANADA RADIO **",CJBB 103.1 "The Train" Englehart, ON
+https://ice10.securenetsystems.net/CJBB
+#EXTINF:-1 channel-id="362" radio="true" tvg-logo="http://radiobellisland.com/images/rbi_logo_big.jpg" tvg-chno="1033" group-title="** CANADA RADIO **",CJBI 93.9 Radio Bell Island, NL
+http://ca5.rcast.net:8066/;
+#EXTINF:-1 channel-id="363" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Cjbk_logo.png" tvg-chno="1034" group-title="** CANADA RADIO **",CJBK News/Talk 1290 (London, ON)
+http://provisioning.streamtheworld.com/pls/CJBKAMAAC.pls
+#EXTINF:-1 channel-id="364" radio="true" tvg-logo="http://www.cjbq.com/pics/logo_main.jpg" tvg-chno="1035" group-title="** CANADA RADIO **",CJBQ 800 Belleville, ON
+http://live.leanstream.co/CJBQAM-MP3
+#EXTINF:-1 channel-id="365" radio="true" tvg-logo="http://sites.mbsradio.com/cjcb/wp-content/uploads/sites/21/2017/02/CJCB_Transparent.png" tvg-chno="1036" group-title="** CANADA RADIO **",CJCB 1270 Sydney, NS
+http://mbsradio.leanstream.co/CJCBAM-MP3
+#EXTINF:-1 channel-id="366" radio="true" tvg-logo="http://www.myyellowknifenow.com/wp-content/themes/presso-child/vista/_img/station/CJCD.png" tvg-chno="1037" group-title="** CANADA RADIO **",CJCD 100.1 "The Moose" Yellowknife, NT
+http://hotdogradio.com:8000/CJCD
+#EXTINF:-1 channel-id="367" radio="true" tvg-logo="http://www.myprincegeorgenow.com/wp-content/themes/presso-child/vista/_img/station/CJCI.png" tvg-chno="1038" group-title="** CANADA RADIO **",CJCI 97.3 "Country 97" Prince George, BC
+http://s1.hotdogradio.com/CJCI
+#EXTINF:-1 channel-id="368" radio="true" tvg-chno="1039" group-title="** CANADA RADIO **",CJCL Sportsnet 590 The Fan
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1 channel-id="369" radio="true" tvg-logo="http://www.mystratfordnow.com/wp-content/themes/presso-child/vista/_img/station/CJCS.png" tvg-chno="1040" group-title="** CANADA RADIO **",CJCS 107.1 "Juice FM" Stratford, ON
+http://s1.hotdogradio.com/CJCS
+#EXTINF:-1 channel-id="370" radio="true" tvg-logo="http://mbsradio.leanplayer.com/assets/uploads/mbsradio/CJCWAM/CJCW.png" tvg-chno="1041" group-title="** CANADA RADIO **",CJCW 590 Sussex, NB
+http://mbsradio.leanstream.co/CJCWAM-MP3
+#EXTINF:-1 channel-id="371" radio="true" tvg-logo="https://preprod-www.cjcyfm.com/wp-content/uploads/sites/65/2018/08/cropped-cjcy-main-logo-500x500-270x270.png" tvg-chno="1042" group-title="** CANADA RADIO **",CJCY 102.1 Medicine Hat, AB
+https://rogers-hls.leanstream.co/rogers/med1021.stream/playlist.m3u8
+#EXTINF:-1 channel-id="372" radio="true" tvg-logo="http://media.socastsrm.com/uploads/station/552/home_screen_logo-585ab1765ea95.png" tvg-chno="1043" group-title="** CANADA RADIO **",CJDJ 102.1 "Rock 102" Saskatoon, SK
+http://rawlco.leanstream.co/CJDJFM-MP3
+#EXTINF:-1 channel-id="373" radio="true" tvg-chno="1044" group-title="** CANADA RADIO **",CJDV 107.5 "Dave Rocks" Kitchener, ON
+http://live.leanstream.co/CJDVFM-MP3
+#EXTINF:-1 channel-id="374" radio="true" tvg-chno="1045" group-title="** CANADA RADIO **",CJEB
+https://cogecomedia.leanstream.co/CJEBFM
+#EXTINF:-1 channel-id="375" radio="true" tvg-chno="1046" group-title="** CANADA RADIO **",CJEB 100.1 "Rythme 100.1 Mauricie" Trois Rivieres, QC
+http://rythmemau-lh.akamaihd.net/i/studioaudio_1@393687/master.m3u8
+#EXTINF:-1 channel-id="376" radio="true" tvg-logo="http://wknd.fm/img/logo-wknd.png" tvg-chno="1047" group-title="** CANADA RADIO **",CJEC "WKND 91.9" Quebec City, QC
+http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3
+#EXTINF:-1 channel-id="377" radio="true" tvg-logo="http://www.1013koolfm.com/images/logo.jpg" tvg-chno="1048" group-title="** CANADA RADIO **",CJEG "Kool 101.3 FM" Bonnyville, AB
+http://newcap.leanstream.co/CJEGFM
+#EXTINF:-1 channel-id="378" radio="true" tvg-logo="http://www.989xfm.ca/wp-content/themes/simplyducky_989beta2013/images/bg_header09.jpg" tvg-chno="1049" group-title="** CANADA RADIO **",CJFX 98.9 "X 989 FM" Antigonish, NS
+http://stream989xfm.no-ip.org:88/broadwavehigh.mp3
+#EXTINF:-1 channel-id="379" radio="true" tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/ganaoque%201.png" tvg-chno="1050" group-title="** CANADA RADIO **",CJGM 99.9 "myFM" Gananoque, ON
+http://ice23.securenetsystems.net/CJGM
+#EXTINF:-1 channel-id="380" radio="true" tvg-chno="1051" group-title="** CANADA RADIO **",CJGV "Peggy @ 99.1" Winnipeg, MB
+http://live.leanstream.co/CJGVFM-MP3
+#EXTINF:-1 channel-id="381" radio="true" tvg-chno="1052" group-title="** CANADA RADIO **",CJGX 940 "GX94" Yorkton, SK aac
+http://cjgx.streamon.fm/stream/CJGX-64k.aac
+#EXTINF:-1 channel-id="382" radio="true" tvg-logo="http://www.cjhk.ca/sites/all/themes/country1007/logo.png" tvg-chno="1053" group-title="** CANADA RADIO **",CJHK "Country 100.7" Bridgewater, NS
+https://ais-sa1.streamon.fm/7226_48k.aac/playlist.m3u8
+#EXTINF:-1 channel-id="383" radio="true" tvg-logo="http://valleyheritageradio.ca/newsite/wp-content/uploads/2016/07/cropped-Untitled-1-270x270.png" tvg-chno="1054" group-title="** CANADA RADIO **",CJHR 98.7 Valley Heritage Radio - Renfrew, ON
+http://157.obj.netromedia.com/ValleyHeritageRadio/ValleyHeritageRadio/playlist.m3u8
+#EXTINF:-1 channel-id="384" radio="true" tvg-chno="1055" group-title="** CANADA RADIO **",CJIB 107.5 "Beach Radio" Vernon, BC
+https://ais-sa1.streamon.fm/7294_48k.aac/playlist.m3u8
+#EXTINF:-1 channel-id="385" radio="true" tvg-chno="1056" group-title="** CANADA RADIO **",CJJJ "CJ 106.5" Assiniboine Community College - Brandon, MB
+http://ics.assiniboine.net:8000/cj106-mp3
+#EXTINF:-1 channel-id="386" radio="true" tvg-logo="http://www.myespanolanow.com/wp-content/themes/presso-child/vista/_img/station/CJJM.png" tvg-chno="1057" group-title="** CANADA RADIO **",CJJM 99.3 "Moose FM" Espanola, ON
+http://s1.hotdogradio.com/CJJM
+#EXTINF:-1 channel-id="387" radio="true" tvg-logo="http://www.country103.ca/wp-content/uploads/sites/12/2015/08/site-logo.png" tvg-chno="1058" group-title="** CANADA RADIO **",CJKC 103.1 "Country 103" Kamloops, BC
+http://newcap.leanstream.co/CJKCFM-MP3?args=mobile_03
+#EXTINF:-1 channel-id="388" radio="true" tvg-logo="https://static.wixstatic.com/media/94f7df_6857dcc216054ccb931ace469e6cf47f~mv2.png/v1/crop/x_0,y_35,w_580,h_382/fill/w_315,h_209,al_c,usm_0.66_1.00_0.01/94f7df_6857dcc216054ccb931ace469e6cf47f~mv2.png" tvg-chno="1059" group-title="** CANADA RADIO **",CJKL 101.5 Kirkland Lake, ON
+http://142.4.217.133:9363/cjkl
+#EXTINF:-1 channel-id="389" radio="true" tvg-chno="1060" group-title="** CANADA RADIO **",CJKR 97.5 "Power 97" Winnipeg, MB
+http://live.leanstream.co/CJKRFM-MP3
+#EXTINF:-1 channel-id="390" radio="true" tvg-logo="http://jukasaradio.ca/wp-content/uploads/2016/01/5037_JukasaRadio_Logo_FINAL.png" tvg-chno="1061" group-title="** CANADA RADIO **",CJKS 93.5 "Jukasa Radio"  Ohsweken, ON
+http://ca2.radioboss.fm:8018/stream
+#EXTINF:-1 channel-id="391" radio="true" tvg-logo="http://www.kx96.fm/img/logo.jpg" tvg-chno="1062" group-title="** CANADA RADIO **",CJKX 95.9 "KX96 New Country FM" - Ajax, ON
+http://provisioning.streamtheworld.com/pls/CJKXFMAAC.pls
+#EXTINF:-1 channel-id="392" radio="true" tvg-chno="1063" group-title="** CANADA RADIO **",CJLL 97.9 "CHIN Radio Ottawa", ON
+http://ice7.securenetsystems.net/CJLLFM
+#EXTINF:-1 channel-id="393" radio="true" tvg-chno="1064" group-title="** CANADA RADIO **",CJLM "M 103.5" Joliette, QC
+http://stream.statsradio.com:8024/stream
+#EXTINF:-1 channel-id="394" radio="true" tvg-chno="1065" group-title="** CANADA RADIO **",CJLO 1690 Concordia University, Montreal, QC
+http://rosetta.shoutca.st:8883/stream
+#EXTINF:-1 channel-id="395" radio="true" tvg-logo="http://www.cjls.com/sites/all/themes/cjls/logo.png" tvg-chno="1066" group-title="** CANADA RADIO **",CJLS "Y95.5" Yarmouth, NS
+http://cjls.streamon.fm:8000/CJLS-48k.aac
+#EXTINF:-1 channel-id="396" radio="true" tvg-logo="http://www.radiomieuxetre.com/upload/design/5817f5ef13aa03.74728556.png" tvg-chno="1067" group-title="** CANADA RADIO **",CJLV 1570 "Radio Mieux-Etre" Laval, QC
+http://174.142.215.249:9960/;stream
+#EXTINF:-1 channel-id="397" radio="true" tvg-logo="http://91x.fm/wp-content/uploads/2016/08/91x-banner.jpg" tvg-chno="1068" group-title="** CANADA RADIO **",CJLX 91.3 "91X" Loyalist College - Belleville, ON
+http://lweb04.lcaat.ca:8000/91x.mp3
+#EXTINF:-1 channel-id="398" radio="true" tvg-logo="http://www.kootenaycoopradio.com/images/kcrcompact.png" tvg-chno="1069" group-title="** CANADA RADIO **",CJLY 93.5 Kootenay Coop Radio - Nelson, BC
+http://stream.cjly.net/
+#EXTINF:-1 channel-id="399" radio="true" tvg-logo="http://steanne.bleufm.ca/wp-content/uploads/2016/01/Logo100_accueil.png" tvg-chno="1070" group-title="** CANADA RADIO **",CJMC 100.3 "Bleu FM" Sainte-Anne-des-Monts
+http://xltrax.com:8010/;
+#EXTINF:-1 channel-id="400" radio="true" tvg-chno="1071" group-title="** CANADA RADIO **",CJME News/Talk 980 (Regina, SK)
+http://rawlco.leanstream.co/CJMEAM-MP3
+#EXTINF:-1 channel-id="401" radio="true" tvg-chno="1072" group-title="** CANADA RADIO **",CJMF 93.3 "FM93"
+https://cogecomedia.leanstream.co/cogecomedia/CJMFFM.stream/playlist.m3u8?type=.ts&args=web_01
+#EXTINF:-1 channel-id="402" radio="true" tvg-chno="1073" group-title="** CANADA RADIO **",CJMF 93.3 "FM93" Quebec City, QC
+http://fm93-lh.akamaihd.net/i/studioaudio_1@393666/master.m3u8
+#EXTINF:-1 channel-id="403" radio="true" tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/Strathroy%201.png" tvg-chno="1074" group-title="** CANADA RADIO **",CJMI 105.7 "myFM" Strathroy, ON
+http://ice23.securenetsystems.net/MYFM
+#EXTINF:-1 channel-id="404" radio="true" tvg-logo="http://www.98cool.ca/templates/rt_panacea_j15/images/logo/dark/logo.png" tvg-chno="1075" group-title="** CANADA RADIO **",CJMK 98.3 "98 Cool FM" Saskatoon, SK
+http://provisioning.streamtheworld.com/pls/CJMKFMAAC.pls
+#EXTINF:-1 channel-id="405" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/907/files/2017/11/c103logox300.png" tvg-chno="1076" group-title="** CANADA RADIO **",CJMO 103.1 "C103" Moncton, NB
+http://newcap.leanstream.co/CJMOFM
+#EXTINF:-1 channel-id="406" radio="true" tvg-logo="http://cjmp.ca/wp-content/uploads/2014/10/logoforsite3.png" tvg-chno="1077" group-title="** CANADA RADIO **",CJMP 90.1 Powell River, BC
+http://usa2.fastcast4u.com:3264/stream
+#EXTINF:-1 channel-id="407" radio="true" tvg-logo="http://www.cjmq.fm/images/theqube1.jpg" tvg-chno="1078" group-title="** CANADA RADIO **",CJMQ 88,9 "the QUBE 88.9" Sherbrooke, QC
+http://the.radioservers.biz:9996/
+#EXTINF:-1 channel-id="408" radio="true" tvg-chno="1079" group-title="** CANADA RADIO **",CJMR 1320 Mississauga, ON
+http://provisioning.streamtheworld.com/pls/CJMRAMAAC.pls
+#EXTINF:-1 channel-id="409" radio="true" tvg-chno="1080" group-title="** CANADA RADIO **",CJNC 97.9 Norway House, MB
+https://ais-sa1.streamon.fm/7036_24k.aac/playlist.m3u8
+#EXTINF:-1 channel-id="410" radio="true" tvg-chno="1081" group-title="** CANADA RADIO **",CJNI "News 95.7" Halifax, NS
+https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
+#EXTINF:-1 channel-id="411" radio="true" tvg-logo="http://cjns.ca/cjns2.png" tvg-chno="1082" group-title="** CANADA RADIO **",CJNS 102.3 Meadow Lake, SK
+http://s26.myradiostream.com:10888/;
+#EXTINF:-1 channel-id="412" radio="true" tvg-logo="https://www.cjnu.ca/wp-content/uploads/2015/04/logo.png" tvg-chno="1083" group-title="** CANADA RADIO **",CJNU 93.7 "Nostalgia Radio" Winnipeg, MB
+http://noasrv.caster.fm:10188/stream
+#EXTINF:-1 channel-id="413" radio="true" tvg-chno="1084" group-title="** CANADA RADIO **",CJNW 107.1 "Hot 107" Edmonton, AB
+http://cjnw.streamon.fm/stream/CJNW-64k.aac
+#EXTINF:-1 channel-id="414" radio="true" tvg-chno="1085" group-title="** CANADA RADIO **",CJOB 680 Winnipeg, MB
+http://live.leanstream.co/CJOBAM-MP3
+#EXTINF:-1 channel-id="415" radio="true" tvg-logo="https://mm.aiircdn.com/38/763095.png" tvg-chno="1086" group-title="** CANADA RADIO **",CJOC 94.1 Lethbridge, AB
+http://listenlive.vistaradio.ca/CJOC
+#EXTINF:-1 channel-id="416" radio="true" tvg-logo="http://955hitsfm.ca/themes/site_themes/site/img/hits-thumbnail.jpg" tvg-chno="1087" group-title="** CANADA RADIO **",CJOJ 95.5 "Hits FM" Belleville, ON
+http://provisioning.streamtheworld.com/pls/CLASSICHITSAAC.pls
+#EXTINF:-1 channel-id="417" radio="true" tvg-logo="https://www.country933.com/wp-content/uploads/sites/35/2016/04/cropped-country933-512x512.png" tvg-chno="1088" group-title="** CANADA RADIO **",CJOK "Country 93.3" Fort McMurray, AB
+https://rogers-hls.leanstream.co/rogers/for933.stream/playlist.m3u8
+#EXTINF:-1 channel-id="418" radio="true" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/109/home_screen_logo-54034ba8325e4.png" tvg-chno="1089" group-title="** CANADA RADIO **",CJOT "Boom 99.7" Ottawa, ON
+http://live.leanstream.co/CJOTFM-MP3
+#EXTINF:-1 channel-id="419" radio="true" tvg-chno="1090" group-title="** CANADA RADIO **",CJOY 1460 "Greatest Hits" Guelph, ON
+http://live.leanstream.co/CJOYAM
+#EXTINF:-1 channel-id="420" radio="true" tvg-logo="http://993countyfm.ca/wp-content/uploads/2014/09/cropped-993-logo-trans1.png" tvg-chno="1091" group-title="** CANADA RADIO **",CJPE 99.3 "County FM" Picton, ON
+http://198.50.218.239:1935/993CountryFM/993CountryFM/playlist.m3u8
+#EXTINF:-1 channel-id="421" radio="true" tvg-logo="http://www.realcountrysouthwest.ca/assets/img/ms-touch-icon-144x144-precomposed.png" tvg-chno="1092" group-title="** CANADA RADIO **",CJPR 94.9 "Real Country Southwest" Blairmore, AB
+http://newcap.leanstream.co/CJPRFM-MP3
+#EXTINF:-1 channel-id="422" radio="true" tvg-logo="http://www.qccrfm.com/images/QCCR.png" tvg-chno="1093" group-title="** CANADA RADIO **",CJQC 99.3 Queen's County Community Radio - Liverpool, NS
+http://us3.streamingpulse.com:8074/
+#EXTINF:-1 channel-id="423" radio="true" tvg-chno="1094" group-title="** CANADA RADIO **",CJRG 94.5 Radio-Gaspesie, Gaspe, QC
+http://stream02.ustream.ca:8000/cjrg128.mp3
+#EXTINF:-1 channel-id="424" radio="true" tvg-logo="http://spiceradio.net/wp-content/uploads/2015/02/bollywood-vancouver-spice.png" tvg-chno="1095" group-title="** CANADA RADIO **",CJRJ 1200 "Spice Radio" Vancouver, BC
+http://d2e1wsg2gpoq0n.cloudfront.net/livecf/CJRJ/master.m3u8
+#EXTINF:-1 channel-id="425" radio="true" tvg-logo="http://eastfmca.netfirms.com/image/img1.png" tvg-chno="1096" group-title="** CANADA RADIO **",CJRK 102.7 "East FM" Toronto
+http://174.142.215.249:9966/;type=mp3
+#EXTINF:-1 channel-id="426" radio="true" tvg-logo="http://www.895thelake.ca/sites/all/themes/thelake/logo.png" tvg-chno="1097" group-title="** CANADA RADIO **",CJRL 89.5 "The Lake" Kenora, ON
+http://cjrl.streamon.fm:8000/CJRL-48k.aac
+#EXTINF:-1 channel-id="427" radio="true" tvg-chno="1098" group-title="** CANADA RADIO **",CJRT 91.1 "JazzFM91"
+https://ice66.securenetsystems.net/CJRT?&playSessionID=A06A5AF8-A8CF-9C55-B20402CD15910A82
+#EXTINF:-1 channel-id="428" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/CJRT-FM.png" tvg-chno="1099" group-title="** CANADA RADIO **",CJRT 91.1 "JazzFM91" High
+http://streamertheta.jazz.fm:8000/
+#EXTINF:-1 channel-id="429" radio="true" tvg-chno="1100" group-title="** CANADA RADIO **",CJRU 1280 "The Scope" Ryerson University - Toronto, ON
+http://ryerson.out.airtime.pro:8000/ryerson_a
+#EXTINF:-1 channel-id="430" radio="true" tvg-logo="http://sites.mbsradio.com/spudfm/wp-content/uploads/sites/17/2017/01/SPUD_Logo_Final.png" tvg-chno="1101" group-title="** CANADA RADIO **",CJRW 102.1 "Spud FM" Summerside, PE
+http://mbsradio.leanstream.co/CJRWFM-MP3
+#EXTINF:-1 channel-id="431" radio="true" tvg-logo="https://www.1067rock.ca/wp-content/uploads/sites/36/2016/05/cropped-106.7ROCK_tm_RGB-1-270x270.png" tvg-chno="1102" group-title="** CANADA RADIO **",CJRX "106.7 Rock" Lethbridge, AB
+https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
+#EXTINF:-1 channel-id="432" radio="true" tvg-logo="http://cmr24.net/wp-content/uploads/2014/06/hd1.png" tvg-chno="1103" group-title="** CANADA RADIO **",CJSA-HD1 CMR Diversity FM 101.3 Toronto, ON
+http://live.cmr24.net:8081/CMR/CMR-MQ/icecast.audio
+#EXTINF:-1 channel-id="433" radio="true" tvg-logo="http://cmr24.net/wp-content/uploads/2014/06/hd2.png" tvg-chno="1104" group-title="** CANADA RADIO **",CJSA-HD2 CMR Diversity FM 101.3 Tamil - Toronto, ON
+http://live.cmr24.net:8081/CMR/TamilHD-MQ/icecast.audio
+#EXTINF:-1 channel-id="434" radio="true" tvg-logo="http://cmr24.net/wp-content/uploads/2014/06/hd3.png" tvg-chno="1105" group-title="** CANADA RADIO **",CJSA-HD3 CMR Diversity FM 101.3 Hindi/Urdu Toronto, ON
+http://live.cmr24.net:8081/CMR/Desi_Music-MQ/icecast.audio
+#EXTINF:-1 channel-id="435" radio="true" tvg-logo="http://cmr24.net/wp-content/uploads/2014/06/hd41.png" tvg-chno="1106" group-title="** CANADA RADIO **",CJSA-HD4 CMR Diversity FM 101.3 Punjabi - Toronto, ON
+http://live.cmr24.net:8081/CMR/Punjabi-MQ/icecast.audio
+#EXTINF:-1 channel-id="436" radio="true" tvg-logo="http://www.cj104radio.com/cjsb%20color%20copy.jpg" tvg-chno="1107" group-title="** CANADA RADIO **",CJSB  104.5 "CJ104" Swan River, MB
+http://dns4.83north.ca:8000/cjsb.mp3
+#EXTINF:-1 channel-id="437" radio="true" tvg-logo="http://www.rock94.com/images/djs/djlogo.jpg" tvg-chno="1108" group-title="** CANADA RADIO **",CJSD 94.3 "Rock 94" Thunder Bay, ON
+http://cjsd.streamon.fm/stream/CJSD-32k.aac
+#EXTINF:-1 channel-id="438" radio="true" tvg-logo="http://www.cjsf.ca/sites/default/files/logo_1_0.png" tvg-chno="1109" group-title="** CANADA RADIO **",CJSF 90.1 Simon Fraser University Burnaby, BC
+http://www.cjsf.ca:8000/listen-hq
+#EXTINF:-1 channel-id="439" radio="true" tvg-logo="http://country959.com/files/2015/12/Windsor-Country-Logo.png" tvg-chno="1110" group-title="** CANADA RADIO **",CJSP/CJWF "Windsor's Country 95.9 & 92.7" Leamington, ON
+http://live.leanstream.co/CJWFFM
+#EXTINF:-1 channel-id="440" radio="true" tvg-logo="http://www.radioclassique.ca/wp-content/themes/cjpx/dist/images/radio-classique-1x.png" tvg-chno="1111" group-title="** CANADA RADIO **",CJSQ 92.7 "Radio Classique" Quebec, QC
+http://stream.statsradio.com:8004/stream
+#EXTINF:-1 channel-id="441" radio="true" tvg-logo="http://cjsr.com/wp-content/themes/bones/images/win8-tile-icon.png" tvg-chno="1112" group-title="** CANADA RADIO **",CJSR 88.5 University of Alberta, Edmonton, AB
+http://cjsr.streamon.fm:8000/CJSR-24k.aac
+#EXTINF:-1 channel-id="442" radio="true" tvg-chno="1113" group-title="** CANADA RADIO **",CJSS "Boom 101.9" Cornwall, ON
+http://live.leanstream.co/CJSSFM-MP3
+#EXTINF:-1 channel-id="443" radio="true" tvg-logo="http://www.mycowichanvalleynow.com/wp-content/themes/presso-child/vista/_img/station/CJSU.png" tvg-chno="1114" group-title="** CANADA RADIO **",CJSU 89.7 "Juice FM" Duncan, BC
+http://s1.hotdogradio.com/CJSU
+#EXTINF:-1 channel-id="444" radio="true" tvg-logo="http://www.rock107.ca//assets/favicon/mstile-144x144.png" tvg-chno="1115" group-title="** CANADA RADIO **",CJTN 107.1 "Rock 107" Trenton, ON
+http://live.leanstream.co/CJTNFM-MP3
+#EXTINF:-1 channel-id="445" radio="true" tvg-chno="1116" group-title="** CANADA RADIO **",CJTR 91.3 Regina Community Radio
+http://108.178.13.122:8152/
+#EXTINF:-1 channel-id="446" radio="true" tvg-logo="https://static.wixstatic.com/media/be2f53_7e5cde58cf074df6b7a983ad8ead6f39.png" tvg-chno="1117" group-title="** CANADA RADIO **",CJTT 104.5 Temiskaming Shores, ON
+http://142.4.217.133:9363/cjtt
+#EXTINF:-1 channel-id="447" radio="true" tvg-logo="https://static.wixstatic.com/media/f94708_9c6d351940b04bf9b2378d393e49d8c0~mv2.jpg/v1/fill/w_1156,h_1232,al_c/f94708_9c6d351940b04bf9b2378d393e49d8c0~mv2.jpg" tvg-chno="1118" group-title="** CANADA RADIO **",CJUJ 103.3 "Phantom FM" - Bathurst, NB
+http://37.187.90.196:8912/live
+#EXTINF:-1 channel-id="448" radio="true" tvg-logo="http://www.magic999.ca/sites/all/themes/magic/logo.png" tvg-chno="1119" group-title="** CANADA RADIO **",CJUK "Magic 99.9" Thunder Bay, ON
+http://cjuk.streamon.fm:8000/CJUK-48k.aac
+#EXTINF:-1 channel-id="449" radio="true" tvg-chno="1120" group-title="** CANADA RADIO **",CJVB "AM 1470 Fairchild Radio" Vancouver, BC
+https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
+#EXTINF:-1 channel-id="450" radio="true" tvg-logo="http://www.cjvd.ca/images/cjvd_logo.jpg" tvg-chno="1121" group-title="** CANADA RADIO **",CJVD 100.1 Vaudreuil-Dorion, QC
+http://xlnetwork.info:8820/;
+#EXTINF:-1 channel-id="451" radio="true" tvg-logo="http://www.cj103radio.com/cj103-gusher-200.jpg" tvg-chno="1122" group-title="** CANADA RADIO **",CJVM 103.3 "CJ-103" Virden, MB
+http://dns4.83north.ca:8000/cjvm.mp3
+#EXTINF:-1 channel-id="452" radio="true" tvg-chno="1123" group-title="** CANADA RADIO **",CJWA 107.1 "JJAM FM" Wawa, ON
+http://nap.casthost.net:8428/stream?type=.mp3
+#EXTINF:-1 channel-id="453" radio="true" tvg-logo="http://www.cjwwradio.com/templates/rt_panacea/images/logo/dark/logo.png" tvg-chno="1124" group-title="** CANADA RADIO **",CJWW "Country 600" Saskatoon, SK
+http://provisioning.streamtheworld.com/pls/CJWWAMAAC.pls
+#EXTINF:-1 channel-id="454" radio="true" tvg-logo="http://www.953krock.com/images/logo.jpg" tvg-chno="1125" group-title="** CANADA RADIO **",CJXK 95.3 "K-Rock" Cold Lake, AB
+http://newcap.leanstream.co/CJXKFM
+#EXTINF:-1 channel-id="455" radio="true" tvg-logo="http://www.xl96.com/assets/img/nologo.jpg" tvg-chno="1126" group-title="** CANADA RADIO **",CJXL 96.1 "XL 96" Moncton, NB
+http://newcap.leanstream.co/CJXLFM
+#EXTINF:-1 channel-id="456" radio="true" tvg-chno="1127" group-title="** CANADA RADIO **",CJXY 107.9 "Y108" Burlington, ON
+http://live.leanstream.co/CJXYFM-MP3
+#EXTINF:-1 channel-id="457" radio="true" tvg-logo="http://kool98.fm/wp-content/uploads/sites/10/2016/08/logo-1.png" tvg-chno="1128" group-title="** CANADA RADIO **",CJYC 98.9 "Kool 98" Saint John, NB
+https://mbsradio.leanstream.co/CJYCFM-MP3
+#EXTINF:-1 channel-id="458" radio="true" tvg-logo="http://www.930kixxcountry.ca/assets/img/ms-touch-icon-144x144-precomposed.png" tvg-chno="1129" group-title="** CANADA RADIO **",CJYQ "930 KIXX Country" St. John's, NL
+http://newcap.leanstream.co/CJYQAM
+#EXTINF:-1 channel-id="459" radio="true" tvg-chno="1130" group-title="** CANADA RADIO **",CKAC 730 "Radio Circulation" Montreal, QC
+http://radiocirculation-lh.akamaihd.net/i/studioaudio_1@393671/master.m3u8
+#EXTINF:-1 channel-id="460" radio="true" tvg-logo="http://ckaj.org/wp-content/uploads/2019/03/CKAJ-ECR-BLANC-PNG-300x213.png" tvg-chno="1131" group-title="** CANADA RADIO **",CKAJ 92.5 & 99.7 Saguenay, QC
+http://stream.statsradio.com:8060/stream
+#EXTINF:-1 channel-id="461" radio="true" tvg-logo="https://muskokaradio.com//apple-icon-57x57.png" tvg-chno="1132" group-title="** CANADA RADIO **",CKAR 88.7 "Hunters Bay Radio" Huntsville, ON
+http://209.91.175.158:8000/;stream.mp3
+#EXTINF:-1 channel-id="462" radio="true" tvg-logo="https://www.mycoastnow.com/wp-content/themes/presso-child/vista/_img/station/CKAY.png" tvg-chno="1133" group-title="** CANADA RADIO **",CKAY 91.7 "Coast FM" Gibsons, BC
+http://listenlive.vistaradio.ca/CKAY
+#EXTINF:-1 channel-id="463" radio="true" tvg-logo="http://boom941.com/wp-content/uploads/2017/06/BOOM_941.png" tvg-chno="1134" group-title="** CANADA RADIO **",CKBA "Boom 94.1" Athabasca, AB
+http://newcap.leanstream.co/CKBAFM-MP3
+#EXTINF:-1 channel-id="464" radio="true" tvg-chno="1135" group-title="** CANADA RADIO **",CKBE "The Beat 92.5" Montreal, QC
+http://beat-lh.akamaihd.net/i/studioaudio_1@393656/master.m3u8
+#EXTINF:-1 channel-id="465" radio="true" tvg-logo="http://www.929thebullrocks.com/templates/rt_panacea/images/logo/dark/logo.png" tvg-chno="1136" group-title="** CANADA RADIO **",CKBL 92.9 "The Bull" Saskatoon, SK
+http://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls
+#EXTINF:-1 channel-id="466" radio="true" tvg-logo="https://www.via905.fm/wp-content/uploads/2018/08/CKBN-Logo-VIA-FAVICON.png" tvg-chno="1137" group-title="** CANADA RADIO **",CKBN "VIA 90.5 FM" Bécancour, QC
+http://stream.statsradio.com:8056/stream
+#EXTINF:-1 channel-id="467" radio="true" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/1/home_screen_logo-54e273e130a6f.png" tvg-chno="1138" group-title="** CANADA RADIO **",CKBT 91.5 "The Beat" Kitchener, ON
+http://live.leanstream.co/CKBTFM-MP3
+#EXTINF:-1 channel-id="468" radio="true" tvg-logo="http://www.ckbw.ca/sites/all/themes/ckbw/logo.png" tvg-chno="1139" group-title="** CANADA RADIO **",CKBW 98.1 Bridgewater, NS
+http://ckbw.streamon.fm:8000/CKBW-48k.aac
+#EXTINF:-1 channel-id="469" radio="true" tvg-logo="http://www.mycariboonow.com/wp-content/themes/presso-child/vista/_img/station/CKBX.png" tvg-chno="1140" group-title="** CANADA RADIO **",CKBX "Country 840" 100 Mile House, BC
+http://s1.hotdogradio.com/CKBX
+#EXTINF:-1 channel-id="470" radio="true" tvg-chno="1141" group-title="** CANADA RADIO **",CKCB 95.1 "The Peak" Collingwood, ON
+http://live.leanstream.co/CKCBFM-MP3
+#EXTINF:-1 channel-id="471" radio="true" tvg-logo="http://newcountry1035.ca/thumbnails/589026_NC1035_CB_Logo_ALT_175_PX.png" tvg-chno="1142" group-title="** CANADA RADIO **",CKCH "New Country 103.5"  Sydney, NS
+http://newcap.leanstream.co/CKCHFM
+#EXTINF:-1 channel-id="472" radio="true" tvg-logo="https://static.wixstatic.com/media/7cb463_19e59fd741cc413c9fe3527d143d44c9%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/7cb463_19e59fd741cc413c9fe3527d143d44c9%7Emv2.jpg" tvg-chno="1143" group-title="** CANADA RADIO **",CKCJ 97.9 Lebel-sur-Quevillon, QC
+http://192.99.29.224:7004/ckcj
+#EXTINF:-1 channel-id="473" radio="true" tvg-logo="http://media.socastsrm.com/uploads/station/671/home_screen_logo-58ac72d4cd808.png" tvg-chno="1144" group-title="** CANADA RADIO **",CKCK "Jack FM 94.5" Regina, SK
+http://rawlco.leanstream.co/CKCKFM
+#EXTINF:-1 channel-id="474" radio="true" tvg-logo="http://www.purfm.com/img/logo-hover.png" tvg-chno="1145" group-title="** CANADA RADIO **",CKCN 94.1 "Pur FM" Sept-Iles, QC
+http://stream.statsradio.com:8034/stream
+#EXTINF:-1 channel-id="475" radio="true" tvg-logo="http://www.mycariboonow.com/wp-content/themes/presso-child/vista/_img/station/CKCQ.png" tvg-chno="1146" group-title="** CANADA RADIO **",CKCQ 100.3 "Cariboo Country FM"  Quesnel, BC
+http://s1.hotdogradio.com/CKCQ
+#EXTINF:-1 channel-id="476" radio="true" tvg-chno="1147" group-title="** CANADA RADIO **",CKCU FM 93.1 Carleton University, Ottawa
+http://livestream.ckcufm.com/ckcu.mp3
+#EXTINF:-1 channel-id="477" radio="true" tvg-logo="http://www.mycrestonnow.com/wp-content/themes/presso-child/vista/_img/station/CKCV.png" tvg-chno="1148" group-title="** CANADA RADIO **",CKCV "94.1 Juice FM" Creston, BC
+http://s1.hotdogradio.com/CKCV
+#EXTINF:-1 channel-id="478" radio="true" tvg-logo="http://k945.ca/wp-content/uploads/sites/7/2016/08/K_Logo-1.png" tvg-chno="1149" group-title="** CANADA RADIO **",CKCW 94.5 "K94" Moncton, NB
+http://mbsradio.leanstream.co/CKCWFM-MP3
+#EXTINF:-1 channel-id="479" radio="true" tvg-logo="http://sites.mbsradio.com/ckdh/wp-content/uploads/sites/15/2017/01/CKDH_new.png" tvg-chno="1150" group-title="** CANADA RADIO **",CKDH 101.7 Amherst, NS
+http://mbsradio.leanstream.co/CKDHFM-MP3
+#EXTINF:-1 channel-id="480" radio="true" tvg-chno="1151" group-title="** CANADA RADIO **",CKDJ 107.9 Algonquin College, Ottawa
+http://live.leanstream.co/CKDJFM-MP3?tunein
+#EXTINF:-1 channel-id="481" radio="true" tvg-chno="1152" group-title="** CANADA RADIO **",CKDK 103.9 "Country 104" Woodstock, ON
+http://live.leanstream.co/CKDKFM-MP3
+#EXTINF:-1 channel-id="482" radio="true" tvg-logo="https://730ckdm.com///templates/g5_hydrogen/custom/images/ckdm_730_touch-icon.png" tvg-chno="1153" group-title="** CANADA RADIO **",CKDM 730 Dauphin, MB
+http://ckdm.smartstreamingsolutions.ca:7052/1
+#EXTINF:-1 channel-id="483" radio="true" tvg-logo="http://www.ckdo.ca/img/logo.jpg" tvg-chno="1154" group-title="** CANADA RADIO **",CKDO 1580 & 107.7 Oshawa, ON
+http://provisioning.streamtheworld.com/pls/CKDOFMAAC.pls
+#EXTINF:-1 channel-id="484" radio="true" tvg-logo="http://www.910cfcw.com/assets/img/ms-touch-icon-144x144-precomposed.png" tvg-chno="1155" group-title="** CANADA RADIO **",CKDQ "910 CFCW"  Drumheller, AB
+http://newcap.leanstream.co/CKDQAM
+#EXTINF:-1 channel-id="485" radio="true" tvg-logo="http://www.ckdr.net/sites/all/themes/ckdr/logo.png" tvg-chno="1156" group-title="** CANADA RADIO **",CKDR 92.7 Dryden, ON
+http://ckdr.streamon.fm:8000/CKDR-48k.aac
+#EXTINF:-1 channel-id="486" radio="true" tvg-chno="1157" group-title="** CANADA RADIO **",CKDU 88.1 Dalhousie
+https://archive1.ckdu.ca:9750/ckdu_1_on_air_high.mp3
+#EXTINF:-1 channel-id="487" radio="true" tvg-chno="1158" group-title="** CANADA RADIO **",CKDU 88.1 Dalhousie (96 kbs)
+https://archive1.ckdu.ca:9750/ckdu_1_on_air_low.mp3
+#EXTINF:-1 channel-id="488" radio="true" tvg-chno="1159" group-title="** CANADA RADIO **",CKEA "95.7 CRUZ FM" Edmonton, AB
+http://ckea.streamon.fm/stream/CKEA-64k.aac
+#EXTINF:-1 channel-id="489" radio="true" tvg-logo="https://media.socastsrm.com/uploads/station/1916/home_screen_logo-5c5a2cc3bafbd.png" tvg-chno="1160" group-title="** CANADA RADIO **",CKEC "Mix 94.1" New Glasgow, NS
+https://newcap.leanstream.co/CKECFM
+#EXTINF:-1 channel-id="490" radio="true" tvg-chno="1161" group-title="** CANADA RADIO **",CKEE 101.5 "Whistler FM" Whistler, BC
+http://ckee.streamon.fm/stream/CKEE-32k.aac
+#EXTINF:-1 channel-id="491" radio="true" tvg-logo="http://sites.mbsradio.com/avr/wp-content/uploads/sites/13/2017/01/New_AVR_Long.png" tvg-chno="1162" group-title="** CANADA RADIO **",CKEN "AVR 97.7" Kentville, NS
+http://mbsradio.leanstream.co/CKENFM-MP3
+#EXTINF:-1 channel-id="492" radio="true" tvg-logo="https://www.worldfm.ca/wp-content/uploads/sites/34/2016/05/cropped-logo_101.7_WorldFM-270x270.png" tvg-chno="1163" group-title="** CANADA RADIO **",CKER 101.7 "World FM" Edmonton, AB
+https://rogers-hls.leanstream.co/rogers/edm1017.stream/playlist.m3u8
+#EXTINF:-1 channel-id="493" radio="true" tvg-logo="https://media.socastsrm.com/uploads/station/1349/home_screen_logo-5a68e8e3921a1.png" tvg-chno="1164" group-title="** CANADA RADIO **",CKEX "X100.7" Red Deer, AB
+https://ais-sa1.streamon.fm/7264_64k.aac/playlist.m3u8
+#EXTINF:-1 channel-id="494" radio="true" tvg-chno="1165" group-title="** CANADA RADIO **",CKEZ "Z97.9"  New Glasgow, NS
+https://newcap.leanstream.co/CKEZFM
+#EXTINF:-1 channel-id="495" radio="true" tvg-logo="http://g987fm.com/wp-content/themes/g987fm_beta/images/logo.png" tvg-chno="1166" group-title="** CANADA RADIO **",CKFG "G 98.7" 98.7 MHz FM, Toronto
+http://147.135.84.27/ckfg-fm
+#EXTINF:-1 channel-id="496" radio="true" tvg-chno="1167" group-title="** CANADA RADIO **",CKFR 1150 Kelowna, BC
+http://provisioning.streamtheworld.com/pls/CKFRAMAAC.pls
+#EXTINF:-1 channel-id="497" radio="true" tvg-chno="1168" group-title="** CANADA RADIO **",CKFR AM1150 Kelowna, BC
+https://14623.live.streamtheworld.com/CKFRAMAAC.aac
+#EXTINF:-1 channel-id="498" radio="true" tvg-logo="http://www.therock.fm/img/logo.jpg" tvg-chno="1169" group-title="** CANADA RADIO **",CKGE 94.9 "The Rock" Oshawa, ON
+http://provisioning.streamtheworld.com/pls/CKGEFMAAC.pls
+#EXTINF:-1 channel-id="499" radio="true" tvg-logo="http://www.mygrandforksnow.com/wp-content/themes/presso-child/vista/_img/station/CKGF.png" tvg-chno="1170" group-title="** CANADA RADIO **",CKGF 102.3 "Juice FM" Grand Forks, BC
+http://s1.hotdogradio.com/CKGF
+#EXTINF:-1 channel-id="500" radio="true" tvg-chno="1171" group-title="** CANADA RADIO **",CKGL
+http://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
+#EXTINF:-1 channel-id="501" radio="true" tvg-logo="http://www.tsn.ca/img/tsn/logos/tsn-logo.png" tvg-chno="1172" group-title="** CANADA RADIO **",CKGM 690 TSN Montreal
+http://playerservices.streamtheworld.com/m3u/CKGMAMAAC.m3u
+#EXTINF:-1 channel-id="502" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1382/files/2017/08/NEWC-2607-01-Real-Country-Logo-198x300.png" tvg-chno="1173" group-title="** CANADA RADIO **",CKGY "Real Country 95.5"  Red Deer, AB
+http://newcap.leanstream.co/CKGYFM-MP3
+#EXTINF:-1 channel-id="503" radio="true" tvg-logo="https://canoefm.com/wp-content/uploads/2016/10/cropped-favicon-canoe-270x270.png" tvg-chno="1174" group-title="** CANADA RADIO **",CKHA 100.9 "Canoe FM" Haliburton, ON
+http://provisioning.streamtheworld.com/pls/CKHAFMAAC.pls
+#EXTINF:-1 channel-id="504" radio="true" tvg-logo="http://radio.humber.ca/assets/images/radio-small-logo.jpg" tvg-chno="1175" group-title="** CANADA RADIO **",CKHC 96.9 "Radio Humber" Humber College, Toronto, ON
+http://live.leanstream.co/CKHCFM
+#EXTINF:-1 channel-id="505" radio="true" tvg-logo="http://live105.ca/wp-content/uploads/2016/06/Live105_Black_HFXBestRock-1.png" tvg-chno="1176" group-title="** CANADA RADIO **",CKHY 105.1 "Live 105" Halifax, NS
+http://ice41.securenetsystems.net/CKHY
+#EXTINF:-1 channel-id="506" radio="true" tvg-logo="http://hotcountry1035.com/wp-content/uploads/2016/05/HotCountry_WebLogo.png" tvg-chno="1177" group-title="** CANADA RADIO **",CKHZ "Hot Country 103.5" Halifax, NS
+https://ice41.securenetsystems.net/CKHZ
+#EXTINF:-1 channel-id="507" radio="true" tvg-logo="http://media.socastsrm.com/uploads/station/311/home_screen_logo-56a79094e41ea.png" tvg-chno="1178" group-title="** CANADA RADIO **",CKIK "KRAZE 101.3" Red Deer, AB
+http://ckik.streamon.fm/stream/CKIK-64k.aac
+#EXTINF:-1 channel-id="508" radio="true" tvg-chno="1179" group-title="** CANADA RADIO **",CKIN 106.3 "Radio CINA" Montreal, QC
+http://ice64.securenetsystems.net/CKIN
+#EXTINF:-1 channel-id="509" radio="true" tvg-logo="http://radio.991hitsfm.com/assets/img/nologo.jpg" tvg-chno="1180" group-title="** CANADA RADIO **",CKIX 99.1 "Hits FM" St. John's, NL
+http://newcap.leanstream.co/CKIXFM
+#EXTINF:-1 channel-id="510" radio="true" tvg-chno="1181" group-title="** CANADA RADIO **",CKJR "W1440" Wetaskiwin, AB
+https://newcap.leanstream.co/CKJRAM
+#EXTINF:-1 channel-id="511" radio="true" tvg-logo="http://www.w1440.com/thumbnails/listenlive.jpg" tvg-chno="1182" group-title="** CANADA RADIO **",CKJR 1440 "W1440" Wetaskiwin, AB
+http://newcap.leanstream.co/CKJRAM
+#EXTINF:-1 channel-id="512" radio="true" tvg-logo="http://ckjs.com/wp-content/uploads/2016/07/ckjs_am810-1.png" tvg-chno="1183" group-title="** CANADA RADIO **",CKJS "AM 810 Multilingual" Winnipeg, MB
+http://ice5.securenetsystems.net/CKJS
+#EXTINF:-1 channel-id="513" radio="true" tvg-logo="http://d2r87scxu22q8a.cloudfront.net/sitelogos/62-YFkiDL570XQcy0YOch6q.png" tvg-chno="1184" group-title="** CANADA RADIO **",CKJX "Rock 104.5" Olds, AB
+http://ckjx.streamon.fm/stream/CKJX-48k.aac
+#EXTINF:-1 channel-id="514" radio="true" tvg-chno="1185" group-title="** CANADA RADIO **",CKKI 89.9 "KIC Country" Montreal, QC
+http://andromeda.shoutca.st:8221/stream
+#EXTINF:-1 channel-id="515" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1396/files/2017/12/k96-whte.png" tvg-chno="1186" group-title="** CANADA RADIO **",CKKO 96.3 "K 96.3" Kelowna, BC
+http://newcap.leanstream.co/CKKOFM
+#EXTINF:-1 channel-id="516" radio="true" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/456/files/2020/11/qfavicon.png" tvg-chno="1187" group-title="** CANADA RADIO **",CKKQ 100.3 "The Q" (Victoria, BC)
+https://stream.jpbgdigital.com/CKKQ/HEAAC/48k/playlist.m3u8
+#EXTINF:-1 channel-id="517" radio="true" tvg-logo="https://www.kissradio.ca/wp-content/uploads/sites/6/2016/03/cropped-kissradio-270x270.png" tvg-chno="1188" group-title="** CANADA RADIO **",CKKS 107.5 "KISS Radio" Chilliwack, BC (correction)
+https://rogers-hls.leanstream.co/rogers/van1049.stream/playlist.m3u8
+#EXTINF:-1 channel-id="518" radio="true" tvg-chno="1189" group-title="** CANADA RADIO **",CKKX 106.1 "KIX 106" Peace River, AB
+http://provisioning.streamtheworld.com/pls/CKKXFMAAC.pls
+#EXTINF:-1 channel-id="519" radio="true" tvg-logo="http://1019boom.com/wp-content/uploads/2017/07/BOOM_1019.png" tvg-chno="1190" group-title="** CANADA RADIO **",CKKY "Boom 101.9" Wainwright, AB
+http://newcap.leanstream.co/CKKYFM
+#EXTINF:-1 channel-id="520" radio="true" tvg-logo="http://cklbradio.com/wp-content/uploads/2016/04/seo_CKLB_MAIN.png" tvg-chno="1191" group-title="** CANADA RADIO **",CKLB 101.9 Yellowknife, NT
+http://cklb.streamon.fm:8000/CKLB-24k.aac
+#EXTINF:-1 channel-id="521" radio="true" tvg-logo="http://plaisir1055.com/Content/Images/logo.png" tvg-chno="1192" group-title="** CANADA RADIO **",CKLD "Plaisir 105.5" Thetford Mines, QC
+http://stream.statsradio.com:8010/stream
+#EXTINF:-1 channel-id="522" radio="true" tvg-logo="http://www.starfm.ca/fileadmin/starfm/images/logos/starfm_logo.png" tvg-chno="1193" group-title="** CANADA RADIO **",CKLF "Star 94.7" Brandon, MB
+http://live.starfm.ca:8000/StarFM.mp3
+#EXTINF:-1 channel-id="523" radio="true" tvg-logo="http://d2r87scxu22q8a.cloudfront.net/sitelogos/61-LGMYzX2bhQfzHptCVDb6.png" tvg-chno="1194" group-title="** CANADA RADIO **",CKLJ 96.5 Olds. AB
+http://cklj.streamon.fm/stream/CKLJ-48k.aac
+#EXTINF:-1 channel-id="524" radio="true" tvg-logo="http://www.mylloydminsternow.com/wp-content/themes/presso-child/vista/_img/station/CKLM@2x.png" tvg-chno="1195" group-title="** CANADA RADIO **",CKLM "106.1 The Goat" Lloydminster, AB
+http://s1.hotdogradio.com/CKLM
+#EXTINF:-1 channel-id="525" radio="true" tvg-logo="http://www.kixxcountry.ca/assets/img/listenlive-971-clarenville.png" tvg-chno="1196" group-title="** CANADA RADIO **",CKLN 97.1 "KIXX Country" Clarenville, NL
+http://newcap.leanstream.co/CKLNFM
+#EXTINF:-1 channel-id="526" radio="true" tvg-logo="http://981freefm.ca/files/2014/08/Classic-Rock-98-1-32x32.png" tvg-chno="1197" group-title="** CANADA RADIO **",CKLO "Free 98.1" London, ON
+http://live.leanstream.co/CKLOFM
+#EXTINF:-1 channel-id="527" radio="true" tvg-logo="https://www.myparrysoundnow.com/wp-content/themes/presso-child/vista/_img/station/CKLP.png" tvg-chno="1198" group-title="** CANADA RADIO **",CKLP 103.3 "Moose FM" Parry Sound, ON
+http://s1.hotdogradio.com/CKLP
+#EXTINF:-1 channel-id="528" radio="true" tvg-logo="http://www.qcountryfm.ca/fileadmin/cklq/favicon.png" tvg-chno="1199" group-title="** CANADA RADIO **",CKLQ 880 Brandon, MB
+http://live.cklq.com:8000/CKLQ.mp3
+#EXTINF:-1 channel-id="529" radio="true" tvg-logo="https://static.wixstatic.com/media/a9e704_e5208697ba82479cb46e619b3cdb661f~mv2.png/v1/fill/w_277,h_92,al_c,lg_1/a9e704_e5208697ba82479cb46e619b3cdb661f~mv2.png" tvg-chno="1200" group-title="** CANADA RADIO **",CKLU 96.7 Laurentian University - Sudbury, ON
+http://ckluradio.laurentian.ca:88/broadwave.mp3
+#EXTINF:-1 channel-id="530" radio="true" tvg-logo="https://919sport.ca//assets/images/favicons/ms-icon-144x144.png" tvg-chno="1201" group-title="** CANADA RADIO **",CKLX "91.9 Sports" Montreal, QC
+http://icecast-cklx.rncm.ca/cklx.mp3
+#EXTINF:-1 channel-id="531" radio="true" tvg-logo="https://www.1053rock.ca/wp-content/uploads/sites/29/2016/05/cropped-105.3ROCK_tm_RGB-270x270.png" tvg-chno="1202" group-title="** CANADA RADIO **",CKMH "105.3 Rock" Medicine Hat, AB
+https://rogers-hls.leanstream.co/rogers/med1053.stream/playlist.m3u8
+#EXTINF:-1 channel-id="532" radio="true" tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/Orangeville%201-1.png" tvg-chno="1203" group-title="** CANADA RADIO **",CKMO 101.5 "myFM" Orangeville, ON
+http://ice9.securenetsystems.net/CKMO
+#EXTINF:-1 channel-id="533" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/993/files/2017/06/ampherologo608x300.png" tvg-chno="1204" group-title="** CANADA RADIO **",CKMP "90.3 Amp Radio" Calgary, AB
+http://newcap.leanstream.co/CKMPFM
+#EXTINF:-1 channel-id="534" radio="true" tvg-chno="1205" group-title="** CANADA RADIO **",CKMS-FM 102.7 Radio Waterloo
+http://kwvoip.ca:8000/radiowaterloo
+#EXTINF:-1 channel-id="535" radio="true" tvg-logo="http://sites.mbsradio.com/cknb/wp-content/uploads/sites/20/2017/02/CKNB_Campbellton_New.png" tvg-chno="1206" group-title="** CANADA RADIO **",CKNB 950 Campbellton, NB
+http://mbsradio.leanstream.co/CKNBAM-MP3
+#EXTINF:-1 channel-id="536" radio="true" tvg-chno="1207" group-title="** CANADA RADIO **",CKNG "Fresh Radio 92.5" Edmonton, AB
+http://live.leanstream.co/CKNGFM-MP3
+#EXTINF:-1 channel-id="537" radio="true" tvg-logo="http://www.919thebend.ca/sites/all/themes/ckni/logo.png" tvg-chno="1208" group-title="** CANADA RADIO **",CKNI 91.9 "The Bend" Moncton, NB
+http://ckni.streamon.fm:8000/CKNI-48k.aac
+#EXTINF:-1 channel-id="538" radio="true" tvg-logo="http://www.nuxalkradio.com/sites/all/themes/nuxalk/images/favicon.png" tvg-chno="1209" group-title="** CANADA RADIO **",CKNN 91.1 "Nuxaulk Radio" Bella Coola, BC
+http://cknn.openbroadcaster.com:8000/CKNN
+#EXTINF:-1 channel-id="539" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/1023Now_logo.png" tvg-chno="1210" group-title="** CANADA RADIO **",CKNO - 102.3FM Now! Radio
+https://redirect.jpbgdigital.com/CKNO.m3u8
+#EXTINF:-1 channel-id="540" radio="true" tvg-logo="http://www.myalgomamanitoulinnow.com/wp-content/themes/presso-child/vista/_img/station/CKNR.png" tvg-chno="1211" group-title="** CANADA RADIO **",CKNR 94.1 "Moose FM" Elliot Lake, ON
+http://s1.hotdogradio.com/CKNR
+#EXTINF:-1 channel-id="541" radio="true" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/80/home_screen_logo-53da814487e5e.jpg" tvg-chno="1212" group-title="** CANADA RADIO **",CKNW 980 New Westminster, BC
+http://listen.radionomy.com/CKNW.m3u
+#EXTINF:-1 channel-id="542" radio="true" tvg-logo="http://cknx.ca/files/2016/07/cropped-CKNX-AM920-270x270.png" tvg-chno="1213" group-title="** CANADA RADIO **",CKNX-AM 920 Wingham, ON
+http://live.leanstream.co/CKNXAM
+#EXTINF:-1 channel-id="543" radio="true" tvg-logo="http://1017theone.ca/files/2016/07/cropped-1017theone-270x270.png" tvg-chno="1214" group-title="** CANADA RADIO **",CKNX-FM 101.7 "The One" Wingham, ON
+http://live.leanstream.co/CKNXFM
+#EXTINF:-1 channel-id="544" radio="true" tvg-chno="1215" group-title="** CANADA RADIO **",CKOA 89.7 "The Coast"  Glace Bay, NS
+http://198.100.145.187:15204/;
+#EXTINF:-1 channel-id="545" radio="true" tvg-chno="1216" group-title="** CANADA RADIO **",CKOB 106.9 Trois-Rivieres, QC
+http://1069-lh.akamaihd.net/i/studioaudio_1@393637/master.m3u8
+#EXTINF:-1 channel-id="546" radio="true" tvg-chno="1217" group-title="** CANADA RADIO **",CKOB Trois-Rivières
+http://cogecomedia.leanstream.co/CKOBFM-MP3
+#EXTINF:-1 channel-id="547" radio="true" tvg-chno="1218" group-title="** CANADA RADIO **",CKOC "TSN 1150" Hamilton, ON
+http://provisioning.streamtheworld.com/pls/CKOCAMAAC.pls
+#EXTINF:-1 channel-id="548" radio="true" tvg-chno="1219" group-title="** CANADA RADIO **",CKOF "104.7 Outaouais" Gatineau, QC (AAC HLS)
+http://1047-lh.akamaihd.net/i/studioaudio_1@393604/master.m3u8
+#EXTINF:-1 channel-id="549" radio="true" tvg-chno="1220" group-title="** CANADA RADIO **",CKOI 96.9
+https://cogecomedia.leanstream.co/CKOIFM-MP3
+#EXTINF:-1 channel-id="550" radio="true" tvg-chno="1221" group-title="** CANADA RADIO **",CKOI 96.9 Montreal, QC
+http://ckoi-lh.akamaihd.net/i/studioaudio_1@393649/master.m3u8
+#EXTINF:-1 channel-id="551" radio="true" tvg-chno="1222" group-title="** CANADA RADIO **",CKOM News/Talk 650 (Saskatoon, SK)
+http://rawlco.leanstream.co/CKOMAM
+#EXTINF:-1 channel-id="552" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/CKON-FM.png/200px-CKON-FM.png" tvg-chno="1223" group-title="** CANADA RADIO **",CKON 97.3 "Mohawk Radio" Akwesasne
+http://playerservices.streamtheworld.com/m3u/CKONFM.m3u
+#EXTINF:-1 channel-id="553" radio="true" tvg-chno="1224" group-title="** CANADA RADIO **",CKOY "107.7 FM Estrie"  Sherbrooke, QC
+http://1077-lh.akamaihd.net/i/studioaudio_1@393643/master.m3u8
+#EXTINF:-1 channel-id="554" radio="true" tvg-logo="http://jewelradio.com/wp-content/uploads/2016/07/92.png" tvg-chno="1225" group-title="** CANADA RADIO **",CKPC-FM 92.1 "Jewel 92" Brantford, ON
+http://ice5.securenetsystems.net/CKPCFM
+#EXTINF:-1 channel-id="555" radio="true" tvg-logo="http://mbsradio.leanplayer.com/assets/uploads/mbsradio/CKPEFM/Cape_logo.png" tvg-chno="1226" group-title="** CANADA RADIO **",CKPE "The Cape 94.9" Sydney, NS
+http://mbsradio.leanstream.co/CKPEFM-MP3
+#EXTINF:-1 channel-id="556" radio="true" tvg-logo="http://www.myprescottnow.com/wp-content/themes/presso-child/vista/_img/station/CKPP.png" tvg-chno="1227" group-title="** CANADA RADIO **",CKPP 107.9 "Coast FM" Prescott, ON
+http://s1.hotdogradio.com/CKPP
+#EXTINF:-1 channel-id="557" radio="true" tvg-logo="http://www.ckpr.com/images/djs/djlogo.png" tvg-chno="1228" group-title="** CANADA RADIO **",CKPR 91.5 Thunder Bay, ON
+http://ckpr.streamon.fm/stream/CKPR-32k.aac
+#EXTINF:-1 channel-id="558" radio="true" tvg-chno="1229" group-title="** CANADA RADIO **",CKQB "JUMP! 106.9" Ottawa, ON
+http://live.leanstream.co/CKQBFM
+#EXTINF:-1 channel-id="559" radio="true" tvg-logo="https://www.country1071.com/wp-content/uploads/sites/40/2019/03/cropped-icon_black_logo_country1071_512-270x270.png" tvg-chno="1230" group-title="** CANADA RADIO **",CKQC "Country 107.1" Abbotsford, BC
+https://rogers-hls.leanstream.co/rogers/abb1071.stream/playlist.m3u8
+#EXTINF:-1 channel-id="560" radio="true" tvg-chno="1231" group-title="** CANADA RADIO **",CKQK 105.5 "Hot 105" Charlottetown, PE
+http://newcap.leanstream.co/CKQKFM
+#EXTINF:-1 channel-id="561" radio="true" tvg-logo="http://www.mykootenaynow.com/wp-content/themes/presso-child/vista/_img/station/CKQR.png" tvg-chno="1232" group-title="** CANADA RADIO **",CKQR "99.3 The Goat" Castlegar, BC
+http://s1.hotdogradio.com/CKQR
+#EXTINF:-1 channel-id="562" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/910/files/2017/11/Capital-Xmas-Hero-Logo.png" tvg-chno="1233" group-title="** CANADA RADIO **",CKRA 96.3 "Capital 96.3" Edmonton, AB
+http://newcap.leanstream.co/CKRAFM
+#EXTINF:-1 channel-id="563" radio="true" tvg-logo="http://www.coolfm.biz/images/cool/logofb_coolfm.jpg" tvg-chno="1234" group-title="** CANADA RADIO **",CKRB "Cool 103.5" Saint-Georges, QC
+http://podcast.servlinks.com/coolfm/lecture/
+#EXTINF:-1 channel-id="564" radio="true" tvg-logo="http://www.coolfm.biz/assets/img/facebook.png" tvg-chno="1235" group-title="** CANADA RADIO **",CKRB Cool FM
+http://stream.statsradio.com:8040/stream
+#EXTINF:-1 channel-id="565" radio="true" tvg-logo="https://k1037.com/wp-content/uploads/2018/06/cropped-K103-Mini-Logo-Final-RGB-Transparent-High-Res-270x270.png" tvg-chno="1236" group-title="** CANADA RADIO **",CKRK "K103.7" Kahnawake, QC
+http://stream.statsradio.com:8092/stream
+#EXTINF:-1 channel-id="566" radio="true" tvg-logo="http://www.lequebecexpress.com/media/photos/unis/2015/08/14/2015-08-14-10-16-32-Logo_CKRL.jpg" tvg-chno="1237" group-title="** CANADA RADIO **",CKRL 89.1 Quebec City, QC
+http://stream02.ustream.ca:8000/ckrl128.mp3
+#EXTINF:-1 channel-id="567" radio="true" tvg-chno="1238" group-title="** CANADA RADIO **",CKRM 620 Regina, SK
+http://ckrm.streamon.fm/stream/CKRM-64k.aac
+#EXTINF:-1 channel-id="568" radio="true" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/51/home_screen_logo-54e36815a5fdc.png" tvg-chno="1239" group-title="** CANADA RADIO **",CKRU 100.5 "Fresh Radio" Peterborough, ON
+http://live.leanstream.co/CKRUFM-MP3
+#EXTINF:-1 channel-id="569" radio="true" tvg-logo="http://www.975river.com/wp-content/uploads/sites/15/2015/08/site-logo-ckrv.png" tvg-chno="1240" group-title="** CANADA RADIO **",CKRV "97.5 The River" Kamloops, BC
+http://newcap.leanstream.co/CKRVFM
+#EXTINF:-1 channel-id="570" radio="true" tvg-logo="http://a.gmstatic.net/rush/logo.png" tvg-chno="1241" group-title="** CANADA RADIO **",CKRW 96.1 "The Rush" Whitehorse, YT
+http://ckrw.streamon.fm:8000/CKRW-32k.aac
+#EXTINF:-1 channel-id="571" radio="true" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/27/home_screen_logo-57b7052ad64bd.png" tvg-chno="1242" group-title="** CANADA RADIO **",CKRY 105.1 "Country 105" Calgary, AB
+http://live.leanstream.co/CKRYFM-MP3
+#EXTINF:-1 channel-id="572" radio="true" tvg-logo="http://ckrzfm.com/wp-content/uploads/2014/12/ckrzlogo1.png" tvg-chno="1243" group-title="** CANADA RADIO **",CKRZ 100.3 Ohsweken, ON
+http://178.obj.netromedia.net/ckrzfm/ckrzfm/playlist.m3u8
+#EXTINF:-1 channel-id="573" radio="true" tvg-logo="http://www.realcountrylloydminster.ca/assets/img/ms-touch-icon-144x144-precomposed.png" tvg-chno="1244" group-title="** CANADA RADIO **",CKSA 95.9 "Real Country Lloydminster", AB
+http://newcap.leanstream.co/CKSAFM
+#EXTINF:-1 channel-id="574" radio="true" tvg-chno="1245" group-title="** CANADA RADIO **",CKSG "myFM 93.3 Northumberland" Cobourg, ON
+http://ice64.securenetsystems.net/CKSG
+#EXTINF:-1 channel-id="575" radio="true" tvg-logo="http://realcountrystettler.ca/assets/img/ms-touch-icon-144x144-precomposed.png" tvg-chno="1246" group-title="** CANADA RADIO **",CKSQ 93.3 "Real Country Stettler", AB
+http://newcap.leanstream.co/CKSQFM
+#EXTINF:-1 channel-id="576" radio="true" tvg-logo="https://www.starfm.com/wp-content/uploads/sites/32/2018/02/cropped-logo_star983-512x512-270x270.png" tvg-chno="1247" group-title="** CANADA RADIO **",CKSR "Star 98.3"  Chilliwack, BC
+https://rogers-hls.leanstream.co/rogers/chi983.stream/playlist.m3u8
+#EXTINF:-1 channel-id="577" radio="true" tvg-logo="http://www.tsn.ca//img/tsn/icons/apple-touch-icon.png" tvg-chno="1248" group-title="** CANADA RADIO **",CKST 1040 TSN Vancouver
+http://provisioning.streamtheworld.com/pls/CKSTAMAAC.pls
+#EXTINF:-1 channel-id="578" radio="true" tvg-logo="http://943cksy.com/files/2016/11/cksyfm.png" tvg-chno="1249" group-title="** CANADA RADIO **",CKSY 94.3 Chatham, ON
+http://live.leanstream.co/CKSYFM
+#EXTINF:-1 channel-id="579" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/CKTB_AM.png" tvg-chno="1250" group-title="** CANADA RADIO **",CKTB News/Talk 610 (St. Catharines, ON)
+http://provisioning.streamtheworld.com/pls/CKTBAMAAC.pls
+#EXTINF:-1 channel-id="580" radio="true" tvg-logo="http://www.country1053.ca/sites/all/themes/cktg/logo.png" tvg-chno="1251" group-title="** CANADA RADIO **",CKTG 105.3 "Country 105" Thunder Bay, ON
+http://cktg.streamon.fm:8000/CKTG-48k.aac
+#EXTINF:-1 channel-id="581" radio="true" tvg-logo="http://957thewolf.ca/templates/95.7thewolf/images/logo.png" tvg-chno="1252" group-title="** CANADA RADIO **",CKTP 95.7 "The Wolf" Fredericton, NB
+http://149.56.234.138:8173/stream
+#EXTINF:-1 channel-id="582" radio="true" tvg-chno="1253" group-title="** CANADA RADIO **",CKUA Radio Network
+https://ais-sa1.streamon.fm/7000_48k.aac
+#EXTINF:-1 channel-id="583" radio="true" tvg-logo="http://chatham.coolradio.ca/files/2015/04/Cool951-32x321.jpg-v21.jpg" tvg-chno="1254" group-title="** CANADA RADIO **",CKUE "Cool 95.1" Chatham, ON
+http://live.leanstream.co/CKUEFM
+#EXTINF:-1 channel-id="584" radio="true" tvg-logo="http://windsor.coolradio.ca/files/2015/04/COOL_1007-32x32.jpg" tvg-chno="1255" group-title="** CANADA RADIO **",CKUE-FM2 "Cool 100.7" Windsor, ON
+http://live.leanstream.co/CKUEF2
+#EXTINF:-1 channel-id="585" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1000/files/2017/08/mix965herologoV6.png" tvg-chno="1256" group-title="** CANADA RADIO **",CKUL "Mix 96.5" Halifax, NS
+http://newcap.leanstream.co/CKULFM
+#EXTINF:-1 channel-id="586" radio="true" tvg-logo="http://ckuw.ca/assets/img/ckuw_2014.png" tvg-chno="1257" group-title="** CANADA RADIO **",CKUW 95.9 University of Winnipeg, MB
+http://shout.mtl.gameservers.com:9025/
+#EXTINF:-1 channel-id="587" radio="true" tvg-logo="http://www.covefm.com/wp-content/uploads/2016/03/CoveFM75.png" tvg-chno="1258" group-title="** CANADA RADIO **",CKVE 88.7 "Cove FM" Hubbards, NS
+http://174.36.206.197:8044/;stream.mp3
+#EXTINF:-1 channel-id="588" radio="true" tvg-logo="http://d2r87scxu22q8a.cloudfront.net/sitelogos/164-opLZotwJuXNYAiuEUYs0.png" tvg-chno="1259" group-title="** CANADA RADIO **",CKVG "Country 106.5"  Vegreville, AB
+http://ckvg.streamon.fm/stream/CKVG-48k.aac
+#EXTINF:-1 channel-id="589" radio="true" tvg-logo="http://www.realcountryhighprairie.ca/assets/img/ms-touch-icon-144x144-precomposed.png" tvg-chno="1260" group-title="** CANADA RADIO **",CKVH "Real Country 93.5" High Prairie, AB
+http://newcap.leanstream.co/CKVHFM
+#EXTINF:-1 channel-id="590" radio="true" tvg-logo="http://voiceoftheshuswap.ca/wp-content/uploads/2016/01/logo-6_header.png" tvg-chno="1261" group-title="** CANADA RADIO **",CKVS 93.7 Voice of the Shuswap, BC
+http://s2.stationplaylist.com:9240/listen.aac
+#EXTINF:-1 channel-id="591" radio="true" tvg-logo="http://www.mykemptvillenow.com/wp-content/themes/presso-child/vista/_img/station/CKVV.png" tvg-chno="1262" group-title="** CANADA RADIO **",CKVV 97.5 "Juice FM" Kemptville, ON
+http://s1.hotdogradio.com/CKVV
+#EXTINF:-1 channel-id="592" radio="true" tvg-logo="http://www.realcountrywestlock.ca/assets/img/ms-touch-icon-144x144-precomposed.png" tvg-chno="1263" group-title="** CANADA RADIO **",CKWB  "Real Country 97.9" Westlock, AB
+http://newcap.leanstream.co/CKWBFM
+#EXTINF:-1 channel-id="593" radio="true" tvg-logo="http://www.ckwe1039.fm/wp-content/uploads/2015/09/CKWE-Logo-Land90.png" tvg-chno="1264" group-title="** CANADA RADIO **",CKWE 103.9 Maniwaki, QC
+http://stream03.ustream.ca/kitiganzibi128.mp3
+#EXTINF:-1 channel-id="594" radio="true" tvg-chno="1265" group-title="** CANADA RADIO **",CKWF 101.5 "The Wolf" Peterborough
+http://live.leanstream.co/CKWFFM-MP3
+#EXTINF:-1 channel-id="595" radio="true" tvg-logo="http://sites.mbsradio.com/magic949/wp-content/uploads/sites/14/2017/01/Magic_Outline.png" tvg-chno="1266" group-title="** CANADA RADIO **",CKWM "Magic 94.9" Kentville, NS
+http://mbsradio.leanstream.co/CKWMFM-MP3
+#EXTINF:-1 channel-id="596" radio="true" tvg-logo="http://media.socastsrm.com/uploads/station/50/home_screen_logo-5633ba5724dd9.png" tvg-chno="1267" group-title="** CANADA RADIO **",CKWS 104.3 "Fresh Radio" Kingston, ON
+http://live.leanstream.co/CKWSFM?args=web_01
+#EXTINF:-1 channel-id="597" radio="true" tvg-logo="https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2017/11/29/1130-1200x627.png" tvg-chno="1268" group-title="** CANADA RADIO **",CKWX "News 1130" Vancouver, BC
+https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
+#EXTINF:-1 channel-id="598" radio="true" tvg-logo="http://radio2015.waynefm.com/assets/img/nologo.jpg" tvg-chno="1269" group-title="** CANADA RADIO **",CKWY 93.7 "Wayne FM" Wainwright, AB
+http://newcap.leanstream.co/CKWYFM
+#EXTINF:-1 channel-id="599" radio="true" tvg-logo="http://www.987krock.com/images/nologo.jpg" tvg-chno="1270" group-title="** CANADA RADIO **",CKXD 98.7 "K Rock"  Gander, NL
+http://newcap.leanstream.co/CKXDFM
+#EXTINF:-1 channel-id="600" radio="true" tvg-logo="http://www.krocknl.com/images/nologo.jpg" tvg-chno="1271" group-title="** CANADA RADIO **",CKXG 102.3  "K-Rock" Grand Falls-Windsor, NL
+http://newcap.leanstream.co/CKXGFM
+#EXTINF:-1 channel-id="601" radio="true" tvg-chno="1272" group-title="** CANADA RADIO **",CKXM 90.5 "myFM" Exeter, ON
+http://ice23.securenetsystems.net/CKXM
+#EXTINF:-1 channel-id="602" radio="true" tvg-logo="http://ckxsfm.com/wp-content/uploads/2016/09/ckxs-991-logo6.png" tvg-chno="1273" group-title="** CANADA RADIO **",CKXS 99.1 Wallaceburg, ON
+http://ice9.securenetsystems.net/CKXSFM
+#EXTINF:-1 channel-id="603" radio="true" tvg-logo="http://volunteerlethbridge.com/wp-content/uploads/2015/04/ckxu-radio-300x300.jpg" tvg-chno="1274" group-title="** CANADA RADIO **",CKXU 88.3 University of Lethbridge, AB
+http://ckxu.uleth.ca:8000/stream/5/
+#EXTINF:-1 channel-id="604" radio="true" tvg-logo="http://www.k-rock1039.com/images/logo.jpg" tvg-chno="1275" group-title="** CANADA RADIO **",CKXX 103.9 "K Rock" Corner Brook, NL
+http://newcap.leanstream.co/CKXXFM
+#EXTINF:-1 channel-id="605" radio="true" tvg-logo="https://www.kiss1023.ca/wp-content/uploads/sites/10/2016/07/cropped-cky-logo-270x270.png" tvg-chno="1276" group-title="** CANADA RADIO **",CKY "KISS 102.3" Winnipeg, MB
+https://rogers-hls.leanstream.co/rogers/win1023.stream/playlist.m3u8
+#EXTINF:-1 channel-id="606" radio="true" tvg-chno="1277" group-title="** CANADA RADIO **",CKYC 93.7 "Country 93" Owen Sound, ON
+http://bayshore.leanstream.co/CKYCFM
+#EXTINF:-1 channel-id="607" radio="true" tvg-logo="http://d2isblg909whrf.cloudfront.net/themes/ckyl/logo.png" tvg-chno="1278" group-title="** CANADA RADIO **",CKYL 610 "YL Country" Peace River, AB
+http://provisioning.streamtheworld.com/pls/CKYLFMAAC.pls
+#EXTINF:-1 channel-id="608" radio="true" tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/napanee1-1.png" tvg-chno="1279" group-title="** CANADA RADIO **",CKYM 88.7 "myFM" Napanee, ON
+http://ice23.securenetsystems.net/CKYM
+#EXTINF:-1 channel-id="609" radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s18202q.png" tvg-chno="1280" group-title="** CANADA RADIO **",CKYQ "KYQ 95.7" Plessisville, QC
+http://stream.statsradio.com:8014/stream
+#EXTINF:-1 channel-id="610" radio="true" tvg-logo="https://www.979rock.ca/wp-content/uploads/sites/37/2017/10/cropped-979ROCK_LOGO_514-270x270.png" tvg-chno="1281" group-title="** CANADA RADIO **",CKYX "97.9 Rock" Fort McMurray, AB
+http://rogers-hls.leanstream.co:8000/rogers/for979.stream/48k/playlist.m3u8
+#EXTINF:-1 channel-id="611" radio="true" tvg-logo="http://www.myfmradio.ca/myfmradio.ca.hyperesources/St%20Thomas%201.png" tvg-chno="1282" group-title="** CANADA RADIO **",CKZM 94.1 "myFM" St. Thomas, ON
+http://ice23.securenetsystems.net/CKZM
+#EXTINF:-1 channel-id="612" radio="true" tvg-logo="http://laradiogospel.ca/wp-content/uploads/logo_laradiogospel2-1.png" tvg-chno="1283" group-title="** CANADA RADIO **",CKZW 1650 "La Radio Gospel" Montreal, QC
+http://a1team.net:8128/;.mp3
+#EXTINF:-1 channel-id="613" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/870/files/2017/05/z-splash-logo.png" tvg-chno="1284" group-title="** CANADA RADIO **",CKZZ "Z95.3" Vancouver, BC
+http://newcap.leanstream.co/CKZZFM
+#EXTINF:-1 channel-id="614" radio="true" tvg-logo="https://cladriteradio.com/wp-content/uploads/2018/07/cr_radio_thumb.jpg" tvg-chno="1285" group-title="** CANADA RADIO **",Cladrite Radio at Live365
+http://streaming.live365.com/a43564
+#EXTINF:-1 channel-id="615" radio="true" tvg-chno="1286" group-title="** CANADA RADIO **",Classic Trance
+http://prem1.di.fm/classictrance_hi?b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="616" radio="true" tvg-chno="1287" group-title="** CANADA RADIO **",Classic Vocal Trance
+http://prem1.di.fm/classicvocaltrance_hi?b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="617" radio="true" tvg-chno="1288" group-title="** CANADA RADIO **",Classical FM Canada - CFMZ-FM
+http://stream1.classicalfm.ca/mzmedia-cfmzfmmp3-ibc2
+#EXTINF:-1 channel-id="618" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/576099128838520832/18zn9Gep_400x400.jpeg" tvg-chno="1289" group-title="** CANADA RADIO **",Classical FM Canada CFMZ
+https://stream1.classicalfm.ca/mzmedia-cfmzfmmp3-ibc2
+#EXTINF:-1 channel-id="619" radio="true" tvg-chno="1290" group-title="** CANADA RADIO **",Coast 101.1 FM St. Johns, NL
+https://canada1.reliastream.com/proxy/coastbr1?mp=/stream
+#EXTINF:-1 channel-id="620" radio="true" tvg-logo="https://static.ctvnews.ca/bellmedia/cp24/img/apple-touch-icon.png" tvg-chno="1291" group-title="** CANADA RADIO **",CP24 Audio Channel - Toronto, ON
+http://provisioning.streamtheworld.com/pls/TV_CP24AAC.pls
+#EXTINF:-1 channel-id="621" radio="true" tvg-logo="http://jbccs.streamon.fm/custom/images/jbccs-logo-20151118152046.png" tvg-chno="1292" group-title="** CANADA RADIO **",Cree Radio Network
+http://jbccs.streamon.fm:8000/JBCCS-24k.aac
+#EXTINF:-1 channel-id="622" radio="true" tvg-logo="http://28vi5c11qlvo3esjm01s1a4x.wpengine.netdna-cdn.com/students/wp-content/uploads/sites/9/2014/10/the-heat-logo-2015.png" tvg-chno="1293" group-title="** CANADA RADIO **",CRNC The Heat
+http://crystalout.surfernetwork.com:8001/CRNC_MP3
+#EXTINF:-1 channel-id="623" radio="true" tvg-logo="http://crucialvelocity.ca/CrucialVelocityLogo.jpg" tvg-chno="1294" group-title="** CANADA RADIO **",Crucial Velocity Radio
+http://crucialvelocity.ca/crucial128.m3u
+#EXTINF:-1 channel-id="624" radio="true" tvg-logo="https://crystalradio.ca/wp-content/uploads/cropped-crystal_400-192x192.png" tvg-chno="1295" group-title="** CANADA RADIO **",Crystal Radio
+http://206.72.196.133:8000/stream
+#EXTINF:-1 channel-id="625" radio="true" tvg-logo="https://crystalradio.ca/wp-content/uploads/cropped-crystal_400-192x192.png" tvg-chno="1296" group-title="** CANADA RADIO **",Crystal Radio
+http://206.72.196.133/stream/crystal2.pls?mp=/stream
+#EXTINF:-1 channel-id="626" radio="true" tvg-logo="https://static.ctvnews.ca/bellmedia/common/img/logos/News_Header_logo.png" tvg-chno="1297" group-title="** CANADA RADIO **",CTV News Audio Channel
+http://provisioning.streamtheworld.com/pls/TV_CTV_NEWSAAC.pls
+#EXTINF:-1 channel-id="627" radio="true" tvg-chno="1298" group-title="** CANADA RADIO **",CVUE Worldwide Radio - Sechelt, BC
+http://live.str3am.com:2960/;stream/1
+#EXTINF:-1 channel-id="628" radio="true" tvg-chno="1299" group-title="** CANADA RADIO **",Deep Concentration
+http://prem4.zenradio.com/zrdeepconcentration?b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="629" radio="true" tvg-chno="1300" group-title="** CANADA RADIO **",Deep Focus
+http://prem4.zenradio.com/zrdeepfocus?b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="630" radio="true" tvg-logo="http://www.radiodap.com//images/basic/logo-box.jpg" tvg-chno="1301" group-title="** CANADA RADIO **",Dil Apna Punjabi
+http://my.radiodap.ca:9000/;
+#EXTINF:-1 channel-id="631" radio="true" tvg-logo="http://djfm.ca/wp-content/uploads/2016/07/logo.png" tvg-chno="1302" group-title="** CANADA RADIO **",DJFM.ca Toronto, ON
+http://mux.mtl.djfmradio.com/djfm
+#EXTINF:-1 channel-id="632" radio="true" tvg-logo="https://decayfm.com/wp-content/uploads/2018/12/logo-e1512562084180-68-pixels.png" tvg-chno="1303" group-title="** CANADA RADIO **",DKFM Edge
+https://radio.streemlion.com:4405/stream
+#EXTINF:-1 channel-id="633" radio="true" tvg-chno="1304" group-title="** CANADA RADIO **",Dreamscapes
+https://listen.radiotunes.com/premium_high/dreamscapes.pls?listen_key=b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="634" radio="true" tvg-chno="1305" group-title="** CANADA RADIO **",Dusty Discs Radio
+http://stream.radiojar.com/utb53cr9ft5tv
+#EXTINF:-1 channel-id="635" radio="true" tvg-logo="http://www.dylanradio.com/ico/dylanradio57.png" tvg-chno="1306" group-title="** CANADA RADIO **",Dylanradio.com  Kentville, NS
+http://900.cloudrad.io:8138/
+#EXTINF:-1 channel-id="636" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s254274/images/logoq.jpg" tvg-chno="1307" group-title="** CANADA RADIO **",Early 60's - Calm Radio
+http://streams.calmradio.com:16128/stream/1/
+#EXTINF:-1 channel-id="637" radio="true" tvg-logo="http://ebc1.tv/wp-content/uploads/2016/11/logoo.jpg" tvg-chno="1308" group-title="** CANADA RADIO **",EBC One TV
+http://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 channel-id="638" radio="true" tvg-chno="1309" group-title="** CANADA RADIO **",Epic Trance
+http://prem4.di.fm/epictrance_hi?b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="639" radio="true" tvg-chno="1310" group-title="** CANADA RADIO **",Flashback Alternatives
+https://jenny.torontocast.com:8048/192
+#EXTINF:-1 channel-id="640" radio="true" tvg-chno="1311" group-title="** CANADA RADIO **",FM 104.7
+https://fsn-ais-relay2.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8?listeningSessionID=5fe4f8b6b7d8b376_2700625_iJpjxMv9_MTM4LjIwMS40MS4yMTc6ODAwMA!!_0000000qKGg&downloadSessionID=0&type=.ts&args=web_01
+#EXTINF:-1 channel-id="641" radio="true" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2017/02/Forest-Green-Radio-100x47.jpg" tvg-chno="1312" group-title="** CANADA RADIO **",Forest Green Radio
+http://s1.streamaudio.de:8000/forest-green
+#EXTINF:-1 channel-id="642" radio="true" tvg-logo="https://static.wixstatic.com/media/aaded1_7f49eef49e264e729fe3e5825ec355a9~mv2.png" tvg-chno="1313" group-title="** CANADA RADIO **",Freedom Rock Radio
+http://myradiostream.com/freedomrock
+#EXTINF:-1 channel-id="643" radio="true" tvg-logo="http://www.frequency5fm.com/images/logo6.png" tvg-chno="1314" group-title="** CANADA RADIO **",Frequency 5 FM.com - MX-Radio - Toronto, ON
+http://usa11.fastcast4u.com:5252/;
+#EXTINF:-1 channel-id="644" radio="true" tvg-logo="http://www.frequency5fm.com/images/logo6.png" tvg-chno="1315" group-title="** CANADA RADIO **",Frequency 5 FM.com - Toronto, ON
+http://usa8.fastcast4u.com:5861/;
+#EXTINF:-1 channel-id="645" radio="true" tvg-logo="http://www.frequency5fm.com/images/logo6.png" tvg-chno="1316" group-title="** CANADA RADIO **",Frequency 5 FM.com - Tropical - Toronto, ON
+http://usa8.fastcast4u.com:5873/;?1510722708661
+#EXTINF:-1 channel-id="646" radio="true" tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" tvg-chno="1317" group-title="** CANADA RADIO **",Frequency5FM - Hits
+https://usa8.fastcast4u.com/proxy/frequency5fm?mp=/1
+#EXTINF:-1 channel-id="647" radio="true" tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" tvg-chno="1318" group-title="** CANADA RADIO **",Frequency5FM - Mix Radio
+https://usa11.fastcast4u.com/proxy/frequency5fm3?mp=/1
+#EXTINF:-1 channel-id="648" radio="true" tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" tvg-chno="1319" group-title="** CANADA RADIO **",Frequency5FM - Romantica
+https://usa5.fastcast4u.com/proxy/frequency5fmhd?mp=/1
+#EXTINF:-1 channel-id="649" radio="true" tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" tvg-chno="1320" group-title="** CANADA RADIO **",Frequency5FM - Salsa
+https://usa13.fastcast4u.com/proxy/frequency5fm5?mp=/1
+#EXTINF:-1 channel-id="650" radio="true" tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" tvg-chno="1321" group-title="** CANADA RADIO **",Frequency5FM - Solo Tango
+https://usa13.fastcast4u.com/proxy/frequency5fm7?mp=/1
+#EXTINF:-1 channel-id="651" radio="true" tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" tvg-chno="1322" group-title="** CANADA RADIO **",Frequency5FM - Tropical
+https://usa8.fastcast4u.com/proxy/frequency5fm2?mp=/1
+#EXTINF:-1 channel-id="652" radio="true" tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" tvg-chno="1323" group-title="** CANADA RADIO **",Frequency5FM - Urbana
+https://usa2.fastcast4u.com/proxy/frequency5fm6?mp=/1
+#EXTINF:-1 channel-id="653" radio="true" tvg-logo="https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg" tvg-chno="1324" group-title="** CANADA RADIO **",Frequency5FM - Voz De Vida
+https://usa1.fastcast4u.com/proxy/frequency5fm4?mp=/1
+#EXTINF:-1 channel-id="654" radio="true" tvg-chno="1325" group-title="** CANADA RADIO **",Giant Radio 91.7 CIXL FM
+http://204.141.167.21:10670/stream
+#EXTINF:-1 channel-id="655" radio="true" tvg-chno="1326" group-title="** CANADA RADIO **",Golden Years Radio
+https://listen.goldenyearsradio.net/
+#EXTINF:-1 channel-id="656" radio="true" tvg-chno="1327" group-title="** CANADA RADIO **",gospel TV
+http://live-h1.frontlayer.net/fl492017/live/chunks.m3u8
+#EXTINF:-1 channel-id="657" radio="true" tvg-logo="https://www.grittyrockradio.com/img/logo_v3.png" tvg-chno="1328" group-title="** CANADA RADIO **",Gritty Rock Radio
+https://listen.radioking.com/radio/10713/stream/21674
+#EXTINF:-1 channel-id="658" radio="true" tvg-logo="https://www.grittyrockradio.com/img/logo_v3.png" tvg-chno="1329" group-title="** CANADA RADIO **",Gritty Rock Radio
+https://listen.radioking.com/radio/10713/stream/224413
+#EXTINF:-1 channel-id="659" radio="true" tvg-logo="https://grittyrockradio.com/upload/design/5da370da871411.74177445.png" tvg-chno="1330" group-title="** CANADA RADIO **",Gritty Rock Radio
+http://www.radioking.com/play/gritty-rock
+#EXTINF:-1 channel-id="660" radio="true" tvg-logo="https://www.guaranimontreal.com/wp-content/uploads/2019/11/cropped-ico_guarani_512-2-270x270.png" tvg-chno="1331" group-title="** CANADA RADIO **",Guaraní Montreal
+http://51.161.13.49:8007/stream
+#EXTINF:-1 channel-id="661" radio="true" tvg-chno="1332" group-title="** CANADA RADIO **",Guitar Calm Radio
+http://streams.calmradio.com:2728/
+#EXTINF:-1 channel-id="662" radio="true" tvg-logo="http://www.gurbanikirtan247.com/wp-content/uploads/2015/01/apple144.png" tvg-chno="1333" group-title="** CANADA RADIO **",Gurbani Kirtan 24/7
+http://162.255.163.64:8006/start.mp3
+#EXTINF:-1 channel-id="663" radio="true" tvg-logo="https://hofmradio.com/images/logo/hofm-favicon.png" tvg-chno="1334" group-title="** CANADA RADIO **",Hall of Fame Music Radio
+http://streamer.hofmradio.com:2199/tunein/halloffame.pls
+#EXTINF:-1 channel-id="664" radio="true" tvg-logo="http://static.wixstatic.com/media/724aef_9b1d463fb41245deb3a5ef378aba535d.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/724aef_9b1d463fb41245deb3a5ef378aba535d.png" tvg-chno="1335" group-title="** CANADA RADIO **",Hang 10 Rock Radio - Tofino, BC
+http://158.69.227.214:8113/stream
+#EXTINF:-1 channel-id="665" radio="true" tvg-logo="https://www.happychristmasradio.net/images/favicon/favicon-32x32.png" tvg-chno="1336" group-title="** CANADA RADIO **",Happy Christmas Radio
+https://listen.happychristmasradio.net/
+#EXTINF:-1 channel-id="666" radio="true" tvg-logo="http://hits-93-toronto.radio-site.com/upload/design/59445080e5c4e9.76874666.png" tvg-chno="1337" group-title="** CANADA RADIO **",Hits 93 Toronto.com
+https://listen.radioking.com/radio/75868/stream/113899
+#EXTINF:-1 channel-id="667" radio="true" tvg-chno="1338" group-title="** CANADA RADIO **",Iam Radio
+https://iamradio.radioca.st/stream
+#EXTINF:-1 channel-id="668" radio="true" tvg-chno="1339" group-title="** CANADA RADIO **",Ici Musique Montréal 100,7 FM
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QMTL0_MTL
+#EXTINF:-1 channel-id="669" radio="true" tvg-chno="1340" group-title="** CANADA RADIO **",ICI Musique Ottawa
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1 channel-id="670" radio="true" tvg-logo="https://ici.radio-canada.ca//unit/content/favicon/Default/mstile-144x144.png" tvg-chno="1341" group-title="** CANADA RADIO **",ICI Radio-Canada Première CBV 106.3 Québec (Capitale-Nationale)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QQUE0_QUE
+#EXTINF:-1 channel-id="671" radio="true" tvg-chno="1342" group-title="** CANADA RADIO **",ICI Radio-Canada Première Gaspésie - Îles de la Madeleine
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMAT0_MAT
+#EXTINF:-1 channel-id="672" radio="true" tvg-chno="1343" group-title="** CANADA RADIO **",ICI Radio-Canada Première Ottawa/Gatineau (90.7)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT
+#EXTINF:-1 channel-id="673" radio="true" tvg-chno="1344" group-title="** CANADA RADIO **",ICI RDI TV
+http://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 channel-id="674" radio="true" tvg-logo="https://igniteradio.mohawkcollege.ca/wp-content/uploads/sites/15/2017/01/logo-ignite-radio-200.png" tvg-chno="1345" group-title="** CANADA RADIO **",Ignite Radio (Mohawk College) Hamilton, ON
+http://142.222.6.62:8000/stream/2/;
+#EXTINF:-1 channel-id="675" radio="true" tvg-logo="http://i-liveradio.com/wp-content/uploads/2015/06/10708700_1021876921173217_1834748687394242495_o.jpg" tvg-chno="1346" group-title="** CANADA RADIO **",iLive Radio.com - Toronto, ON
+http://streaming.radio.co/s735df8c1c/listen
+#EXTINF:-1 channel-id="676" radio="true" tvg-chno="1347" group-title="** CANADA RADIO **",Immortal Radio
+https://streaming.radio.co/s0be4039b4/listen
+#EXTINF:-1 channel-id="677" radio="true" tvg-logo="http://www.inetmusic.ca/uploads/1/1/9/9/119994470/new-classic-alternative-banner_orig.jpg" tvg-chno="1348" group-title="** CANADA RADIO **",inetmusic.ca | Classic Alternative
+http://s16.myradiostream.com:7304/
+#EXTINF:-1 channel-id="678" radio="true" tvg-logo="http://www.inetmusic.ca/uploads/1/1/9/9/119994470/edited/new-big-70s-banner.jpg" tvg-chno="1349" group-title="** CANADA RADIO **",inetmusic.ca | The Big 70's
+http://s3.free-shoutcast.com:18172/
+#EXTINF:-1 channel-id="679" radio="true" tvg-logo="http://www.inetmusic.ca/uploads/1/1/9/9/119994470/new-big-80s-banner_orig.jpg" tvg-chno="1350" group-title="** CANADA RADIO **",inetmusic.ca | The Big 80's
+http://usa7.fastcast4u.com:5880/
+#EXTINF:-1 channel-id="680" radio="true" tvg-chno="1351" group-title="** CANADA RADIO **",irock24/7
+https://streamer.radio.co/s493283a7e/listen
+#EXTINF:-1 channel-id="681" radio="true" tvg-logo="https://riza.isoradio.to/assets/favicons/apple-touch-icon.png" tvg-chno="1352" group-title="** CANADA RADIO **",ISO Radio
+https://s2.radio.co/s08ee97bf4/listen
+#EXTINF:-1 channel-id="682" radio="true" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/jclubhiphop.jpg" tvg-chno="1353" group-title="** CANADA RADIO **",J-Club Powerplay HipHop
+https://kathy.torontocast.com:3350/
+#EXTINF:-1 channel-id="683" radio="true" tvg-logo="http://asiadreamradio.torontocast.stream/stations/images/hjpowerplayer/powerplayjpop16300.jpeg" tvg-chno="1354" group-title="** CANADA RADIO **",J-Pop Powerplay (Asia DREAM Radio)
+http://kathy.torontocast.com:3560/
+#EXTINF:-1 channel-id="684" radio="true" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/ppkawaii_thumb.jpg" tvg-chno="1355" group-title="** CANADA RADIO **",J-Pop Powerplay Kawaii
+https://kathy.torontocast.com:3060/;
+#EXTINF:-1 channel-id="685" radio="true" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/ppkawaii.jpg" tvg-chno="1356" group-title="** CANADA RADIO **",J-Pop Powerplay Kawaii
+https://kathy.torontocast.com/kawaii
+#EXTINF:-1 channel-id="686" radio="true" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/ppkawaii.jpg" tvg-chno="1357" group-title="** CANADA RADIO **",J-Pop Powerplay Kawaii (http)
+http://kathy.torontocast.com:3060/;
+#EXTINF:-1 channel-id="687" radio="true" tvg-logo="https://asiadreamradio.torontocast.stream/stations/images/hnatsukashiiplayer/natsu50.jpeg" tvg-chno="1358" group-title="** CANADA RADIO **",J-Pop Sakura 懐かしい (Asia Dream Radio
+https://igor.torontocast.com:1710/
+#EXTINF:-1 channel-id="688" radio="true" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/jrockpowerplay-2_thumb.jpg" tvg-chno="1359" group-title="** CANADA RADIO **",J-Rock Powerplay
+https://kathy.torontocast.com:3340/
+#EXTINF:-1 channel-id="689" radio="true" tvg-logo="https://i.ibb.co/VMp1c3T/newlogo.png" tvg-chno="1360" group-title="** CANADA RADIO **",Jammin Vibez Christmas
+https://ecast.myautodj.com/jamminvibezchristmas
+#EXTINF:-1 channel-id="690" radio="true" tvg-logo="https://i.ibb.co/VMp1c3T/newlogo.png" tvg-chno="1361" group-title="** CANADA RADIO **",Jammin Vibez Dancehall
+https://ecast.myautodj.com/jamminvibezdancehall
+#EXTINF:-1 channel-id="691" radio="true" tvg-logo="https://i.ibb.co/VMp1c3T/newlogo.png" tvg-chno="1362" group-title="** CANADA RADIO **",Jammin Vibez Reggae
+https://ecast.myautodj.com/jamminvibezreggae
+#EXTINF:-1 channel-id="692" radio="true" tvg-logo="https://i.ibb.co/VMp1c3T/newlogo.png" tvg-chno="1363" group-title="** CANADA RADIO **",Jammin Vibez Soca
+https://ecast.myautodj.com/jamminvibezsoca
+#EXTINF:-1 channel-id="693" radio="true" tvg-chno="1364" group-title="** CANADA RADIO **",Khalsa FM
+http://198.178.123.8:7798/;stream.mp3
+#EXTINF:-1 channel-id="694" radio="true" tvg-logo="https://www.kiss1031.ca/wp-content/uploads/sites/43/2016/04/cropped-kiss1031-512x512-192x192.png" tvg-chno="1365" group-title="** CANADA RADIO **",KiSS 103.1 Victoria
+http://rogers.leanstream.co/rogers/vic1031.stream/icy
+#EXTINF:-1 channel-id="695" radio="true" tvg-logo="https://www.kissottawa.com/wp-content/uploads/sites/9/2016/05/cropped-KiSS1053_Logo-270x270.png" tvg-chno="1366" group-title="** CANADA RADIO **",KiSS 105.3 Ottawa - 90's to NOW! (Working station)
+http://rogers-hls.leanstream.co:8000/rogers/ott1053.stream/48k/playlist.m3u8
+#EXTINF:-1 channel-id="696" radio="true" tvg-chno="1367" group-title="** CANADA RADIO **",Kiss 107.7
+https://rogers.leanstream.co/rogers/let1077.stream/icy?environment=tunein
+#EXTINF:-1 channel-id="697" radio="true" tvg-logo="https://www.kiss925.com/wp-content/uploads/sites/59/2020/09/KiSS-925-logo-514x514-1.png" tvg-chno="1368" group-title="** CANADA RADIO **",KISS 92.5
+https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+#EXTINF:-1 channel-id="698" radio="true" tvg-logo="https://kryptonradio.com/wp-content/uploads/2017/02/kryptonRadioAlexaSkill.jpg" tvg-chno="1369" group-title="** CANADA RADIO **",Krypton Radio
+http://station.kryptonradio.com:2199/tunein/kryptonradio.pls
+#EXTINF:-1 channel-id="699" radio="true" tvg-chno="1370" group-title="** CANADA RADIO **",kyk 95.7 radio x
+https://cogecomedia.leanstream.co/CKYKFM-MP3?args=web_01
+#EXTINF:-1 channel-id="700" radio="true" tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" tvg-chno="1371" group-title="** CANADA RADIO **",Labgate - Alt Rock Grunge
+https://s2.ssl-stream.com/radio/8190/radio.mp3
+#EXTINF:-1 channel-id="701" radio="true" tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" tvg-chno="1372" group-title="** CANADA RADIO **",Labgate - Classic Rock
+https://s2.ssl-stream.com/radio/8170/radio.mp3
+#EXTINF:-1 channel-id="702" radio="true" tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png" tvg-chno="1373" group-title="** CANADA RADIO **",Labgate - Progressive Rock
+https://s2.ssl-stream.com/radio/8180/radio.mp3
+#EXTINF:-1 channel-id="703" radio="true" tvg-logo="https://lapfoxradio.com//apple-touch-icon-180x180.png" tvg-chno="1374" group-title="** CANADA RADIO **",Lapfox Radio
+https://lapfoxradio.com/lapfox_radio.pls
+#EXTINF:-1 channel-id="704" radio="true" tvg-chno="1375" group-title="** CANADA RADIO **",Lave Radio
+https://kathy.torontocast.com/lave
+#EXTINF:-1 channel-id="705" radio="true" tvg-logo="http://static.wixstatic.com/media/a75255_6c7617ea2b664d78ad1c125a2e6c8e69%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/a75255_6c7617ea2b664d78ad1c125a2e6c8e69%7Emv2.png" tvg-chno="1376" group-title="** CANADA RADIO **",Le Rapologue Radio
+http://149.56.147.197:9675/stream
+#EXTINF:-1 channel-id="706" radio="true" tvg-logo="http://www.lg73.ca/images/LG73_2015_3D_Logo_100h.png" tvg-chno="1377" group-title="** CANADA RADIO **",LG73.ca - Vancouver, BC
+http://lg73.ca:28000/LG73.aac
+#EXTINF:-1 channel-id="707" radio="true" tvg-chno="1378" group-title="** CANADA RADIO **",Meditation
+https://listen.radiotunes.com/premium_high/meditation.pls?listen_key=b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="708" radio="true" tvg-chno="1379" group-title="** CANADA RADIO **",metalrock.fm
+http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
+#EXTINF:-1 channel-id="709" radio="true" tvg-chno="1380" group-title="** CANADA RADIO **",Middle East Radio
+https://s2.voscast.com:7387/stream
+#EXTINF:-1 channel-id="710" radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wcthrr6auz2z.jpg" tvg-chno="1381" group-title="** CANADA RADIO **",Mix 247 EDM
+http://radio.streemlion.com:3590/stream
+#EXTINF:-1 channel-id="711" radio="true" tvg-logo="https://storage.musopen.org/static/icons/icon192.5b0c6cf166c7.png" tvg-chno="1382" group-title="** CANADA RADIO **",Musopen
+https://live.musopen.org:8085/streamvbr0
+#EXTINF:-1 channel-id="712" radio="true" tvg-logo="https://myradio580.com/wp-content/uploads/2020/06/fevi.png" tvg-chno="1383" group-title="** CANADA RADIO **",MyRadio 580am
+http://ais-sa1.streamon.fm/7681_64k.mp3
+#EXTINF:-1 channel-id="713" radio="true" tvg-logo="http://n10.as/logo.png" tvg-chno="1384" group-title="** CANADA RADIO **",N10.as Radio Montreal, QC
+http://n10as.out.airtime.pro:8000/n10as_a
+#EXTINF:-1 channel-id="714" radio="true" tvg-logo="https://newscotlandradio.weebly.com/uploads/8/2/4/7/82471242/1481501116.png" tvg-chno="1385" group-title="** CANADA RADIO **",New Scotland Radio - Halifax, NS
+http://s39.myradiostream.com:10532/;stream.mp3
+#EXTINF:-1 channel-id="715" radio="true" tvg-logo="http://www.oldiesparadise.com/index_htm_files/71.jpg" tvg-chno="1386" group-title="** CANADA RADIO **",Oldies Paradise.com Toronto, ON
+http://www.oldiesparadise.com:8000/;stream.mp3
+#EXTINF:-1 channel-id="716" radio="true" tvg-logo="https://static.wixstatic.com/media/50d954_9f5ba932b0134ce6a3574ad5ef6e36e7%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/50d954_9f5ba932b0134ce6a3574ad5ef6e36e7%7Emv2.png" tvg-chno="1387" group-title="** CANADA RADIO **",Pantheon Radio
+http://184.75.223.178:8020/stream
+#EXTINF:-1 channel-id="717" radio="true" tvg-logo="http://pashtomusic.ca/pashtoradio.png" tvg-chno="1388" group-title="** CANADA RADIO **",Pashto Radio
+http://198.211.37.126:8050/
+#EXTINF:-1 channel-id="718" radio="true" tvg-chno="1389" group-title="** CANADA RADIO **",Perfect Sunsets
+http://prem4.zenradio.com/zrperfectsunsets?b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="719" radio="true" tvg-chno="1390" group-title="** CANADA RADIO **",PopCanFunny.ca CKPF-DB
+https://popcanfunny.radioca.st/streams/128kbps
+#EXTINF:-1 channel-id="720" radio="true" tvg-chno="1391" group-title="** CANADA RADIO **",PopCanRadio.ca CHPO-DB
+https://popcanradio.radioca.st/streams/128kbps
+#EXTINF:-1 channel-id="721" radio="true" tvg-chno="1392" group-title="** CANADA RADIO **",PopCanRebel.ca CKRP-DB
+https://popcanrebel.radioca.st/streams/128kbps
+#EXTINF:-1 channel-id="722" radio="true" tvg-chno="1393" group-title="** CANADA RADIO **",PopCanRetro.ca CHRT-DB
+https://popcanretro.radioca.st/streams/128kbps
+#EXTINF:-1 channel-id="723" radio="true" tvg-chno="1394" group-title="** CANADA RADIO **",PopCanVibes.ca CIPV-DB
+https://popcanvibes.radioca.st/streams/128kbps
+#EXTINF:-1 channel-id="724" radio="true" tvg-chno="1395" group-title="** CANADA RADIO **",Power 104
+https://redirect.jpbgdigital.com/CKLZ.m3u8?player_type=web&device_id=@uuid@&member_id=@memberid@
+#EXTINF:-1 channel-id="725" radio="true" tvg-logo="http://power92fm.ca/wp-content/uploads/2016/03/cropped-12895405_10156633357980545_1138831676_n-192x192.jpg" tvg-chno="1396" group-title="** CANADA RADIO **",Power92 FM
+http://s12.myradiostream.com:5608/stream
+#EXTINF:-1 channel-id="726" radio="true" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/76924.v2.png" tvg-chno="1397" group-title="** CANADA RADIO **",Prog Frog
+http://eagle.streemlion.com:4040/listen.pls?sid=1
+#EXTINF:-1 channel-id="727" radio="true" tvg-logo="https://img1.wsimg.com/isteam/ip/f4ad9898-71f5-42e5-a958-dd2b33f2112e/1599849250468.png" tvg-chno="1398" group-title="** CANADA RADIO **",Prognosis
+https://stream.rcast.live/66391
+#EXTINF:-1 channel-id="728" radio="true" tvg-chno="1399" group-title="** CANADA RADIO **",PunkRockRadio.ca
+https://stream.radio.co/s904013bb1/listen
+#EXTINF:-1 channel-id="729" radio="true" tvg-logo="http://www.qcindie.com/wp-content/uploads/2015/11/cropped-favicon1-270x270.png" tvg-chno="1400" group-title="** CANADA RADIO **",QCIndie.com
+http://23.227.178.146/listen.pls
+#EXTINF:-1 channel-id="730" radio="true" tvg-logo="https://www.qub.radio/images/IMG_FB.png" tvg-chno="1401" group-title="** CANADA RADIO **",QUB Radio
+http://playerservices.streamtheworld.com/pls/QUB_RADIOAAC.pls
+#EXTINF:-1 channel-id="731" radio="true" tvg-logo="http://www.radio42north.com/wp-content/uploads/2017/10/cropped-Radio42North-Logo_white-small-title-270x270.png" tvg-chno="1402" group-title="** CANADA RADIO **",Radio 42° North (R42N) [AAC+ 64kbps]
+http://ice66.securenetsystems.net/R42N
+#EXTINF:-1 channel-id="732" radio="true" tvg-logo="https://www.radio854.com/Logo-Radio-854-1.jpg" tvg-chno="1403" group-title="** CANADA RADIO **",Radio 854
+https://jenny.torontocast.com:2000/tunein/Radio_854_1/stream/pls
+#EXTINF:-1 channel-id="733" radio="true" tvg-logo="http://radioafsana.com/wp-content/themes/d5-socialia/images/logo.png" tvg-chno="1404" group-title="** CANADA RADIO **",Radio Afsana.com - Toronto, ON
+http://174.36.206.197:7019/stream
+#EXTINF:-1 channel-id="734" radio="true" tvg-logo="http://radiobellissima.it/wp-content/uploads/2019/03/Logo_Radiobellissima_Nero_Sfondobianco-01-300x300.png" tvg-chno="1405" group-title="** CANADA RADIO **",Radio Bellissima Hits
+http://giorgia.radiobellissima.it:8000/stream
+#EXTINF:-1 channel-id="735" radio="true" tvg-logo="http://radiobellissima.it/wp-content/uploads/2017/11/logo.jpg" tvg-chno="1406" group-title="** CANADA RADIO **",Radio Bellissima Italia
+http://giorgia.radiobellissima.it:8040/;
+#EXTINF:-1 channel-id="736" radio="true" tvg-logo="http://radiobellissima.it/wp-content/uploads/2017/11/logo.jpg" tvg-chno="1407" group-title="** CANADA RADIO **",Radio Bellissima Latina
+http://martina.radiobellissima.it:8060/;
+#EXTINF:-1 channel-id="737" radio="true" tvg-logo="http://www.radioquebec.biz/logo-rq-reduit.jpg" tvg-chno="1408" group-title="** CANADA RADIO **",Radio Bizzzzz
+http://91.121.162.224:9012/stream
+#EXTINF:-1 channel-id="738" radio="true" tvg-chno="1409" group-title="** CANADA RADIO **",Radio BluesFlac
+http://streams.radiomast.io/radioblues-flac
+#EXTINF:-1 channel-id="739" radio="true" tvg-logo="https://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png" tvg-chno="1410" group-title="** CANADA RADIO **",radio classique quebec
+https://www.radioking.com/play/radio-classique-quebec-92-7/301510
+#EXTINF:-1 channel-id="740" radio="true" tvg-chno="1411" group-title="** CANADA RADIO **",Rádio Deep
+http://184.75.223.178:8058/stream
+#EXTINF:-1 channel-id="741" radio="true" tvg-logo="http://www.radiodap.com/images/basic/logo1.png" tvg-chno="1412" group-title="** CANADA RADIO **",Radio Dil Apna Punjabi
+http://my.radiodap.ca:9000/
+#EXTINF:-1 channel-id="742" radio="true" tvg-logo="http://www.radiodap.com/images/basic/logo1.png" tvg-chno="1413" group-title="** CANADA RADIO **",Radio Dil Apna Punjabi - Radio Eknoor
+http://my.radiodap.ca:1313/
+#EXTINF:-1 channel-id="743" radio="true" tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2018/05/RADIO-DIMENSIONE-MIX_700X700-300x300.jpg" tvg-chno="1414" group-title="** CANADA RADIO **",RADIO DIMENSIONE MIX
+http://igor.torontocast.com:1770/stream
+#EXTINF:-1 channel-id="744" radio="true" tvg-chno="1415" group-title="** CANADA RADIO **",Radio Free Peterborough
+http://trentradio.ca:8800/rfp
+#EXTINF:-1 channel-id="745" radio="true" tvg-logo="https://radiogloboitalia.com/wp/wp-content/uploads/2017/10/cropped-globo900-270x270.jpg" tvg-chno="1416" group-title="** CANADA RADIO **",Radio Globo Italia
+http://144.217.76.188:8248/;
+#EXTINF:-1 channel-id="746" radio="true" tvg-logo="http://www.radiostreamlive.com/images/logos_radioitaliacanada.png" tvg-chno="1417" group-title="** CANADA RADIO **",Radio Italia Canada
+https://streaming.radiostreamlive.com/radioitaliacanada_devices
+#EXTINF:-1 channel-id="747" radio="true" tvg-logo="http://www.kalasam.com/images/kalasam1.jpg" tvg-chno="1418" group-title="** CANADA RADIO **",Radio Kalasam.com - Toronto, ON
+http://173.192.207.51:8084/;stream.mp3
+#EXTINF:-1 channel-id="748" radio="true" tvg-chno="1419" group-title="** CANADA RADIO **",Radio Konton 90.5 North Bay, ON
+http://radiokonton.zapto.org:8000/;
+#EXTINF:-1 channel-id="749" radio="true" tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" tvg-chno="1420" group-title="** CANADA RADIO **",Radio Maria Canada
+http://cloudrad.io/radiomariacanadaeng/listen.m3u
+#EXTINF:-1 channel-id="750" radio="true" tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" tvg-chno="1421" group-title="** CANADA RADIO **",RADIO MARIA CANADA - HMWN
+http://dreamsiteradiocp.com:8016/stream
+#EXTINF:-1 channel-id="751" radio="true" tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" tvg-chno="1422" group-title="** CANADA RADIO **",Radio Maria Canada - In Italiano
+http://cloudrad.io/radiomariacanadator/listen.m3u
+#EXTINF:-1 channel-id="752" radio="true" tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" tvg-chno="1423" group-title="** CANADA RADIO **",Radio Maria Canada - Spanish
+http://rmcesp.radiomaria.ca:8050/;stream.mp3
+#EXTINF:-1 channel-id="753" radio="true" tvg-logo="https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png" tvg-chno="1424" group-title="** CANADA RADIO **",RADIO MARIA CANADA - TORONTO
+http://dreamsiteradiocp4.com:8016/stream
+#EXTINF:-1 channel-id="754" radio="true" tvg-chno="1425" group-title="** CANADA RADIO **",Radio Quebec Country.com - Thetford Mines, QC
+http://play.quebec-country.com/
+#EXTINF:-1 channel-id="755" radio="true" tvg-logo="http://radioquebecinternational.com/images/pic02.png" tvg-chno="1426" group-title="** CANADA RADIO **",Radio Québec International  -- RQI1: Yesterday and Today
+https://us10a.serverse.com/proxy/rqi1
+#EXTINF:-1 channel-id="756" radio="true" tvg-logo="http://radioquebecinternational.com/images/pic02.png" tvg-chno="1427" group-title="** CANADA RADIO **",Radio Québec International -- RQI2 : The Pioneers
+https://us10a.serverse.com/proxy/rqi2
+#EXTINF:-1 channel-id="757" radio="true" tvg-logo="https://www.radioregent.com/images/radioregent_web.png" tvg-chno="1428" group-title="** CANADA RADIO **",Radio Regent.com Toronto, ON
+https://streamer.radio.co/se3e1e3815/low
+#EXTINF:-1 channel-id="758" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/4058aea7-d4f4-4c11-a4b3-1c6dce791477.png" tvg-chno="1429" group-title="** CANADA RADIO **",Radio Shemroon - Richmond Hill, ON
+http://192.99.17.12:5919/;
+#EXTINF:-1 channel-id="759" radio="true" tvg-chno="1430" group-title="** CANADA RADIO **",Radio XY
+http://streaming.live365.com/a41839
+#EXTINF:-1 channel-id="760" radio="true" tvg-chno="1431" group-title="** CANADA RADIO **",Radio-Classique
+https://www.radioking.com/play/radio-classique/271810
+#EXTINF:-1 channel-id="761" radio="true" tvg-chno="1432" group-title="** CANADA RADIO **",RadioProgram
+http://radio.streemlion.com:2190/radioprogram
+#EXTINF:-1 channel-id="762" radio="true" tvg-chno="1433" group-title="** CANADA RADIO **",RadioSky Music Jazz
+http://jazz.radioskymusic.com:7006/live
+#EXTINF:-1 channel-id="763" radio="true" tvg-chno="1434" group-title="** CANADA RADIO **",Radioskymusic Jazz
+http://live.radioskymusic.com/
+#EXTINF:-1 channel-id="764" radio="true" tvg-chno="1435" group-title="** CANADA RADIO **",RadioSkyMusic Jazz
+http://listen.radioskymusic.com:7006/live
+#EXTINF:-1 channel-id="765" radio="true" tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" tvg-chno="1436" group-title="** CANADA RADIO **",Rainwave All
+http://www.rainwave.cc/tune_in/5.ogg
+#EXTINF:-1 channel-id="766" radio="true" tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" tvg-chno="1437" group-title="** CANADA RADIO **",Rainwave Covers
+http://covers.rainwave.cc/tune_in/3.ogg
+#EXTINF:-1 channel-id="767" radio="true" tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" tvg-chno="1438" group-title="** CANADA RADIO **",Rainwave Game
+http://game.rainwave.cc/tune_in/1.ogg
+#EXTINF:-1 channel-id="768" radio="true" tvg-logo="https://raw.githubusercontent.com/rmcauley/rainwave/master/static/images4/logo_blue_on_white.png" tvg-chno="1439" group-title="** CANADA RADIO **",Rainwave OC Remix
+http://ocr.rainwave.cc/tune_in/2.ogg
+#EXTINF:-1 channel-id="769" radio="true" tvg-logo="http://www.spoilaranks.com/images/ranksradio_logo.png" tvg-chno="1440" group-title="** CANADA RADIO **",Ranks Radio.com - Toronto, ON
+http://142.4.217.133:8294/stream
+#EXTINF:-1 channel-id="770" radio="true" tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2019/11/RDMIX_CHILLOUT_1400-300x300.jpg" tvg-chno="1441" group-title="** CANADA RADIO **",RDMIX CHILLOUT PASSION
+https://daniel.torontocast.com/rdmixchillout
+#EXTINF:-1 channel-id="771" radio="true" tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2019/04/RDMIX-ROCK_1400_-300x300.jpg" tvg-chno="1442" group-title="** CANADA RADIO **",RDMIX CLASSIC ROCK
+http://hazel.torontocast.com:2870/stream
+#EXTINF:-1 channel-id="772" radio="true" tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/02/RDMIX-ITALO-DISCO_80S_OK-640x640.jpg" tvg-chno="1443" group-title="** CANADA RADIO **",RDMIX ITALO DISCO 80'S
+http://igor.torontocast.com:1800/stream
+#EXTINF:-1 channel-id="773" radio="true" tvg-logo="https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/09/RDMIX-LOVE_SONGS_512_OK-150x150.png" tvg-chno="1444" group-title="** CANADA RADIO **",RDMIX LOVE SONGS
+http://maggie.torontocast.com:8022/stream
+#EXTINF:-1 channel-id="774" radio="true" tvg-logo="https://i.imgur.com/CO3feHW.png" tvg-chno="1445" group-title="** CANADA RADIO **",Rebel 101.7
+http://stream.rebel1017.com:8442/rebel1017
+#EXTINF:-1 channel-id="775" radio="true" tvg-chno="1446" group-title="** CANADA RADIO **",Red FM 88.9
+https://ice9.securenetsystems.net/CIRVFM
+#EXTINF:-1 channel-id="776" radio="true" tvg-logo="https://static.wixstatic.com/media/82b05f_a03389eb8beb411b9960b57755fb3880%7Emv2.jpg" tvg-chno="1447" group-title="** CANADA RADIO **",RetroSouvenirs
+https://listen.radioking.com/radio/108/stream/61183
+#EXTINF:-1 channel-id="777" radio="true" tvg-logo="https://radiomaxitalo.com/wp-content/uploads/2020/02/RMI-New-Logo-Website-68.png" tvg-chno="1448" group-title="** CANADA RADIO **",RMI - EURO DISCO
+https://ruby.torontocast.com:1565/stream
+#EXTINF:-1 channel-id="778" radio="true" tvg-logo="https://radiomaxitalo.com/wp-content/uploads/2020/02/RMI-New-Logo-Website-68.png" tvg-chno="1449" group-title="** CANADA RADIO **",RMI - IN THE MIX
+https://ruby.torontocast.com:1365/stream
+#EXTINF:-1 channel-id="779" radio="true" tvg-logo="https://radiomaxitalo.com/wp-content/uploads/2021/01/RMI6-80s-500-200x200.png" tvg-chno="1450" group-title="** CANADA RADIO **",RMI - Radio Max Italo - 80s Gold
+https://ruby.torontocast.com:1635/stream
+#EXTINF:-1 channel-id="780" radio="true" tvg-logo="https://radiomaxitalo.com/wp-content/uploads/2021/01/RMI6-80s-500-200x200.png" tvg-chno="1451" group-title="** CANADA RADIO **",RMI - Radio Max Italo - 80s GOLD
+https://ruby.torontocast.com:1645/stream
+#EXTINF:-1 channel-id="781" radio="true" tvg-logo="https://radiomaxitalo.com/wp-content/uploads/2020/03/RMI1-New-Logo-Classic-200x200.png" tvg-chno="1452" group-title="** CANADA RADIO **",RMI - Radio Max Italo - ITALO DISCO CLASSIC
+https://ruby.torontocast.com:1385/stream
+#EXTINF:-1 channel-id="782" radio="true" tvg-logo="https://radiomaxitalo.com/wp-content/uploads/2018/08/RMI2-New-Logo-New-200x200.png" tvg-chno="1453" group-title="** CANADA RADIO **",RMI - Radio Max Italo - ITALO DISCO NEW GENERATION
+https://ruby.torontocast.com:1525/stream
+#EXTINF:-1 channel-id="783" radio="true" tvg-logo="https://radiomaxitalo.com/wp-content/uploads/2021/01/RMI5-Synth-500-200x200.png" tvg-chno="1454" group-title="** CANADA RADIO **",RMI - Radio Max Italo - SYNTHESIZER DANCE
+https://ruby.torontocast.com:1625/stream
+#EXTINF:-1 channel-id="784" radio="true" tvg-logo="https://radiomaxitalo.com/wp-content/uploads/2021/01/RMI5-Synth-500-200x200.png" tvg-chno="1455" group-title="** CANADA RADIO **",RMI - Radio Max Italo - SYNTHESIZER DANCE
+https://ruby.torontocast.com:1615/stream
+#EXTINF:-1 channel-id="785" radio="true" tvg-logo="https://rock95.com/wp-content/themes/child-rock95/images/touch/apple-touch-icon.png" tvg-chno="1456" group-title="** CANADA RADIO **",Rock 95
+https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01
+#EXTINF:-1 channel-id="786" radio="true" tvg-chno="1457" group-title="** CANADA RADIO **",rockXradio
+http://158.69.227.214:8000/stream
+#EXTINF:-1 channel-id="787" radio="true" tvg-chno="1458" group-title="** CANADA RADIO **",RPGamers Network
+http://stream.rpgamers.net:8000/rpgn
+#EXTINF:-1 channel-id="788" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s2575q.png" tvg-chno="1459" group-title="** CANADA RADIO **",Scratch Radio
+http://www.scratchradio.ca:8000/;
+#EXTINF:-1 channel-id="789" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s2575q.png" tvg-chno="1460" group-title="** CANADA RADIO **",Scratch Radio
+http://www.scratchradio.ca:8000/;.mp3
+#EXTINF:-1 channel-id="790" radio="true" tvg-chno="1461" group-title="** CANADA RADIO **",SFU (Simon Fraser University) Campus-Community Radio - CJSF
+https://www.cjsf.ca:8443/listen-hq?1614824897932
+#EXTINF:-1 channel-id="791" radio="true" tvg-chno="1462" group-title="** CANADA RADIO **",Shine FM
+https://ais-sa1.streamon.fm/7262_32k.aac/playlist.m3u8?NoPreroll=true&starttime=1&esPlayer&cb=453636.m4a
+#EXTINF:-1 channel-id="792" radio="true" tvg-logo="https://slowlyradio.com/wp-content/uploads/2020/03/SIGLE-SLOWLY-RADIO-800X800-trans.png" tvg-chno="1463" group-title="** CANADA RADIO **",SLOWLY RADIO
+http://stream.slowlyradio.com/
+#EXTINF:-1 channel-id="793" radio="true" tvg-logo="http://soundstorm-radio.com/wp-content/uploads/2016/12/cropped-Soundstorm-LOGo-512x512-270x270.png" tvg-chno="1464" group-title="** CANADA RADIO **",Soundstorm Radio
+http://stream.soundstorm-radio.com:8000/
+#EXTINF:-1 channel-id="794" radio="true" tvg-chno="1465" group-title="** CANADA RADIO **",Squirrel FM
+http://s25.myradiostream.com:10092/stream/1/listen.mp3
+#EXTINF:-1 channel-id="795" radio="true" tvg-chno="1466" group-title="** CANADA RADIO **",SRC Trois-Rivières
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QTRV0_TRV
+#EXTINF:-1 channel-id="796" radio="true" tvg-chno="1467" group-title="** CANADA RADIO **",Stainbah online AM 1250
+https://goldenwest.leanstream.co/goldenwest/CHSMAM.stream/playlist.m3u8?args=app_02
+#EXTINF:-1 channel-id="797" radio="true" tvg-chno="1468" group-title="** CANADA RADIO **",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1 channel-id="798" radio="true" tvg-chno="1469" group-title="** CANADA RADIO **",Stingray Everything '80s
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1 channel-id="799" radio="true" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-flashback-70s/thumbv_20200717_232723.jpg" tvg-chno="1470" group-title="** CANADA RADIO **",Stingray Flashback '70s
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 channel-id="800" radio="true" tvg-logo="https://telkom-resources.deod.tv/images/stingraymcshitlistusav1-1604428838-xl.jpg" tvg-chno="1471" group-title="** CANADA RADIO **",Stingray Hit List
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
+#EXTINF:-1 channel-id="801" radio="true" tvg-chno="1472" group-title="** CANADA RADIO **",Stingray Holiday Hits
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+#EXTINF:-1 channel-id="802" radio="true" tvg-chno="1473" group-title="** CANADA RADIO **",Stingray Hot Country
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1 channel-id="803" radio="true" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/thumbh_20200717_232723.jpg" tvg-chno="1474" group-title="** CANADA RADIO **",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 channel-id="804" radio="true" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61UKePMkOeL.png" tvg-chno="1475" group-title="** CANADA RADIO **",Stingray Qello Concerts
+https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="805" radio="true" tvg-logo="https://telkom-resources.deod.tv/images/stingraymcsrockalternativev1-1604429049-m.jpg" tvg-chno="1476" group-title="** CANADA RADIO **",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 channel-id="806" radio="true" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-todays-latin-pop/thumbv_20200710_233009.png" tvg-chno="1477" group-title="** CANADA RADIO **",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 channel-id="807" radio="true" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png" tvg-chno="1478" group-title="** CANADA RADIO **",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 channel-id="808" radio="true" tvg-logo="http://www.tagtv.info/wp-content/uploads/2015/07/logo1.png" tvg-chno="1479" group-title="** CANADA RADIO **",Tag News TV
+http://cdn11.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
+#EXTINF:-1 channel-id="809" radio="true" tvg-logo="http://www.tamilsunfm.com/images/banner%20new.png" tvg-chno="1480" group-title="** CANADA RADIO **",TamilSun FM
+http://192.184.9.158:8864/
+#EXTINF:-1 channel-id="810" radio="true" tvg-chno="1481" group-title="** CANADA RADIO **",Tek Groove.com  - Montreal, QC
+http://198.50.250.195:7046/?.mp3
+#EXTINF:-1 channel-id="811" radio="true" tvg-chno="1482" group-title="** CANADA RADIO **",The beat 92.5
+https://cogecomedia.leanstream.co/cogecomedia/CKBEFM.stream/playlist.m3u8?type=.ts&args=web_01
+#EXTINF:-1 channel-id="812" radio="true" tvg-chno="1483" group-title="** CANADA RADIO **",The beat 92.5
+https://hel-ais-relay3.leanstream.co/cogecomedia/CKBEFM.stream/playlist.m3u8
+#EXTINF:-1 channel-id="813" radio="true" tvg-chno="1484" group-title="** CANADA RADIO **",The Lounge Sound.ca - Montreal, QC
+http://streams.theloungesound.ca:8059/;?.mp3
+#EXTINF:-1 channel-id="814" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s281642/images/logoq.jpg" tvg-chno="1485" group-title="** CANADA RADIO **",THE LYNX CLASSIC ROCK
+http://rock-lynxradio.radioca.st/stream
+#EXTINF:-1 channel-id="815" radio="true" tvg-chno="1486" group-title="** CANADA RADIO **",The Lynx Classic Rock
+http://listen.shoutcast.com/CRIKFM-TheLynxClassicRock
+#EXTINF:-1 channel-id="816" radio="true" tvg-chno="1487" group-title="** CANADA RADIO **",The Lynx Disco Classics
+http://listen.shoutcast.com/CRIKFM-TheLynxDiscoClassics
+#EXTINF:-1 channel-id="817" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s49609/images/logoq.jpg" tvg-chno="1488" group-title="** CANADA RADIO **",The Lynx Retro 80s
+http://80s-lynxradio.radioca.st/stream
+#EXTINF:-1 channel-id="818" radio="true" tvg-logo="http://cdn-profiles.tunein.com/s49608/images/logoq.jpg" tvg-chno="1489" group-title="** CANADA RADIO **",THE LYNX SUPER 70S
+http://70s-lynxradio.radioca.st/stream
+#EXTINF:-1 channel-id="819" radio="true" tvg-chno="1490" group-title="** CANADA RADIO **",The Lynx Super 70s
+http://listen.shoutcast.com/CRIKFM-TheLynxSuper70s
+#EXTINF:-1 channel-id="820" radio="true" tvg-chno="1491" group-title="** CANADA RADIO **",The Taint
+http://s1.nexuscast.com/tunein.php/jasonroy/playlist.pls
+#EXTINF:-1 channel-id="821" radio="true" tvg-chno="1492" group-title="** CANADA RADIO **",The Tri City's Alternative
+https://conestoga.leanstream.co/CJIQFM?args=3rdparty_01&starttime=1605211812
+#EXTINF:-1 channel-id="822" radio="true" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/460/files/2018/09/web-logo-zone.png" tvg-chno="1493" group-title="** CANADA RADIO **",The Zone
+https://redirect.jpbgdigital.com/CJZN.m3u8?np=1&player_type=%E2%80%A6c-4195-8657-fe1a081fb529&member_id=null&starttime=1608617530
+#EXTINF:-1 channel-id="823" radio="true" tvg-logo="https://tikipod.net/wp-content/uploads/2020/01/cropped-TR_logo_title_600-1-270x270.jpg" tvg-chno="1494" group-title="** CANADA RADIO **",Tikipod Radio
+https://igor.torontocast.com:1265/stream
+#EXTINF:-1 channel-id="824" radio="true" tvg-chno="1495" group-title="** CANADA RADIO **",Time Capsule Show
+http://sc3.mystreamserver.com:8060/
+#EXTINF:-1 channel-id="825" radio="true" tvg-chno="1496" group-title="** CANADA RADIO **",TNI Radio, Nunavut
+http://perseus.shoutca.st:8599/stream/1/
+#EXTINF:-1 channel-id="826" radio="true" tvg-logo="https://torontocast.com/wp-content/uploads/2017/07/cropped-3idGgyU-270x270.png" tvg-chno="1497" group-title="** CANADA RADIO **",Today's Country Mix
+http://184.75.223.178:8140/autodj
+#EXTINF:-1 channel-id="827" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s296524q.png" tvg-chno="1498" group-title="** CANADA RADIO **",Tokyo Rose Radio
+http://agnes.torontocast.com:8055/stream
+#EXTINF:-1 channel-id="828" radio="true" tvg-logo="https://static-1.ivooxcdn.com/radios/3/0/3/2/6041432912303_XXL.jpg" tvg-chno="1499" group-title="** CANADA RADIO **",toronto global radio - EDM
+http://109.74.206.14:8120/;?1521072492867
+#EXTINF:-1 channel-id="829" radio="true" tvg-logo="https://static-1.ivooxcdn.com/radios/3/0/3/2/6041432912303_XXL.jpg" tvg-chno="1500" group-title="** CANADA RADIO **",toronto global radio - euro & freestyle
+http://109.74.206.14:8070/;?1521073202547
+#EXTINF:-1 channel-id="830" radio="true" tvg-logo="https://static-1.ivooxcdn.com/radios/3/0/3/2/6041432912303_XXL.jpg" tvg-chno="1501" group-title="** CANADA RADIO **",toronto global radio - house
+http://109.74.206.14:8138/;?1521072802316
+#EXTINF:-1 channel-id="831" radio="true" tvg-logo="https://static-1.ivooxcdn.com/radios/3/0/3/2/6041432912303_XXL.jpg" tvg-chno="1502" group-title="** CANADA RADIO **",toronto global radio - reggaeton
+http://109.74.206.14:8186/;?1521072959812
+#EXTINF:-1 channel-id="832" radio="true" tvg-logo="https://static-1.ivooxcdn.com/radios/3/0/3/2/6041432912303_XXL.jpg" tvg-chno="1503" group-title="** CANADA RADIO **",toronto global radio - rock
+http://109.74.206.14:8102/;?1521072887667
+#EXTINF:-1 channel-id="833" radio="true" tvg-logo="https://static-1.ivooxcdn.com/radios/3/0/3/2/6041432912303_XXL.jpg" tvg-chno="1504" group-title="** CANADA RADIO **",toronto global radio - top 40
+http://109.74.206.14:8273/;?1521073139315
+#EXTINF:-1 channel-id="834" radio="true" tvg-logo="https://static-1.ivooxcdn.com/radios/3/0/3/2/6041432912303_XXL.jpg" tvg-chno="1505" group-title="** CANADA RADIO **",toronto global radio - trance
+http://109.74.206.14:8126/;?1521072724562
+#EXTINF:-1 channel-id="835" radio="true" tvg-logo="https://static-1.ivooxcdn.com/radios/3/0/3/2/6041432912303_XXL.jpg" tvg-chno="1506" group-title="** CANADA RADIO **",toronto global radio - urban
+http://109.74.206.14:8024/;?1521073071773
+#EXTINF:-1 channel-id="836" radio="true" tvg-chno="1507" group-title="** CANADA RADIO **",Trance
+http://prem1.di.fm/trance_hi?b1e8ab696a279ebb68c48cab
+#EXTINF:-1 channel-id="837" radio="true" tvg-logo="https://www.trekstation.torontocast.stream/mstile-144x144-20200108114952.png" tvg-chno="1508" group-title="** CANADA RADIO **",TrekStation Cafe Elle
+https://fred.torontocast.com:2305/stream
+#EXTINF:-1 channel-id="838" radio="true" tvg-logo="https://www.trekstation.torontocast.stream/apple-touch-icon-20200108114952.png" tvg-chno="1509" group-title="** CANADA RADIO **",TrekStation Country
+https://daniel.torontocast.com:2735/stream
+#EXTINF:-1 channel-id="839" radio="true" tvg-logo="https://www.trekstation.torontocast.stream/mstile-144x144-20200108114952.png" tvg-chno="1510" group-title="** CANADA RADIO **",TrekStation Grooves
+https://daniel.torontocast.com:2465/stream
+#EXTINF:-1 channel-id="840" radio="true" tvg-logo="https://www.trekstation.torontocast.stream/mstile-144x144-20200108114952.png" tvg-chno="1511" group-title="** CANADA RADIO **",TrekStation Jazz
+http://daniel.torontocast.com:2450/stream
+#EXTINF:-1 channel-id="841" radio="true" tvg-logo="https://www.trekstation.torontocast.stream/mstile-144x144-20200108114952.png" tvg-chno="1512" group-title="** CANADA RADIO **",TrekStation Lounge
+https://fred.torontocast.com:2485/stream
+#EXTINF:-1 channel-id="842" radio="true" tvg-logo="https://www.tsn.ca//img/tsn/icons/apple-touch-icon-114x114.png" tvg-chno="1513" group-title="** CANADA RADIO **",TSN 1050
+http://provisioning.streamtheworld.com/pls/CHUMAMAAC.pls
+#EXTINF:-1 channel-id="843" radio="true" tvg-logo="https://www.tsn.ca//img/tsn/icons/apple-touch-icon.png" tvg-chno="1514" group-title="** CANADA RADIO **",TSN 1050 CHUM AM  Toronto
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+#EXTINF:-1 channel-id="844" radio="true" tvg-logo="https://www.tsn.ca//img/tsn/icons/apple-touch-icon.png" tvg-chno="1515" group-title="** CANADA RADIO **",TSN 1260 CFRN Edmonton
+http://provisioning.streamtheworld.com/pls/CFRNAMAAC.pls
+#EXTINF:-1 channel-id="845" radio="true" tvg-chno="1516" group-title="** CANADA RADIO **",TSN690 Montreal
+https://22203.live.streamtheworld.com/CKGMAMAAC.aac
+#EXTINF:-1 channel-id="846" radio="true" tvg-chno="1517" group-title="** CANADA RADIO **",Ucb Canada 90.7
+http://s7.viastreaming.net:8600/;
+#EXTINF:-1 channel-id="847" radio="true" tvg-chno="1518" group-title="** CANADA RADIO **",UMFM 101.5 (CJUM)
+http://opml.radiotime.com/Tune.ashx?id=s24644
+#EXTINF:-1 channel-id="848" radio="true" tvg-logo="https://www.wavesofpower.com/wp-content/uploads/2019/03/Logo_vallamai.png" tvg-chno="1519" group-title="** CANADA RADIO **",Vallamaiyin Alaikal - Waves of Power
+http://radio.pixelinmedia.com/vallamai
+#EXTINF:-1 channel-id="849" radio="true" tvg-logo="http://vocm.com/wp-content/uploads/2016/05/no-thumbnail.jpg" tvg-chno="1520" group-title="** CANADA RADIO **",VOCM-AM 590 St. John's, NL
+http://newcap.leanstream.co/VOCMAM
+#EXTINF:-1 channel-id="850" radio="true" tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1464/files/2017/11/206_primary_image.png" tvg-chno="1521" group-title="** CANADA RADIO **",VOCM-FM 97.5 "K-Rock" St. John's, NL
+http://newcap.leanstream.co/VOCMFM
+#EXTINF:-1 channel-id="851" radio="true" tvg-chno="1522" group-title="** CANADA RADIO **",VOWR 800 St. John's, NL
+http://provisioning.streamtheworld.com/pls/VOWRAMAAC.pls
+#EXTINF:-1 channel-id="852" radio="true" tvg-logo="http://www.wave.fm/theme/default/img/logo.png" tvg-chno="1523" group-title="** CANADA RADIO **",WAVE.FM
+http://provisioning.streamtheworld.com/pls/CIWVFM.pls
+#EXTINF:-1 channel-id="853" radio="true" tvg-logo="http://cache.wefunkradio.com/images-small/outside/design/wefunk-logo-3d-vector2.png" tvg-chno="1524" group-title="** CANADA RADIO **",WEFUNK
+http://www.wefunkradio.com/play/radio.pls
+#EXTINF:-1 channel-id="854" radio="true" tvg-logo="http://cache.wefunkradio.com/images-small/outside/design/wefunk-logo-3d-vector2.png" tvg-chno="1525" group-title="** CANADA RADIO **",WEFUNK Radio
+http://s-09.wefunkradio.com:81/wefunk64.mp3
+#EXTINF:-1 channel-id="855" radio="true" tvg-chno="1526" group-title="** CANADA RADIO **",WKND 99.5, Montreal City
+http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3?type=.mp3&1597284756
+#EXTINF:-1 channel-id="856" radio="true" tvg-logo="http://xltrax.com/wp-content/uploads/2015/08/313794_10151271786582414_990547088_a1.png" tvg-chno="1527" group-title="** CANADA RADIO **",XLTRAX Music Network -"XLMAX Radio" - Sherbrooke, QC
+http://xltrax.com:8840/;audio.mp3
+#EXTINF:-1 channel-id="857" radio="true" tvg-logo="http://xltrax.com/wp-content/uploads/2015/08/313794_10151271786582414_990547088_a1.png" tvg-chno="1528" group-title="** CANADA RADIO **",XLTRAX Music Network Dance Radio - Sherbrooke, QC
+http://xltrax.com:8000/;stream/1
+#EXTINF:-1 channel-id="858" radio="true" tvg-chno="1529" group-title="** CANADA RADIO **",Yimago 6 / British Sixties Radio
+http://str2b.openstream.co/878
+#EXTINF:-1 channel-id="859" radio="true" tvg-logo="https://i.imgur.com/547wB6U.png" tvg-chno="1530" group-title="** CANADA RADIO **",Yimago Radio 4
+https://str2b.openstream.co/870

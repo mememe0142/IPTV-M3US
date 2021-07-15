@@ -1,0 +1,39 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19269" group-title="** [ADULT SWIM] **",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19270" group-title="** [ADULT SWIM] **",Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19271" group-title="** [ADULT SWIM] **",Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19272" group-title="** [ADULT SWIM] **",Dream Corp LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19273" group-title="** [ADULT SWIM] **",Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19274" group-title="** [ADULT SWIM] **",Last Stream on the Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19275" group-title="** [ADULT SWIM] **",Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19276" group-title="** [ADULT SWIM] **",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19277" group-title="** [ADULT SWIM] **",Off The Air / Smalls
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19278" group-title="** [ADULT SWIM] **",Relaxing Fish
+https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19279" group-title="** [ADULT SWIM] **",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19280" group-title="** [ADULT SWIM] **",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19281" group-title="** [ADULT SWIM] **",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19282" group-title="** [ADULT SWIM] **",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19283" group-title="** [ADULT SWIM] **",The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19284" group-title="** [ADULT SWIM] **",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19285" group-title="** [ADULT SWIM] **",Tim and Eric Awesome Show
+http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19286" group-title="** [ADULT SWIM] **",Your Pretty Face is Going to Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" tvg-chno="19287" group-title="** [ADULT SWIM] **",[adult swim] live stream
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8

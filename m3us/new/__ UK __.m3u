@@ -1,0 +1,23 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 radio="false" tvg-name="BBC1" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" tvg-chno="4131" group-title="** UK **",BBC1
+http://stream.tvtap.live:8081/live/bbc1.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="CBBC" tvg-logo="https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-cbbclogo2005--default--370.png" tvg-chno="4132" group-title="** UK **",CBBC
+http://stream.tvtap.live:8081/live/cbbc.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4133" group-title="** UK **",Disney
+http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="Film 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" tvg-chno="4134" group-title="** UK **",Film 4
+http://stream.tvtap.live:8081/live/film4.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" tvg-chno="4135" group-title="** UK **",ITV 1
+http://stream.tvtap.live:8081/live/itv1.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="ITV 2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" tvg-chno="4136" group-title="** UK **",ITV 2
+http://stream.tvtap.live:8081/live/itv2.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="ITV 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png" tvg-chno="4137" group-title="** UK **",ITV 3
+http://stream.tvtap.live:8081/live/itv3.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="ITV 4" tvg-logo="https://cdn.road.cc/sites/default/files/styles/schema_org/public/images/News/ITV4%20logo.jpg" tvg-chno="4138" group-title="** UK **",ITV 4
+http://stream.tvtap.live:8081/live/itv4.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-id="I170.11006.schedulesdirect.org" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/a/a9/Cartoonverse_-_Nickelodeon_-3.png" tvg-chno="4139" group-title="** UK **",Nickelodeon
+http://stream.tvtap.live:8081/live/us-nick.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.postimg.cc/jSRBY7K7/images-3.jpg" tvg-chno="4140" group-title="** UK **",SKY CINEMA ACTION HD
+http://stream.tvtap.live:8081/live/maction.stream/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.postimg.cc/hG5LsHpG/images-2.jpg" tvg-chno="4141" group-title="** UK **",SKY CINEMA DISNEY
+http://stream.tvtap.live:8081/live/mdisney.stream/chunks.m3u8

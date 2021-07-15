@@ -1,0 +1,299 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3703" group-title="** NEWS **",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" tvg-chno="3704" group-title="** NEWS **",ABC News Live | HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3705" group-title="** NEWS **",ABC News | 1
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3706" group-title="** NEWS **",ABC News | 10
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3707" group-title="** NEWS **",ABC News | 2
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3708" group-title="** NEWS **",ABC News | 3
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3709" group-title="** NEWS **",ABC News | 4
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3710" group-title="** NEWS **",ABC News | 5
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3711" group-title="** NEWS **",ABC News | 6
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3712" group-title="** NEWS **",ABC News | 7
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3713" group-title="** NEWS **",ABC News | 8
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-chno="3714" group-title="** NEWS **",ABC News | 9
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-chno="3715" group-title="** NEWS **",Al Jazeera (QA) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-id="5e1f7da4bc7d740009831259" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" tvg-chno="3716" group-title="** NEWS **",America's Voice News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="15" radio="false" tvg-logo="http://www.isv.net/logos/arirangtv.png" tvg-chno="3717" group-title="** NEWS **",Arirang (KR) (Opt-1)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-logo="http://www.isv.net/logos/arirangtv.png" tvg-chno="3718" group-title="** NEWS **",Arirang (KR) (Opt-2)
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" tvg-chno="3719" group-title="** NEWS **",BBC World News (GB) (Opt-3)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-id="5f1efad04320070007dbb60b" tvg-logo="https://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" tvg-chno="3720" group-title="** NEWS **",Black News Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="19" radio="false" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" tvg-chno="3721" group-title="** NEWS **",Blaze Live
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="20" radio="false" tvg-id="Bloomberg TV USA" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" tvg-chno="3722" group-title="** NEWS **",Bloomberg TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="21" radio="false" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-chno="3723" group-title="** NEWS **",Bloomberg TV Asia (HK)
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-logo="https://od.lk/s/MF8yMjM3MzA0MDFf/BNC247_300x300.png" tvg-chno="3724" group-title="** NEWS **",BNC 24/7 | HD
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8	
+#EXTINF:-1 channel-id="23" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" tvg-chno="3725" group-title="** NEWS **",CBS News | CBS Sports HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:-1 channel-id="24" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3726" group-title="** NEWS **",CBS News | CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:-1 channel-id="25" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3727" group-title="** NEWS **",CBS News | CBSN Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 channel-id="26" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3728" group-title="** NEWS **",CBS News | CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?iu=/4128/CBS.CHI.OTT
+#EXTINF:-1 channel-id="27" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3729" group-title="** NEWS **",CBS News | CBSN Dallas-Ft.W.
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?iu=/4128/CBS.DALLAS.OTT
+#EXTINF:-1 channel-id="28" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3730" group-title="** NEWS **",CBS News | CBSN Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?iu=/4128/CBS.DENVER.OTT
+#EXTINF:-1 channel-id="29" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3731" group-title="** NEWS **",CBS News | CBSN Live Event
+https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+#EXTINF:-1 channel-id="30" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3732" group-title="** NEWS **",CBS News | CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 channel-id="31" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3733" group-title="** NEWS **",CBS News | CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:-1 channel-id="32" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3734" group-title="** NEWS **",CBS News | CBSN National
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 channel-id="33" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3735" group-title="** NEWS **",CBS News | CBSN New York
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 channel-id="34" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3736" group-title="** NEWS **",CBS News | CBSN Philladelphia
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 channel-id="35" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3737" group-title="** NEWS **",CBS News | CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?iu=/4128/CBS.PITTS.OTT
+#EXTINF:-1 channel-id="36" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ETLive.png?raw=true" tvg-chno="3738" group-title="** NEWS **",CBS News | ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1 channel-id="37" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" tvg-chno="3739" group-title="** NEWS **",CBS News | HD
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 channel-id="38" radio="false" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" tvg-chno="3740" group-title="** NEWS **",CBSN 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="39" radio="false" tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvg-chno="3741" group-title="** NEWS **",CBSN Los Angeles 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="40" radio="false" tvg-id="5dc9b8223687ff000936ed79" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" tvg-chno="3742" group-title="** NEWS **",CBSN New York 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="41" radio="false" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" tvg-chno="3743" group-title="** NEWS **",CGTN (CN) (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 channel-id="42" radio="false" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" tvg-chno="3744" group-title="** NEWS **",CGTN (CN) (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 channel-id="43" radio="false" tvg-id="5ca1e02c08ee5378be82db47" tvg-logo="https://images.pluto.tv/channels/5ca1e02c08ee5378be82db47/colorLogoPNG.png" tvg-chno="3745" group-title="** NEWS **",Cheddar
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c08ee5378be82db47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="44" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" tvg-chno="3746" group-title="** NEWS **",Cheddar | Webstream
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+#EXTINF:-1 channel-id="45" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-chno="3747" group-title="** NEWS **",CNA (SG) (Opt-1)
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 channel-id="46" radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-chno="3748" group-title="** NEWS **",CNA (SG) (Opt-2)
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+#EXTINF:-1 channel-id="47" radio="false" tvg-id="56283c8769ba54637dea0464" tvg-logo="https://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" tvg-chno="3749" group-title="** NEWS **",CNET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="48" radio="false" tvg-id="CNN" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" tvg-chno="3750" group-title="** NEWS **",CNN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 channel-id="49" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CNN.png?raw=true" tvg-chno="3751" group-title="** NEWS **",CNN | Event Stream
+https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/de/master.m3u8
+#EXTINF:-1 channel-id="50" radio="false" tvg-logo="https://i.imgur.com/kJcwaOU.png" tvg-chno="3752" group-title="** NEWS **",DW News (DE)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 channel-id="51" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-chno="3753" group-title="** NEWS **",Entrepeneur
+https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
+#EXTINF:-1 channel-id="52" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ETLive.png?raw=true" tvg-chno="3754" group-title="** NEWS **",ET Live Showbiz News
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1 channel-id="53" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" tvg-chno="3755" group-title="** NEWS **",Euronews | HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 channel-id="54" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" tvg-chno="3756" group-title="** NEWS **",Euronews | HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 channel-id="55" radio="false" tvg-logo="https://i.imgur.com/gDOEH0A.png" tvg-chno="3757" group-title="** NEWS **",France 24 (FR) (Opt-1)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 channel-id="56" radio="false" tvg-logo="https://i.imgur.com/gDOEH0A.png" tvg-chno="3758" group-title="** NEWS **",France 24 (FR) (Opt-2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 channel-id="57" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" tvg-chno="3759" group-title="** NEWS **",France 24 | English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 channel-id="58" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" tvg-chno="3760" group-title="** NEWS **",France 24 | French
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 channel-id="59" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" tvg-chno="3761" group-title="** NEWS **",Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 channel-id="60" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3762" group-title="** NEWS **",KCPQ Fox Q13 Seattle
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="61" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3763" group-title="** NEWS **",KDFW Fox 4 Dallas-FT-Worth
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="62" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3764" group-title="** NEWS **",KMSP Fox 9 Minneapolis ST Paul
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="63" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3765" group-title="** NEWS **",KRIV Fox 26 Houston
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="64" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3766" group-title="** NEWS **",KTBC Fox 7 Austin
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="65" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3767" group-title="** NEWS **",KTTV Fox 11 Los Angeles
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="66" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3768" group-title="** NEWS **",KTVU Fox 2 San Francisco
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="67" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3769" group-title="** NEWS **",KZAS Fox 10 Phoenix
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="68" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3770" group-title="** NEWS **",NBC News Now Event 1
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+#EXTINF:-1 channel-id="69" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3771" group-title="** NEWS **",NBC News Now Event 2
+https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
+#EXTINF:-1 channel-id="70" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3772" group-title="** NEWS **",NBC News Now Event 3
+https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
+#EXTINF:-1 channel-id="71" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3773" group-title="** NEWS **",NBC News Now Event 4
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
+#EXTINF:-1 channel-id="72" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3774" group-title="** NEWS **",NBC News Now Event 5
+https://nbcnews-lh.akamaihd.net/i/nbc_live21@183428/master.m3u8
+#EXTINF:-1 channel-id="73" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3775" group-title="** NEWS **",NBC News Now | HD
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+#EXTINF:-1 channel-id="74" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3776" group-title="** NEWS **",NBC News Now | Source 1
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
+#EXTINF:-1 channel-id="75" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" tvg-chno="3777" group-title="** NEWS **",NBC News Now | Source 2
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
+#EXTINF:-1 channel-id="76" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" tvg-chno="3778" group-title="** NEWS **",NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+#EXTINF:-1 channel-id="77" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3779" group-title="** NEWS **",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="78" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" tvg-chno="3780" group-title="** NEWS **",News Net | HD
+https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
+#EXTINF:-1 channel-id="79" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" tvg-chno="3781" group-title="** NEWS **",News Net | SD
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
+#EXTINF:-1 channel-id="80" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" tvg-chno="3782" group-title="** NEWS **",NewsMax TV | Alternate
+https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 channel-id="81" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" tvg-chno="3783" group-title="** NEWS **",NewsMax TV | Webstream
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 channel-id="82" radio="false" tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-logo="https://od.lk/s/MF8yMjY2MjI1OTlf/NewsNet.png" tvg-chno="3784" group-title="** NEWS **",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 channel-id="83" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Newsy_359x359.png?raw=true" tvg-chno="3785" group-title="** NEWS **",Newsy | Alternate
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8?ad=therokuchannel
+#EXTINF:-1 channel-id="84" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Newsy_359x359.png?raw=true" tvg-chno="3786" group-title="** NEWS **",Newsy | Webstream
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 channel-id="85" radio="false" tvg-logo="https://i.imgur.com/mBTe5bW.png" tvg-chno="3787" group-title="** NEWS **",NHK World (JP)
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+#EXTINF:-1 channel-id="86" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-chno="3788" group-title="** NEWS **",OAN Encore HD
+https://a.jsrdn.com/broadcast/nfbajk34e/c.m3u8
+#EXTINF:-1 channel-id="87" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-chno="3789" group-title="** NEWS **",Real Vision
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1 channel-id="88" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3790" group-title="** NEWS **",Redbox | Black News Channel
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="89" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3791" group-title="** NEWS **",Redbox | Bloomberg
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="90" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3792" group-title="** NEWS **",Redbox | CBC News
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="91" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3793" group-title="** NEWS **",Redbox | Cheddar
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="92" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3794" group-title="** NEWS **",Redbox | Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="93" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3795" group-title="** NEWS **",Redbox | USA today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="94" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="3796" group-title="** NEWS **",Redbox | Wired
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="95" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3797" group-title="** NEWS **",Roku | ABC News Live
+https://abcnewslive-roku.akamaized.net/midroll/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="96" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3798" group-title="** NEWS **",Roku | America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="97" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3799" group-title="** NEWS **",Roku | Black News Channel
+https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="98" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3800" group-title="** NEWS **",Roku | Bloomberg Quicktake
+https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="99" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3801" group-title="** NEWS **",Roku | Cheddar News
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="100" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3802" group-title="** NEWS **",Roku | Estrella News
+https://estrellanews-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellanews-roku/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="101" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3803" group-title="** NEWS **",Roku | Euronews (English)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="102" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3804" group-title="** NEWS **",Roku | Euronews (Español)
+https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="103" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3805" group-title="** NEWS **",Roku | NBC News Now
+https://nbcnewsxumo.akamaized.net/hls/live/2026070/nnn_live2/master.m3u8
+#EXTINF:-1 channel-id="104" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3806" group-title="** NEWS **",Roku | NewsMax TV
+https://newsmax-roku-us.amagi.tv/hls/amagi_hls_data_newsmaxAA-newsmax/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="105" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3807" group-title="** NEWS **",Roku | Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 channel-id="106" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3808" group-title="** NEWS **",Roku | Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="107" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3809" group-title="** NEWS **",Roku | One America (OAN)
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="108" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3810" group-title="** NEWS **",Roku | Reuters
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="109" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3811" group-title="** NEWS **",Roku | TYT GO
+https://tyt-roku-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="110" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3812" group-title="** NEWS **",Roku | USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 channel-id="111" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3813" group-title="** NEWS **",Roku | WeatherNation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="112" radio="false" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" tvg-chno="3814" group-title="** NEWS **",Roku | yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="113" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-chno="3815" group-title="** NEWS **",TD Ameritrade
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="114" radio="false" tvg-id="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheWeatherChannel.png" tvg-chno="3816" group-title="** NEWS **",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channel-id="115" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3817" group-title="** NEWS **",Tubi | Black News Network
+https://lnc-black-news.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="116" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3818" group-title="** NEWS **",Tubi | Bloomberg TV
+https://csm-e-cetubiausw2live101-06ebe33587c16b95b.csm.tubi.video/csm/live/240948717.m3u8
+#EXTINF:-1 channel-id="117" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3819" group-title="** NEWS **",Tubi | CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 channel-id="118" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3820" group-title="** NEWS **",Tubi | Cheddar News
+https://csm-e-cetubiausw2live101-08651e4b1e735af14.csm.tubi.video/csm/live/241515520.m3u8
+#EXTINF:-1 channel-id="119" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3821" group-title="** NEWS **",Tubi | Estrella News | SP
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 channel-id="120" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3822" group-title="** NEWS **",Tubi | Euronews
+https://csm-e-cetubiausw2live101-0ab2d16d68bb18f13.csm.tubi.video/csm/live/248551385.m3u8
+#EXTINF:-1 channel-id="121" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3823" group-title="** NEWS **",Tubi | Fox News Now
+https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="122" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3824" group-title="** NEWS **",Tubi | Fox Soul (Sc.1)
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="123" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3825" group-title="** NEWS **",Tubi | Fox Soul (Sc.2)
+https://csm-e-cetubiausw2live101-0f045a640757c30da.csm.tubi.video/csm/live/249707400.m3u8
+#EXTINF:-1 channel-id="124" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3826" group-title="** NEWS **",Tubi | fubo Sports Network
+https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/246665421.m3u8
+#EXTINF:-1 channel-id="125" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3827" group-title="** NEWS **",Tubi | NBC News Now
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/244416207.m3u8
+#EXTINF:-1 channel-id="126" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3828" group-title="** NEWS **",Tubi | People TV
+https://lnc-people-tv.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="127" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3829" group-title="** NEWS **",Tubi | Weather Nation
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
+#EXTINF:-1 channel-id="128" radio="false" tvg-logo="https://od.lk/s/MF8yMzIyMDM0MzNf/USAToday_480x480.png" tvg-chno="3830" group-title="** NEWS **",USA Today | HD
+https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="129" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-chno="3831" group-title="** NEWS **",USA | NewsMax TV
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 channel-id="130" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-chno="3832" group-title="** NEWS **",USA | Newsy Top Stories
+https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8?ad=distrotv
+#EXTINF:-1 channel-id="131" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-chno="3833" group-title="** NEWS **",USA | The First
+https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
+#EXTINF:-1 channel-id="132" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3834" group-title="** NEWS **",WAGA Fox 5 Atlanta
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="133" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" tvg-chno="3835" group-title="** NEWS **",Weather Nation | Webstream
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="134" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3836" group-title="** NEWS **",WFLD FOX 32 Chicago
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="135" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3837" group-title="** NEWS **",WITI Fox 6 Milwaukee
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="136" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3838" group-title="** NEWS **",WJBK Fox 2 Detroit
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="137" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3839" group-title="** NEWS **",WOFL Fox 35 Orlando
+https://lnc-wofl-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="138" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3840" group-title="** NEWS **",WTTG Fox 5 Washington DC
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="139" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3841" group-title="** NEWS **",WTVT Fox 13 Tampa Bay
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="140" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3842" group-title="** NEWS **",WTXF Fox 29 Philadelphia
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="141" radio="false" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" tvg-chno="3843" group-title="** NEWS **",WYNY Fox 5 New York
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 channel-id="142" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3844" group-title="** NEWS **",Xumo | 123 NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 channel-id="143" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3845" group-title="** NEWS **",Xumo | 124 ABC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 channel-id="144" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3846" group-title="** NEWS **",Xumo | 125 CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 channel-id="145" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3847" group-title="** NEWS **",Xumo | 137 Law & Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 channel-id="146" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3848" group-title="** NEWS **",Xumo | 138 NewsMax
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
+#EXTINF:-1 channel-id="147" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3849" group-title="** NEWS **",Xumo | 142 TYT Network
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 channel-id="148" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3850" group-title="** NEWS **",Xumo | 145 Black News Channel
+https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
+#EXTINF:-1 channel-id="149" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-chno="3851" group-title="** NEWS **",Xumo | 146 Cheddar Live
+https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8

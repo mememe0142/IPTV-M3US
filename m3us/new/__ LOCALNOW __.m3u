@@ -1,0 +1,159 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3379" group-title="** LOCALNOW **",Bloomberg Quicktakes
+https://bloomberg-quicktakes.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8c68315cff3306241f6d5_bloomberg-quicktakes/master.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3380" group-title="** LOCALNOW **",Bloomberg Television
+https://bloomberg-tv.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fc6a19ce63e170eaa419f44_bloomberg-television/master.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3381" group-title="** LOCALNOW **",ESR eSports Network
+https://da5r7e6wkrj72.cloudfront.net/ES2RA-628g.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3382" group-title="** LOCALNOW **",Fat Guys in the Woods
+https://d2ipwgs5zf3uag.cloudfront.net/dist/localnow/119/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3383" group-title="** LOCALNOW **",LocalNow | Adrenaline Rush
+https://dzmlq78ja92q0.cloudfront.net/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3384" group-title="** LOCALNOW **",LocalNow | AFV Espanol
+https://dpzmvezq02f59.cloudfront.net/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3385" group-title="** LOCALNOW **",LocalNow | AFV Family
+https://d1uj53wi5wpkn3.cloudfront.net/dist/localnow/12/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3386" group-title="** LOCALNOW **",LocalNow | AWE Encore
+https://de5uqr42mlxhx.cloudfront.net/80A4DFF/awee_nva/AWE_Encore.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3387" group-title="** LOCALNOW **",LocalNow | AXS TV Now
+https://d6ywct4o2ksou.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3388" group-title="** LOCALNOW **",LocalNow | Bambu
+https://d3nfpsvswbvy4x.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3389" group-title="** LOCALNOW **",LocalNow | Black News Channel
+https://d1v6jnokc7rlp5.cloudfront.net/dist/localnow/130/bpk-tv/BNC-OTT/default/playlist.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3390" group-title="** LOCALNOW **",LocalNow | BloodyDisgusting
+https://dgdl4bdu96a4c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3391" group-title="** LOCALNOW **",LocalNow | BUZZR
+https://d1bkqzp4sgw0xb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3392" group-title="** LOCALNOW **",LocalNow | Cheddar News
+https://cheddar-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f21f4e7d44c410e4ab75b77_cheddar-live/index.m3u8
+#EXTINF:-1 channel-id="15" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3393" group-title="** LOCALNOW **",LocalNow | ChopperTown
+https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3394" group-title="** LOCALNOW **",LocalNow | Comedy Dynamics
+https://d3vchzulq92awb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3395" group-title="** LOCALNOW **",LocalNow | CONtv
+https://d2rir1vttzppfq.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="18" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3396" group-title="** LOCALNOW **",LocalNow | CONtv Anime
+https://d13bknrte8toei.cloudfront.net/master.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3397" group-title="** LOCALNOW **",LocalNow | Court TV
+https://d2ipq96igw2569.cloudfront.net/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3398" group-title="** LOCALNOW **",LocalNow | Decentric Media
+https://d1m3sdq15c54i9.cloudfront.net/dist/localnow/68/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="21" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3399" group-title="** LOCALNOW **",LocalNow | Docurama
+https://d3ubn2zo7nhho7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3400" group-title="** LOCALNOW **",LocalNow | Dove Channel
+https://d3qz9vg6xwobu0.cloudfront.net/master.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3401" group-title="** LOCALNOW **",LocalNow | Family Flix
+https://d2gdoa1e2zuyu8.cloudfront.net/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="24" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3402" group-title="** LOCALNOW **",LocalNow | FashionBox
+https://d15bkz9w1139eu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="25" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3403" group-title="** LOCALNOW **",LocalNow | Fear This!
+https://d367vqnwurfs19.cloudfront.net/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="26" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3404" group-title="** LOCALNOW **",LocalNow | Fear This! Classics
+https://d32rl4x64wa4fm.cloudfront.net/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3405" group-title="** LOCALNOW **",LocalNow | Fear This! Sci-Fi
+https://d18x2k0qtyue9o.cloudfront.net/dist/localnow/163/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="28" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3406" group-title="** LOCALNOW **",LocalNow | Fight Network
+https://d3mcqyyd24qsf4.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 channel-id="29" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3407" group-title="** LOCALNOW **",LocalNow | For The Fans
+https://d1puasfluc426f.cloudfront.net/FTF/FTF_SCTE.m3u8
+#EXTINF:-1 channel-id="30" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3408" group-title="** LOCALNOW **",LocalNow | Gametoon
+https://d15g4v8oruyb6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="31" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3409" group-title="** LOCALNOW **",LocalNow | grvty
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:-1 channel-id="32" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3410" group-title="** LOCALNOW **",LocalNow | Gusto TV
+https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="33" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3411" group-title="** LOCALNOW **",LocalNow | Highway Thru Hell
+https://d3hsiymuhj9bu7.cloudfront.net/dist/localnow/120/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="34" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3412" group-title="** LOCALNOW **",LocalNow | Horror Machine
+https://d3p0bo2apm2xwv.cloudfront.net/dist/localnow/82/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="35" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3413" group-title="** LOCALNOW **",LocalNow | IMPACT! Wrestling
+https://d2xnymms5cdk12.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 channel-id="36" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3414" group-title="** LOCALNOW **",LocalNow | Insight TV
+https://d134liqm7dx4qy.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="37" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3415" group-title="** LOCALNOW **",LocalNow | Inspiration
+https://d1gntaigxxansg.cloudfront.net/dist/localnow/134/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="38" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3416" group-title="** LOCALNOW **",LocalNow | Johnny Carson TV
+https://d1596annxycy8f.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="39" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3417" group-title="** LOCALNOW **",LocalNow | Law & Crime
+https://d2w1cxsyxc581a.cloudfront.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 channel-id="40" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3418" group-title="** LOCALNOW **",LocalNow | LN Comedy
+https://d1jnsvykr90ax5.cloudfront.net/dist/localnow/89/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="41" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3419" group-title="** LOCALNOW **",LocalNow | LN Discover
+https://d296ke4jjc97aa.cloudfront.net/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="42" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3420" group-title="** LOCALNOW **",LocalNow | LN Drama
+https://d1i77sfqa1nyg2.cloudfront.net/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="43" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3421" group-title="** LOCALNOW **",LocalNow | LN Insight
+https://d3w1fybm40zwpp.cloudfront.net/dist/localnow/154/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="44" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3422" group-title="** LOCALNOW **",LocalNow | LN Music
+https://d1k3i2vrwplobo.cloudfront.net/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="45" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3423" group-title="** LOCALNOW **",LocalNow | LN Sports
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="46" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3424" group-title="** LOCALNOW **",LocalNow | LocalNow Fireside
+https://d1siwqeqjvyy9s.cloudfront.net/dist/localnow/127/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="47" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3425" group-title="** LOCALNOW **",LocalNow | LocalNow Zen
+https://d19npys5rv61bg.cloudfront.net/dist/localnow/125/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="48" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3426" group-title="** LOCALNOW **",LocalNow | Loupe Art
+https://d380cwpsqhi99g.cloudfront.net/dist/localnow/144/hls/hd/playlist.m3u8
+#EXTINF:-1 channel-id="49" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3427" group-title="** LOCALNOW **",LocalNow | LSN
+https://d2uyp9nusuhez3.cloudfront.net/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 channel-id="50" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3428" group-title="** LOCALNOW **",LocalNow | News 12 New York
+https://d7yloq2xdbhua.cloudfront.net/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
+#EXTINF:-1 channel-id="51" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3429" group-title="** LOCALNOW **",LocalNow | NewsMax
+https://d2lgii35skwo41.cloudfront.net/hls/live/2020471/Live_1/index.m3u8
+#EXTINF:-1 channel-id="52" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3430" group-title="** LOCALNOW **",LocalNow | Newsy
+https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 channel-id="53" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3431" group-title="** LOCALNOW **",LocalNow | OAN Encore
+https://d1ay8i59ljfmxu.cloudfront.net/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:-1 channel-id="54" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3432" group-title="** LOCALNOW **",LocalNow | OML on Revry
+https://dhl0ux5vzvx7p.cloudfront.net/dist/localnow/73/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="55" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3433" group-title="** LOCALNOW **",LocalNow | Outside TV
+https://d1rkhdfg3mlnlw.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="56" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3434" group-title="** LOCALNOW **",LocalNow | Pattrn
+https://d35g674gc3ziag.cloudfront.net/dist/localnow/76/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="57" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3435" group-title="** LOCALNOW **",LocalNow | People TV
+https://d31pm2wne0plo2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="58" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3436" group-title="** LOCALNOW **",LocalNow | Popstar! TV
+https://dywal2cktf67j.cloudfront.net/dist/localnow/10/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="59" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3437" group-title="** LOCALNOW **",LocalNow | Quietude
+https://dtt5k2swb9v2d.cloudfront.net/dist/localnow/81/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="60" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3438" group-title="** LOCALNOW **",LocalNow | Real Hip-Hop
+https://d33efk7t9j0jz3.cloudfront.net/dist/localnow/62/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="61" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3439" group-title="** LOCALNOW **",LocalNow | Revry
+https://d23ilz0547p5or.cloudfront.net/dist/localnow/43/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="62" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3440" group-title="** LOCALNOW **",LocalNow | Revry News
+https://d3bkeeqemyhazl.cloudfront.net/dist/localnow/44/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="63" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3441" group-title="** LOCALNOW **",LocalNow | Romantique
+https://dkb8299gacojk.cloudfront.net/dist/localnow/152/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="64" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3442" group-title="** LOCALNOW **",LocalNow | Shop LC
+https://d19mozuhomy4fl.cloudfront.net/Content/HLS_HLS/Live/channel(ShopLC_LocalNow)/master.m3u8
+#EXTINF:-1 channel-id="65" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3443" group-title="** LOCALNOW **",LocalNow | Shout! Factory TV
+https://dlnrexnd8hc2s.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="66" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3444" group-title="** LOCALNOW **",LocalNow | Sightline
+https://d44opx9soa10y.cloudfront.net/dist/localnow/64/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="67" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3445" group-title="** LOCALNOW **",LocalNow | So... Real
+https://d30bsvnbhwaovp.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="68" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3446" group-title="** LOCALNOW **",LocalNow | SportsGrid
+https://d3oz7rr2hmv6x0.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="69" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3447" group-title="** LOCALNOW **",LocalNow | SurvivorNet
+https://d1mqvaqmgigfv6.cloudfront.net/dist/localnow/165/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="70" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3448" group-title="** LOCALNOW **",LocalNow | That's Funny
+https://d24e9lectr9lit.cloudfront.net/dist/localnow/135/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="71" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3449" group-title="** LOCALNOW **",LocalNow | The First
+https://d2llo0f2ueh96g.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="72" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3450" group-title="** LOCALNOW **",LocalNow | VENN
+https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="73" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3451" group-title="** LOCALNOW **",LocalNow | Weather Gone Viral
+https://d2v35laob5qrzt.cloudfront.net/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="74" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3452" group-title="** LOCALNOW **",LocalNow | Whistle TV
+https://whistletv-live.localnowlive.com/playlist.m3u8
+#EXTINF:-1 channel-id="75" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3453" group-title="** LOCALNOW **",LocalNow | Wired2Fish
+https://d1qbefisv0unpv.cloudfront.net/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="76" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3454" group-title="** LOCALNOW **",LocalNow | World Poker Tour
+https://d29zct0bc7qkjw.cloudfront.net/scheduler/scheduleMaster/175.m3u8
+#EXTINF:-1 channel-id="77" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3455" group-title="** LOCALNOW **",LocalNow | Yahoo! Finance
+https://d2qjatd24o7yr3.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="78" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3456" group-title="** LOCALNOW **",Mystery Science Theater 3000
+https://dmys9y5c733m5.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="79" radio="false" tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-chno="3457" group-title="** LOCALNOW **",WEWS 5 ABC Cleveland News
+https://d1cr8e3gciluqe.cloudfront.net/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8

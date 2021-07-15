@@ -1,0 +1,65 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="632" group-title="** AIRY.TV **",Airy Action Movies
+https://hls.airy.tv/hls/part/1080/7/Airy%20Action%20Movies.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="633" group-title="** AIRY.TV **",Answers That Count
+https://30a-tv.com/feeds/720p/49.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="634" group-title="** AIRY.TV **",Camera Smile TV
+https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="635" group-title="** AIRY.TV **",Cartoon Classics
+https://nrpus.bozztv.com/36bay2/gusa-cartoonclassics/index.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="636" group-title="** AIRY.TV **",Celebrity Scene TV
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="637" group-title="** AIRY.TV **",Classic Comedy
+https://nrpus.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="638" group-title="** AIRY.TV **",Classic Comedy TV
+https://hls.airy.tv/hls/main/9/Classic%20Comedy%20TV.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="639" group-title="** AIRY.TV **",Classic Detective TV
+https://spacechan1.s3.us-west-000.backblazeb2.com/Output/mp4/Det+Sherlock+2.mp4
+#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="640" group-title="** AIRY.TV **",FightTV Plus
+https://playout4multirtmp.tulix.tv/live5/Stream1/playlist.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="641" group-title="** AIRY.TV **",Fishing Offshore
+https://30a-tv.com/feeds/720p/40.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="642" group-title="** AIRY.TV **",Fite 24/7
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="643" group-title="** AIRY.TV **",GFNTV
+https://d3jxchypmk8fja.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-AiryTV/a23acadd-c3b4-4010-8292-229ba0000918/0.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="644" group-title="** AIRY.TV **",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-AiryTV/121.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="645" group-title="** AIRY.TV **",Hipster TV
+https://spacechan1.s3.us-west-000.backblazeb2.com/Output/mp4/PAINT-2-2-ROME_ProRes422HQ.mp4
+#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="646" group-title="** AIRY.TV **",Kaloopy
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Airy/126.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="647" group-title="** AIRY.TV **",Kartoon Funtime
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="648" group-title="** AIRY.TV **",Legends Of Wrestling
+https://spacechan1.s3.us-west-000.backblazeb2.com/Output/mp4/Wrestling+70s+Big+Time+Wrestling.mp4
+#EXTINF:-1 channel-id="18" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="649" group-title="** AIRY.TV **",Lionel Nation
+https://30a-tv.com/feeds/720p/50.m3u8
+#EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="650" group-title="** AIRY.TV **",Loomered TV
+https://30a-tv.com/feeds/airytv/loomeredtv.m3u8
+#EXTINF:-1 channel-id="20" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="651" group-title="** AIRY.TV **",Middle America TV
+https://d3uttqpw4wyvc.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MiddleAmerica-AiryTV/196.m3u8
+#EXTINF:-1 channel-id="21" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="652" group-title="** AIRY.TV **",My Jam Music Network
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/KartoonCircus/interlink_3200.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="653" group-title="** AIRY.TV **",Nashville Country TV
+https://103122.global.ssl.fastly.net/edge/live_4e8e1640bfb211ea909ea10718cdb17d/index.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="654" group-title="** AIRY.TV **",Nothing Scripted TV
+https://30a-tv.com/feeds/720p/7.m3u8
+#EXTINF:-1 channel-id="24" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="655" group-title="** AIRY.TV **",Operation Repo TV
+https://hls.airy.tv/hls/part/360/10/Operation%20Repo%20TV.m3u8
+#EXTINF:-1 channel-id="25" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="656" group-title="** AIRY.TV **",Race Central TV
+https://playout4multirtmp.tulix.tv/live22/Stream1/playlist.m3u8
+#EXTINF:-1 channel-id="26" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="657" group-title="** AIRY.TV **",Rope 2 Rope
+https://hls.airy.tv/hls/main/8/Rope%202%20Rope.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="658" group-title="** AIRY.TV **",Sidewalk TV
+https://30a-tv.com/feeds/720p/30.m3u8
+#EXTINF:-1 channel-id="28" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="659" group-title="** AIRY.TV **",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-AiryTV/71c196a7-40df-4159-8298-6886067c4b08/0.m3u8
+#EXTINF:-1 channel-id="29" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="660" group-title="** AIRY.TV **",SportsTV Plus
+https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
+#EXTINF:-1 channel-id="30" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="661" group-title="** AIRY.TV **",Spydar TV
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+#EXTINF:-1 channel-id="31" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="662" group-title="** AIRY.TV **",The Beach Show
+https://30a-tv.com/feeds/720p/42.m3u8
+#EXTINF:-1 channel-id="32" radio="false" tvg-logo="https://webapp.airy.tv/static/media/airy_icon.87377b25.png" tvg-chno="663" group-title="** AIRY.TV **",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-AiryTV/120.m3u8

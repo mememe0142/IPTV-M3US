@@ -1,0 +1,87 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-id="30ADarcizzleOffshore.us" tvg-name="30A Darcizzle Offshore" tvg-logo="https://i.imgur.com/l2O0fY1.png" tvg-chno="4002" tvg-country="US" group-title="** SPECIAL INTEREST **",30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" tvg-chno="4003" group-title="** SPECIAL INTEREST **",5m Kitchen Hacks
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" tvg-chno="4004" group-title="** SPECIAL INTEREST **",5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" tvg-chno="4005" group-title="** SPECIAL INTEREST **",5m Quick Crafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LivelyPlace_476x476.png?raw=true" tvg-chno="4006" group-title="** SPECIAL INTEREST **",A+E | Lively Place
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AD_246x246.png?raw=true" tvg-chno="4007" group-title="** SPECIAL INTEREST **",AD | Architectural Digest
+https://dai2.xumo.com/xumocdn/p=roku&rdid=38477a90-292c-585f-9529-4b8a68a221ab&coppa=false&is_roku_lat=1&platform=web&content=6da9bbae6fca51b290bd1dadbbcc33e4&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=conde_nast&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&studio_id=conde_nast&channelstore=us&bmodel=Dbm1&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAFVFamilyChannel_203x203.png?raw=true" tvg-chno="4008" group-title="** SPECIAL INTEREST **",AFV Family (Viral Videos)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" tvg-chno="4009" tvg-country="US" group-title="** SPECIAL INTEREST **",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-chno="4010" tvg-country="US" group-title="** SPECIAL INTEREST **",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" tvg-chno="4011" tvg-country="US" group-title="** SPECIAL INTEREST **",AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" tvg-chno="4012" tvg-country="US" group-title="** SPECIAL INTEREST **",AKC TV (1080p)
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-id="AKCTVMeettheBreeds.us" tvg-name="AKC TV - Meet the Breeds" tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-chno="4013" tvg-country="US" group-title="** SPECIAL INTEREST **",AKC TV - Meet the Breeds
+https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-id="AKCTVPuppies.us" tvg-name="AKC TV - Puppies" tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-chno="4014" tvg-country="US" group-title="** SPECIAL INTEREST **",AKC TV - Puppies
+https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="4015" group-title="** SPECIAL INTEREST **",Am.'s Test Kitchen
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="15" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="4016" group-title="** SPECIAL INTEREST **",Architectural Digest
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="16" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BigLifeTV_377x377.png?raw=true" tvg-chno="4017" group-title="** SPECIAL INTEREST **",BigLife TV HD
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="17" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="4018" group-title="** SPECIAL INTEREST **",Bon Appetit
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="18" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CookingPanda_900x900.png?raw=true" tvg-chno="4019" group-title="** SPECIAL INTEREST **",Cooking Panda | Source 1
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:-1 channel-id="19" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CookingPanda_900x900.png?raw=true" tvg-chno="4020" group-title="** SPECIAL INTEREST **",Cooking Panda | Source 2
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=8f68c53f-f16a-45dd-b3eb-939325b0385a&device_model=Web&device_width=632&device_height=356&us_privacy=0&gdpr=0&device_language=en&is_lat=0
+#EXTINF:-1 channel-id="20" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="4021" group-title="** SPECIAL INTEREST **",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="21" radio="false" tvg-id="HiYah.us" tvg-name="Hi-Yah!" tvg-logo="https://i.imgur.com/uMPu5HU.png" tvg-chno="4022" tvg-country="US" group-title="** SPECIAL INTEREST **",Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="22" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="4023" group-title="** SPECIAL INTEREST **",Hungry
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="23" radio="false" tvg-id="HuntChannel.us" tvg-name="Hunt Channel" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2017/10/HC-Logo-transparent.png" tvg-chno="4024" tvg-country="US" group-title="** SPECIAL INTEREST **",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="24" radio="false" tvg-id="HuntChannel.us" tvg-name="Hunt Channel" tvg-logo="https://i.imgur.com/DkvWWbE.png" tvg-chno="4025" tvg-country="US" group-title="** SPECIAL INTEREST **",Hunt Channel (1080p)
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 channel-id="25" radio="false" tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-chno="4026" tvg-country="US" group-title="** SPECIAL INTEREST **",Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="26" radio="false" tvg-id="Mobcrush.us" tvg-name="Mobcrush" tvg-logo="https://i.imgur.com/KwN9Ujp.png" tvg-chno="4027" tvg-country="US" group-title="** SPECIAL INTEREST **",Mobcrush (720p)
+https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#EXTINF:-1 channel-id="27" radio="false" tvg-id="Mobcrush.us" tvg-name="Mobcrush" tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" tvg-chno="4028" tvg-country="US" group-title="** SPECIAL INTEREST **",Mobcrush (720p)
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1 channel-id="28" radio="false" tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" tvg-logo="https://i.imgur.com/BYNg7Wk.png" tvg-chno="4029" tvg-country="US" group-title="** SPECIAL INTEREST **",Outdoor America (720p)
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 channel-id="29" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OutdoorCookingChannel.png" tvg-chno="4030" group-title="** SPECIAL INTEREST **",Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 channel-id="30" radio="false" tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross Channel" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" tvg-chno="4031" tvg-country="US" group-title="** SPECIAL INTEREST **",Pluto TV The Bob Ross Channel (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 channel-id="31" radio="false" tvg-id="PopularScience.us" tvg-name="Popular Science" tvg-chno="4032" tvg-country="US" group-title="** SPECIAL INTEREST **",Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
+#EXTINF:-1 channel-id="32" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" tvg-chno="4033" group-title="** SPECIAL INTEREST **",Relaxing Guitar Music
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:-1 channel-id="33" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="4034" group-title="** SPECIAL INTEREST **",So Yummy!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="34" radio="false" tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/7XsqSSZ.png" tvg-chno="4035" tvg-country="US" group-title="** SPECIAL INTEREST **",Stingray Naturescape (1080p)
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 channel-id="35" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="4036" group-title="** SPECIAL INTEREST **",Tastemade
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 channel-id="36" radio="false" tvg-id="TheBoatShow.us" tvg-name="The Boat Show" tvg-logo="https://i.imgur.com/iYDR5VS.jpg" tvg-chno="4037" tvg-country="US" group-title="** SPECIAL INTEREST **",The Boat Show
+https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8
+#EXTINF:-1 channel-id="37" radio="false" tvg-id="TheBobRossChannelSTIRR.us" tvg-name="The Bob Ross Channel (STIRR)" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/89b69784-d184-4cb4-84b8-4b6a059bb1d7-small3x1_STIRR_Logo_0320_BobRoss_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-chno="4038" tvg-country="US" group-title="** SPECIAL INTEREST **",The Bob Ross Channel (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+#EXTINF:-1 channel-id="38" radio="false" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" tvg-chno="4039" group-title="** SPECIAL INTEREST **",The Design Network
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="39" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" tvg-chno="4040" group-title="** SPECIAL INTEREST **",The Design Network HD
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="40" radio="false" tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/DPls9e7.png" tvg-chno="4041" tvg-country="US" group-title="** SPECIAL INTEREST **",The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 channel-id="41" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThisOldHouse_245x245.png?raw=true" tvg-chno="4042" group-title="** SPECIAL INTEREST **",This Old House HD
+http://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="42" radio="false" tvg-id="TVSHorrorNetwork.us" tvg-name="TVS Horror Network" tvg-logo="https://i.imgur.com/uNQeGHw.jpg" tvg-chno="4043" tvg-country="US" group-title="** SPECIAL INTEREST **",TVS Horror Network (480p)
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 channel-id="43" radio="false" tvg-id="Waypoint.us" tvg-name="Waypoint" tvg-logo="https://i.imgur.com/nbVom3F.jpg" tvg-chno="4044" tvg-country="US" group-title="** SPECIAL INTEREST **",Waypoint (720p)
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8

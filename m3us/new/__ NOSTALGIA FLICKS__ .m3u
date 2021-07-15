@@ -1,0 +1,29 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://od.lk/s/MF8yMzU1NDU0NjNf/247RetroTV.png" tvg-chno="3852" group-title="** NOSTALGIA FLICKS** ",247 Retro TV
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://od.lk/s/MF8yMzU1NDU0OTFf/NostTV_AmClassicNetwork.png" tvg-chno="3853" group-title="** NOSTALGIA FLICKS** ",American Classic Network
+https://broadcast.mytvtogo.net/AmericanClassicTV/AmericanClassicTV/playlist.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="AmericanHorrors" tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" tvg-chno="3854" group-title="** NOSTALGIA FLICKS** ",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://od.lk/s/MF8yMzU1NDU0OTNf/NostTV_BlushRomance_250x250.png" tvg-chno="3855" group-title="** NOSTALGIA FLICKS** ",Blush Romance TV Network
+https://broadcast.mytvtogo.net/blushtv/blushtv/playlist.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://od.lk/s/MF8yMzU2OTUzNDlf/ClassicRerunsTV_476x476.png" tvg-chno="3856" group-title="** NOSTALGIA FLICKS** ",Classic Reruns TV | HD
+https://hlssct35test-i.akamaihd.net/hls/live/1021808/scte35test01/playlist.m3u8?l1br3CL0507
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://od.lk/s/MF8yMzU1NDU0OTVf/NostTV_ClassicTV4U.png" tvg-chno="3857" group-title="** NOSTALGIA FLICKS** ",Classic TV 4U
+https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://od.lk/s/MF8yMzU1NDU1OTRf/HollywoodClassics_290x290.png" tvg-chno="3858" group-title="** NOSTALGIA FLICKS** ",Hollywood Classics | HD
+https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-id="HorrifiedTV" tvg-logo="https://od.lk/s/MF8yMzU1NDU3NDlf/HorrifiedTV_898x898.png" tvg-chno="3859" group-title="** NOSTALGIA FLICKS** ",Horrified TV
+https://broadcast.mytvtogo.net/horrifiedtv/horrifiedtv/playlist.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-id="KartoonFunTime" tvg-logo="https://od.lk/s/MF8yMzU1NDU1MTVf/KartoonFunTime_209x209.png" tvg-chno="3860" group-title="** NOSTALGIA FLICKS** ",Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:-1 channel-id="10" radio="false" tvg-logo="https://od.lk/s/MF8yMzU1NDU0OTdf/NostTV_Movies_400x400.png" tvg-chno="3861" group-title="** NOSTALGIA FLICKS** ",Let's Go To The Movies
+https://broadcast.mytvtogo.net/itsatthemovies/itsatthemovies/playlist.m3u8
+#EXTINF:-1 channel-id="11" radio="false" tvg-id="245f03" tvg-name="TVS Nostalgia Movie Network" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" tvg-chno="3862" group-title="** NOSTALGIA FLICKS** ",Nostalgia Movie Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 channel-id="12" radio="false" tvg-id="SciFi4U" tvg-logo="https://od.lk/s/MF8yMzU1NDU3MThf/NostTV_SciFi4U_576x576.png" tvg-chno="3863" group-title="** NOSTALGIA FLICKS** ",Sci-Fi 4U
+https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8
+#EXTINF:-1 channel-id="13" radio="false" tvg-logo="https://od.lk/s/MF8yMzU1NDU1MTBf/NostTV_SpydarTV.png" tvg-chno="3864" group-title="** NOSTALGIA FLICKS** ",Spydar TV
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+#EXTINF:-1 channel-id="14" radio="false" tvg-id="Westerns4U" tvg-logo="https://od.lk/s/MF8yMzU1NDU0OTlf/NostTV_Westerns4U.png" tvg-chno="3865" group-title="** NOSTALGIA FLICKS** ",Westerns 4U
+https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8

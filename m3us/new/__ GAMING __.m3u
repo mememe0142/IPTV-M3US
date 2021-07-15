@@ -1,0 +1,19 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 channel-id="1" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" tvg-chno="3137" group-title="** GAMING **",BeeTV | Gameplay
+https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+#EXTINF:-1 channel-id="2" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESR24x7_180x180.png?raw=true" tvg-chno="3138" group-title="** GAMING **",ESR 24x7 | eSports Revolution
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="3" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESTV_240x240.png?raw=true" tvg-chno="3139" group-title="** GAMING **",ESTV | eSports Television
+https://estv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="4" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/IGN_864x864.png?raw=true" tvg-chno="3140" group-title="** GAMING **",IGN | HD
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="5" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Mobcrush_400x400.png" tvg-chno="3141" group-title="** GAMING **",Mobcrush | HD
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1 channel-id="6" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RoosterTeeth.png?raw=true" tvg-chno="3142" group-title="** GAMING **",Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 channel-id="7" radio="false" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TWiT.png" tvg-chno="3143" group-title="** GAMING **",TWiT | This Week in Tech
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 channel-id="8" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VENN_552x552.png?raw=true" tvg-chno="3144" group-title="** GAMING **",VENN | Alternate
+https://venntv-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="9" radio="false" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VENN_552x552.png?raw=true" tvg-chno="3145" group-title="** GAMING **",VENN | Webstream
+https://venntv-ono.amagi.tv/playlist.m3u8
